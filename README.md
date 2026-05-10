@@ -23,3 +23,27 @@ python3 -m http.server 8000
 ```
 
 Then visit `http://localhost:8000`.
+
+## GitHub Pages Custom Domain
+
+This repository is configured for `swissaifutures.org` through the root `CNAME` file.
+
+In GitHub, enable Pages from the repository settings:
+
+- Source: deploy from a branch
+- Branch: `main`
+- Folder: `/ (root)`
+- Custom domain: `swissaifutures.org`
+- HTTPS: enforce HTTPS after DNS checks pass
+
+In Namecheap Advanced DNS, point the apex domain to GitHub Pages:
+
+| Type | Host | Value |
+| --- | --- | --- |
+| A | `@` | `185.199.108.153` |
+| A | `@` | `185.199.109.153` |
+| A | `@` | `185.199.110.153` |
+| A | `@` | `185.199.111.153` |
+| CNAME | `www` | `joshuay1.github.io` |
+
+Use `Automatic` or the lowest available TTL. DNS propagation can take a few minutes and may take up to 24 hours.
