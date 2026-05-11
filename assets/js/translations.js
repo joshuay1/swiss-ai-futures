@@ -109,20 +109,14 @@ window.SWISS_AI_I18N = {
       "Evidence, policy responses, and experiments": "Evidenz, politische Reaktionen und Experimente",
       "Researchers review published work on LLMs, analyse public AI and LLM documents, study institutional and policy responses, and run experiments on how LLM training affects skills-test results.":
         "Forschende prüfen veröffentlichte Arbeiten zu LLMs, analysieren öffentliche Dokumente zu KI und LLMs, untersuchen institutionelle und politische Reaktionen und führen Experimente dazu durch, wie LLM-Schulungen Ergebnisse in Kompetenztests beeinflussen.",
-      "Co-led by Gerold Schneider, Aurelia Tamò-Larrieux, Martial Pasquier, and Clement Guitton.":
-        "Gemeinsam geleitet von Gerold Schneider, Aurelia Tamò-Larrieux, Martial Pasquier und Clement Guitton.",
       "Phase 02": "Phase 02",
       "Focus groups and future scenarios": "Fokusgruppen und Zukunftsszenarien",
       "The project explores future scenarios through focus groups and supporting experiments on possible deskilling and upskilling effects, with facilitation and analysis support from Qualinsights.":
         "Das Projekt untersucht Zukunftsszenarien in Fokusgruppen und ergänzenden Experimenten zu möglichen De-Skilling- und Up-Skilling-Effekten, mit Moderations- und Analyseunterstützung durch Qualinsights.",
-      "Led by Maud Reveilhac and Clement Guitton, with contributions from Simon Mayer and Gerold Schneider.":
-        "Geleitet von Maud Reveilhac und Clement Guitton, mit Beiträgen von Simon Mayer und Gerold Schneider.",
       "Phase 03": "Phase 03",
       "Citizen input and AI-supported deliberation": "Öffentliche Beteiligung und KI-unterstützte Deliberation",
       "This is the phase you are being invited to join. App rounds and possible workshops connect earlier findings with lived experiences, policy priorities, and ethical questions about LLMs, helping show what people in Switzerland want protected, improved, or debated before AI becomes more deeply embedded in everyday work.":
         "Dies ist die Phase, zu der Sie eingeladen sind. App-Runden und mögliche Workshops verbinden frühere Erkenntnisse mit Alltagserfahrungen, politischen Prioritäten und ethischen Fragen zu LLMs. So wird sichtbar, was Menschen in der Schweiz geschützt, verbessert oder diskutiert sehen möchten, bevor KI noch stärker im Arbeitsalltag verankert wird.",
-      "Co-led by Joshua C. Yang, Maud Reveilhac, and Aurelia Tamò-Larrieux.":
-        "Gemeinsam geleitet von Joshua C. Yang, Maud Reveilhac und Aurelia Tamò-Larrieux.",
       "You are here": "Sie sind hier",
       "Why your voice matters": "Warum Ihre Stimme zählt",
       "Many voices matter": "Viele Stimmen zählen",
@@ -393,18 +387,12 @@ window.SWISS_AI_I18N.fr = {
     "Evidence, policy responses, and experiments": "Données, réponses politiques et expériences",
     "Researchers review published work on LLMs, analyse public AI and LLM documents, study institutional and policy responses, and run experiments on how LLM training affects skills-test results.":
       "Les chercheuses et chercheurs examinent les travaux publiés sur les LLM, analysent des documents publics sur l'IA et les LLM, étudient les réponses institutionnelles et politiques, et mènent des expériences sur l'effet d'une formation aux LLM sur les résultats de tests de compétences.",
-    "Co-led by Gerold Schneider, Aurelia Tamò-Larrieux, Martial Pasquier, and Clement Guitton.":
-      "Codirigée par Gerold Schneider, Aurelia Tamò-Larrieux, Martial Pasquier et Clement Guitton.",
     "Focus groups and future scenarios": "Groupes de discussion et scénarios futurs",
     "The project explores future scenarios through focus groups and supporting experiments on possible deskilling and upskilling effects, with facilitation and analysis support from Qualinsights.":
       "Le projet explore des scénarios futurs au moyen de groupes de discussion et d'expériences complémentaires sur de possibles effets de déqualification et de montée en compétences, avec un soutien de facilitation et d'analyse de Qualinsights.",
-    "Led by Maud Reveilhac and Clement Guitton, with contributions from Simon Mayer and Gerold Schneider.":
-      "Dirigée par Maud Reveilhac et Clement Guitton, avec des contributions de Simon Mayer et Gerold Schneider.",
     "Citizen input and AI-supported deliberation": "Contribution citoyenne et délibération assistée par l'IA",
     "This is the phase you are being invited to join. App rounds and possible workshops connect earlier findings with lived experiences, policy priorities, and ethical questions about LLMs, helping show what people in Switzerland want protected, improved, or debated before AI becomes more deeply embedded in everyday work.":
       "C'est la phase à laquelle vous êtes invité. Les tours dans l'app et les ateliers possibles relient les résultats précédents aux expériences vécues, aux priorités politiques et aux questions éthiques liées aux LLM. Ils aident à montrer ce que les personnes en Suisse souhaitent protéger, améliorer ou débattre avant que l'IA ne s'ancre davantage dans le travail quotidien.",
-    "Co-led by Joshua C. Yang, Maud Reveilhac, and Aurelia Tamò-Larrieux.":
-      "Codirigée par Joshua C. Yang, Maud Reveilhac et Aurelia Tamò-Larrieux.",
     "You are here": "Vous êtes ici",
     "Why your voice matters": "Pourquoi votre voix compte",
     "Many voices matter": "La pluralité des voix compte",
@@ -664,18 +652,12 @@ window.SWISS_AI_I18N.it = {
     "Evidence, policy responses, and experiments": "Evidenze, risposte politiche ed esperimenti",
     "Researchers review published work on LLMs, analyse public AI and LLM documents, study institutional and policy responses, and run experiments on how LLM training affects skills-test results.":
       "Le ricercatrici e i ricercatori esaminano lavori pubblicati sugli LLM, analizzano documenti pubblici su IA e LLM, studiano le risposte istituzionali e politiche e conducono esperimenti su come una formazione sugli LLM influisce sui risultati dei test di competenza.",
-    "Co-led by Gerold Schneider, Aurelia Tamò-Larrieux, Martial Pasquier, and Clement Guitton.":
-      "Codiretta da Gerold Schneider, Aurelia Tamò-Larrieux, Martial Pasquier e Clement Guitton.",
     "Focus groups and future scenarios": "Focus group e scenari futuri",
     "The project explores future scenarios through focus groups and supporting experiments on possible deskilling and upskilling effects, with facilitation and analysis support from Qualinsights.":
       "Il progetto esplora scenari futuri attraverso focus group ed esperimenti di supporto su possibili effetti di perdita e sviluppo delle competenze, con il supporto di Qualinsights per facilitazione e analisi.",
-    "Led by Maud Reveilhac and Clement Guitton, with contributions from Simon Mayer and Gerold Schneider.":
-      "Diretta da Maud Reveilhac e Clement Guitton, con contributi di Simon Mayer e Gerold Schneider.",
     "Citizen input and AI-supported deliberation": "Contributo pubblico e deliberazione assistita dall'IA",
     "This is the phase you are being invited to join. App rounds and possible workshops connect earlier findings with lived experiences, policy priorities, and ethical questions about LLMs, helping show what people in Switzerland want protected, improved, or debated before AI becomes more deeply embedded in everyday work.":
       "Questa è la fase a cui sei invitato a partecipare. I turni nell'app e i possibili workshop collegano i risultati precedenti con esperienze vissute, priorità politiche e questioni etiche sugli LLM, aiutando a mostrare ciò che le persone in Svizzera vogliono proteggere, migliorare o discutere prima che l'IA diventi ancora più integrata nel lavoro quotidiano.",
-    "Co-led by Joshua C. Yang, Maud Reveilhac, and Aurelia Tamò-Larrieux.":
-      "Codiretta da Joshua C. Yang, Maud Reveilhac e Aurelia Tamò-Larrieux.",
     "You are here": "Sei qui",
     "Why your voice matters": "Perché la tua voce conta",
     "Many voices matter": "La pluralità delle voci conta",
