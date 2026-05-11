@@ -11,6 +11,7 @@ Static recruitment page for the Atgora-based citizen input study.
 - `assets/images/logos/` - project, funder, favicon, and institutional logo assets
 - `assets/images/qr/` - App Store and Google Play QR codes
 - `assets/images/app-screenshots/` - Atgora interface screenshots used in the app preview
+- `assets/images/instructions/` - step-by-step screenshots for finding the Swiss AI Futures course in Atgora
 - `assets/images/photos/` - team photography
 - `docs/participant_landing_page_brief.md` - source brief and content notes
 

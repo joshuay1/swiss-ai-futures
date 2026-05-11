@@ -39,70 +39,9 @@ window.SWISS_AI_I18N = {
         { label: "Transparency", shortLabel: "Trust" }
       ]
     },
-    topics: {
-      jobs: {
-        label: "Jobs",
-        concern:
-          "Participants may worry about automation pressure, weaker bargaining power, or AI systems changing work faster than protection can adapt.",
-        proposal:
-          "Participants may suggest transition support, clearer employer responsibilities, and stronger rules for when AI changes job tasks.",
-        agreement:
-          "A shared point may emerge around keeping people informed when AI affects hiring, evaluation, or everyday work."
-      },
-      skills: {
-        label: "Skills",
-        concern:
-          "Participants may worry that AI use could weaken practical skills, especially when tools replace learning instead of supporting it.",
-        proposal:
-          "Participants may suggest concrete reskilling pathways, clearer learning support, and shared responsibility between employers, education providers, and public institutions.",
-        agreement:
-          "A shared point may emerge around making AI literacy accessible beyond specialists and high-resource workplaces."
-      },
-      fairness: {
-        label: "Fairness",
-        concern:
-          "Participants may worry that AI benefits could concentrate among already advantaged groups while risks fall on more vulnerable workers.",
-        proposal:
-          "Participants may suggest public-interest standards, worker consultation, and stronger checks before AI systems are deployed.",
-        agreement:
-          "A shared point may emerge around avoiding AI systems that quietly intensify inequality or discrimination."
-      },
-      education: {
-        label: "Education",
-        concern:
-          "Participants may worry that schools and training providers are moving unevenly, leaving some learners without useful guidance.",
-        proposal: "Participants may suggest practical AI courses, updated curricula, and support for teachers and trainers.",
-        agreement:
-          "A shared point may emerge around treating AI competence as part of future civic and professional education."
-      },
-      trust: {
-        label: "Trust",
-        concern:
-          "Participants may worry about opaque decisions, unclear accountability, or not knowing when AI has shaped an outcome.",
-        proposal:
-          "Participants may suggest transparency duties, human review, and clearer ways to contest AI-supported decisions.",
-        agreement:
-          "A shared point may emerge around the need for understandable, accountable AI use in public and workplace settings."
-      }
-    },
-    lenses: {
-      concern: { label: "concerns", title: "Concern", round: "Round 02" },
-      proposal: { label: "proposals", title: "Proposal", round: "Round 03" },
-      agreement: { label: "agreement", title: "Agreement", round: "Round 04" }
-    },
-    signals: {
-      high: "High signal",
-      visible: "Visible signal",
-      emerging: "Emerging signal"
-    },
     ui: {
-      selectedPrefix: "Selected",
-      visibility: "Visibility in the group discussion",
-      likelyReturn: "Likely to return for review",
       chooseStore:
-        "Choose the App Store or Google Play button below, or scan the matching QR code for your phone.",
-      heatAria: "Show {topic} {lens}",
-      insightTitle: "{topic} {lens}"
+        "Choose the App Store or Google Play button below, or scan the matching QR code for your phone."
     }
   },
   de: {
@@ -112,6 +51,7 @@ window.SWISS_AI_I18N = {
       "Nehmen Sie am Experiment zur KI-unterstützten Deliberation teil, Teil des Projekts Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.",
     text: {
       "Skip to main content": "Zum Hauptinhalt springen",
+      "Start": "Start",
       "Why it matters": "Warum es zählt",
       "How it works": "Ablauf",
       "Privacy": "Datenschutz",
@@ -121,10 +61,10 @@ window.SWISS_AI_I18N = {
       "the future of": "die Zukunft der",
       "AI in": "KI in",
       "Switzerland.": "der Schweiz mit.",
-      "AI is already changing work, education, and public life. Researchers from a Swiss research consortium invite people living in Switzerland to add their voice to a study on how AI should shape the future of work and labour markets.":
-        "KI verändert bereits Arbeit, Bildung und das öffentliche Leben. Forschende aus einem Schweizer Forschungskonsortium laden Personen in der Schweiz ein, ihre Stimme in eine Studie einzubringen, wie KI die Zukunft von Arbeit und Arbeitsmärkten prägen soll.",
-      "We especially welcome pluralistic, diverse citizen voices: different backgrounds, regions, professions, education paths, and everyday experiences with technology. No AI expertise is needed.":
-        "Wir begrüssen besonders pluralistische und vielfältige Stimmen aus der Bevölkerung: unterschiedliche Hintergründe, Regionen, Berufe, Bildungswege und Alltagserfahrungen mit Technologie. KI-Fachwissen ist nicht nötig.",
+      "AI is already changing Switzerland: how people learn, work, are hired, train for new skills, and use public services. Researchers from a Swiss research consortium invite people living in Switzerland to add their voice to a study on how AI should shape the future of work and labour markets.":
+        "KI verändert die Schweiz bereits: wie Menschen lernen, arbeiten, eingestellt werden, neue Kompetenzen erwerben und öffentliche Dienstleistungen nutzen. Forschende aus einem Schweizer Forschungskonsortium laden Personen in der Schweiz ein, ihre Stimme in eine Studie einzubringen, wie KI die Zukunft von Arbeit und Arbeitsmärkten prägen soll.",
+      "We especially welcome pluralistic, diverse citizen voices: different backgrounds, regions, professions, education paths, and everyday experiences with technology. Good policy needs this range of public experience, not only expert, company, or institutional perspectives. No AI expertise is needed.":
+        "Wir begrüssen besonders pluralistische und vielfältige Stimmen aus der Bevölkerung: unterschiedliche Hintergründe, Regionen, Berufe, Bildungswege und Alltagserfahrungen mit Technologie. Gute Politik braucht diese Breite öffentlicher Erfahrungen, nicht nur Perspektiven von Fachleuten, Unternehmen oder Institutionen. KI-Fachwissen ist nicht nötig.",
       "Download Atgora": "Atgora herunterladen",
       "Start in the app": "Start in der App",
       "Download Atgora, then follow the study onboarding instructions in the app.":
@@ -133,6 +73,29 @@ window.SWISS_AI_I18N = {
       "May 19-June 5": "19. Mai-5. Juni",
       "Possible workshops": "Mögliche Workshops",
       "June 15-19": "15.-19. Juni",
+      "Start in Atgora": "Start in Atgora",
+      "Find the Swiss AI Futures course": "Den Swiss AI Futures-Kurs finden",
+      "After downloading Atgora, open the app, go to Courses, choose Swiss AI Futures, and start the Stage 1 Questionnaire. These screens show the path from the app listing to the first study questions.":
+        "Öffnen Sie nach dem Herunterladen von Atgora die App, gehen Sie zu Courses, wählen Sie Swiss AI Futures aus und starten Sie den Stage1 Questionnaire. Diese Screenshots zeigen den Weg vom App-Eintrag zu den ersten Studienfragen.",
+      "Download or open Atgora": "Atgora herunterladen oder öffnen",
+      "Use the App Store or Google Play link on this page, then install or open the Atgora app.":
+        "Nutzen Sie den App-Store- oder Google-Play-Link auf dieser Seite und installieren oder öffnen Sie dann die Atgora-App.",
+      "App Store page for Atgora with the Open button visible": "App-Store-Seite für Atgora mit sichtbarem Öffnen-Button",
+      "Go to Courses": "Zu Courses gehen",
+      "On the home screen, open the Courses tab and select the Swiss AI Futures course card.":
+        "Öffnen Sie auf dem Startbildschirm den Tab Courses und wählen Sie die Kurskarte Swiss AI Futures aus.",
+      "Atgora Courses tab showing the Swiss AI Futures course card":
+        "Atgora-Tab Courses mit der Kurskarte Swiss AI Futures",
+      "Start Stage 1": "Stage 1 starten",
+      "Inside Swiss AI Futures, tap Stage1 Questionnaire to begin the first study module.":
+        "Tippen Sie in Swiss AI Futures auf Stage1 Questionnaire, um das erste Studienmodul zu beginnen.",
+      "Swiss AI Futures course page with the Stage1 Questionnaire card":
+        "Kursseite Swiss AI Futures mit der Karte Stage1 Questionnaire",
+      "Answer each prompt": "Jede Frage beantworten",
+      "Read the question, choose the answer that best fits your view, and use the arrow to continue.":
+        "Lesen Sie die Frage, wählen Sie die Antwort, die Ihrer Sicht am besten entspricht, und nutzen Sie den Pfeil, um fortzufahren.",
+      "Atgora questionnaire screen with multiple answer options":
+        "Atgora-Fragebogenbildschirm mit mehreren Antwortoptionen",
       "Main funder": "Hauptförderer",
       "Technology assessment": "Technologiefolgenabschätzung",
       "TA-SWISS is the Swiss Foundation for Technology Assessment. It supports interdisciplinary studies and participatory projects that examine the social, legal, ethical, and political consequences of emerging technologies. Its recommendations are intended to support public debate and decision-making in Switzerland, including for Parliament and the Federal Council.":
@@ -140,8 +103,8 @@ window.SWISS_AI_I18N = {
       "Learn more about TA-SWISS": "Mehr über TA-SWISS erfahren",
       "Where this study fits": "Einordnung der Studie",
       "Phase 3: citizen input": "Phase 3: öffentliche Beteiligung",
-      "The project first maps what is already known about LLMs, then develops future-facing scenarios and focus group evidence. This page invites people living in Switzerland into the third phase: public app-based deliberation and possible in-person workshops.":
-        "Das Projekt erfasst zunächst den Stand des Wissens zu LLMs, entwickelt danach zukunftsorientierte Szenarien und Evidenz aus Fokusgruppen. Diese Seite lädt Personen in der Schweiz zur dritten Phase ein: öffentliche app-basierte Deliberation und mögliche Workshops vor Ort.",
+      "The project first maps what is already known about LLMs, then develops future-facing scenarios and focus group evidence. This page invites people living in Switzerland into the third phase: public app-based deliberation and possible in-person workshops, so public perspectives can be considered while policy-facing recommendations are being developed.":
+        "Das Projekt erfasst zunächst den Stand des Wissens zu LLMs, entwickelt danach zukunftsorientierte Szenarien und Evidenz aus Fokusgruppen. Diese Seite lädt Personen in der Schweiz zur dritten Phase ein: öffentliche app-basierte Deliberation und mögliche Workshops vor Ort, damit öffentliche Perspektiven berücksichtigt werden können, während politikbezogene Empfehlungen entwickelt werden.",
       "Phase 01": "Phase 01",
       "Evidence, policy responses, and experiments": "Evidenz, politische Reaktionen und Experimente",
       "Researchers review published work on LLMs, analyse public AI and LLM documents, study institutional and policy responses, and run experiments on how LLM training affects skills-test results.":
@@ -156,18 +119,19 @@ window.SWISS_AI_I18N = {
         "Geleitet von Maud Reveilhac und Clement Guitton, mit Beiträgen von Simon Mayer und Gerold Schneider.",
       "Phase 03": "Phase 03",
       "Citizen input and AI-supported deliberation": "Öffentliche Beteiligung und KI-unterstützte Deliberation",
-      "This is the phase you are being invited to join. App rounds and possible workshops help connect earlier findings with lived experiences, policy priorities, and ethical questions about LLMs.":
-        "Dies ist die Phase, zu der Sie eingeladen sind. App-Runden und mögliche Workshops helfen, frühere Erkenntnisse mit Alltagserfahrungen, politischen Prioritäten und ethischen Fragen zu LLMs zu verbinden.",
+      "This is the phase you are being invited to join. App rounds and possible workshops connect earlier findings with lived experiences, policy priorities, and ethical questions about LLMs, helping show what people in Switzerland want protected, improved, or debated before AI becomes more deeply embedded in everyday work.":
+        "Dies ist die Phase, zu der Sie eingeladen sind. App-Runden und mögliche Workshops verbinden frühere Erkenntnisse mit Alltagserfahrungen, politischen Prioritäten und ethischen Fragen zu LLMs. So wird sichtbar, was Menschen in der Schweiz geschützt, verbessert oder diskutiert sehen möchten, bevor KI noch stärker im Arbeitsalltag verankert wird.",
       "Co-led by Joshua C. Yang, Maud Reveilhac, and Aurelia Tamò-Larrieux.":
         "Gemeinsam geleitet von Joshua C. Yang, Maud Reveilhac und Aurelia Tamò-Larrieux.",
       "You are here": "Sie sind hier",
       "Why your voice matters": "Warum Ihre Stimme zählt",
       "Many voices matter": "Viele Stimmen zählen",
+      "Public voices should shape AI policy": "Öffentliche Stimmen sollen KI-Politik mitgestalten",
       "Public voices matter": "Öffentliche Stimmen zählen",
-      "This study invites people living in Switzerland to surface the questions, concerns, and proposals that matter to them and to the wider public. A diverse mix of voices helps researchers see not only where people agree, but also where experiences, priorities, and worries differ.":
-        "Diese Studie lädt Personen in der Schweiz ein, Fragen, Anliegen und Vorschläge sichtbar zu machen, die ihnen selbst und der breiteren Öffentlichkeit wichtig sind. Eine vielfältige Mischung von Stimmen hilft Forschenden zu erkennen, nicht nur wo Menschen übereinstimmen, sondern auch wo Erfahrungen, Prioritäten und Sorgen unterschiedlich sind.",
-      "This study invites people living in Switzerland to surface the questions, concerns, and proposals that matter to the public. Your responses help researchers understand where people agree, where they disagree, and what policy ideas feel fair, realistic, or urgent.":
-        "Diese Studie lädt Personen in der Schweiz ein, Fragen, Sorgen und Vorschläge sichtbar zu machen, die für die Öffentlichkeit wichtig sind. Ihre Antworten helfen Forschenden zu verstehen, wo Menschen übereinstimmen, wo sie nicht einverstanden sind und welche politischen Ideen fair, realistisch oder dringend wirken.",
+      "AI is moving from a technical issue to a Swiss public issue. It can affect hiring, training, productivity, worker protection, education, public services, and who benefits from new tools. Policy choices about these changes should be informed by people who live with the consequences, not only by experts, companies, or institutions.":
+        "KI wird von einer technischen Frage zu einer öffentlichen Frage für die Schweiz. Sie kann Einstellungen, Aus- und Weiterbildung, Produktivität, Arbeitnehmerschutz, Bildung, öffentliche Dienstleistungen und die Verteilung der Vorteile neuer Werkzeuge beeinflussen. Politische Entscheidungen über diese Veränderungen sollten von Menschen mitgeprägt werden, die mit den Folgen leben, nicht nur von Fachleuten, Unternehmen oder Institutionen.",
+      "This study invites people living in Switzerland to share the questions, concerns, and proposals they want decision-makers to hear. A diverse mix of voices helps researchers identify where the public sees agreement, disagreement, fairness, urgency, and practical next steps.":
+        "Diese Studie lädt Personen in der Schweiz ein, die Fragen, Anliegen und Vorschläge einzubringen, die Entscheidungsträger hören sollten. Eine vielfältige Mischung von Stimmen hilft Forschenden zu erkennen, wo die Öffentlichkeit Übereinstimmung, Uneinigkeit, Fairness, Dringlichkeit und praktische nächste Schritte sieht.",
       "The results will contribute to a TA-SWISS report/book and policy-facing outputs intended to inform Swiss decision-makers, including the Swiss Parliament.":
         "Die Ergebnisse fliessen in einen TA-SWISS-Bericht/ein Buch und in politikbezogene Ergebnisse ein, die Schweizer Entscheidungsträger informieren sollen, darunter das Schweizer Parlament.",
       "Public input map": "Karte öffentlicher Beiträge",
@@ -247,31 +211,6 @@ window.SWISS_AI_I18N = {
         "Die Online-Runden sind ein freiwilliger Beitrag zu Forschung im öffentlichen Interesse. Wenn Sie während der App-Studie engagiert bleiben, können Sie später zu einem separaten Workshop vor Ort in Zürich oder Lausanne eingeladen werden.",
       "The workshop stage is separate and includes a flat-rate CHF 40 voucher for invited participants who attend. Travel costs are not reimbursed.":
         "Die Workshop-Phase ist separat und umfasst für eingeladene Teilnehmende, die teilnehmen, einen pauschalen Gutschein von CHF 40. Reisekosten werden nicht erstattet.",
-      "Online deliberation": "Online-Deliberation",
-      "Shape the discussion": "Diskussion mitgestalten",
-      "The app is not only a fixed set of materials. Participants can answer prompts, add short thoughts, arguments, and perspectives, and some of these contributions may become material that others react to in later rounds. This lets you learn from other viewpoints while helping researchers understand how people actually think without fully predetermining the discussion in advance.":
-        "Die App besteht nicht nur aus festgelegtem Material. Teilnehmende können Fragen beantworten, kurze Gedanken, Argumente und Perspektiven einbringen, und einige dieser Beiträge können zu Material werden, auf das andere in späteren Runden reagieren. So lernen Sie andere Sichtweisen kennen und helfen Forschenden zugleich zu verstehen, wie Menschen tatsächlich denken, ohne die Diskussion vollständig im Voraus festzulegen.",
-      "Argument constellation": "Argument-Konstellation",
-      "Connected ideas": "Verbundene Ideen",
-      "Participant thoughts appear as nodes. Select a heatmap cell to see which ideas sit behind that topic and lens.":
-        "Gedanken von Teilnehmenden erscheinen als Knoten. Wählen Sie eine Heatmap-Zelle, um zu sehen, welche Ideen hinter diesem Thema und Blickwinkel stehen.",
-      "Theme heatmap": "Themen-Heatmap",
-      "Emerging topics": "Sichtbare Themen",
-      "Topic": "Thema",
-      "Concern": "Sorge",
-      "Proposal": "Vorschlag",
-      "Agreement": "Übereinstimmung",
-      "Jobs": "Arbeit",
-      "Skills": "Kompetenzen",
-      "Fairness": "Fairness",
-      "Education": "Bildung",
-      "Trust": "Vertrauen",
-      "Select a cell to inspect how one topic shows up as a concern, proposal, or area of agreement.":
-        "Wählen Sie eine Zelle, um zu sehen, wie ein Thema als Sorge, Vorschlag oder Bereich der Übereinstimmung erscheint.",
-      "Selected lens": "Ausgewählter Blickwinkel",
-      "Skills proposals": "Kompetenz-Vorschläge",
-      "Visibility in the group discussion": "Sichtbarkeit in der Gruppendiskussion",
-      "Likely to return for review": "Wird voraussichtlich zur Prüfung zurückkehren",
       "Privacy and data protection": "Privatsphäre und Datenschutz",
       "Clear data limits": "Klare Datengrenzen",
       "ETH Zurich is responsible for the research data. Identifying information is stored separately from coded or pseudonymised research data. App infrastructure is hosted in the European Union, Stockholm region.":
@@ -387,54 +326,9 @@ window.SWISS_AI_I18N = {
         { label: "Transparenz", shortLabel: "Vertrauen" }
       ]
     },
-    topics: {},
-    lenses: {
-      concern: { label: "Sorgen", title: "Sorge", round: "Runde 02" },
-      proposal: { label: "Vorschläge", title: "Vorschlag", round: "Runde 03" },
-      agreement: { label: "Übereinstimmung", title: "Übereinstimmung", round: "Runde 04" }
-    },
-    signals: { high: "Starkes Signal", visible: "Sichtbares Signal", emerging: "Aufkommendes Signal" },
     ui: {
-      selectedPrefix: "Ausgewählte",
-      visibility: "Sichtbarkeit in der Gruppendiskussion",
-      likelyReturn: "Wird voraussichtlich zur Prüfung zurückkehren",
-      chooseStore: "Wählen Sie unten App Store oder Google Play oder scannen Sie den passenden QR-Code für Ihr Smartphone.",
-      heatAria: "{topic} {lens} anzeigen",
-      insightTitle: "{topic}: {lens}"
+      chooseStore: "Wählen Sie unten App Store oder Google Play oder scannen Sie den passenden QR-Code für Ihr Smartphone."
     }
-  }
-};
-
-window.SWISS_AI_I18N.de.topics = {
-  jobs: {
-    label: "Arbeit",
-    concern: "Teilnehmende könnten sich Sorgen über Automatisierungsdruck, schwächere Verhandlungsmacht oder KI-Systeme machen, die Arbeit schneller verändern, als Schutzmassnahmen angepasst werden können.",
-    proposal: "Teilnehmende könnten Übergangsunterstützung, klarere Pflichten für Arbeitgeber und stärkere Regeln vorschlagen, wenn KI Arbeitsaufgaben verändert.",
-    agreement: "Ein gemeinsamer Punkt könnte sein, dass Menschen informiert werden müssen, wenn KI Einstellung, Beurteilung oder den Arbeitsalltag beeinflusst."
-  },
-  skills: {
-    label: "Kompetenzen",
-    concern: "Teilnehmende könnten befürchten, dass KI-Nutzung praktische Kompetenzen schwächt, besonders wenn Werkzeuge Lernen ersetzen statt unterstützen.",
-    proposal: "Teilnehmende könnten konkrete Umschulungswege, klarere Lernunterstützung und geteilte Verantwortung zwischen Arbeitgebern, Bildungsanbietern und öffentlichen Institutionen vorschlagen.",
-    agreement: "Ein gemeinsamer Punkt könnte sein, KI-Kompetenz auch ausserhalb von Fachkreisen und ressourcenstarken Arbeitsplätzen zugänglich zu machen."
-  },
-  fairness: {
-    label: "Fairness",
-    concern: "Teilnehmende könnten befürchten, dass KI-Vorteile sich bei ohnehin privilegierten Gruppen konzentrieren, während Risiken stärker verletzliche Arbeitnehmende treffen.",
-    proposal: "Teilnehmende könnten Standards im öffentlichen Interesse, Konsultation von Arbeitnehmenden und stärkere Prüfungen vor dem Einsatz von KI-Systemen vorschlagen.",
-    agreement: "Ein gemeinsamer Punkt könnte sein, KI-Systeme zu vermeiden, die Ungleichheit oder Diskriminierung unbemerkt verstärken."
-  },
-  education: {
-    label: "Bildung",
-    concern: "Teilnehmende könnten befürchten, dass Schulen und Weiterbildungsanbieter unterschiedlich schnell reagieren und manche Lernende ohne hilfreiche Orientierung bleiben.",
-    proposal: "Teilnehmende könnten praxisnahe KI-Kurse, aktualisierte Lehrpläne und Unterstützung für Lehrpersonen und Ausbildende vorschlagen.",
-    agreement: "Ein gemeinsamer Punkt könnte sein, KI-Kompetenz als Teil künftiger staatsbürgerlicher und beruflicher Bildung zu behandeln."
-  },
-  trust: {
-    label: "Vertrauen",
-    concern: "Teilnehmende könnten sich über undurchsichtige Entscheidungen, unklare Verantwortung oder fehlendes Wissen darüber sorgen, wann KI ein Ergebnis beeinflusst hat.",
-    proposal: "Teilnehmende könnten Transparenzpflichten, menschliche Überprüfung und klarere Möglichkeiten vorschlagen, KI-unterstützte Entscheidungen anzufechten.",
-    agreement: "Ein gemeinsamer Punkt könnte sein, dass KI in Verwaltung und Arbeitswelt verständlich und verantwortbar eingesetzt werden muss."
   }
 };
 
@@ -445,6 +339,7 @@ window.SWISS_AI_I18N.fr = {
     "Participez à l'expérience de délibération assistée par l'IA, dans le cadre du projet Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.",
   text: {
     "Skip to main content": "Aller au contenu principal",
+    "Start": "Début",
     "Why it matters": "Pourquoi c'est important",
     "How it works": "Déroulement",
     "Privacy": "Protection des données",
@@ -454,10 +349,10 @@ window.SWISS_AI_I18N.fr = {
     "the future of": "l'avenir de",
     "AI in": "l'IA en",
     "Switzerland.": "Suisse.",
-    "AI is already changing work, education, and public life. Researchers from a Swiss research consortium invite people living in Switzerland to add their voice to a study on how AI should shape the future of work and labour markets.":
-      "L'IA transforme déjà le travail, l'éducation et la vie publique. Des chercheuses et chercheurs d'un consortium de recherche suisse invitent les personnes vivant en Suisse à contribuer à une étude sur la manière dont l'IA devrait façonner l'avenir du travail et des marchés du travail.",
-    "We especially welcome pluralistic, diverse citizen voices: different backgrounds, regions, professions, education paths, and everyday experiences with technology. No AI expertise is needed.":
-      "Nous souhaitons tout particulièrement entendre des voix citoyennes pluralistes et diverses: des personnes de différents horizons, régions, professions, parcours de formation et expériences quotidiennes avec la technologie. Aucune expertise en IA n'est nécessaire.",
+    "AI is already changing Switzerland: how people learn, work, are hired, train for new skills, and use public services. Researchers from a Swiss research consortium invite people living in Switzerland to add their voice to a study on how AI should shape the future of work and labour markets.":
+      "L'IA transforme déjà la Suisse: la manière dont les personnes apprennent, travaillent, sont recrutées, se forment à de nouvelles compétences et utilisent les services publics. Des chercheuses et chercheurs d'un consortium de recherche suisse invitent les personnes vivant en Suisse à contribuer à une étude sur la manière dont l'IA devrait façonner l'avenir du travail et des marchés du travail.",
+    "We especially welcome pluralistic, diverse citizen voices: different backgrounds, regions, professions, education paths, and everyday experiences with technology. Good policy needs this range of public experience, not only expert, company, or institutional perspectives. No AI expertise is needed.":
+      "Nous souhaitons tout particulièrement entendre des voix citoyennes pluralistes et diverses: des personnes de différents horizons, régions, professions, parcours de formation et expériences quotidiennes avec la technologie. Une bonne politique a besoin de cette diversité d'expériences publiques, pas seulement de perspectives d'expertise, d'entreprises ou d'institutions. Aucune expertise en IA n'est nécessaire.",
     "Download Atgora": "Télécharger Atgora",
     "Start in the app": "Commencer dans l'app",
     "Download Atgora, then follow the study onboarding instructions in the app.":
@@ -466,6 +361,26 @@ window.SWISS_AI_I18N.fr = {
     "May 19-June 5": "19 mai-5 juin",
     "Possible workshops": "Ateliers possibles",
     "June 15-19": "15-19 juin",
+    "Start in Atgora": "Commencer dans Atgora",
+    "Find the Swiss AI Futures course": "Trouver le cours Swiss AI Futures",
+    "After downloading Atgora, open the app, go to Courses, choose Swiss AI Futures, and start the Stage 1 Questionnaire. These screens show the path from the app listing to the first study questions.":
+      "Après avoir téléchargé Atgora, ouvrez l'application, allez dans Courses, choisissez Swiss AI Futures et lancez Stage1 Questionnaire. Ces écrans montrent le chemin depuis la fiche de l'app jusqu'aux premières questions de l'étude.",
+    "Download or open Atgora": "Télécharger ou ouvrir Atgora",
+    "Use the App Store or Google Play link on this page, then install or open the Atgora app.":
+      "Utilisez le lien App Store ou Google Play sur cette page, puis installez ou ouvrez l'application Atgora.",
+    "App Store page for Atgora with the Open button visible": "Page App Store d'Atgora avec le bouton Ouvrir visible",
+    "Go to Courses": "Aller dans Courses",
+    "On the home screen, open the Courses tab and select the Swiss AI Futures course card.":
+      "Sur l'écran d'accueil, ouvrez l'onglet Courses et sélectionnez la carte du cours Swiss AI Futures.",
+    "Atgora Courses tab showing the Swiss AI Futures course card": "Onglet Courses d'Atgora montrant la carte du cours Swiss AI Futures",
+    "Start Stage 1": "Commencer Stage 1",
+    "Inside Swiss AI Futures, tap Stage1 Questionnaire to begin the first study module.":
+      "Dans Swiss AI Futures, touchez Stage1 Questionnaire pour commencer le premier module de l'étude.",
+    "Swiss AI Futures course page with the Stage1 Questionnaire card": "Page du cours Swiss AI Futures avec la carte Stage1 Questionnaire",
+    "Answer each prompt": "Répondre à chaque question",
+    "Read the question, choose the answer that best fits your view, and use the arrow to continue.":
+      "Lisez la question, choisissez la réponse qui correspond le mieux à votre point de vue, puis utilisez la flèche pour continuer.",
+    "Atgora questionnaire screen with multiple answer options": "Écran de questionnaire Atgora avec plusieurs options de réponse",
     "Main funder": "Financeur principal",
     "Technology assessment": "Évaluation des technologies",
     "TA-SWISS is the Swiss Foundation for Technology Assessment. It supports interdisciplinary studies and participatory projects that examine the social, legal, ethical, and political consequences of emerging technologies. Its recommendations are intended to support public debate and decision-making in Switzerland, including for Parliament and the Federal Council.":
@@ -473,8 +388,8 @@ window.SWISS_AI_I18N.fr = {
     "Learn more about TA-SWISS": "En savoir plus sur TA-SWISS",
     "Where this study fits": "Où se situe cette étude",
     "Phase 3: citizen input": "Phase 3: contribution citoyenne",
-    "The project first maps what is already known about LLMs, then develops future-facing scenarios and focus group evidence. This page invites people living in Switzerland into the third phase: public app-based deliberation and possible in-person workshops.":
-      "Le projet commence par cartographier les connaissances existantes sur les LLM, puis développe des scénarios prospectifs et des données issues de groupes de discussion. Cette page invite les personnes vivant en Suisse à participer à la troisième phase: une délibération publique dans l'app et de possibles ateliers en présence.",
+    "The project first maps what is already known about LLMs, then develops future-facing scenarios and focus group evidence. This page invites people living in Switzerland into the third phase: public app-based deliberation and possible in-person workshops, so public perspectives can be considered while policy-facing recommendations are being developed.":
+      "Le projet commence par cartographier les connaissances existantes sur les LLM, puis développe des scénarios prospectifs et des données issues de groupes de discussion. Cette page invite les personnes vivant en Suisse à participer à la troisième phase: une délibération publique dans l'app et de possibles ateliers en présence, afin que les perspectives du public puissent être prises en compte pendant l'élaboration de recommandations destinées aux politiques publiques.",
     "Evidence, policy responses, and experiments": "Données, réponses politiques et expériences",
     "Researchers review published work on LLMs, analyse public AI and LLM documents, study institutional and policy responses, and run experiments on how LLM training affects skills-test results.":
       "Les chercheuses et chercheurs examinent les travaux publiés sur les LLM, analysent des documents publics sur l'IA et les LLM, étudient les réponses institutionnelles et politiques, et mènent des expériences sur l'effet d'une formation aux LLM sur les résultats de tests de compétences.",
@@ -486,18 +401,19 @@ window.SWISS_AI_I18N.fr = {
     "Led by Maud Reveilhac and Clement Guitton, with contributions from Simon Mayer and Gerold Schneider.":
       "Dirigée par Maud Reveilhac et Clement Guitton, avec des contributions de Simon Mayer et Gerold Schneider.",
     "Citizen input and AI-supported deliberation": "Contribution citoyenne et délibération assistée par l'IA",
-    "This is the phase you are being invited to join. App rounds and possible workshops help connect earlier findings with lived experiences, policy priorities, and ethical questions about LLMs.":
-      "C'est la phase à laquelle vous êtes invité. Les tours dans l'app et les ateliers possibles permettent de relier les résultats précédents aux expériences vécues, aux priorités politiques et aux questions éthiques liées aux LLM.",
+    "This is the phase you are being invited to join. App rounds and possible workshops connect earlier findings with lived experiences, policy priorities, and ethical questions about LLMs, helping show what people in Switzerland want protected, improved, or debated before AI becomes more deeply embedded in everyday work.":
+      "C'est la phase à laquelle vous êtes invité. Les tours dans l'app et les ateliers possibles relient les résultats précédents aux expériences vécues, aux priorités politiques et aux questions éthiques liées aux LLM. Ils aident à montrer ce que les personnes en Suisse souhaitent protéger, améliorer ou débattre avant que l'IA ne s'ancre davantage dans le travail quotidien.",
     "Co-led by Joshua C. Yang, Maud Reveilhac, and Aurelia Tamò-Larrieux.":
       "Codirigée par Joshua C. Yang, Maud Reveilhac et Aurelia Tamò-Larrieux.",
     "You are here": "Vous êtes ici",
     "Why your voice matters": "Pourquoi votre voix compte",
     "Many voices matter": "La pluralité des voix compte",
+    "Public voices should shape AI policy": "Les voix du public doivent façonner la politique de l'IA",
     "Public voices matter": "Les voix du public comptent",
-    "This study invites people living in Switzerland to surface the questions, concerns, and proposals that matter to them and to the wider public. A diverse mix of voices helps researchers see not only where people agree, but also where experiences, priorities, and worries differ.":
-      "Cette étude invite les personnes vivant en Suisse à faire émerger les questions, préoccupations et propositions qui comptent pour elles et pour le public au sens large. Une diversité de voix aide la recherche à voir non seulement où les personnes sont d'accord, mais aussi où les expériences, les priorités et les inquiétudes diffèrent.",
-    "This study invites people living in Switzerland to surface the questions, concerns, and proposals that matter to the public. Your responses help researchers understand where people agree, where they disagree, and what policy ideas feel fair, realistic, or urgent.":
-      "Cette étude invite les personnes vivant en Suisse à faire émerger les questions, préoccupations et propositions importantes pour le public. Vos réponses aident les chercheuses et chercheurs à comprendre les points d'accord, les désaccords et les idées politiques qui semblent justes, réalistes ou urgentes.",
+    "AI is moving from a technical issue to a Swiss public issue. It can affect hiring, training, productivity, worker protection, education, public services, and who benefits from new tools. Policy choices about these changes should be informed by people who live with the consequences, not only by experts, companies, or institutions.":
+      "L'IA passe d'une question technique à une question publique suisse. Elle peut influencer le recrutement, la formation, la productivité, la protection des travailleuses et travailleurs, l'éducation, les services publics et la répartition des bénéfices des nouveaux outils. Les choix politiques concernant ces changements devraient être éclairés par les personnes qui en vivent les conséquences, et pas seulement par des spécialistes, des entreprises ou des institutions.",
+    "This study invites people living in Switzerland to share the questions, concerns, and proposals they want decision-makers to hear. A diverse mix of voices helps researchers identify where the public sees agreement, disagreement, fairness, urgency, and practical next steps.":
+      "Cette étude invite les personnes vivant en Suisse à partager les questions, préoccupations et propositions qu'elles souhaitent faire entendre aux décideuses et décideurs. Une diversité de voix aide les chercheuses et chercheurs à repérer où le public voit de l'accord, du désaccord, de l'équité, de l'urgence et des prochaines étapes concrètes.",
     "The results will contribute to a TA-SWISS report/book and policy-facing outputs intended to inform Swiss decision-makers, including the Swiss Parliament.":
       "Les résultats contribueront à un rapport/livre TA-SWISS et à des livrables destinés aux politiques publiques, afin d'informer les décideuses et décideurs suisses, y compris le Parlement suisse.",
     "Public input map": "Carte des contributions publiques",
@@ -577,31 +493,6 @@ window.SWISS_AI_I18N.fr = {
       "Les tours en ligne sont une contribution volontaire à une recherche d'intérêt public. Si vous restez engagé pendant l'étude dans l'app, vous pourrez ensuite être invité à un atelier séparé en présence à Zurich ou Lausanne.",
     "The workshop stage is separate and includes a flat-rate CHF 40 voucher for invited participants who attend. Travel costs are not reimbursed.":
       "La phase d'atelier est séparée et comprend un bon forfaitaire de CHF 40 pour les personnes invitées qui y participent. Les frais de déplacement ne sont pas remboursés.",
-    "Online deliberation": "Délibération en ligne",
-    "Shape the discussion": "Façonner la discussion",
-    "The app is not only a fixed set of materials. Participants can answer prompts, add short thoughts, arguments, and perspectives, and some of these contributions may become material that others react to in later rounds. This lets you learn from other viewpoints while helping researchers understand how people actually think without fully predetermining the discussion in advance.":
-      "L'app ne propose pas seulement un ensemble fixe de contenus. Les participantes et participants peuvent répondre à des questions, ajouter de brèves réflexions, des arguments et des perspectives; certaines contributions peuvent ensuite devenir du matériel auquel d'autres réagissent lors de tours ultérieurs. Cela vous permet de découvrir d'autres points de vue tout en aidant la recherche à comprendre comment les personnes pensent réellement, sans prédéterminer entièrement la discussion.",
-    "Argument constellation": "Constellation d'arguments",
-    "Connected ideas": "Idées reliées",
-    "Participant thoughts appear as nodes. Select a heatmap cell to see which ideas sit behind that topic and lens.":
-      "Les réflexions des participantes et participants apparaissent comme des noeuds. Sélectionnez une cellule de la carte thermique pour voir les idées liées au thème et à l'angle choisi.",
-    "Theme heatmap": "Carte thermique des thèmes",
-    "Emerging topics": "Thèmes émergents",
-    "Topic": "Thème",
-    "Concern": "Préoccupation",
-    "Proposal": "Proposition",
-    "Agreement": "Accord",
-    "Jobs": "Emploi",
-    "Skills": "Compétences",
-    "Fairness": "Équité",
-    "Education": "Éducation",
-    "Trust": "Confiance",
-    "Select a cell to inspect how one topic shows up as a concern, proposal, or area of agreement.":
-      "Sélectionnez une cellule pour voir comment un thème apparaît comme préoccupation, proposition ou zone d'accord.",
-    "Selected lens": "Angle sélectionné",
-    "Skills proposals": "Propositions sur les compétences",
-    "Visibility in the group discussion": "Visibilité dans la discussion de groupe",
-    "Likely to return for review": "Susceptible de revenir pour examen",
     "Privacy and data protection": "Vie privée et protection des données",
     "Clear data limits": "Limites claires pour les données",
     "ETH Zurich is responsible for the research data. Identifying information is stored separately from coded or pseudonymised research data. App infrastructure is hosted in the European Union, Stockholm region.":
@@ -707,26 +598,8 @@ window.SWISS_AI_I18N.fr = {
       { label: "Transparence", shortLabel: "Confiance" }
     ]
   },
-  topics: {
-    jobs: { label: "Emploi", concern: "Les participantes et participants peuvent s'inquiéter de la pression d'automatisation, d'un pouvoir de négociation affaibli ou de systèmes d'IA qui transforment le travail plus vite que les protections ne s'adaptent.", proposal: "Ils peuvent proposer un soutien aux transitions, des responsabilités plus claires pour les employeurs et des règles plus fortes lorsque l'IA modifie les tâches.", agreement: "Un point commun peut émerger autour de l'information des personnes lorsque l'IA influence le recrutement, l'évaluation ou le travail quotidien." },
-    skills: { label: "Compétences", concern: "Les participantes et participants peuvent craindre que l'usage de l'IA affaiblisse des compétences pratiques, surtout lorsque les outils remplacent l'apprentissage au lieu de le soutenir.", proposal: "Ils peuvent proposer des parcours concrets de requalification, un soutien à l'apprentissage plus clair et une responsabilité partagée entre employeurs, prestataires de formation et institutions publiques.", agreement: "Un point commun peut émerger autour de l'accès à la culture de l'IA au-delà des spécialistes et des lieux de travail très dotés." },
-    fairness: { label: "Équité", concern: "Les participantes et participants peuvent craindre que les bénéfices de l'IA se concentrent chez les groupes déjà favorisés, tandis que les risques touchent davantage les travailleuses et travailleurs vulnérables.", proposal: "Ils peuvent proposer des standards d'intérêt public, la consultation des travailleuses et travailleurs et des contrôles plus stricts avant le déploiement de systèmes d'IA.", agreement: "Un point commun peut émerger autour du refus de systèmes d'IA qui renforcent discrètement les inégalités ou la discrimination." },
-    education: { label: "Éducation", concern: "Les participantes et participants peuvent craindre que les écoles et prestataires de formation avancent de manière inégale, laissant certaines personnes sans orientation utile.", proposal: "Ils peuvent proposer des cours pratiques sur l'IA, des programmes actualisés et un soutien pour les enseignantes, enseignants et formateurs.", agreement: "Un point commun peut émerger autour de l'idée que la compétence en IA fasse partie de la future éducation civique et professionnelle." },
-    trust: { label: "Confiance", concern: "Les participantes et participants peuvent s'inquiéter de décisions opaques, de responsabilités peu claires ou du manque d'information lorsque l'IA a influencé un résultat.", proposal: "Ils peuvent proposer des obligations de transparence, une revue humaine et des moyens plus clairs de contester les décisions assistées par l'IA.", agreement: "Un point commun peut émerger autour du besoin d'un usage compréhensible et responsable de l'IA dans les services publics et le monde du travail." }
-  },
-  lenses: {
-    concern: { label: "préoccupations", title: "Préoccupation", round: "Tour 02" },
-    proposal: { label: "propositions", title: "Proposition", round: "Tour 03" },
-    agreement: { label: "accord", title: "Accord", round: "Tour 04" }
-  },
-  signals: { high: "Signal fort", visible: "Signal visible", emerging: "Signal émergent" },
   ui: {
-    selectedPrefix: "Angle sélectionné",
-    visibility: "Visibilité dans la discussion de groupe",
-    likelyReturn: "Susceptible de revenir pour examen",
-    chooseStore: "Choisissez l'App Store ou Google Play ci-dessous, ou scannez le code QR correspondant à votre téléphone.",
-    heatAria: "Afficher {topic} {lens}",
-    insightTitle: "{topic} : {lens}"
+    chooseStore: "Choisissez l'App Store ou Google Play ci-dessous, ou scannez le code QR correspondant à votre téléphone."
   }
 };
 
@@ -737,6 +610,7 @@ window.SWISS_AI_I18N.it = {
     "Partecipa all'esperimento di deliberazione assistita dall'IA, parte del progetto Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.",
   text: {
     "Skip to main content": "Vai al contenuto principale",
+    "Start": "Inizio",
     "Why it matters": "Perché conta",
     "How it works": "Come funziona",
     "Privacy": "Protezione dei dati",
@@ -746,10 +620,10 @@ window.SWISS_AI_I18N.it = {
     "the future of": "il futuro dell'IA",
     "AI in": "in",
     "Switzerland.": "Svizzera.",
-    "AI is already changing work, education, and public life. Researchers from a Swiss research consortium invite people living in Switzerland to add their voice to a study on how AI should shape the future of work and labour markets.":
-      "L'IA sta già cambiando il lavoro, l'educazione e la vita pubblica. Ricercatrici e ricercatori di un consorzio di ricerca svizzero invitano le persone che vivono in Svizzera a contribuire a uno studio su come l'IA dovrebbe plasmare il futuro del lavoro e dei mercati del lavoro.",
-    "We especially welcome pluralistic, diverse citizen voices: different backgrounds, regions, professions, education paths, and everyday experiences with technology. No AI expertise is needed.":
-      "Accogliamo con particolare interesse voci cittadine pluralistiche e diverse: persone con background, regioni, professioni, percorsi formativi ed esperienze quotidiane con la tecnologia differenti. Non serve essere esperti di IA.",
+    "AI is already changing Switzerland: how people learn, work, are hired, train for new skills, and use public services. Researchers from a Swiss research consortium invite people living in Switzerland to add their voice to a study on how AI should shape the future of work and labour markets.":
+      "L'IA sta già cambiando la Svizzera: il modo in cui le persone imparano, lavorano, vengono assunte, sviluppano nuove competenze e usano i servizi pubblici. Ricercatrici e ricercatori di un consorzio di ricerca svizzero invitano le persone che vivono in Svizzera a contribuire a uno studio su come l'IA dovrebbe plasmare il futuro del lavoro e dei mercati del lavoro.",
+    "We especially welcome pluralistic, diverse citizen voices: different backgrounds, regions, professions, education paths, and everyday experiences with technology. Good policy needs this range of public experience, not only expert, company, or institutional perspectives. No AI expertise is needed.":
+      "Accogliamo con particolare interesse voci cittadine pluralistiche e diverse: persone con background, regioni, professioni, percorsi formativi ed esperienze quotidiane con la tecnologia differenti. Una buona politica ha bisogno di questa varietà di esperienze pubbliche, non solo di prospettive di esperti, aziende o istituzioni. Non serve essere esperti di IA.",
     "Download Atgora": "Scarica Atgora",
     "Start in the app": "Inizia nell'app",
     "Download Atgora, then follow the study onboarding instructions in the app.":
@@ -758,6 +632,26 @@ window.SWISS_AI_I18N.it = {
     "May 19-June 5": "19 maggio-5 giugno",
     "Possible workshops": "Workshop possibili",
     "June 15-19": "15-19 giugno",
+    "Start in Atgora": "Inizia in Atgora",
+    "Find the Swiss AI Futures course": "Trova il corso Swiss AI Futures",
+    "After downloading Atgora, open the app, go to Courses, choose Swiss AI Futures, and start the Stage 1 Questionnaire. These screens show the path from the app listing to the first study questions.":
+      "Dopo aver scaricato Atgora, apri l'app, vai su Courses, scegli Swiss AI Futures e avvia Stage1 Questionnaire. Queste schermate mostrano il percorso dalla scheda dell'app alle prime domande dello studio.",
+    "Download or open Atgora": "Scarica o apri Atgora",
+    "Use the App Store or Google Play link on this page, then install or open the Atgora app.":
+      "Usa il link App Store o Google Play su questa pagina, poi installa o apri l'app Atgora.",
+    "App Store page for Atgora with the Open button visible": "Pagina App Store di Atgora con il pulsante Apri visibile",
+    "Go to Courses": "Vai su Courses",
+    "On the home screen, open the Courses tab and select the Swiss AI Futures course card.":
+      "Nella schermata principale, apri la scheda Courses e seleziona la card del corso Swiss AI Futures.",
+    "Atgora Courses tab showing the Swiss AI Futures course card": "Scheda Courses di Atgora con la card del corso Swiss AI Futures",
+    "Start Stage 1": "Avvia Stage 1",
+    "Inside Swiss AI Futures, tap Stage1 Questionnaire to begin the first study module.":
+      "Dentro Swiss AI Futures, tocca Stage1 Questionnaire per iniziare il primo modulo dello studio.",
+    "Swiss AI Futures course page with the Stage1 Questionnaire card": "Pagina del corso Swiss AI Futures con la card Stage1 Questionnaire",
+    "Answer each prompt": "Rispondi a ogni domanda",
+    "Read the question, choose the answer that best fits your view, and use the arrow to continue.":
+      "Leggi la domanda, scegli la risposta che corrisponde meglio alla tua opinione e usa la freccia per continuare.",
+    "Atgora questionnaire screen with multiple answer options": "Schermata del questionario Atgora con più opzioni di risposta",
     "Main funder": "Finanziatore principale",
     "Technology assessment": "Valutazione della tecnologia",
     "TA-SWISS is the Swiss Foundation for Technology Assessment. It supports interdisciplinary studies and participatory projects that examine the social, legal, ethical, and political consequences of emerging technologies. Its recommendations are intended to support public debate and decision-making in Switzerland, including for Parliament and the Federal Council.":
@@ -765,8 +659,8 @@ window.SWISS_AI_I18N.it = {
     "Learn more about TA-SWISS": "Scopri di più su TA-SWISS",
     "Where this study fits": "Dove si colloca lo studio",
     "Phase 3: citizen input": "Fase 3: contributo pubblico",
-    "The project first maps what is already known about LLMs, then develops future-facing scenarios and focus group evidence. This page invites people living in Switzerland into the third phase: public app-based deliberation and possible in-person workshops.":
-      "Il progetto mappa prima ciò che è già noto sugli LLM, poi sviluppa scenari orientati al futuro e dati da focus group. Questa pagina invita le persone che vivono in Svizzera alla terza fase: deliberazione pubblica tramite app e possibili workshop in presenza.",
+    "The project first maps what is already known about LLMs, then develops future-facing scenarios and focus group evidence. This page invites people living in Switzerland into the third phase: public app-based deliberation and possible in-person workshops, so public perspectives can be considered while policy-facing recommendations are being developed.":
+      "Il progetto mappa prima ciò che è già noto sugli LLM, poi sviluppa scenari orientati al futuro e dati da focus group. Questa pagina invita le persone che vivono in Svizzera alla terza fase: deliberazione pubblica tramite app e possibili workshop in presenza, affinché le prospettive del pubblico possano essere considerate mentre vengono sviluppate raccomandazioni orientate alle politiche pubbliche.",
     "Evidence, policy responses, and experiments": "Evidenze, risposte politiche ed esperimenti",
     "Researchers review published work on LLMs, analyse public AI and LLM documents, study institutional and policy responses, and run experiments on how LLM training affects skills-test results.":
       "Le ricercatrici e i ricercatori esaminano lavori pubblicati sugli LLM, analizzano documenti pubblici su IA e LLM, studiano le risposte istituzionali e politiche e conducono esperimenti su come una formazione sugli LLM influisce sui risultati dei test di competenza.",
@@ -778,18 +672,19 @@ window.SWISS_AI_I18N.it = {
     "Led by Maud Reveilhac and Clement Guitton, with contributions from Simon Mayer and Gerold Schneider.":
       "Diretta da Maud Reveilhac e Clement Guitton, con contributi di Simon Mayer e Gerold Schneider.",
     "Citizen input and AI-supported deliberation": "Contributo pubblico e deliberazione assistita dall'IA",
-    "This is the phase you are being invited to join. App rounds and possible workshops help connect earlier findings with lived experiences, policy priorities, and ethical questions about LLMs.":
-      "Questa è la fase a cui sei invitato a partecipare. I turni nell'app e i possibili workshop aiutano a collegare i risultati precedenti con esperienze vissute, priorità politiche e questioni etiche sugli LLM.",
+    "This is the phase you are being invited to join. App rounds and possible workshops connect earlier findings with lived experiences, policy priorities, and ethical questions about LLMs, helping show what people in Switzerland want protected, improved, or debated before AI becomes more deeply embedded in everyday work.":
+      "Questa è la fase a cui sei invitato a partecipare. I turni nell'app e i possibili workshop collegano i risultati precedenti con esperienze vissute, priorità politiche e questioni etiche sugli LLM, aiutando a mostrare ciò che le persone in Svizzera vogliono proteggere, migliorare o discutere prima che l'IA diventi ancora più integrata nel lavoro quotidiano.",
     "Co-led by Joshua C. Yang, Maud Reveilhac, and Aurelia Tamò-Larrieux.":
       "Codiretta da Joshua C. Yang, Maud Reveilhac e Aurelia Tamò-Larrieux.",
     "You are here": "Sei qui",
     "Why your voice matters": "Perché la tua voce conta",
     "Many voices matter": "La pluralità delle voci conta",
+    "Public voices should shape AI policy": "Le voci del pubblico dovrebbero plasmare la politica sull'IA",
     "Public voices matter": "Le voci del pubblico contano",
-    "This study invites people living in Switzerland to surface the questions, concerns, and proposals that matter to them and to the wider public. A diverse mix of voices helps researchers see not only where people agree, but also where experiences, priorities, and worries differ.":
-      "Questo studio invita le persone che vivono in Svizzera a far emergere domande, preoccupazioni e proposte che contano per loro e per il pubblico più ampio. Una combinazione diversa di voci aiuta la ricerca a vedere non solo dove le persone concordano, ma anche dove esperienze, priorità e preoccupazioni differiscono.",
-    "This study invites people living in Switzerland to surface the questions, concerns, and proposals that matter to the public. Your responses help researchers understand where people agree, where they disagree, and what policy ideas feel fair, realistic, or urgent.":
-      "Questo studio invita le persone che vivono in Svizzera a far emergere domande, preoccupazioni e proposte importanti per il pubblico. Le tue risposte aiutano la ricerca a capire dove le persone concordano, dove divergono e quali idee politiche sembrano eque, realistiche o urgenti.",
+    "AI is moving from a technical issue to a Swiss public issue. It can affect hiring, training, productivity, worker protection, education, public services, and who benefits from new tools. Policy choices about these changes should be informed by people who live with the consequences, not only by experts, companies, or institutions.":
+      "L'IA sta passando da questione tecnica a questione pubblica svizzera. Può influenzare assunzioni, formazione, produttività, tutela delle lavoratrici e dei lavoratori, educazione, servizi pubblici e chi beneficia dei nuovi strumenti. Le scelte politiche su questi cambiamenti dovrebbero essere informate dalle persone che ne vivono le conseguenze, non solo da esperti, aziende o istituzioni.",
+    "This study invites people living in Switzerland to share the questions, concerns, and proposals they want decision-makers to hear. A diverse mix of voices helps researchers identify where the public sees agreement, disagreement, fairness, urgency, and practical next steps.":
+      "Questo studio invita le persone che vivono in Svizzera a condividere le domande, le preoccupazioni e le proposte che vogliono far arrivare ai decisori. Una combinazione diversa di voci aiuta la ricerca a identificare dove il pubblico vede accordo, disaccordo, equità, urgenza e prossimi passi pratici.",
     "The results will contribute to a TA-SWISS report/book and policy-facing outputs intended to inform Swiss decision-makers, including the Swiss Parliament.":
       "I risultati contribuiranno a un rapporto/libro TA-SWISS e a materiali orientati alle politiche pubbliche destinati a informare i decisori svizzeri, incluso il Parlamento svizzero.",
     "Public input map": "Mappa dei contributi pubblici",
@@ -869,31 +764,6 @@ window.SWISS_AI_I18N.it = {
       "I turni online sono un contributo volontario a una ricerca di interesse pubblico. Se resti coinvolto durante lo studio nell'app, potresti essere invitato in seguito a un workshop separato in presenza a Zurigo o Losanna.",
     "The workshop stage is separate and includes a flat-rate CHF 40 voucher for invited participants who attend. Travel costs are not reimbursed.":
       "La fase dei workshop è separata e prevede un buono forfettario di CHF 40 per le persone invitate che partecipano. Le spese di viaggio non sono rimborsate.",
-    "Online deliberation": "Deliberazione online",
-    "Shape the discussion": "Plasmare la discussione",
-    "The app is not only a fixed set of materials. Participants can answer prompts, add short thoughts, arguments, and perspectives, and some of these contributions may become material that others react to in later rounds. This lets you learn from other viewpoints while helping researchers understand how people actually think without fully predetermining the discussion in advance.":
-      "L'app non contiene solo materiali fissi. Le persone partecipanti possono rispondere a stimoli, aggiungere brevi pensieri, argomenti e prospettive, e alcuni contributi possono diventare materiale a cui altre persone reagiscono nei turni successivi. Questo permette di conoscere altri punti di vista e aiuta la ricerca a capire come le persone pensano davvero, senza predeterminare completamente la discussione.",
-    "Argument constellation": "Costellazione di argomenti",
-    "Connected ideas": "Idee collegate",
-    "Participant thoughts appear as nodes. Select a heatmap cell to see which ideas sit behind that topic and lens.":
-      "I pensieri delle persone partecipanti appaiono come nodi. Seleziona una cella della mappa termica per vedere quali idee stanno dietro a quel tema e a quella prospettiva.",
-    "Theme heatmap": "Mappa termica dei temi",
-    "Emerging topics": "Temi emergenti",
-    "Topic": "Tema",
-    "Concern": "Preoccupazione",
-    "Proposal": "Proposta",
-    "Agreement": "Accordo",
-    "Jobs": "Lavoro",
-    "Skills": "Competenze",
-    "Fairness": "Equità",
-    "Education": "Educazione",
-    "Trust": "Fiducia",
-    "Select a cell to inspect how one topic shows up as a concern, proposal, or area of agreement.":
-      "Seleziona una cella per vedere come un tema emerge come preoccupazione, proposta o area di accordo.",
-    "Selected lens": "Prospettiva selezionata",
-    "Skills proposals": "Proposte sulle competenze",
-    "Visibility in the group discussion": "Visibilità nella discussione di gruppo",
-    "Likely to return for review": "Probabilmente tornerà per la revisione",
     "Privacy and data protection": "Privacy e protezione dei dati",
     "Clear data limits": "Limiti chiari per i dati",
     "ETH Zurich is responsible for the research data. Identifying information is stored separately from coded or pseudonymised research data. App infrastructure is hosted in the European Union, Stockholm region.":
@@ -999,25 +869,7 @@ window.SWISS_AI_I18N.it = {
       { label: "Trasparenza", shortLabel: "Fiducia" }
     ]
   },
-  topics: {
-    jobs: { label: "Lavoro", concern: "Le persone partecipanti possono preoccuparsi della pressione dell'automazione, di un potere negoziale più debole o di sistemi di IA che cambiano il lavoro più rapidamente di quanto le tutele possano adattarsi.", proposal: "Possono proporre supporto nelle transizioni, responsabilità più chiare per i datori di lavoro e regole più forti quando l'IA cambia i compiti lavorativi.", agreement: "Può emergere un punto condiviso sulla necessità di informare le persone quando l'IA influisce su assunzioni, valutazioni o lavoro quotidiano." },
-    skills: { label: "Competenze", concern: "Le persone partecipanti possono temere che l'uso dell'IA indebolisca competenze pratiche, soprattutto quando gli strumenti sostituiscono l'apprendimento invece di sostenerlo.", proposal: "Possono proporre percorsi concreti di riqualificazione, supporti di apprendimento più chiari e responsabilità condivisa tra datori di lavoro, enti formativi e istituzioni pubbliche.", agreement: "Può emergere un punto condiviso sull'accesso all'alfabetizzazione all'IA oltre gli specialisti e i luoghi di lavoro con molte risorse." },
-    fairness: { label: "Equità", concern: "Le persone partecipanti possono temere che i benefici dell'IA si concentrino tra gruppi già avvantaggiati, mentre i rischi ricadano su lavoratrici e lavoratori più vulnerabili.", proposal: "Possono proporre standard di interesse pubblico, consultazione delle lavoratrici e dei lavoratori e controlli più forti prima dell'impiego di sistemi di IA.", agreement: "Può emergere un punto condiviso sull'evitare sistemi di IA che intensificano in modo silenzioso disuguaglianze o discriminazioni." },
-    education: { label: "Educazione", concern: "Le persone partecipanti possono temere che scuole e fornitori di formazione procedano in modo disomogeneo, lasciando alcune persone senza orientamento utile.", proposal: "Possono proporre corsi pratici sull'IA, programmi aggiornati e sostegno per insegnanti e formatrici e formatori.", agreement: "Può emergere un punto condiviso sul trattare la competenza in IA come parte della futura educazione civica e professionale." },
-    trust: { label: "Fiducia", concern: "Le persone partecipanti possono preoccuparsi di decisioni opache, responsabilità poco chiare o mancanza di informazioni quando l'IA ha influito su un risultato.", proposal: "Possono proporre obblighi di trasparenza, revisione umana e modi più chiari per contestare decisioni assistite dall'IA.", agreement: "Può emergere un punto condiviso sulla necessità di un uso comprensibile e responsabile dell'IA nei servizi pubblici e nel mondo del lavoro." }
-  },
-  lenses: {
-    concern: { label: "preoccupazioni", title: "Preoccupazione", round: "Turno 02" },
-    proposal: { label: "proposte", title: "Proposta", round: "Turno 03" },
-    agreement: { label: "accordo", title: "Accordo", round: "Turno 04" }
-  },
-  signals: { high: "Segnale forte", visible: "Segnale visibile", emerging: "Segnale emergente" },
   ui: {
-    selectedPrefix: "Prospettiva selezionata",
-    visibility: "Visibilità nella discussione di gruppo",
-    likelyReturn: "Probabilmente tornerà per la revisione",
-    chooseStore: "Scegli App Store o Google Play qui sotto, oppure scansiona il codice QR adatto al tuo telefono.",
-    heatAria: "Mostra {topic} {lens}",
-    insightTitle: "{topic}: {lens}"
+    chooseStore: "Scegli App Store o Google Play qui sotto, oppure scansiona il codice QR adatto al tuo telefono."
   }
 };

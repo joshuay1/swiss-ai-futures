@@ -42,7 +42,7 @@ The page should make clear that:
 - The app is used because the study needs repeated input over time, not just a one-time survey.
 - Participants who stay engaged throughout the app study and complete the main tasks will most likely be invited to one of two physical workshops, one in Zurich and one in Lausanne, during June 15-19, subject to workshop capacity and availability. Workshop participation is compensated.
 - The study is about AI in the future of work and labour markets.
-- Participants are being invited to contribute to a public conversation about the future of AI in Switzerland.
+- Participants are being invited to contribute to a public conversation about the future of AI in Switzerland and how public voices should be reflected in policy-facing recommendations.
 - Participant input will feed into the project's final report/book and policy-facing outputs.
 - The AI system is used to statistically group opinions, not to profile individuals or tell participants what to believe.
 
@@ -66,7 +66,7 @@ Help shape the future of AI in Switzerland.
 
 **Short description**
 
-AI is already changing work, education, and public life. Researchers at ETH Zurich are inviting Swiss residents aged 18 or older to add their voice to a study on how Switzerland should respond. Over about two weeks, participants return to the Atgora app several times to read short learning modules, answer quick polls, and share arguments. Each round can build on input contributed by other participants. The results will contribute to a TA-SWISS report/book and policy-facing outputs intended to inform Swiss decision-makers. Some participants may later be invited to an in-person workshop in Zurich or Lausanne.
+AI is already changing Switzerland: how people learn, work, are hired, train for new skills, and use public services. Researchers are inviting Swiss residents aged 18 or older to add their voice to a study on how Switzerland should respond, especially around the future of work and labour markets. Over about two weeks, participants return to the Atgora app several times to read short learning modules, answer quick polls, and share arguments. Each round can build on input contributed by other participants. The results will contribute to a TA-SWISS report/book and policy-facing outputs intended to inform Swiss decision-makers. Some participants may later be invited to an in-person workshop in Zurich or Lausanne.
 
 **Primary call to action**
 
@@ -106,11 +106,11 @@ Use this as the emotional and civic centre of the page.
 
 **Main message**
 
-AI policy should not be shaped only by experts, companies, or institutions. This study invites people living in Switzerland to help surface the questions, concerns, and proposals that matter to the public.
+AI is moving from a technical issue to a Swiss public issue. It can affect hiring, training, productivity, worker protection, education, public services, and who benefits from new tools. AI policy should not be shaped only by experts, companies, or institutions. This study invites people living in Switzerland to help surface the questions, concerns, and proposals that matter to the public.
 
 **Supporting copy**
 
-Your input will help researchers understand where people agree, where they disagree, and what kinds of policy ideas feel fair, realistic, or urgent. The results will contribute to a TA-SWISS report/book and policy-facing outputs intended to inform Swiss decision-makers, including the Swiss Parliament.
+Your input will help researchers understand where people agree, where they disagree, and what kinds of policy ideas feel fair, realistic, or urgent. A diverse mix of public perspectives helps connect policy-facing recommendations with the experiences of people who live with the consequences of AI in everyday work and public life. The results will contribute to a TA-SWISS report/book and policy-facing outputs intended to inform Swiss decision-makers, including the Swiss Parliament.
 
 **Short CTA copy options**
 
@@ -417,20 +417,21 @@ Do not publish the page until final approved participant-facing wording is avail
 ## Suggested Page Structure
 
 1. Hero with headline, short description, and download CTA
-2. Key facts strip
-3. Why your voice matters
-4. Why the study uses an app
-5. How participation works
-6. Who can participate
-7. What you will do in the app
-8. Possible workshop invitation
-9. Compensation
-10. How AI is used
-11. Privacy and data protection
-12. Voluntary participation and withdrawal
-13. Who is running the study
-14. FAQ
-15. Final download CTA
+2. App access walkthrough: download/open Atgora, open Courses, select Swiss AI Futures, start Stage1 Questionnaire, and answer prompts
+3. Key facts strip
+4. Why your voice matters
+5. Why the study uses an app
+6. How participation works
+7. Who can participate
+8. What you will do in the app
+9. Possible workshop invitation
+10. Compensation
+11. How AI is used
+12. Privacy and data protection
+13. Voluntary participation and withdrawal
+14. Who is running the study
+15. FAQ
+16. Final download CTA
 
 ## Why Your Voice Matters
 
