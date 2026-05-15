@@ -21,6 +21,60 @@ const getLanguageData = () => translations[currentLanguage] || translations.en |
 const getEnglishData = () => translations.en || {};
 const translateText = (key) => getLanguageData().text?.[key] || key;
 
+const supportedThemes = ["dark", "light"];
+const themeToggle = document.querySelector("[data-theme-toggle]");
+const themeMeta = document.querySelector('meta[name="theme-color"]');
+const themeLogos = document.querySelectorAll("[data-logo-dark][data-logo-light]");
+const getInitialTheme = () => {
+  const saved = window.localStorage.getItem("swiss-ai-theme");
+  const documentTheme = document.documentElement.dataset.theme;
+  if (supportedThemes.includes(saved)) return saved;
+  if (supportedThemes.includes(documentTheme)) return documentTheme;
+  return "dark";
+};
+
+let currentTheme = getInitialTheme();
+
+const updateThemeToggle = () => {
+  if (!themeToggle) return;
+  const label = currentTheme === "dark" ? "Switch to light mode" : "Switch to dark mode";
+  const translatedLabel = translateText(label);
+  themeToggle.setAttribute("aria-label", translatedLabel);
+  themeToggle.setAttribute("title", translatedLabel);
+};
+
+const updateThemeLogos = () => {
+  themeLogos.forEach((image) => {
+    const nextSource = currentTheme === "dark" ? image.dataset.logoDark : image.dataset.logoLight;
+    if (nextSource && image.getAttribute("src") !== nextSource) {
+      image.setAttribute("src", nextSource);
+    }
+  });
+};
+
+const applyTheme = (theme, shouldPersist = true) => {
+  if (!supportedThemes.includes(theme)) return;
+  currentTheme = theme;
+  document.documentElement.dataset.theme = theme;
+  updateThemeLogos();
+  updateThemeToggle();
+  if (themeMeta) {
+    themeMeta.setAttribute("content", theme === "dark" ? "#11100e" : "#f7f6f0");
+  }
+  if (shouldPersist) {
+    window.localStorage.setItem("swiss-ai-theme", theme);
+  }
+  document.dispatchEvent(new CustomEvent("theme-change", { detail: { theme } }));
+};
+
+applyTheme(currentTheme, false);
+
+themeToggle?.addEventListener("click", () => {
+  applyTheme(currentTheme === "dark" ? "light" : "dark");
+});
+
+document.addEventListener("language-change", updateThemeToggle);
+
 const updateLanguageButtons = () => {
   document.querySelectorAll("[data-lang]").forEach((button) => {
     const isActive = button.dataset.lang === currentLanguage;
@@ -61,6 +115,7 @@ const translateTextNodes = () => {
 
 const translateAttributes = () => {
   document.querySelectorAll("[aria-label], img[alt]").forEach((element) => {
+    if (element.hasAttribute("data-dynamic-label")) return;
     ["aria-label", "alt"].forEach((attribute) => {
       if (!element.hasAttribute(attribute)) return;
       if (!baseAttrValues.has(element)) {
@@ -209,23 +264,33 @@ const initOpinionMap = () => {
   const ctx = opinionCanvas.getContext("2d");
   if (!ctx) return;
 
-  const styles = getComputedStyle(document.documentElement);
-  const colors = {
-    bg: styles.getPropertyValue("--paper").trim() || "#fffdf7",
-    ink: styles.getPropertyValue("--ink").trim() || "#111411",
-    muted: styles.getPropertyValue("--muted").trim() || "#5d675f",
-    line: styles.getPropertyValue("--line").trim() || "#d6dcd4",
-    red: styles.getPropertyValue("--red").trim() || "#e21b2d",
-    green: styles.getPropertyValue("--green").trim() || "#19b98e",
-    blue: styles.getPropertyValue("--blue").trim() || "#315f7d"
+  const readColors = () => {
+    const styles = getComputedStyle(document.documentElement);
+    return {
+      bg: styles.getPropertyValue("--paper").trim() || "#171512",
+      ink: styles.getPropertyValue("--ink").trim() || "#f4efe7",
+      muted: styles.getPropertyValue("--muted").trim() || "#beb6aa",
+      line: styles.getPropertyValue("--line").trim() || "#34302a",
+      red: styles.getPropertyValue("--red").trim() || "#ff6672",
+      green: styles.getPropertyValue("--green").trim() || "#ffb23e",
+      blue: styles.getPropertyValue("--blue").trim() || "#b9b0a4"
+    };
   };
 
+  let colors = readColors();
   const getOpinionCopy = () => getLanguageData().opinion || getEnglishData().opinion || {};
   const clusters = [
-    { copyIndex: 0, color: colors.red, baseX: 0.32, baseY: 0.34 },
-    { copyIndex: 1, color: colors.green, baseX: 0.64, baseY: 0.42 },
-    { copyIndex: 2, color: colors.blue, baseX: 0.48, baseY: 0.68 }
+    { copyIndex: 0, colorKey: "red", color: colors.red, baseX: 0.32, baseY: 0.34 },
+    { copyIndex: 1, colorKey: "green", color: colors.green, baseX: 0.64, baseY: 0.42 },
+    { copyIndex: 2, colorKey: "blue", color: colors.blue, baseX: 0.48, baseY: 0.68 }
   ];
+
+  const refreshColors = () => {
+    colors = readColors();
+    clusters.forEach((cluster) => {
+      cluster.color = colors[cluster.colorKey] || cluster.color;
+    });
+  };
 
   const points = [];
   const margin = { top: 44, right: 50, bottom: 44, left: 50 };
@@ -496,6 +561,12 @@ const initOpinionMap = () => {
 
   document.addEventListener("language-change", () => {
     setResponseCount();
+    if (prefersReducedMotion) {
+      draw();
+    }
+  });
+  document.addEventListener("theme-change", () => {
+    refreshColors();
     if (prefersReducedMotion) {
       draw();
     }

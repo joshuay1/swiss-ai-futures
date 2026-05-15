@@ -153,6 +153,58 @@ window.SWISS_AI_I18N = {
       "Respond": "Antworten",
       "Review": "Prüfen",
       "How public input is used": "Wie öffentliche Beiträge genutzt werden",
+      "Help steer the next round": "Lenken Sie die nächste Runde mit",
+      "Each app round is short. Your answers, votes, and brief responses help decide which questions the study should explore next.":
+        "Jede App-Runde ist kurz. Ihre Antworten, Abstimmungen und kurzen Beiträge helfen mitzuentscheiden, welche Fragen die Studie als Nächstes vertiefen soll.",
+      "After a round closes, the study team reviews what participants raised. The next round can then follow the concerns, disagreements, or ideas that matter most to participants.":
+        "Nachdem eine Runde abgeschlossen ist, prüft das Studienteam, was Teilnehmende eingebracht haben. Die nächste Runde kann dann den Anliegen, Meinungsverschiedenheiten oder Ideen folgen, die den Teilnehmenden am wichtigsten sind.",
+      "The app is designed as a conversation participants can guide over time.":
+        "Die App ist als Gespräch angelegt, das Teilnehmende über die Zeit mitlenken können.",
+      "What people raise in one round can become the focus of the next.":
+        "Was Menschen in einer Runde einbringen, kann zum Schwerpunkt der nächsten werden.",
+      "The first round opens the topic": "Die erste Runde öffnet das Thema",
+      "It starts from existing research, expert focus groups, and public debate, so participants have a shared starting point.":
+        "Sie beginnt mit bestehender Forschung, Fokusgruppen mit Fachleuten und öffentlichen Debatten, damit Teilnehmende einen gemeinsamen Ausgangspunkt haben.",
+      "You share what feels important": "Sie teilen, was Ihnen wichtig erscheint",
+      "In Atgora, you can answer polls, react to short learning material, or add a brief response in your own words.":
+        "In Atgora können Sie Umfragen beantworten, auf kurzes Lernmaterial reagieren oder eine kurze Antwort in eigenen Worten hinzufügen.",
+      "Participant input sets priorities": "Beiträge der Teilnehmenden setzen Schwerpunkte",
+      "The study team looks for the questions, concerns, disagreements, and ideas that participants bring forward.":
+        "Das Studienteam sucht nach den Fragen, Anliegen, Meinungsverschiedenheiten und Ideen, die Teilnehmende einbringen.",
+      "The next round follows those priorities": "Die nächste Runde folgt diesen Schwerpunkten",
+      "New learning material and voting questions can focus on themes people raised earlier.":
+        "Neues Lernmaterial und Abstimmungsfragen können sich auf Themen konzentrieren, die Menschen zuvor eingebracht haben.",
+      "Your input can carry into later steps": "Ihre Beiträge können in spätere Schritte einfliessen",
+      "Themes from the app rounds can help shape workshop topics and later project outputs.":
+        "Themen aus den App-Runden können helfen, Workshop-Inhalte und spätere Projektergebnisse zu gestalten.",
+      "In the app itself, you only need to follow the prompts. Your repeated input helps guide where the discussion goes.":
+        "In der App selbst müssen Sie nur den Hinweisen folgen. Ihre wiederholten Beiträge helfen zu lenken, wohin die Diskussion geht.",
+      "How your input shapes the next round": "Wie Ihre Beiträge die nächste Runde prägen",
+      "Each app round is short. You may read a short text, answer a poll, or share a brief response.":
+        "Jede App-Runde ist kurz. Sie können einen kurzen Text lesen, an einer Umfrage teilnehmen oder eine kurze Antwort teilen.",
+      "After a round closes, the study team reviews what participants shared. The next round can then focus on questions, concerns, or ideas that came up earlier.":
+        "Nachdem eine Runde abgeschlossen ist, prüft das Studienteam, was Teilnehmende eingebracht haben. Die nächste Runde kann sich dann auf Fragen, Anliegen oder Ideen konzentrieren, die zuvor aufgekommen sind.",
+      "The study works like a conversation over several rounds.":
+        "Die Studie funktioniert wie ein Gespräch über mehrere Runden.",
+      "Each round listens to what people shared before, then asks clearer follow-up questions.":
+        "Jede Runde greift auf, was zuvor geteilt wurde, und stellt danach klarere Anschlussfragen.",
+      "The first round starts broad": "Die erste Runde beginnt breit",
+      "It uses existing research, expert focus groups, and public debate to ask about AI, work, education, skills, and policy.":
+        "Sie nutzt bestehende Forschung, Fokusgruppen mit Fachleuten und öffentliche Debatten, um nach KI, Arbeit, Bildung, Kompetenzen und Politik zu fragen.",
+      "People answer short prompts in Atgora": "Teilnehmende beantworten kurze Fragen in Atgora",
+      "Participants may read a short text, vote in a poll, or write a brief response.":
+        "Teilnehmende können einen kurzen Text lesen, in einer Umfrage abstimmen oder eine kurze Antwort schreiben.",
+      "The study team looks for shared themes": "Das Studienteam sucht nach gemeinsamen Themen",
+      "We look for common questions, concerns, disagreements, and ideas. The focus is on patterns, not judging individual answers.":
+        "Wir suchen nach gemeinsamen Fragen, Anliegen, Meinungsverschiedenheiten und Ideen. Im Mittelpunkt stehen Muster, nicht die Bewertung einzelner Antworten.",
+      "The next round is updated": "Die nächste Runde wird angepasst",
+      "New learning material and voting questions can build on what people raised before.":
+        "Neues Lernmaterial und Abstimmungsfragen können auf dem aufbauen, was Menschen zuvor eingebracht haben.",
+      "The results can inform later steps": "Die Ergebnisse können spätere Schritte mitprägen",
+      "After the app rounds, the themes can help shape workshop topics and later project outputs.":
+        "Nach den App-Runden können die Themen helfen, Workshop-Inhalte und spätere Projektergebnisse zu gestalten.",
+      "In the app itself, you only need to follow the short prompts and come back for the next round.":
+        "In der App selbst müssen Sie nur den kurzen Hinweisen folgen und zur nächsten Runde zurückkommen.",
       "Each round builds on the last": "Jede Runde baut auf der vorherigen auf",
       "In each app round, participants receive a short learning prompt or question. After the round closes, the study team reviews the previous input and uses it to shape the next round of learning material and voting questions.":
         "In jeder App-Runde erhalten Teilnehmende einen kurzen Lernimpuls oder eine Frage. Nach Abschluss der Runde prüft das Studienteam die bisherigen Beiträge und nutzt sie, um die nächste Runde mit Lernmaterial und Abstimmungsfragen zu gestalten.",
@@ -162,6 +214,63 @@ window.SWISS_AI_I18N = {
         "Diagramm des Online-Prozesses in Stage 1 mit Informationsinputs, Antworten von Teilnehmenden, kurzen Abstimmungsrunden und Workshop-Themen",
       "The workflow has more detail than participants need day to day; the app experience is simpler: read, vote, respond, and come back for the next round.":
         "Der Ablauf enthält mehr Details, als Teilnehmende im Alltag brauchen; die App-Erfahrung ist einfacher: lesen, abstimmen, antworten und zur nächsten Runde zurückkommen.",
+      "How the online rounds learn from public input": "Wie die Online-Runden aus öffentlichen Beiträgen lernen",
+      "Before each round, the study combines expert input, public discussion, and participant responses. After each round, responses are reviewed and used to build the next learning material and voting questions.":
+        "Vor jeder Runde verbindet die Studie Beiträge von Fachleuten, öffentliche Diskussionen und Antworten der Teilnehmenden. Nach jeder Runde werden die Antworten geprüft und genutzt, um das nächste Lernmaterial und die Abstimmungsfragen zu erstellen.",
+      "In the app, participants mostly see simple prompts. This view shows how their input moves through the study.":
+        "In der App sehen Teilnehmende vor allem einfache Fragen und Hinweise. Diese Ansicht zeigt, wie ihre Beiträge durch die Studie fliessen.",
+      "How each app round builds on previous input": "Wie jede App-Runde auf früheren Beiträgen aufbaut",
+      "From one app round to the next": "Von einer App-Runde zur nächsten",
+      "What informs the first round": "Was die erste Runde prägt",
+      "Stage 1 online process": "Online-Prozess in Phase 1",
+      "Information inputs": "Informationsquellen",
+      "Expert focus groups": "Fokusgruppen mit Fachleuten",
+      "Early questions from policy and research": "Frühe Fragen aus Politik und Forschung",
+      "Policy and research": "Politik und Forschung",
+      "News and public discussion": "Nachrichten und öffentliche Diskussion",
+      "Issues people are already talking about": "Themen, über die bereits gesprochen wird",
+      "Media and news articles": "Medien und Nachrichtenartikel",
+      "Public discussion": "Öffentliche Diskussion",
+      "Starts the app prompts": "Startet die Fragen in der App",
+      "Inform and guide": "Informieren und leiten",
+      "First questionnaire": "Erster Fragebogen",
+      "Participants learn, share initial views, and answer background questions":
+        "Teilnehmende lernen, teilen erste Einschätzungen und beantworten Hintergrundfragen",
+      "Step 1 questionnaire": "Fragebogen Schritt 1",
+      "Learn from experts, DRI baseline, and demographics":
+        "Aus Fachwissen, DRI-Ausgangswert und demografischen Angaben lernen",
+      "Each round builds on the previous one": "Jede Runde baut auf der vorherigen auf",
+      "Social knowledge loop": "Wissensschleife",
+      "Study team reviews responses": "Das Studienteam prüft Antworten",
+      "Common questions, concerns, and ideas are identified":
+        "Gemeinsame Fragen, Anliegen und Ideen werden sichtbar",
+      "AI-supported curation": "KI-unterstützte Kuratierung",
+      "Participant responses become new learning material":
+        "Antworten der Teilnehmenden werden zu neuem Lernmaterial",
+      "Next app round": "Nächste App-Runde",
+      "New learning material and voting prompts are shaped by earlier input":
+        "Neues Lernmaterial und Abstimmungsfragen werden durch frühere Beiträge mitgestaltet",
+      "Micro-voting rounds": "Kurze Abstimmungsrunden",
+      "Learn from citizens, contribute, and interact":
+        "Von Bürgerinnen und Bürgern lernen, beitragen und reagieren",
+      "Then the cycle repeats": "Dann wiederholt sich der Ablauf",
+      "Repeats across rounds": "Wiederholt sich über die Runden",
+      "After several rounds": "Nach mehreren Runden",
+      "Mid-study survey": "Befragung in der Mitte der Studie",
+      "Checks how views and understanding developed during the app rounds":
+        "Prüft, wie sich Sichtweisen und Verständnis während der App-Runden entwickelt haben",
+      "Mid-term DRI survey": "Zwischenbefragung zum DRI",
+      "Measures mutual understanding before a possible workshop":
+        "Misst gegenseitiges Verständnis vor einem möglichen Workshop",
+      "Can inform": "Kann mitprägen",
+      "Physical workshop": "Workshop vor Ort",
+      "Workshop topics can be shaped by what people raised online":
+        "Workshop-Themen können durch das geprägt werden, was online eingebracht wurde",
+      "Topics informed by the online process": "Themen werden durch den Online-Prozess mitgeprägt",
+      "Process legend": "Legende des Prozesses",
+      "Study team work": "Arbeit des Studienteams",
+      "Study team / processing": "Studienteam / Verarbeitung",
+      "Participant activity": "Aktivität der Teilnehmenden",
       "Participant journey": "Ablauf für Teilnehmende",
       "Study path": "Studienablauf",
       "Most participation happens in the Atgora app between May 19 and June 5. You only need to return about four times over these two weeks, for roughly 10 minutes each time. The workshop is a separate possible next step for engaged participants.":
@@ -222,20 +331,27 @@ window.SWISS_AI_I18N = {
       "Clear data limits": "Klare Datengrenzen",
       "ETH Zurich is responsible for the research data. Identifying information is stored separately from coded research data, which means study data is stored under an ID rather than your name. App infrastructure is hosted in the European Union, Stockholm region.":
         "Die ETH Zürich ist für die Forschungsdaten verantwortlich. Identifizierende Informationen werden getrennt von codierten Forschungsdaten gespeichert; das heisst, Studiendaten werden unter einer ID statt unter Ihrem Namen gespeichert. Die App-Infrastruktur wird in der Europäischen Union, Region Stockholm, gehostet.",
+      "Data collected during the online app study": "Daten, die während der Online-App-Studie erhoben werden",
       "Data the study may collect": "Daten, die die Studie erfassen kann",
+      "Contact details for study communication and possible workshop invitations":
+        "Kontaktdaten für Studienkommunikation und mögliche Workshop-Einladungen",
       "Contact details for study communication, workshop invitations, and voucher administration":
         "Kontaktdaten für Studienkommunikation, Workshop-Einladungen und Gutscheinadministration",
       "Survey responses, demographic profile information, app votes, and short written responses":
         "Befragungsantworten, demografische Profilinformationen, App-Abstimmungen und kurze schriftliche Antworten",
       "Participation and completion information needed to run the study":
         "Teilnahme- und Abschlussinformationen, die für die Durchführung der Studie benötigt werden",
+      "If you are later invited to a workshop, audio recording would be covered by a separate consent step":
+        "Falls Sie später zu einem Workshop eingeladen werden, würde eine Audioaufnahme über einen separaten Einwilligungsschritt geregelt.",
+      "The online app stage does not ask for audio recordings; any later workshop recording would require separate consent":
+        "Die Online-App-Phase fragt nicht nach Audioaufnahmen; jede spätere Aufnahme in einem Workshop würde eine separate Einwilligung erfordern.",
       "Audio recordings only for workshop discussion participants who explicitly consent":
         "Audioaufnahmen nur für Workshop-Teilnehmende, die ausdrücklich einwilligen",
       "What is not collected or not used": "Was nicht erhoben oder nicht genutzt wird",
       "No geolocation or background tracking for this study": "Keine Geolokalisierung oder Hintergrundverfolgung für diese Studie",
       "No tracking outside the app": "Kein Tracking ausserhalb der App",
       "No third-party advertising data sharing": "Keine Weitergabe von Daten für Werbung durch Dritte",
-      "No phone microphone use in the app-based workshop condition": "Keine Nutzung des Smartphone-Mikrofons in der app-basierten Workshop-Bedingung",
+      "No audio recordings without explicit consent": "Keine Audioaufnahmen ohne ausdrückliche Einwilligung",
       "Your rights": "Ihre Rechte",
       "Participation is voluntary. You may withdraw at any time without giving a reason and without disadvantage. You may request access, correction, deletion, or restriction of processing where applicable.":
         "Die Teilnahme ist freiwillig. Sie können jederzeit ohne Angabe von Gründen und ohne Nachteile zurücktreten. Soweit anwendbar, können Sie Auskunft, Berichtigung, Löschung oder Einschränkung der Verarbeitung verlangen.",
@@ -299,7 +415,9 @@ window.SWISS_AI_I18N = {
         "Teil des Projekts Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.",
       "Ethics status: approved without reservations by the ETH Zurich Ethics Commission. Project 26 ETHICS-116.":
         "Ethikstatus: von der Ethikkommission der ETH Zürich ohne Vorbehalte bewilligt. Projekt 26 ETHICS-116.",
-      "Contact the study lead": "Studienleitung kontaktieren"
+      "Contact the study lead": "Studienleitung kontaktieren",
+      "Switch to light mode": "Zum hellen Modus wechseln",
+      "Switch to dark mode": "Zum dunklen Modus wechseln"
     },
     rounds: [
       {
@@ -444,6 +562,58 @@ window.SWISS_AI_I18N.fr = {
     "Respond": "Répondre",
     "Review": "Revoir",
     "How public input is used": "Comment les contributions du public sont utilisées",
+    "Help steer the next round": "Aidez à orienter le prochain tour",
+    "Each app round is short. Your answers, votes, and brief responses help decide which questions the study should explore next.":
+      "Chaque tour dans l'app est court. Vos réponses, votes et brèves contributions aident à décider quelles questions l'étude devrait explorer ensuite.",
+    "After a round closes, the study team reviews what participants raised. The next round can then follow the concerns, disagreements, or ideas that matter most to participants.":
+      "Une fois un tour terminé, l'équipe de recherche examine ce que les participantes et participants ont soulevé. Le tour suivant peut alors suivre les préoccupations, désaccords ou idées qui comptent le plus pour eux.",
+    "The app is designed as a conversation participants can guide over time.":
+      "L'app est conçue comme une conversation que les participantes et participants peuvent orienter au fil du temps.",
+    "What people raise in one round can become the focus of the next.":
+      "Ce que les personnes soulèvent dans un tour peut devenir le centre du suivant.",
+    "The first round opens the topic": "Le premier tour ouvre le sujet",
+    "It starts from existing research, expert focus groups, and public debate, so participants have a shared starting point.":
+      "Il part de la recherche existante, de focus groups d'expertes et experts et du débat public, afin que les participantes et participants disposent d'un point de départ commun.",
+    "You share what feels important": "Vous partagez ce qui vous semble important",
+    "In Atgora, you can answer polls, react to short learning material, or add a brief response in your own words.":
+      "Dans Atgora, vous pouvez répondre à des sondages, réagir à un court contenu d'information ou ajouter une brève réponse avec vos propres mots.",
+    "Participant input sets priorities": "Les contributions des participantes et participants fixent des priorités",
+    "The study team looks for the questions, concerns, disagreements, and ideas that participants bring forward.":
+      "L'équipe de recherche repère les questions, préoccupations, désaccords et idées que les participantes et participants mettent en avant.",
+    "The next round follows those priorities": "Le tour suivant suit ces priorités",
+    "New learning material and voting questions can focus on themes people raised earlier.":
+      "De nouveaux contenus d'information et de nouvelles questions de vote peuvent se concentrer sur les thèmes soulevés plus tôt.",
+    "Your input can carry into later steps": "Vos contributions peuvent se prolonger dans les étapes suivantes",
+    "Themes from the app rounds can help shape workshop topics and later project outputs.":
+      "Les thèmes issus des tours dans l'app peuvent aider à préparer les sujets d'atelier et les futurs résultats du projet.",
+    "In the app itself, you only need to follow the prompts. Your repeated input helps guide where the discussion goes.":
+      "Dans l'app elle-même, il suffit de suivre les consignes. Vos contributions répétées aident à orienter la discussion.",
+    "How your input shapes the next round": "Comment vos contributions orientent le prochain tour",
+    "Each app round is short. You may read a short text, answer a poll, or share a brief response.":
+      "Chaque tour dans l'app est court. Vous pouvez lire un court texte, répondre à un sondage ou partager une brève réponse.",
+    "After a round closes, the study team reviews what participants shared. The next round can then focus on questions, concerns, or ideas that came up earlier.":
+      "Une fois un tour terminé, l'équipe de recherche examine ce que les participantes et participants ont partagé. Le tour suivant peut alors se concentrer sur les questions, préoccupations ou idées apparues plus tôt.",
+    "The study works like a conversation over several rounds.":
+      "L'étude fonctionne comme une conversation en plusieurs tours.",
+    "Each round listens to what people shared before, then asks clearer follow-up questions.":
+      "Chaque tour tient compte de ce qui a été partagé avant, puis pose des questions de suivi plus claires.",
+    "The first round starts broad": "Le premier tour commence largement",
+    "It uses existing research, expert focus groups, and public debate to ask about AI, work, education, skills, and policy.":
+      "Il s'appuie sur la recherche existante, des focus groups d'expertes et experts et le débat public pour poser des questions sur l'IA, le travail, l'éducation, les compétences et les politiques publiques.",
+    "People answer short prompts in Atgora": "Les participantes et participants répondent à de courtes consignes dans Atgora",
+    "Participants may read a short text, vote in a poll, or write a brief response.":
+      "Les participantes et participants peuvent lire un court texte, voter dans un sondage ou écrire une brève réponse.",
+    "The study team looks for shared themes": "L'équipe de recherche repère les thèmes partagés",
+    "We look for common questions, concerns, disagreements, and ideas. The focus is on patterns, not judging individual answers.":
+      "Nous cherchons les questions, préoccupations, désaccords et idées qui reviennent. L'objectif est d'observer des tendances, pas de juger des réponses individuelles.",
+    "The next round is updated": "Le tour suivant est adapté",
+    "New learning material and voting questions can build on what people raised before.":
+      "De nouveaux contenus d'information et de nouvelles questions de vote peuvent s'appuyer sur ce que les personnes ont soulevé auparavant.",
+    "The results can inform later steps": "Les résultats peuvent nourrir les étapes suivantes",
+    "After the app rounds, the themes can help shape workshop topics and later project outputs.":
+      "Après les tours dans l'app, les thèmes peuvent aider à préparer les sujets d'atelier et les futurs résultats du projet.",
+    "In the app itself, you only need to follow the short prompts and come back for the next round.":
+      "Dans l'app elle-même, il suffit de suivre les courtes consignes et de revenir pour le tour suivant.",
     "Each round builds on the last": "Chaque tour s'appuie sur le précédent",
     "In each app round, participants receive a short learning prompt or question. After the round closes, the study team reviews the previous input and uses it to shape the next round of learning material and voting questions.":
       "À chaque tour dans l'app, les participantes et participants reçoivent une courte information ou une question. Une fois le tour terminé, l'équipe de recherche examine les contributions précédentes et les utilise pour construire le prochain contenu d'information et les prochaines questions de vote.",
@@ -453,6 +623,63 @@ window.SWISS_AI_I18N.fr = {
       "Schéma du processus en ligne de la Stage 1, avec apports d'information, réponses des participantes et participants, courts tours de vote et thèmes d'atelier",
     "The workflow has more detail than participants need day to day; the app experience is simpler: read, vote, respond, and come back for the next round.":
       "Le déroulement contient plus de détails que ce dont les participantes et participants ont besoin au quotidien; l'expérience dans l'app est plus simple: lire, voter, répondre et revenir pour le prochain tour.",
+    "How the online rounds learn from public input": "Comment les tours en ligne apprennent des contributions du public",
+    "Before each round, the study combines expert input, public discussion, and participant responses. After each round, responses are reviewed and used to build the next learning material and voting questions.":
+      "Avant chaque tour, l'étude combine les apports d'expertes et experts, la discussion publique et les réponses des participantes et participants. Après chaque tour, les réponses sont examinées et utilisées pour construire le prochain contenu d'information et les prochaines questions de vote.",
+    "In the app, participants mostly see simple prompts. This view shows how their input moves through the study.":
+      "Dans l'app, les participantes et participants voient surtout de courtes consignes. Cette vue montre comment leurs contributions circulent dans l'étude.",
+    "How each app round builds on previous input": "Comment chaque tour dans l'app s'appuie sur les contributions précédentes",
+    "From one app round to the next": "D'un tour dans l'app au suivant",
+    "What informs the first round": "Ce qui nourrit le premier tour",
+    "Stage 1 online process": "Processus en ligne de la phase 1",
+    "Information inputs": "Sources d'information",
+    "Expert focus groups": "Focus groups d'expertes et experts",
+    "Early questions from policy and research": "Premières questions issues des politiques publiques et de la recherche",
+    "Policy and research": "Politiques publiques et recherche",
+    "News and public discussion": "Actualités et discussion publique",
+    "Issues people are already talking about": "Sujets dont les personnes parlent déjà",
+    "Media and news articles": "Médias et articles d'actualité",
+    "Public discussion": "Discussion publique",
+    "Starts the app prompts": "Lance les consignes dans l'app",
+    "Inform and guide": "Informer et guider",
+    "First questionnaire": "Premier questionnaire",
+    "Participants learn, share initial views, and answer background questions":
+      "Les participantes et participants s'informent, partagent leurs premiers avis et répondent à des questions de contexte",
+    "Step 1 questionnaire": "Questionnaire étape 1",
+    "Learn from experts, DRI baseline, and demographics":
+      "Apprendre des expertises, du point de départ DRI et des données démographiques",
+    "Each round builds on the previous one": "Chaque tour s'appuie sur le précédent",
+    "Social knowledge loop": "Boucle de connaissances publiques",
+    "Study team reviews responses": "L'équipe de recherche examine les réponses",
+    "Common questions, concerns, and ideas are identified":
+      "Les questions, préoccupations et idées communes sont repérées",
+    "AI-supported curation": "Curation assistée par l'IA",
+    "Participant responses become new learning material":
+      "Les réponses deviennent de nouveaux contenus d'information",
+    "Next app round": "Prochain tour dans l'app",
+    "New learning material and voting prompts are shaped by earlier input":
+      "Les nouveaux contenus d'information et les questions de vote sont façonnés par les contributions précédentes",
+    "Micro-voting rounds": "Courts tours de vote",
+    "Learn from citizens, contribute, and interact":
+      "Apprendre des citoyennes et citoyens, contribuer et interagir",
+    "Then the cycle repeats": "Puis le cycle recommence",
+    "Repeats across rounds": "Se répète au fil des tours",
+    "After several rounds": "Après plusieurs tours",
+    "Mid-study survey": "Questionnaire au milieu de l'étude",
+    "Checks how views and understanding developed during the app rounds":
+      "Vérifie comment les points de vue et la compréhension ont évolué pendant les tours dans l'app",
+    "Mid-term DRI survey": "Enquête DRI intermédiaire",
+    "Measures mutual understanding before a possible workshop":
+      "Mesure la compréhension mutuelle avant un atelier possible",
+    "Can inform": "Peut nourrir",
+    "Physical workshop": "Atelier en présence",
+    "Workshop topics can be shaped by what people raised online":
+      "Les thèmes de l'atelier peuvent être façonnés par ce que les personnes ont soulevé en ligne",
+    "Topics informed by the online process": "Thèmes nourris par le processus en ligne",
+    "Process legend": "Légende du processus",
+    "Study team work": "Travail de l'équipe de recherche",
+    "Study team / processing": "Équipe de recherche / traitement",
+    "Participant activity": "Activité des participantes et participants",
     "Participant journey": "Parcours de participation",
     "Study path": "Parcours de l'étude",
     "Most participation happens in the Atgora app between May 19 and June 5. You only need to return about four times over these two weeks, for roughly 10 minutes each time. The workshop is a separate possible next step for engaged participants.":
@@ -513,16 +740,23 @@ window.SWISS_AI_I18N.fr = {
     "Clear data limits": "Limites claires pour les données",
     "ETH Zurich is responsible for the research data. Identifying information is stored separately from coded research data, which means study data is stored under an ID rather than your name. App infrastructure is hosted in the European Union, Stockholm region.":
       "L'ETH Zurich est responsable des données de recherche. Les informations identifiantes sont conservées séparément des données de recherche codées; cela signifie que les données de l'étude sont stockées sous un identifiant plutôt que sous votre nom. L'infrastructure de l'app est hébergée dans l'Union européenne, région de Stockholm.",
+    "Data collected during the online app study": "Données collectées pendant l'étude en ligne dans l'app",
     "Data the study may collect": "Données que l'étude peut collecter",
+    "Contact details for study communication and possible workshop invitations":
+      "Coordonnées pour la communication liée à l'étude et d'éventuelles invitations aux ateliers",
     "Contact details for study communication, workshop invitations, and voucher administration": "Coordonnées pour la communication liée à l'étude, les invitations aux ateliers et l'administration des bons",
     "Survey responses, demographic profile information, app votes, and short written responses": "Réponses aux questionnaires, informations de profil démographique, votes dans l'app et courtes réponses écrites",
     "Participation and completion information needed to run the study": "Informations de participation et d'achèvement nécessaires au déroulement de l'étude",
+    "If you are later invited to a workshop, audio recording would be covered by a separate consent step":
+      "Si vous êtes ensuite invité à un atelier, tout enregistrement audio ferait l'objet d'une étape de consentement séparée",
+    "The online app stage does not ask for audio recordings; any later workshop recording would require separate consent":
+      "La phase en ligne dans l'app ne demande pas d'enregistrements audio; tout enregistrement lors d'un atelier ultérieur nécessiterait un consentement séparé",
     "Audio recordings only for workshop discussion participants who explicitly consent": "Enregistrements audio uniquement pour les personnes participant aux discussions d'atelier qui donnent leur consentement explicite",
     "What is not collected or not used": "Ce qui n'est pas collecté ou pas utilisé",
     "No geolocation or background tracking for this study": "Pas de géolocalisation ni de suivi en arrière-plan pour cette étude",
     "No tracking outside the app": "Pas de suivi en dehors de l'app",
     "No third-party advertising data sharing": "Pas de partage de données publicitaires avec des tiers",
-    "No phone microphone use in the app-based workshop condition": "Pas d'utilisation du microphone du téléphone dans la condition d'atelier basée sur l'app",
+    "No audio recordings without explicit consent": "Pas d'enregistrements audio sans consentement explicite",
     "Your rights": "Vos droits",
     "Participation is voluntary. You may withdraw at any time without giving a reason and without disadvantage. You may request access, correction, deletion, or restriction of processing where applicable.":
       "La participation est volontaire. Vous pouvez vous retirer à tout moment sans donner de raison et sans désavantage. Vous pouvez demander l'accès, la correction, la suppression ou la limitation du traitement lorsque cela s'applique.",
@@ -580,7 +814,9 @@ window.SWISS_AI_I18N.fr = {
     "AI-Supported Deliberation Experiment": "Expérience de délibération assistée par l'IA",
     "Part of Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.": "Fait partie du projet Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.",
     "Ethics status: approved without reservations by the ETH Zurich Ethics Commission. Project 26 ETHICS-116.": "Statut éthique: approuvé sans réserve par la Commission d'éthique de l'ETH Zurich. Projet 26 ETHICS-116.",
-    "Contact the study lead": "Contacter la direction de l'étude"
+    "Contact the study lead": "Contacter la direction de l'étude",
+    "Switch to light mode": "Passer au mode clair",
+    "Switch to dark mode": "Passer au mode sombre"
   },
   rounds: [
     {
@@ -724,6 +960,58 @@ window.SWISS_AI_I18N.it = {
     "Respond": "Rispondere",
     "Review": "Rivedere",
     "How public input is used": "Come viene usato il contributo pubblico",
+    "Help steer the next round": "Contribuite a orientare il turno successivo",
+    "Each app round is short. Your answers, votes, and brief responses help decide which questions the study should explore next.":
+      "Ogni turno nell'app è breve. Le vostre risposte, voti e brevi contributi aiutano a decidere quali domande lo studio dovrebbe esplorare in seguito.",
+    "After a round closes, the study team reviews what participants raised. The next round can then follow the concerns, disagreements, or ideas that matter most to participants.":
+      "Al termine di un turno, il team di ricerca esamina ciò che le persone partecipanti hanno sollevato. Il turno successivo può quindi seguire le preoccupazioni, i disaccordi o le idee che contano di più per loro.",
+    "The app is designed as a conversation participants can guide over time.":
+      "L'app è pensata come una conversazione che le persone partecipanti possono orientare nel tempo.",
+    "What people raise in one round can become the focus of the next.":
+      "Ciò che le persone sollevano in un turno può diventare il focus del successivo.",
+    "The first round opens the topic": "Il primo turno apre il tema",
+    "It starts from existing research, expert focus groups, and public debate, so participants have a shared starting point.":
+      "Parte da ricerche esistenti, focus group con esperte ed esperti e dibattito pubblico, così le persone partecipanti hanno un punto di partenza condiviso.",
+    "You share what feels important": "Condividete ciò che vi sembra importante",
+    "In Atgora, you can answer polls, react to short learning material, or add a brief response in your own words.":
+      "In Atgora potete rispondere a sondaggi, reagire a brevi materiali informativi o aggiungere una breve risposta con parole vostre.",
+    "Participant input sets priorities": "I contributi delle persone partecipanti definiscono le priorità",
+    "The study team looks for the questions, concerns, disagreements, and ideas that participants bring forward.":
+      "Il team di ricerca cerca le domande, le preoccupazioni, i disaccordi e le idee che le persone partecipanti portano avanti.",
+    "The next round follows those priorities": "Il turno successivo segue queste priorità",
+    "New learning material and voting questions can focus on themes people raised earlier.":
+      "Nuovo materiale informativo e domande di voto possono concentrarsi sui temi sollevati in precedenza.",
+    "Your input can carry into later steps": "Il vostro contributo può proseguire nei passaggi successivi",
+    "Themes from the app rounds can help shape workshop topics and later project outputs.":
+      "I temi emersi dai turni nell'app possono aiutare a definire gli argomenti dei workshop e i successivi risultati del progetto.",
+    "In the app itself, you only need to follow the prompts. Your repeated input helps guide where the discussion goes.":
+      "Nell'app stessa basta seguire le indicazioni. I vostri contributi ripetuti aiutano a orientare la discussione.",
+    "How your input shapes the next round": "Come il vostro contributo orienta il turno successivo",
+    "Each app round is short. You may read a short text, answer a poll, or share a brief response.":
+      "Ogni turno nell'app è breve. Si può leggere un breve testo, rispondere a un sondaggio o condividere una breve risposta.",
+    "After a round closes, the study team reviews what participants shared. The next round can then focus on questions, concerns, or ideas that came up earlier.":
+      "Al termine di un turno, il team di ricerca esamina ciò che le persone partecipanti hanno condiviso. Il turno successivo può quindi concentrarsi su domande, preoccupazioni o idee emerse prima.",
+    "The study works like a conversation over several rounds.":
+      "Lo studio funziona come una conversazione in più turni.",
+    "Each round listens to what people shared before, then asks clearer follow-up questions.":
+      "Ogni turno ascolta ciò che è stato condiviso prima e poi pone domande di approfondimento più chiare.",
+    "The first round starts broad": "Il primo turno parte in modo ampio",
+    "It uses existing research, expert focus groups, and public debate to ask about AI, work, education, skills, and policy.":
+      "Si basa su ricerche esistenti, focus group con esperte ed esperti e dibattito pubblico per porre domande su IA, lavoro, educazione, competenze e politiche pubbliche.",
+    "People answer short prompts in Atgora": "Le persone partecipanti rispondono a brevi indicazioni in Atgora",
+    "Participants may read a short text, vote in a poll, or write a brief response.":
+      "Le persone partecipanti possono leggere un breve testo, votare in un sondaggio o scrivere una breve risposta.",
+    "The study team looks for shared themes": "Il team di ricerca cerca temi condivisi",
+    "We look for common questions, concerns, disagreements, and ideas. The focus is on patterns, not judging individual answers.":
+      "Cerchiamo domande, preoccupazioni, disaccordi e idee comuni. L'attenzione è sui modelli ricorrenti, non sul giudicare le singole risposte.",
+    "The next round is updated": "Il turno successivo viene aggiornato",
+    "New learning material and voting questions can build on what people raised before.":
+      "Nuovo materiale informativo e domande di voto possono basarsi su ciò che le persone hanno sollevato prima.",
+    "The results can inform later steps": "I risultati possono informare i passaggi successivi",
+    "After the app rounds, the themes can help shape workshop topics and later project outputs.":
+      "Dopo i turni nell'app, i temi possono aiutare a definire gli argomenti dei workshop e i successivi risultati del progetto.",
+    "In the app itself, you only need to follow the short prompts and come back for the next round.":
+      "Nell'app stessa basta seguire le brevi indicazioni e tornare per il turno successivo.",
     "Each round builds on the last": "Ogni turno si basa sul precedente",
     "In each app round, participants receive a short learning prompt or question. After the round closes, the study team reviews the previous input and uses it to shape the next round of learning material and voting questions.":
       "In ogni turno nell'app, le persone partecipanti ricevono un breve input informativo o una domanda. Dopo la chiusura del turno, il team di ricerca esamina i contributi precedenti e li usa per costruire il materiale informativo e le domande di voto del turno successivo.",
@@ -733,6 +1021,63 @@ window.SWISS_AI_I18N.it = {
       "Diagramma del processo online della Stage 1, con input informativi, risposte delle persone partecipanti, brevi turni di voto e temi dei workshop",
     "The workflow has more detail than participants need day to day; the app experience is simpler: read, vote, respond, and come back for the next round.":
       "Il flusso contiene più dettagli di quanti servano alle persone partecipanti nella quotidianità; l'esperienza nell'app è più semplice: leggere, votare, rispondere e tornare per il turno successivo.",
+    "How the online rounds learn from public input": "Come i turni online imparano dal contributo pubblico",
+    "Before each round, the study combines expert input, public discussion, and participant responses. After each round, responses are reviewed and used to build the next learning material and voting questions.":
+      "Prima di ogni turno, lo studio combina contributi di esperte ed esperti, discussione pubblica e risposte delle persone partecipanti. Dopo ogni turno, le risposte vengono esaminate e usate per costruire il materiale informativo e le domande di voto del turno successivo.",
+    "In the app, participants mostly see simple prompts. This view shows how their input moves through the study.":
+      "Nell'app, le persone partecipanti vedono soprattutto brevi indicazioni. Questa vista mostra come i loro contributi passano attraverso lo studio.",
+    "How each app round builds on previous input": "Come ogni turno nell'app si basa sui contributi precedenti",
+    "From one app round to the next": "Da un turno nell'app al successivo",
+    "What informs the first round": "Cosa informa il primo turno",
+    "Stage 1 online process": "Processo online della fase 1",
+    "Information inputs": "Fonti informative",
+    "Expert focus groups": "Focus group con esperte ed esperti",
+    "Early questions from policy and research": "Prime domande da politiche pubbliche e ricerca",
+    "Policy and research": "Politiche pubbliche e ricerca",
+    "News and public discussion": "Notizie e discussione pubblica",
+    "Issues people are already talking about": "Temi di cui le persone stanno già parlando",
+    "Media and news articles": "Media e articoli di notizie",
+    "Public discussion": "Discussione pubblica",
+    "Starts the app prompts": "Avvia le indicazioni nell'app",
+    "Inform and guide": "Informare e guidare",
+    "First questionnaire": "Primo questionario",
+    "Participants learn, share initial views, and answer background questions":
+      "Le persone partecipanti leggono, condividono prime opinioni e rispondono a domande di contesto",
+    "Step 1 questionnaire": "Questionario fase 1",
+    "Learn from experts, DRI baseline, and demographics":
+      "Imparare da esperte ed esperti, base DRI e dati demografici",
+    "Each round builds on the previous one": "Ogni turno si basa sul precedente",
+    "Social knowledge loop": "Ciclo di conoscenza pubblica",
+    "Study team reviews responses": "Il team di ricerca esamina le risposte",
+    "Common questions, concerns, and ideas are identified":
+      "Vengono individuate domande, preoccupazioni e idee comuni",
+    "AI-supported curation": "Cura assistita dall'IA",
+    "Participant responses become new learning material":
+      "Le risposte diventano nuovo materiale informativo",
+    "Next app round": "Turno successivo nell'app",
+    "New learning material and voting prompts are shaped by earlier input":
+      "Nuovo materiale informativo e domande di voto sono costruiti a partire dai contributi precedenti",
+    "Micro-voting rounds": "Brevi turni di voto",
+    "Learn from citizens, contribute, and interact":
+      "Imparare da cittadine e cittadini, contribuire e interagire",
+    "Then the cycle repeats": "Poi il ciclo si ripete",
+    "Repeats across rounds": "Si ripete tra i turni",
+    "After several rounds": "Dopo diversi turni",
+    "Mid-study survey": "Sondaggio a metà studio",
+    "Checks how views and understanding developed during the app rounds":
+      "Verifica come opinioni e comprensione si sono sviluppate durante i turni nell'app",
+    "Mid-term DRI survey": "Sondaggio DRI intermedio",
+    "Measures mutual understanding before a possible workshop":
+      "Misura la comprensione reciproca prima di un possibile workshop",
+    "Can inform": "Può informare",
+    "Physical workshop": "Workshop in presenza",
+    "Workshop topics can be shaped by what people raised online":
+      "I temi del workshop possono essere plasmati da ciò che le persone hanno sollevato online",
+    "Topics informed by the online process": "Temi costruiti a partire dal processo online",
+    "Process legend": "Legenda del processo",
+    "Study team work": "Lavoro del team di ricerca",
+    "Study team / processing": "Team di ricerca / trattamento",
+    "Participant activity": "Attività delle persone partecipanti",
     "Participant journey": "Percorso di partecipazione",
     "Study path": "Percorso dello studio",
     "Most participation happens in the Atgora app between May 19 and June 5. You only need to return about four times over these two weeks, for roughly 10 minutes each time. The workshop is a separate possible next step for engaged participants.":
@@ -793,16 +1138,23 @@ window.SWISS_AI_I18N.it = {
     "Clear data limits": "Limiti chiari per i dati",
     "ETH Zurich is responsible for the research data. Identifying information is stored separately from coded research data, which means study data is stored under an ID rather than your name. App infrastructure is hosted in the European Union, Stockholm region.":
       "L'ETH Zurigo è responsabile dei dati di ricerca. Le informazioni identificative sono conservate separatamente dai dati di ricerca codificati; questo significa che i dati dello studio sono salvati con un ID invece che con il tuo nome. L'infrastruttura dell'app è ospitata nell'Unione europea, regione di Stoccolma.",
+    "Data collected during the online app study": "Dati raccolti durante lo studio online nell'app",
     "Data the study may collect": "Dati che lo studio può raccogliere",
+    "Contact details for study communication and possible workshop invitations":
+      "Dati di contatto per le comunicazioni dello studio e possibili inviti ai workshop",
     "Contact details for study communication, workshop invitations, and voucher administration": "Dati di contatto per comunicazioni dello studio, inviti ai workshop e gestione dei buoni",
     "Survey responses, demographic profile information, app votes, and short written responses": "Risposte ai questionari, informazioni di profilo demografico, voti nell'app e brevi risposte scritte",
     "Participation and completion information needed to run the study": "Informazioni su partecipazione e completamento necessarie per svolgere lo studio",
+    "If you are later invited to a workshop, audio recording would be covered by a separate consent step":
+      "Se in seguito sarete invitati a un workshop, l'eventuale registrazione audio sarà coperta da un passaggio di consenso separato",
+    "The online app stage does not ask for audio recordings; any later workshop recording would require separate consent":
+      "La fase online nell'app non richiede registrazioni audio; qualsiasi registrazione in un workshop successivo richiederebbe un consenso separato",
     "Audio recordings only for workshop discussion participants who explicitly consent": "Registrazioni audio solo per le persone che partecipano alle discussioni nei workshop e danno consenso esplicito",
     "What is not collected or not used": "Cosa non viene raccolto o usato",
     "No geolocation or background tracking for this study": "Nessuna geolocalizzazione o tracciamento in background per questo studio",
     "No tracking outside the app": "Nessun tracciamento fuori dall'app",
     "No third-party advertising data sharing": "Nessuna condivisione di dati pubblicitari con terzi",
-    "No phone microphone use in the app-based workshop condition": "Nessun uso del microfono del telefono nella condizione di workshop basata sull'app",
+    "No audio recordings without explicit consent": "Nessuna registrazione audio senza consenso esplicito",
     "Your rights": "I tuoi diritti",
     "Participation is voluntary. You may withdraw at any time without giving a reason and without disadvantage. You may request access, correction, deletion, or restriction of processing where applicable.":
       "La partecipazione è volontaria. Puoi ritirarti in qualsiasi momento senza fornire una ragione e senza svantaggi. Dove applicabile, puoi chiedere accesso, correzione, cancellazione o limitazione del trattamento.",
@@ -860,7 +1212,9 @@ window.SWISS_AI_I18N.it = {
     "AI-Supported Deliberation Experiment": "Esperimento di deliberazione assistita dall'IA",
     "Part of Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.": "Parte del progetto Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.",
     "Ethics status: approved without reservations by the ETH Zurich Ethics Commission. Project 26 ETHICS-116.": "Stato etico: approvato senza riserve dalla Commissione etica dell'ETH Zurigo. Progetto 26 ETHICS-116.",
-    "Contact the study lead": "Contatta la direzione dello studio"
+    "Contact the study lead": "Contatta la direzione dello studio",
+    "Switch to light mode": "Passa alla modalità chiara",
+    "Switch to dark mode": "Passa alla modalità scura"
   },
   rounds: [
     {
