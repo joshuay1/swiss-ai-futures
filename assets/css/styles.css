@@ -1241,6 +1241,13 @@ h3 {
   line-height: 1.35;
 }
 
+.team-section-logo {
+  width: 230px;
+  height: auto;
+  margin: 0 0 22px;
+  display: block;
+}
+
 .person-card span {
   display: block;
   margin-bottom: 12px;
@@ -1283,36 +1290,6 @@ h3 {
 
 .ta-person-logo {
   height: 48px;
-}
-
-.team-details {
-  border-top: var(--rule);
-}
-
-.team-details summary {
-  position: relative;
-  min-height: 64px;
-  display: flex;
-  align-items: center;
-  padding: 18px 52px 18px 0;
-  color: var(--ink);
-  cursor: pointer;
-  font-weight: 800;
-}
-
-.team-details summary::after {
-  content: "+";
-  position: absolute;
-  right: 0;
-  top: 50%;
-  transform: translateY(-50%);
-  color: var(--red);
-  font-size: 1.4rem;
-  line-height: 1;
-}
-
-.team-details[open] summary::after {
-  content: "-";
 }
 
 .person-card a {
