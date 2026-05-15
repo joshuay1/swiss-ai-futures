@@ -9,7 +9,7 @@ window.SWISS_AI_I18N = {
       {
         label: "Round 01",
         title: "Learn from short modules",
-        copy: "Read concise learning content about AI, jobs, skills, productivity, and public policy.",
+        copy: "Read short learning content about AI, jobs, skills, education, and public policy.",
         shotAlt: "Atgora example screen showing a short context module"
       },
       {
@@ -20,9 +20,9 @@ window.SWISS_AI_I18N = {
       },
       {
         label: "Round 03",
-        title: "Submit short arguments",
-        copy: "Add a brief argument or concern. Later material may reflect perspectives contributed by participants.",
-        shotAlt: "Atgora example screen showing the active voting group interface"
+        title: "Share short responses",
+        copy: "Add a brief response or concern. Later material may reflect perspectives contributed by participants.",
+        shotAlt: "Atgora questionnaire screen with multiple answer options"
       },
       {
         label: "Round 04",
@@ -57,14 +57,15 @@ window.SWISS_AI_I18N = {
       "Privacy": "Datenschutz",
       "Join in Atgora": "In Atgora teilnehmen",
       "Swiss residents 18+ are invited": "Personen mit Wohnsitz in der Schweiz ab 18 Jahren sind eingeladen",
+      "Project institutions": "Projektinstitutionen",
       "Help shape": "Gestalten Sie",
       "the future of": "die Zukunft der",
       "AI in": "KI in",
       "Switzerland.": "der Schweiz mit.",
-      "AI is already changing Switzerland: how people learn, work, are hired, train for new skills, and use public services. Researchers from a Swiss research consortium invite people living in Switzerland to add their voice to a study on how AI should shape the future of work and labour markets.":
-        "KI verändert die Schweiz bereits: wie Menschen lernen, arbeiten, eingestellt werden, neue Kompetenzen erwerben und öffentliche Dienstleistungen nutzen. Forschende aus einem Schweizer Forschungskonsortium laden Personen in der Schweiz ein, ihre Stimme in eine Studie einzubringen, wie KI die Zukunft von Arbeit und Arbeitsmärkten prägen soll.",
-      "We especially welcome pluralistic, diverse citizen voices: different backgrounds, regions, professions, education paths, and everyday experiences with technology. Good policy needs this range of public experience, not only expert, company, or institutional perspectives. No AI expertise is needed.":
-        "Wir begrüssen besonders pluralistische und vielfältige Stimmen aus der Bevölkerung: unterschiedliche Hintergründe, Regionen, Berufe, Bildungswege und Alltagserfahrungen mit Technologie. Gute Politik braucht diese Breite öffentlicher Erfahrungen, nicht nur Perspektiven von Fachleuten, Unternehmen oder Institutionen. KI-Fachwissen ist nicht nötig.",
+      "AI is already changing Switzerland: how people learn, work, are hired, train for new skills, and use public services. Researchers from a Swiss research consortium invite people living in Switzerland to add their voice to a study on how AI should shape work, education, and labour markets.":
+        "KI verändert die Schweiz bereits: wie Menschen lernen, arbeiten, eingestellt werden, neue Kompetenzen erwerben und öffentliche Dienstleistungen nutzen. Forschende aus einem Schweizer Forschungskonsortium laden Personen in der Schweiz ein, ihre Stimme in eine Studie einzubringen, wie KI Arbeit, Bildung und Arbeitsmärkte prägen soll.",
+      "You do not need to be an AI expert. We want to hear from people with different backgrounds, regions, jobs, education paths, and everyday experiences with technology.":
+        "Sie müssen keine KI-Expertin und kein KI-Experte sein. Wir möchten Menschen mit unterschiedlichen Hintergründen, Regionen, Berufen, Bildungswegen und Alltagserfahrungen mit Technologie hören.",
       "Download Atgora": "Atgora herunterladen",
       "Start in the app": "Start in der App",
       "Download Atgora, then follow the study onboarding instructions in the app.":
@@ -103,74 +104,86 @@ window.SWISS_AI_I18N = {
       "Learn more about TA-SWISS": "Mehr über TA-SWISS erfahren",
       "Where this study fits": "Einordnung der Studie",
       "Phase 3: citizen input": "Phase 3: öffentliche Beteiligung",
-      "The project first maps what is already known about LLMs, then develops future-facing scenarios and focus group evidence. This page invites people living in Switzerland into the third phase: public app-based deliberation and possible in-person workshops, so public perspectives can be considered while policy-facing recommendations are being developed.":
-        "Das Projekt erfasst zunächst den Stand des Wissens zu LLMs, entwickelt danach zukunftsorientierte Szenarien und Evidenz aus Fokusgruppen. Diese Seite lädt Personen in der Schweiz zur dritten Phase ein: öffentliche app-basierte Deliberation und mögliche Workshops vor Ort, damit öffentliche Perspektiven berücksichtigt werden können, während politikbezogene Empfehlungen entwickelt werden.",
+      "The project first maps what is already known about LLMs, then develops future scenarios and gathers input from focus groups. This page invites people living in Switzerland into the third phase: public app-based discussion and possible in-person workshops, so public perspectives can be considered while recommendations for policy are being developed.":
+        "Das Projekt erfasst zunächst den Stand des Wissens zu LLMs, entwickelt danach Zukunftsszenarien und sammelt Beiträge aus Fokusgruppen. Diese Seite lädt Personen in der Schweiz zur dritten Phase ein: öffentliche Diskussion in der App und mögliche Workshops vor Ort, damit öffentliche Perspektiven berücksichtigt werden können, während Empfehlungen für die Politik entwickelt werden.",
       "Phase 01": "Phase 01",
       "Evidence, policy responses, and experiments": "Evidenz, politische Reaktionen und Experimente",
       "Researchers review published work on LLMs, analyse public AI and LLM documents, study institutional and policy responses, and run experiments on how LLM training affects skills-test results.":
         "Forschende prüfen veröffentlichte Arbeiten zu LLMs, analysieren öffentliche Dokumente zu KI und LLMs, untersuchen institutionelle und politische Reaktionen und führen Experimente dazu durch, wie LLM-Schulungen Ergebnisse in Kompetenztests beeinflussen.",
       "Phase 02": "Phase 02",
       "Focus groups and future scenarios": "Fokusgruppen und Zukunftsszenarien",
-      "The project explores future scenarios through focus groups and supporting experiments on possible deskilling and upskilling effects, with facilitation and analysis support from Qualinsights.":
-        "Das Projekt untersucht Zukunftsszenarien in Fokusgruppen und ergänzenden Experimenten zu möglichen De-Skilling- und Up-Skilling-Effekten, mit Moderations- und Analyseunterstützung durch Qualinsights.",
+      "The project explores future scenarios through focus groups and supporting experiments on possible loss or growth of skills, with help from a specialist research partner.":
+        "Das Projekt untersucht Zukunftsszenarien in Fokusgruppen und ergänzenden Experimenten zu möglichem Verlust oder Wachstum von Kompetenzen, mit Unterstützung eines spezialisierten Forschungspartners.",
       "Phase 03": "Phase 03",
-      "Citizen input and AI-supported deliberation": "Öffentliche Beteiligung und KI-unterstützte Deliberation",
-      "This is the phase you are being invited to join. App rounds and possible workshops connect earlier findings with lived experiences, policy priorities, and ethical questions about LLMs, helping show what people in Switzerland want protected, improved, or debated before AI becomes more deeply embedded in everyday work.":
-        "Dies ist die Phase, zu der Sie eingeladen sind. App-Runden und mögliche Workshops verbinden frühere Erkenntnisse mit Alltagserfahrungen, politischen Prioritäten und ethischen Fragen zu LLMs. So wird sichtbar, was Menschen in der Schweiz geschützt, verbessert oder diskutiert sehen möchten, bevor KI noch stärker im Arbeitsalltag verankert wird.",
+      "Citizen input and AI-supported discussion": "Öffentliche Beteiligung und KI-unterstützte Diskussion",
+      "This is the phase you are being invited to join. App rounds and possible workshops connect earlier findings with everyday experiences, policy priorities, and ethical questions about LLMs, helping show what people in Switzerland want protected, improved, or debated before AI becomes more common in everyday work.":
+        "Dies ist die Phase, zu der Sie eingeladen sind. App-Runden und mögliche Workshops verbinden frühere Erkenntnisse mit Alltagserfahrungen, politischen Prioritäten und ethischen Fragen zu LLMs. So wird sichtbar, was Menschen in der Schweiz geschützt, verbessert oder diskutiert sehen möchten, bevor KI im Arbeitsalltag noch üblicher wird.",
       "You are here": "Sie sind hier",
       "Why your voice matters": "Warum Ihre Stimme zählt",
       "Many voices matter": "Viele Stimmen zählen",
       "Public voices should shape AI policy": "Öffentliche Stimmen sollen KI-Politik mitgestalten",
       "Public voices matter": "Öffentliche Stimmen zählen",
-      "AI is moving from a technical issue to a Swiss public issue. It can affect hiring, training, productivity, worker protection, education, public services, and who benefits from new tools. Policy choices about these changes should be informed by people who live with the consequences, not only by experts, companies, or institutions.":
-        "KI wird von einer technischen Frage zu einer öffentlichen Frage für die Schweiz. Sie kann Einstellungen, Aus- und Weiterbildung, Produktivität, Arbeitnehmerschutz, Bildung, öffentliche Dienstleistungen und die Verteilung der Vorteile neuer Werkzeuge beeinflussen. Politische Entscheidungen über diese Veränderungen sollten von Menschen mitgeprägt werden, die mit den Folgen leben, nicht nur von Fachleuten, Unternehmen oder Institutionen.",
-      "This study invites people living in Switzerland to share the questions, concerns, and proposals they want decision-makers to hear. A diverse mix of voices helps researchers identify where the public sees agreement, disagreement, fairness, urgency, and practical next steps.":
-        "Diese Studie lädt Personen in der Schweiz ein, die Fragen, Anliegen und Vorschläge einzubringen, die Entscheidungsträger hören sollten. Eine vielfältige Mischung von Stimmen hilft Forschenden zu erkennen, wo die Öffentlichkeit Übereinstimmung, Uneinigkeit, Fairness, Dringlichkeit und praktische nächste Schritte sieht.",
-      "The results will contribute to a TA-SWISS report/book and policy-facing outputs intended to inform Swiss decision-makers, including the Swiss Parliament.":
-        "Die Ergebnisse fliessen in einen TA-SWISS-Bericht/ein Buch und in politikbezogene Ergebnisse ein, die Schweizer Entscheidungsträger informieren sollen, darunter das Schweizer Parlament.",
+      "AI is no longer only a technical topic. It can affect hiring, training, productivity, worker protection, education, public services, and who benefits from new tools.":
+        "KI ist nicht mehr nur ein technisches Thema. Sie kann Einstellungen, Aus- und Weiterbildung, Produktivität, Arbeitnehmerschutz, Bildung, öffentliche Dienstleistungen und die Verteilung der Vorteile neuer Werkzeuge beeinflussen.",
+      "Good policy should be shaped by people who live with these changes, not only by experts, companies, or institutions. This study asks people living in Switzerland to share the questions, concerns, and ideas they want decision-makers to hear.":
+        "Gute Politik sollte von Menschen mitgeprägt werden, die mit diesen Veränderungen leben, nicht nur von Fachleuten, Unternehmen oder Institutionen. Diese Studie bittet Personen in der Schweiz, die Fragen, Anliegen und Ideen einzubringen, die Entscheidungsträger hören sollten.",
+      "The results will contribute to a TA-SWISS report/book and policy outputs for Swiss decision-makers, including the Swiss Parliament.":
+        "Die Ergebnisse fliessen in einen TA-SWISS-Bericht/ein Buch und in Ergebnisse für die Politik ein, die Schweizer Entscheidungsträger informieren sollen, darunter das Schweizer Parlament.",
+      "Animated opinion map showing public responses grouped into changing clusters":
+        "Animierte Meinungskarte, die öffentliche Antworten in sich verändernden Gruppen zeigt",
       "Public input map": "Karte öffentlicher Beiträge",
       "More cautious": "Vorsichtiger",
       "More optimistic": "Optimistischer",
       "Collective safeguards": "Kollektive Schutzmassnahmen",
       "Individual opportunity": "Individuelle Chancen",
-      "New app responses appear as points. Similar views form clusters that help researchers identify shared concerns, disagreements, and policy ideas.":
-        "Neue Antworten in der App erscheinen als Punkte. Ähnliche Sichtweisen bilden Cluster, die Forschenden helfen, gemeinsame Anliegen, Uneinigkeit und politische Ideen zu erkennen.",
+      "New app responses appear as points. Similar views form groups that help researchers find shared concerns, disagreements, and policy ideas.":
+        "Neue Antworten in der App erscheinen als Punkte. Ähnliche Sichtweisen bilden Gruppen, die Forschenden helfen, gemeinsame Anliegen, Uneinigkeit und politische Ideen zu erkennen.",
       "Why the study uses an app": "Warum die Studie eine App nutzt",
       "Conversation over time": "Gespräch über die Zeit",
-      "The Atgora app lets participants return for four short rounds, usually around 10 minutes each. Later rounds may reflect perspectives, arguments, or disagreements contributed earlier, so the discussion can develop without needing everyone online at the same moment.":
-        "Die Atgora-App ermöglicht es Teilnehmenden, für vier kurze Runden zurückzukehren, in der Regel etwa 10 Minuten pro Runde. Spätere Runden können Perspektiven, Argumente oder Uneinigkeiten aus früheren Beiträgen aufgreifen, sodass sich die Diskussion entwickeln kann, ohne dass alle gleichzeitig online sein müssen.",
-      "Interface examples; study prompts will focus on AI, work, and skills.":
-        "Beispiele der Oberfläche; die Studienfragen konzentrieren sich auf KI, Arbeit und Kompetenzen.",
+      "The Atgora app lets participants return for four short rounds, usually around 10 minutes each. Later rounds may reflect views, short arguments, or disagreements shared earlier, so the discussion can develop without everyone being online at the same moment.":
+        "Die Atgora-App ermöglicht es Teilnehmenden, für vier kurze Runden zurückzukehren, in der Regel etwa 10 Minuten pro Runde. Spätere Runden können Sichtweisen, kurze Argumente oder Uneinigkeiten aus früheren Beiträgen aufgreifen, sodass sich die Diskussion entwickeln kann, ohne dass alle gleichzeitig online sein müssen.",
+      "Interface examples; study prompts will focus on AI, work, education, and skills.":
+        "Beispiele der Oberfläche; die Studienfragen konzentrieren sich auf KI, Arbeit, Bildung und Kompetenzen.",
       "Learn from short modules": "Kurze Module lesen",
       "Answer quick polls": "Kurze Umfragen beantworten",
-      "Submit short arguments": "Kurze Argumente einreichen",
+      "Share short responses": "Kurze Antworten teilen",
       "Review updated material": "Aktualisiertes Material prüfen",
       "Learn": "Lernen",
       "Poll": "Umfrage",
-      "Argue": "Argument",
+      "Respond": "Antworten",
       "Review": "Prüfen",
+      "How public input is used": "Wie öffentliche Beiträge genutzt werden",
+      "Each round builds on the last": "Jede Runde baut auf der vorherigen auf",
+      "In each app round, participants receive a short learning prompt or question. After the round closes, the study team reviews the previous input and uses it to shape the next round of learning material and voting questions.":
+        "In jeder App-Runde erhalten Teilnehmende einen kurzen Lernimpuls oder eine Frage. Nach Abschluss der Runde prüft das Studienteam die bisherigen Beiträge und nutzt sie, um die nächste Runde mit Lernmaterial und Abstimmungsfragen zu gestalten.",
+      "The diagram below is for people who want the research detail. In the app itself, you only need to follow the short prompts.":
+        "Das Diagramm unten ist für alle, die die Forschungsdetails sehen möchten. In der App selbst müssen Sie nur den kurzen Hinweisen folgen.",
+      "Diagram of the Stage 1 online process, with information inputs, participant responses, short voting rounds, and workshop topics":
+        "Diagramm des Online-Prozesses in Stage 1 mit Informationsinputs, Antworten von Teilnehmenden, kurzen Abstimmungsrunden und Workshop-Themen",
+      "The workflow has more detail than participants need day to day; the app experience is simpler: read, vote, respond, and come back for the next round.":
+        "Der Ablauf enthält mehr Details, als Teilnehmende im Alltag brauchen; die App-Erfahrung ist einfacher: lesen, abstimmen, antworten und zur nächsten Runde zurückkommen.",
       "Participant journey": "Ablauf für Teilnehmende",
       "Study path": "Studienablauf",
-      "Most participation happens asynchronously in the Atgora app between May 19 and June 5. You only need to return about four times over these two weeks, for roughly 10 minutes each time. The workshop is a separate possible next step for engaged participants.":
-        "Der grösste Teil der Teilnahme findet asynchron in der Atgora-App zwischen dem 19. Mai und dem 5. Juni statt. Sie müssen in diesen zwei Wochen nur etwa viermal zurückkehren, jeweils für ungefähr 10 Minuten. Der Workshop ist ein separater möglicher nächster Schritt für engagierte Teilnehmende.",
+      "Most participation happens in the Atgora app between May 19 and June 5. You only need to return about four times over these two weeks, for roughly 10 minutes each time. The workshop is a separate possible next step for engaged participants.":
+        "Der grösste Teil der Teilnahme findet in der Atgora-App zwischen dem 19. Mai und dem 5. Juni statt. Sie müssen in diesen zwei Wochen nur etwa viermal zurückkehren, jeweils für ungefähr 10 Minuten. Der Workshop ist ein separater möglicher nächster Schritt für engagierte Teilnehmende.",
       "Before or around May 19": "Vor oder um den 19. Mai",
       "Setup": "Einrichtung",
-      "Scan the QR code at the top of the page or use the App Store and Google Play links.":
-        "Scannen Sie den QR-Code oben auf der Seite oder nutzen Sie die Links zum App Store und zu Google Play.",
+      "Use the App Store or Google Play links on this page.":
+        "Nutzen Sie die Links zum App Store oder zu Google Play auf dieser Seite.",
       "From May 19": "Ab 19. Mai",
       "Consent": "Einwilligung",
-      "Consent and check": "Einwilligung und Prüfung",
-      "Read the study information, confirm consent, and answer a short comprehension check in the app.":
+      "Consent and quick check": "Einwilligung und kurze Prüfung",
+      "Read the study information, confirm consent, and answer a short understanding check in the app.":
         "Lesen Sie die Studieninformation, bestätigen Sie die Einwilligung und beantworten Sie in der App eine kurze Verständnisprüfung.",
       "Survey": "Befragung",
-      "Baseline survey": "Ausgangsbefragung",
-      "Share views about AI, work, productivity, worker protection, education, inequality, and reskilling.":
-        "Teilen Sie Ihre Sicht auf KI, Arbeit, Produktivität, Arbeitnehmerschutz, Bildung, Ungleichheit und Umschulung.",
+      "First survey": "Erste Befragung",
+      "Share views about AI, work, productivity, worker protection, education, inequality, and new skills.":
+        "Teilen Sie Ihre Sicht auf KI, Arbeit, Produktivität, Arbeitnehmerschutz, Bildung, Ungleichheit und neue Kompetenzen.",
       "Until June 5": "Bis 5. Juni",
       "Main input": "Hauptbeitrag",
       "Four short app visits": "Vier kurze App-Besuche",
-      "Open the app about four times over the two weeks, around 10 minutes each time, for learning modules, quick polls, and short arguments.":
-        "Öffnen Sie die App über die zwei Wochen etwa viermal, jeweils rund 10 Minuten, für Lernmodule, kurze Umfragen und kurze Argumente.",
+      "Open the app about four times over the two weeks, around 10 minutes each time, for learning modules, quick polls, and short responses.":
+        "Öffnen Sie die App über die zwei Wochen etwa viermal, jeweils rund 10 Minuten, für Lernmodule, kurze Umfragen und kurze Antworten.",
       "After the app rounds": "Nach den App-Runden",
       "Invitation": "Einladung",
       "Possible workshop invitation": "Mögliche Workshop-Einladung",
@@ -188,7 +201,7 @@ window.SWISS_AI_I18N = {
       "Can use the Atgora mobile app on a personal smartphone": "die Atgora-App auf einem persönlichen Smartphone nutzen können",
       "Want to share your own perspective, whether or not you feel like an AI expert":
         "Ihre eigene Perspektive einbringen möchten, unabhängig davon, ob Sie sich als KI-Expertin oder KI-Experte verstehen",
-      "Are willing to complete digital consent and a comprehension check": "bereit sind, die digitale Einwilligung und eine Verständnisprüfung abzuschliessen",
+      "Are willing to complete digital consent and a short understanding check": "bereit sind, die digitale Einwilligung und eine kurze Verständnisprüfung abzuschliessen",
       "The workshop is a possible next step": "Der Workshop ist ein möglicher nächster Schritt",
       "You can still join the app study even if you are unsure whether you can attend an in-person workshop.":
         "Sie können trotzdem an der App-Studie teilnehmen, auch wenn Sie unsicher sind, ob Sie an einem Workshop vor Ort teilnehmen können.",
@@ -203,17 +216,17 @@ window.SWISS_AI_I18N = {
       "App input first": "Zuerst App-Beiträge",
       "The online rounds are a voluntary contribution to public-interest research. If you stay engaged throughout the app study, you may later be invited to a separate in-person workshop in Zurich or Lausanne.":
         "Die Online-Runden sind ein freiwilliger Beitrag zu Forschung im öffentlichen Interesse. Wenn Sie während der App-Studie engagiert bleiben, können Sie später zu einem separaten Workshop vor Ort in Zürich oder Lausanne eingeladen werden.",
-      "The workshop stage is separate and includes a flat-rate CHF 40 voucher for invited participants who attend. Travel costs are not reimbursed.":
-        "Die Workshop-Phase ist separat und umfasst für eingeladene Teilnehmende, die teilnehmen, einen pauschalen Gutschein von CHF 40. Reisekosten werden nicht erstattet.",
+      "The workshop stage is separate and includes a fixed CHF 40 voucher for invited participants who attend. Travel costs are not reimbursed.":
+        "Die Workshop-Phase ist separat und umfasst für eingeladene Teilnehmende, die teilnehmen, einen festen Gutschein von CHF 40. Reisekosten werden nicht erstattet.",
       "Privacy and data protection": "Privatsphäre und Datenschutz",
       "Clear data limits": "Klare Datengrenzen",
-      "ETH Zurich is responsible for the research data. Identifying information is stored separately from coded or pseudonymised research data. App infrastructure is hosted in the European Union, Stockholm region.":
-        "Die ETH Zürich ist für die Forschungsdaten verantwortlich. Identifizierende Informationen werden getrennt von codierten oder pseudonymisierten Forschungsdaten gespeichert. Die App-Infrastruktur wird in der Europäischen Union, Region Stockholm, gehostet.",
+      "ETH Zurich is responsible for the research data. Identifying information is stored separately from coded research data, which means study data is stored under an ID rather than your name. App infrastructure is hosted in the European Union, Stockholm region.":
+        "Die ETH Zürich ist für die Forschungsdaten verantwortlich. Identifizierende Informationen werden getrennt von codierten Forschungsdaten gespeichert; das heisst, Studiendaten werden unter einer ID statt unter Ihrem Namen gespeichert. Die App-Infrastruktur wird in der Europäischen Union, Region Stockholm, gehostet.",
       "Data the study may collect": "Daten, die die Studie erfassen kann",
       "Contact details for study communication, workshop invitations, and voucher administration":
         "Kontaktdaten für Studienkommunikation, Workshop-Einladungen und Gutscheinadministration",
-      "Survey responses, demographic profile information, app votes, and short written arguments":
-        "Befragungsantworten, demografische Profilinformationen, App-Abstimmungen und kurze schriftliche Argumente",
+      "Survey responses, demographic profile information, app votes, and short written responses":
+        "Befragungsantworten, demografische Profilinformationen, App-Abstimmungen und kurze schriftliche Antworten",
       "Participation and completion information needed to run the study":
         "Teilnahme- und Abschlussinformationen, die für die Durchführung der Studie benötigt werden",
       "Audio recordings only for workshop discussion participants who explicitly consent":
@@ -235,8 +248,9 @@ window.SWISS_AI_I18N = {
         "mit einem in der Schweiz verankerten Forschungsteam, das institutionenübergreifend in der Schweiz arbeitet.",
       "Members of the project team gathered outside for a group photo":
         "Mitglieder des Projektteams draussen für ein Gruppenfoto",
-      "The project brings together Swiss-affiliated researchers across institutions, combining expertise in LLMs, public policy, education, ethics, and deliberation.":
-        "Das Projekt bringt in der Schweiz verankerte Forschende aus verschiedenen Institutionen zusammen und verbindet Expertise zu LLMs, öffentlicher Politik, Bildung, Ethik und Deliberation.",
+      "The project brings together Swiss-affiliated researchers across institutions, combining expertise in LLMs, public policy, education, ethics, and public discussion.":
+        "Das Projekt bringt in der Schweiz verankerte Forschende aus verschiedenen Institutionen zusammen und verbindet Expertise zu LLMs, öffentlicher Politik, Bildung, Ethik und öffentlicher Diskussion.",
+      "View full project team and contact details": "Vollständiges Projektteam und Kontaktdaten anzeigen",
       "Study contact": "Studienkontakt",
       "Principal Investigator": "Hauptverantwortliche Forscherin",
       "Swiss AI Futures consortium": "Swiss AI Futures-Konsortium",
@@ -290,7 +304,7 @@ window.SWISS_AI_I18N = {
       {
         label: "Runde 01",
         title: "Kurze Module lesen",
-        copy: "Lesen Sie kompakte Inhalte zu KI, Arbeit, Kompetenzen, Produktivität und öffentlicher Politik.",
+        copy: "Lesen Sie kurze Inhalte zu KI, Arbeit, Kompetenzen, Bildung und öffentlicher Politik.",
         shotAlt: "Atgora-Beispielbildschirm mit einem kurzen Kontextmodul"
       },
       {
@@ -301,9 +315,9 @@ window.SWISS_AI_I18N = {
       },
       {
         label: "Runde 03",
-        title: "Kurze Argumente einreichen",
-        copy: "Fügen Sie ein kurzes Argument oder Anliegen hinzu. Späteres Material kann Perspektiven von Teilnehmenden aufgreifen.",
-        shotAlt: "Atgora-Beispielbildschirm mit der Oberfläche einer aktiven Abstimmungsgruppe"
+        title: "Kurze Antworten teilen",
+        copy: "Fügen Sie eine kurze Antwort oder ein Anliegen hinzu. Späteres Material kann Perspektiven von Teilnehmenden aufgreifen.",
+        shotAlt: "Atgora-Fragebogenbildschirm mit mehreren Antwortoptionen"
       },
       {
         label: "Runde 04",
@@ -339,14 +353,15 @@ window.SWISS_AI_I18N.fr = {
     "Privacy": "Protection des données",
     "Join in Atgora": "Participer dans Atgora",
     "Swiss residents 18+ are invited": "Les personnes résidant en Suisse dès 18 ans sont invitées",
+    "Project institutions": "Institutions du projet",
     "Help shape": "Contribuez à façonner",
     "the future of": "l'avenir de",
     "AI in": "l'IA en",
     "Switzerland.": "Suisse.",
-    "AI is already changing Switzerland: how people learn, work, are hired, train for new skills, and use public services. Researchers from a Swiss research consortium invite people living in Switzerland to add their voice to a study on how AI should shape the future of work and labour markets.":
-      "L'IA transforme déjà la Suisse: la manière dont les personnes apprennent, travaillent, sont recrutées, se forment à de nouvelles compétences et utilisent les services publics. Des chercheuses et chercheurs d'un consortium de recherche suisse invitent les personnes vivant en Suisse à contribuer à une étude sur la manière dont l'IA devrait façonner l'avenir du travail et des marchés du travail.",
-    "We especially welcome pluralistic, diverse citizen voices: different backgrounds, regions, professions, education paths, and everyday experiences with technology. Good policy needs this range of public experience, not only expert, company, or institutional perspectives. No AI expertise is needed.":
-      "Nous souhaitons tout particulièrement entendre des voix citoyennes pluralistes et diverses: des personnes de différents horizons, régions, professions, parcours de formation et expériences quotidiennes avec la technologie. Une bonne politique a besoin de cette diversité d'expériences publiques, pas seulement de perspectives d'expertise, d'entreprises ou d'institutions. Aucune expertise en IA n'est nécessaire.",
+    "AI is already changing Switzerland: how people learn, work, are hired, train for new skills, and use public services. Researchers from a Swiss research consortium invite people living in Switzerland to add their voice to a study on how AI should shape work, education, and labour markets.":
+      "L'IA transforme déjà la Suisse: la manière dont les personnes apprennent, travaillent, sont recrutées, se forment à de nouvelles compétences et utilisent les services publics. Des chercheuses et chercheurs d'un consortium de recherche suisse invitent les personnes vivant en Suisse à contribuer à une étude sur la manière dont l'IA devrait façonner le travail, l'éducation et les marchés du travail.",
+    "You do not need to be an AI expert. We want to hear from people with different backgrounds, regions, jobs, education paths, and everyday experiences with technology.":
+      "Vous n'avez pas besoin d'être spécialiste de l'IA. Nous souhaitons entendre des personnes de différents horizons, régions, métiers, parcours de formation et expériences quotidiennes avec la technologie.",
     "Download Atgora": "Télécharger Atgora",
     "Start in the app": "Commencer dans l'app",
     "Download Atgora, then follow the study onboarding instructions in the app.":
@@ -382,71 +397,83 @@ window.SWISS_AI_I18N.fr = {
     "Learn more about TA-SWISS": "En savoir plus sur TA-SWISS",
     "Where this study fits": "Où se situe cette étude",
     "Phase 3: citizen input": "Phase 3: contribution citoyenne",
-    "The project first maps what is already known about LLMs, then develops future-facing scenarios and focus group evidence. This page invites people living in Switzerland into the third phase: public app-based deliberation and possible in-person workshops, so public perspectives can be considered while policy-facing recommendations are being developed.":
-      "Le projet commence par cartographier les connaissances existantes sur les LLM, puis développe des scénarios prospectifs et des données issues de groupes de discussion. Cette page invite les personnes vivant en Suisse à participer à la troisième phase: une délibération publique dans l'app et de possibles ateliers en présence, afin que les perspectives du public puissent être prises en compte pendant l'élaboration de recommandations destinées aux politiques publiques.",
+    "The project first maps what is already known about LLMs, then develops future scenarios and gathers input from focus groups. This page invites people living in Switzerland into the third phase: public app-based discussion and possible in-person workshops, so public perspectives can be considered while recommendations for policy are being developed.":
+      "Le projet commence par cartographier les connaissances existantes sur les LLM, puis développe des scénarios futurs et recueille des contributions de groupes de discussion. Cette page invite les personnes vivant en Suisse à participer à la troisième phase: une discussion publique dans l'app et de possibles ateliers en présence, afin que les perspectives du public puissent être prises en compte pendant l'élaboration de recommandations pour les politiques publiques.",
     "Evidence, policy responses, and experiments": "Données, réponses politiques et expériences",
     "Researchers review published work on LLMs, analyse public AI and LLM documents, study institutional and policy responses, and run experiments on how LLM training affects skills-test results.":
       "Les chercheuses et chercheurs examinent les travaux publiés sur les LLM, analysent des documents publics sur l'IA et les LLM, étudient les réponses institutionnelles et politiques, et mènent des expériences sur l'effet d'une formation aux LLM sur les résultats de tests de compétences.",
     "Focus groups and future scenarios": "Groupes de discussion et scénarios futurs",
-    "The project explores future scenarios through focus groups and supporting experiments on possible deskilling and upskilling effects, with facilitation and analysis support from Qualinsights.":
-      "Le projet explore des scénarios futurs au moyen de groupes de discussion et d'expériences complémentaires sur de possibles effets de déqualification et de montée en compétences, avec un soutien de facilitation et d'analyse de Qualinsights.",
-    "Citizen input and AI-supported deliberation": "Contribution citoyenne et délibération assistée par l'IA",
-    "This is the phase you are being invited to join. App rounds and possible workshops connect earlier findings with lived experiences, policy priorities, and ethical questions about LLMs, helping show what people in Switzerland want protected, improved, or debated before AI becomes more deeply embedded in everyday work.":
-      "C'est la phase à laquelle vous êtes invité. Les tours dans l'app et les ateliers possibles relient les résultats précédents aux expériences vécues, aux priorités politiques et aux questions éthiques liées aux LLM. Ils aident à montrer ce que les personnes en Suisse souhaitent protéger, améliorer ou débattre avant que l'IA ne s'ancre davantage dans le travail quotidien.",
+    "The project explores future scenarios through focus groups and supporting experiments on possible loss or growth of skills, with help from a specialist research partner.":
+      "Le projet explore des scénarios futurs au moyen de groupes de discussion et d'expériences complémentaires sur de possibles pertes ou développements de compétences, avec l'aide d'un partenaire de recherche spécialisé.",
+    "Citizen input and AI-supported discussion": "Contribution citoyenne et discussion assistée par l'IA",
+    "This is the phase you are being invited to join. App rounds and possible workshops connect earlier findings with everyday experiences, policy priorities, and ethical questions about LLMs, helping show what people in Switzerland want protected, improved, or debated before AI becomes more common in everyday work.":
+      "C'est la phase à laquelle vous êtes invité. Les tours dans l'app et les ateliers possibles relient les résultats précédents aux expériences quotidiennes, aux priorités politiques et aux questions éthiques liées aux LLM. Ils aident à montrer ce que les personnes en Suisse souhaitent protéger, améliorer ou débattre avant que l'IA ne devienne plus courante dans le travail quotidien.",
     "You are here": "Vous êtes ici",
     "Why your voice matters": "Pourquoi votre voix compte",
     "Many voices matter": "La pluralité des voix compte",
     "Public voices should shape AI policy": "Les voix du public doivent façonner la politique de l'IA",
     "Public voices matter": "Les voix du public comptent",
-    "AI is moving from a technical issue to a Swiss public issue. It can affect hiring, training, productivity, worker protection, education, public services, and who benefits from new tools. Policy choices about these changes should be informed by people who live with the consequences, not only by experts, companies, or institutions.":
-      "L'IA passe d'une question technique à une question publique suisse. Elle peut influencer le recrutement, la formation, la productivité, la protection des travailleuses et travailleurs, l'éducation, les services publics et la répartition des bénéfices des nouveaux outils. Les choix politiques concernant ces changements devraient être éclairés par les personnes qui en vivent les conséquences, et pas seulement par des spécialistes, des entreprises ou des institutions.",
-    "This study invites people living in Switzerland to share the questions, concerns, and proposals they want decision-makers to hear. A diverse mix of voices helps researchers identify where the public sees agreement, disagreement, fairness, urgency, and practical next steps.":
-      "Cette étude invite les personnes vivant en Suisse à partager les questions, préoccupations et propositions qu'elles souhaitent faire entendre aux décideuses et décideurs. Une diversité de voix aide les chercheuses et chercheurs à repérer où le public voit de l'accord, du désaccord, de l'équité, de l'urgence et des prochaines étapes concrètes.",
-    "The results will contribute to a TA-SWISS report/book and policy-facing outputs intended to inform Swiss decision-makers, including the Swiss Parliament.":
-      "Les résultats contribueront à un rapport/livre TA-SWISS et à des livrables destinés aux politiques publiques, afin d'informer les décideuses et décideurs suisses, y compris le Parlement suisse.",
+    "AI is no longer only a technical topic. It can affect hiring, training, productivity, worker protection, education, public services, and who benefits from new tools.":
+      "L'IA n'est plus seulement un sujet technique. Elle peut influencer le recrutement, la formation, la productivité, la protection des travailleuses et travailleurs, l'éducation, les services publics et la répartition des bénéfices des nouveaux outils.",
+    "Good policy should be shaped by people who live with these changes, not only by experts, companies, or institutions. This study asks people living in Switzerland to share the questions, concerns, and ideas they want decision-makers to hear.":
+      "Une bonne politique devrait être façonnée par les personnes qui vivent ces changements, pas seulement par des spécialistes, des entreprises ou des institutions. Cette étude demande aux personnes vivant en Suisse de partager les questions, préoccupations et idées qu'elles souhaitent faire entendre aux décideuses et décideurs.",
+    "The results will contribute to a TA-SWISS report/book and policy outputs for Swiss decision-makers, including the Swiss Parliament.":
+      "Les résultats contribueront à un rapport/livre TA-SWISS et à des résultats destinés aux politiques publiques, afin d'informer les décideuses et décideurs suisses, y compris le Parlement suisse.",
+    "Animated opinion map showing public responses grouped into changing clusters":
+      "Carte animée des opinions montrant les réponses du public regroupées en groupes qui changent",
     "Public input map": "Carte des contributions publiques",
     "More cautious": "Plus prudent",
     "More optimistic": "Plus optimiste",
     "Collective safeguards": "Garanties collectives",
     "Individual opportunity": "Opportunité individuelle",
-    "New app responses appear as points. Similar views form clusters that help researchers identify shared concerns, disagreements, and policy ideas.":
+    "New app responses appear as points. Similar views form groups that help researchers find shared concerns, disagreements, and policy ideas.":
       "Les nouvelles réponses dans l'app apparaissent sous forme de points. Les points de vue similaires forment des groupes qui aident à repérer les préoccupations partagées, les désaccords et les idées politiques.",
     "Why the study uses an app": "Pourquoi l'étude utilise une app",
     "Conversation over time": "Conversation dans le temps",
-    "The Atgora app lets participants return for four short rounds, usually around 10 minutes each. Later rounds may reflect perspectives, arguments, or disagreements contributed earlier, so the discussion can develop without needing everyone online at the same moment.":
-      "L'app Atgora permet aux participantes et participants de revenir pour quatre courts tours, généralement d'environ 10 minutes chacun. Les tours ultérieurs peuvent reprendre des perspectives, arguments ou désaccords proposés auparavant, afin que la discussion puisse évoluer sans que tout le monde soit en ligne au même moment.",
-    "Interface examples; study prompts will focus on AI, work, and skills.":
-      "Exemples d'interface ; les questions de l'étude porteront sur l'IA, le travail et les compétences.",
+    "The Atgora app lets participants return for four short rounds, usually around 10 minutes each. Later rounds may reflect views, short arguments, or disagreements shared earlier, so the discussion can develop without everyone being online at the same moment.":
+      "L'app Atgora permet aux participantes et participants de revenir pour quatre courts tours, généralement d'environ 10 minutes chacun. Les tours ultérieurs peuvent reprendre des points de vue, de courts arguments ou des désaccords partagés auparavant, afin que la discussion puisse évoluer sans que tout le monde soit en ligne au même moment.",
+    "Interface examples; study prompts will focus on AI, work, education, and skills.":
+      "Exemples d'interface; les questions de l'étude porteront sur l'IA, le travail, l'éducation et les compétences.",
     "Learn from short modules": "Lire de courts modules",
     "Answer quick polls": "Répondre à de courts sondages",
-    "Submit short arguments": "Soumettre de courts arguments",
+    "Share short responses": "Partager de courtes réponses",
     "Review updated material": "Examiner le matériel mis à jour",
     "Learn": "Lire",
     "Poll": "Sondage",
-    "Argue": "Argumenter",
+    "Respond": "Répondre",
     "Review": "Revoir",
+    "How public input is used": "Comment les contributions du public sont utilisées",
+    "Each round builds on the last": "Chaque tour s'appuie sur le précédent",
+    "In each app round, participants receive a short learning prompt or question. After the round closes, the study team reviews the previous input and uses it to shape the next round of learning material and voting questions.":
+      "À chaque tour dans l'app, les participantes et participants reçoivent une courte information ou une question. Une fois le tour terminé, l'équipe de recherche examine les contributions précédentes et les utilise pour construire le prochain contenu d'information et les prochaines questions de vote.",
+    "The diagram below is for people who want the research detail. In the app itself, you only need to follow the short prompts.":
+      "Le schéma ci-dessous s'adresse aux personnes qui souhaitent voir les détails de la recherche. Dans l'app elle-même, il suffit de suivre les courtes consignes.",
+    "Diagram of the Stage 1 online process, with information inputs, participant responses, short voting rounds, and workshop topics":
+      "Schéma du processus en ligne de la Stage 1, avec apports d'information, réponses des participantes et participants, courts tours de vote et thèmes d'atelier",
+    "The workflow has more detail than participants need day to day; the app experience is simpler: read, vote, respond, and come back for the next round.":
+      "Le déroulement contient plus de détails que ce dont les participantes et participants ont besoin au quotidien; l'expérience dans l'app est plus simple: lire, voter, répondre et revenir pour le prochain tour.",
     "Participant journey": "Parcours de participation",
     "Study path": "Parcours de l'étude",
-    "Most participation happens asynchronously in the Atgora app between May 19 and June 5. You only need to return about four times over these two weeks, for roughly 10 minutes each time. The workshop is a separate possible next step for engaged participants.":
-      "La plus grande partie de la participation se déroule de manière asynchrone dans l'app Atgora entre le 19 mai et le 5 juin. Vous n'avez besoin de revenir qu'environ quatre fois pendant ces deux semaines, pour environ 10 minutes à chaque fois. L'atelier est une étape séparée et possible pour les participantes et participants engagés.",
+    "Most participation happens in the Atgora app between May 19 and June 5. You only need to return about four times over these two weeks, for roughly 10 minutes each time. The workshop is a separate possible next step for engaged participants.":
+      "La plus grande partie de la participation se déroule dans l'app Atgora entre le 19 mai et le 5 juin. Vous n'avez besoin de revenir qu'environ quatre fois pendant ces deux semaines, pour environ 10 minutes à chaque fois. L'atelier est une étape séparée et possible pour les participantes et participants engagés.",
     "Before or around May 19": "Avant ou autour du 19 mai",
     "Setup": "Installation",
-    "Scan the QR code at the top of the page or use the App Store and Google Play links.":
-      "Scannez le code QR en haut de la page ou utilisez les liens vers l'App Store et Google Play.",
+    "Use the App Store or Google Play links on this page.":
+      "Utilisez les liens vers l'App Store ou Google Play sur cette page.",
     "From May 19": "Dès le 19 mai",
     "Consent": "Consentement",
-    "Consent and check": "Consentement et vérification",
-    "Read the study information, confirm consent, and answer a short comprehension check in the app.":
+    "Consent and quick check": "Consentement et courte vérification",
+    "Read the study information, confirm consent, and answer a short understanding check in the app.":
       "Lisez les informations sur l'étude, confirmez votre consentement et répondez dans l'app à une brève vérification de compréhension.",
     "Survey": "Questionnaire",
-    "Baseline survey": "Questionnaire initial",
-    "Share views about AI, work, productivity, worker protection, education, inequality, and reskilling.":
-      "Partagez votre point de vue sur l'IA, le travail, la productivité, la protection des travailleuses et travailleurs, l'éducation, les inégalités et la requalification.",
+    "First survey": "Premier questionnaire",
+    "Share views about AI, work, productivity, worker protection, education, inequality, and new skills.":
+      "Partagez votre point de vue sur l'IA, le travail, la productivité, la protection des travailleuses et travailleurs, l'éducation, les inégalités et les nouvelles compétences.",
     "Until June 5": "Jusqu'au 5 juin",
     "Main input": "Contribution principale",
     "Four short app visits": "Quatre courtes visites dans l'app",
-    "Open the app about four times over the two weeks, around 10 minutes each time, for learning modules, quick polls, and short arguments.":
-      "Ouvrez l'app environ quatre fois pendant les deux semaines, environ 10 minutes à chaque fois, pour des modules d'information, de courts sondages et de courts arguments.",
+    "Open the app about four times over the two weeks, around 10 minutes each time, for learning modules, quick polls, and short responses.":
+      "Ouvrez l'app environ quatre fois pendant les deux semaines, environ 10 minutes à chaque fois, pour des modules d'information, de courts sondages et de courtes réponses.",
     "After the app rounds": "Après les tours dans l'app",
     "Invitation": "Invitation",
     "Possible workshop invitation": "Invitation possible à un atelier",
@@ -464,7 +491,7 @@ window.SWISS_AI_I18N.fr = {
     "Can use the Atgora mobile app on a personal smartphone": "pouvez utiliser l'app mobile Atgora sur un smartphone personnel",
     "Want to share your own perspective, whether or not you feel like an AI expert":
       "souhaitez partager votre propre point de vue, que vous vous considériez ou non comme spécialiste de l'IA",
-    "Are willing to complete digital consent and a comprehension check": "acceptez de compléter le consentement numérique et une vérification de compréhension",
+    "Are willing to complete digital consent and a short understanding check": "acceptez de compléter le consentement numérique et une courte vérification de compréhension",
     "The workshop is a possible next step": "L'atelier est une étape possible",
     "You can still join the app study even if you are unsure whether you can attend an in-person workshop.":
       "Vous pouvez tout de même participer à l'étude dans l'app même si vous n'êtes pas sûr de pouvoir assister à un atelier en présence.",
@@ -479,15 +506,15 @@ window.SWISS_AI_I18N.fr = {
     "App input first": "D'abord les contributions dans l'app",
     "The online rounds are a voluntary contribution to public-interest research. If you stay engaged throughout the app study, you may later be invited to a separate in-person workshop in Zurich or Lausanne.":
       "Les tours en ligne sont une contribution volontaire à une recherche d'intérêt public. Si vous restez engagé pendant l'étude dans l'app, vous pourrez ensuite être invité à un atelier séparé en présence à Zurich ou Lausanne.",
-    "The workshop stage is separate and includes a flat-rate CHF 40 voucher for invited participants who attend. Travel costs are not reimbursed.":
-      "La phase d'atelier est séparée et comprend un bon forfaitaire de CHF 40 pour les personnes invitées qui y participent. Les frais de déplacement ne sont pas remboursés.",
+    "The workshop stage is separate and includes a fixed CHF 40 voucher for invited participants who attend. Travel costs are not reimbursed.":
+      "La phase d'atelier est séparée et comprend un bon fixe de CHF 40 pour les personnes invitées qui y participent. Les frais de déplacement ne sont pas remboursés.",
     "Privacy and data protection": "Vie privée et protection des données",
     "Clear data limits": "Limites claires pour les données",
-    "ETH Zurich is responsible for the research data. Identifying information is stored separately from coded or pseudonymised research data. App infrastructure is hosted in the European Union, Stockholm region.":
-      "L'ETH Zurich est responsable des données de recherche. Les informations identifiantes sont conservées séparément des données de recherche codées ou pseudonymisées. L'infrastructure de l'app est hébergée dans l'Union européenne, région de Stockholm.",
+    "ETH Zurich is responsible for the research data. Identifying information is stored separately from coded research data, which means study data is stored under an ID rather than your name. App infrastructure is hosted in the European Union, Stockholm region.":
+      "L'ETH Zurich est responsable des données de recherche. Les informations identifiantes sont conservées séparément des données de recherche codées; cela signifie que les données de l'étude sont stockées sous un identifiant plutôt que sous votre nom. L'infrastructure de l'app est hébergée dans l'Union européenne, région de Stockholm.",
     "Data the study may collect": "Données que l'étude peut collecter",
     "Contact details for study communication, workshop invitations, and voucher administration": "Coordonnées pour la communication liée à l'étude, les invitations aux ateliers et l'administration des bons",
-    "Survey responses, demographic profile information, app votes, and short written arguments": "Réponses aux questionnaires, informations de profil démographique, votes dans l'app et courts arguments écrits",
+    "Survey responses, demographic profile information, app votes, and short written responses": "Réponses aux questionnaires, informations de profil démographique, votes dans l'app et courtes réponses écrites",
     "Participation and completion information needed to run the study": "Informations de participation et d'achèvement nécessaires au déroulement de l'étude",
     "Audio recordings only for workshop discussion participants who explicitly consent": "Enregistrements audio uniquement pour les personnes participant aux discussions d'atelier qui donnent leur consentement explicite",
     "What is not collected or not used": "Ce qui n'est pas collecté ou pas utilisé",
@@ -507,8 +534,9 @@ window.SWISS_AI_I18N.fr = {
       "avec une équipe de recherche ancrée en Suisse qui travaille à travers plusieurs institutions en Suisse.",
     "Members of the project team gathered outside for a group photo":
       "Membres de l'équipe du projet réunis dehors pour une photo de groupe",
-    "The project brings together Swiss-affiliated researchers across institutions, combining expertise in LLMs, public policy, education, ethics, and deliberation.":
-      "Le projet réunit des chercheuses et chercheurs ancrés en Suisse à travers plusieurs institutions, en combinant des expertises sur les LLM, les politiques publiques, l'éducation, l'éthique et la délibération.",
+    "The project brings together Swiss-affiliated researchers across institutions, combining expertise in LLMs, public policy, education, ethics, and public discussion.":
+      "Le projet réunit des chercheuses et chercheurs ancrés en Suisse à travers plusieurs institutions, en combinant des expertises sur les LLM, les politiques publiques, l'éducation, l'éthique et la discussion publique.",
+    "View full project team and contact details": "Voir toute l'équipe du projet et les coordonnées",
     "Study contact": "Contact de l'étude",
     "Principal Investigator": "Chercheuse principale",
     "Swiss AI Futures consortium": "Consortium Swiss AI Futures",
@@ -556,7 +584,7 @@ window.SWISS_AI_I18N.fr = {
     {
       label: "Tour 01",
       title: "Lire de courts modules",
-      copy: "Lire des contenus concis sur l'IA, les emplois, les compétences, la productivité et les politiques publiques.",
+      copy: "Lire de courts contenus sur l'IA, l'emploi, les compétences, l'éducation et les politiques publiques.",
       shotAlt: "Écran d'exemple Atgora montrant un court module de contexte"
     },
     {
@@ -567,9 +595,9 @@ window.SWISS_AI_I18N.fr = {
     },
     {
       label: "Tour 03",
-      title: "Soumettre de courts arguments",
-      copy: "Ajoutez un bref argument ou une préoccupation. Les contenus ultérieurs peuvent reprendre des perspectives proposées par les participantes et participants.",
-      shotAlt: "Écran d'exemple Atgora montrant l'interface d'un groupe de vote actif"
+      title: "Partager de courtes réponses",
+      copy: "Ajoutez une brève réponse ou une préoccupation. Les contenus ultérieurs peuvent reprendre des perspectives proposées par les participantes et participants.",
+      shotAlt: "Écran de questionnaire Atgora avec plusieurs options de réponse"
     },
     {
       label: "Tour 04",
@@ -604,14 +632,15 @@ window.SWISS_AI_I18N.it = {
     "Privacy": "Protezione dei dati",
     "Join in Atgora": "Partecipa in Atgora",
     "Swiss residents 18+ are invited": "Sono invitate le persone residenti in Svizzera dai 18 anni",
+    "Project institutions": "Istituzioni del progetto",
     "Help shape": "Contribuisci a plasmare",
     "the future of": "il futuro dell'IA",
     "AI in": "in",
     "Switzerland.": "Svizzera.",
-    "AI is already changing Switzerland: how people learn, work, are hired, train for new skills, and use public services. Researchers from a Swiss research consortium invite people living in Switzerland to add their voice to a study on how AI should shape the future of work and labour markets.":
-      "L'IA sta già cambiando la Svizzera: il modo in cui le persone imparano, lavorano, vengono assunte, sviluppano nuove competenze e usano i servizi pubblici. Ricercatrici e ricercatori di un consorzio di ricerca svizzero invitano le persone che vivono in Svizzera a contribuire a uno studio su come l'IA dovrebbe plasmare il futuro del lavoro e dei mercati del lavoro.",
-    "We especially welcome pluralistic, diverse citizen voices: different backgrounds, regions, professions, education paths, and everyday experiences with technology. Good policy needs this range of public experience, not only expert, company, or institutional perspectives. No AI expertise is needed.":
-      "Accogliamo con particolare interesse voci cittadine pluralistiche e diverse: persone con background, regioni, professioni, percorsi formativi ed esperienze quotidiane con la tecnologia differenti. Una buona politica ha bisogno di questa varietà di esperienze pubbliche, non solo di prospettive di esperti, aziende o istituzioni. Non serve essere esperti di IA.",
+    "AI is already changing Switzerland: how people learn, work, are hired, train for new skills, and use public services. Researchers from a Swiss research consortium invite people living in Switzerland to add their voice to a study on how AI should shape work, education, and labour markets.":
+      "L'IA sta già cambiando la Svizzera: il modo in cui le persone imparano, lavorano, vengono assunte, sviluppano nuove competenze e usano i servizi pubblici. Ricercatrici e ricercatori di un consorzio di ricerca svizzero invitano le persone che vivono in Svizzera a contribuire a uno studio su come l'IA dovrebbe plasmare lavoro, educazione e mercati del lavoro.",
+    "You do not need to be an AI expert. We want to hear from people with different backgrounds, regions, jobs, education paths, and everyday experiences with technology.":
+      "Non devi essere esperta o esperto di IA. Vogliamo ascoltare persone con background, regioni, lavori, percorsi formativi ed esperienze quotidiane con la tecnologia differenti.",
     "Download Atgora": "Scarica Atgora",
     "Start in the app": "Inizia nell'app",
     "Download Atgora, then follow the study onboarding instructions in the app.":
@@ -647,71 +676,83 @@ window.SWISS_AI_I18N.it = {
     "Learn more about TA-SWISS": "Scopri di più su TA-SWISS",
     "Where this study fits": "Dove si colloca lo studio",
     "Phase 3: citizen input": "Fase 3: contributo pubblico",
-    "The project first maps what is already known about LLMs, then develops future-facing scenarios and focus group evidence. This page invites people living in Switzerland into the third phase: public app-based deliberation and possible in-person workshops, so public perspectives can be considered while policy-facing recommendations are being developed.":
-      "Il progetto mappa prima ciò che è già noto sugli LLM, poi sviluppa scenari orientati al futuro e dati da focus group. Questa pagina invita le persone che vivono in Svizzera alla terza fase: deliberazione pubblica tramite app e possibili workshop in presenza, affinché le prospettive del pubblico possano essere considerate mentre vengono sviluppate raccomandazioni orientate alle politiche pubbliche.",
+    "The project first maps what is already known about LLMs, then develops future scenarios and gathers input from focus groups. This page invites people living in Switzerland into the third phase: public app-based discussion and possible in-person workshops, so public perspectives can be considered while recommendations for policy are being developed.":
+      "Il progetto mappa prima ciò che è già noto sugli LLM, poi sviluppa scenari futuri e raccoglie contributi da focus group. Questa pagina invita le persone che vivono in Svizzera alla terza fase: discussione pubblica tramite app e possibili workshop in presenza, affinché le prospettive del pubblico possano essere considerate mentre vengono sviluppate raccomandazioni per le politiche pubbliche.",
     "Evidence, policy responses, and experiments": "Evidenze, risposte politiche ed esperimenti",
     "Researchers review published work on LLMs, analyse public AI and LLM documents, study institutional and policy responses, and run experiments on how LLM training affects skills-test results.":
       "Le ricercatrici e i ricercatori esaminano lavori pubblicati sugli LLM, analizzano documenti pubblici su IA e LLM, studiano le risposte istituzionali e politiche e conducono esperimenti su come una formazione sugli LLM influisce sui risultati dei test di competenza.",
     "Focus groups and future scenarios": "Focus group e scenari futuri",
-    "The project explores future scenarios through focus groups and supporting experiments on possible deskilling and upskilling effects, with facilitation and analysis support from Qualinsights.":
-      "Il progetto esplora scenari futuri attraverso focus group ed esperimenti di supporto su possibili effetti di perdita e sviluppo delle competenze, con il supporto di Qualinsights per facilitazione e analisi.",
-    "Citizen input and AI-supported deliberation": "Contributo pubblico e deliberazione assistita dall'IA",
-    "This is the phase you are being invited to join. App rounds and possible workshops connect earlier findings with lived experiences, policy priorities, and ethical questions about LLMs, helping show what people in Switzerland want protected, improved, or debated before AI becomes more deeply embedded in everyday work.":
-      "Questa è la fase a cui sei invitato a partecipare. I turni nell'app e i possibili workshop collegano i risultati precedenti con esperienze vissute, priorità politiche e questioni etiche sugli LLM, aiutando a mostrare ciò che le persone in Svizzera vogliono proteggere, migliorare o discutere prima che l'IA diventi ancora più integrata nel lavoro quotidiano.",
+    "The project explores future scenarios through focus groups and supporting experiments on possible loss or growth of skills, with help from a specialist research partner.":
+      "Il progetto esplora scenari futuri attraverso focus group ed esperimenti di supporto su possibili perdite o sviluppi di competenze, con l'aiuto di un partner di ricerca specializzato.",
+    "Citizen input and AI-supported discussion": "Contributo pubblico e discussione assistita dall'IA",
+    "This is the phase you are being invited to join. App rounds and possible workshops connect earlier findings with everyday experiences, policy priorities, and ethical questions about LLMs, helping show what people in Switzerland want protected, improved, or debated before AI becomes more common in everyday work.":
+      "Questa è la fase a cui sei invitato a partecipare. I turni nell'app e i possibili workshop collegano i risultati precedenti con esperienze quotidiane, priorità politiche e questioni etiche sugli LLM, aiutando a mostrare ciò che le persone in Svizzera vogliono proteggere, migliorare o discutere prima che l'IA diventi più comune nel lavoro quotidiano.",
     "You are here": "Sei qui",
     "Why your voice matters": "Perché la tua voce conta",
     "Many voices matter": "La pluralità delle voci conta",
     "Public voices should shape AI policy": "Le voci del pubblico dovrebbero plasmare la politica sull'IA",
     "Public voices matter": "Le voci del pubblico contano",
-    "AI is moving from a technical issue to a Swiss public issue. It can affect hiring, training, productivity, worker protection, education, public services, and who benefits from new tools. Policy choices about these changes should be informed by people who live with the consequences, not only by experts, companies, or institutions.":
-      "L'IA sta passando da questione tecnica a questione pubblica svizzera. Può influenzare assunzioni, formazione, produttività, tutela delle lavoratrici e dei lavoratori, educazione, servizi pubblici e chi beneficia dei nuovi strumenti. Le scelte politiche su questi cambiamenti dovrebbero essere informate dalle persone che ne vivono le conseguenze, non solo da esperti, aziende o istituzioni.",
-    "This study invites people living in Switzerland to share the questions, concerns, and proposals they want decision-makers to hear. A diverse mix of voices helps researchers identify where the public sees agreement, disagreement, fairness, urgency, and practical next steps.":
-      "Questo studio invita le persone che vivono in Svizzera a condividere le domande, le preoccupazioni e le proposte che vogliono far arrivare ai decisori. Una combinazione diversa di voci aiuta la ricerca a identificare dove il pubblico vede accordo, disaccordo, equità, urgenza e prossimi passi pratici.",
-    "The results will contribute to a TA-SWISS report/book and policy-facing outputs intended to inform Swiss decision-makers, including the Swiss Parliament.":
-      "I risultati contribuiranno a un rapporto/libro TA-SWISS e a materiali orientati alle politiche pubbliche destinati a informare i decisori svizzeri, incluso il Parlamento svizzero.",
+    "AI is no longer only a technical topic. It can affect hiring, training, productivity, worker protection, education, public services, and who benefits from new tools.":
+      "L'IA non è più solo un tema tecnico. Può influenzare assunzioni, formazione, produttività, tutela delle lavoratrici e dei lavoratori, educazione, servizi pubblici e chi beneficia dei nuovi strumenti.",
+    "Good policy should be shaped by people who live with these changes, not only by experts, companies, or institutions. This study asks people living in Switzerland to share the questions, concerns, and ideas they want decision-makers to hear.":
+      "Una buona politica dovrebbe essere plasmata dalle persone che vivono questi cambiamenti, non solo da esperti, aziende o istituzioni. Questo studio chiede alle persone che vivono in Svizzera di condividere le domande, le preoccupazioni e le idee che vogliono far arrivare ai decisori.",
+    "The results will contribute to a TA-SWISS report/book and policy outputs for Swiss decision-makers, including the Swiss Parliament.":
+      "I risultati contribuiranno a un rapporto/libro TA-SWISS e a materiali per le politiche pubbliche destinati a informare i decisori svizzeri, incluso il Parlamento svizzero.",
+    "Animated opinion map showing public responses grouped into changing clusters":
+      "Mappa animata delle opinioni che mostra risposte pubbliche raggruppate in gruppi che cambiano",
     "Public input map": "Mappa dei contributi pubblici",
     "More cautious": "Più prudente",
     "More optimistic": "Più ottimista",
     "Collective safeguards": "Tutele collettive",
     "Individual opportunity": "Opportunità individuale",
-    "New app responses appear as points. Similar views form clusters that help researchers identify shared concerns, disagreements, and policy ideas.":
-      "Le nuove risposte nell'app appaiono come punti. Le opinioni simili formano cluster che aiutano la ricerca a identificare preoccupazioni condivise, divergenze e idee politiche.",
+    "New app responses appear as points. Similar views form groups that help researchers find shared concerns, disagreements, and policy ideas.":
+      "Le nuove risposte nell'app appaiono come punti. Le opinioni simili formano gruppi che aiutano la ricerca a identificare preoccupazioni condivise, divergenze e idee politiche.",
     "Why the study uses an app": "Perché lo studio usa un'app",
     "Conversation over time": "Conversazione nel tempo",
-    "The Atgora app lets participants return for four short rounds, usually around 10 minutes each. Later rounds may reflect perspectives, arguments, or disagreements contributed earlier, so the discussion can develop without needing everyone online at the same moment.":
-      "L'app Atgora permette alle persone partecipanti di tornare per quattro brevi turni, di solito circa 10 minuti ciascuno. I turni successivi possono riprendere prospettive, argomenti o divergenze emerse prima, così la discussione può svilupparsi senza che tutti siano online nello stesso momento.",
-    "Interface examples; study prompts will focus on AI, work, and skills.":
-      "Esempi dell'interfaccia; le domande dello studio riguarderanno IA, lavoro e competenze.",
+    "The Atgora app lets participants return for four short rounds, usually around 10 minutes each. Later rounds may reflect views, short arguments, or disagreements shared earlier, so the discussion can develop without everyone being online at the same moment.":
+      "L'app Atgora permette alle persone partecipanti di tornare per quattro brevi turni, di solito circa 10 minuti ciascuno. I turni successivi possono riprendere opinioni, brevi argomenti o divergenze condivise prima, così la discussione può svilupparsi senza che tutti siano online nello stesso momento.",
+    "Interface examples; study prompts will focus on AI, work, education, and skills.":
+      "Esempi dell'interfaccia; le domande dello studio riguarderanno IA, lavoro, educazione e competenze.",
     "Learn from short modules": "Leggere moduli brevi",
     "Answer quick polls": "Rispondere a brevi sondaggi",
-    "Submit short arguments": "Inviare brevi argomenti",
+    "Share short responses": "Condividere brevi risposte",
     "Review updated material": "Rivedere materiale aggiornato",
     "Learn": "Leggere",
     "Poll": "Sondaggio",
-    "Argue": "Argomentare",
+    "Respond": "Rispondere",
     "Review": "Rivedere",
+    "How public input is used": "Come viene usato il contributo pubblico",
+    "Each round builds on the last": "Ogni turno si basa sul precedente",
+    "In each app round, participants receive a short learning prompt or question. After the round closes, the study team reviews the previous input and uses it to shape the next round of learning material and voting questions.":
+      "In ogni turno nell'app, le persone partecipanti ricevono un breve input informativo o una domanda. Dopo la chiusura del turno, il team di ricerca esamina i contributi precedenti e li usa per costruire il materiale informativo e le domande di voto del turno successivo.",
+    "The diagram below is for people who want the research detail. In the app itself, you only need to follow the short prompts.":
+      "Il diagramma qui sotto è per chi desidera vedere i dettagli della ricerca. Nell'app stessa basta seguire le brevi indicazioni.",
+    "Diagram of the Stage 1 online process, with information inputs, participant responses, short voting rounds, and workshop topics":
+      "Diagramma del processo online della Stage 1, con input informativi, risposte delle persone partecipanti, brevi turni di voto e temi dei workshop",
+    "The workflow has more detail than participants need day to day; the app experience is simpler: read, vote, respond, and come back for the next round.":
+      "Il flusso contiene più dettagli di quanti servano alle persone partecipanti nella quotidianità; l'esperienza nell'app è più semplice: leggere, votare, rispondere e tornare per il turno successivo.",
     "Participant journey": "Percorso di partecipazione",
     "Study path": "Percorso dello studio",
-    "Most participation happens asynchronously in the Atgora app between May 19 and June 5. You only need to return about four times over these two weeks, for roughly 10 minutes each time. The workshop is a separate possible next step for engaged participants.":
-      "La maggior parte della partecipazione avviene in modo asincrono nell'app Atgora tra il 19 maggio e il 5 giugno. Devi tornare solo circa quattro volte in queste due settimane, per circa 10 minuti ogni volta. Il workshop è una possibile fase successiva separata per le persone più coinvolte.",
+    "Most participation happens in the Atgora app between May 19 and June 5. You only need to return about four times over these two weeks, for roughly 10 minutes each time. The workshop is a separate possible next step for engaged participants.":
+      "La maggior parte della partecipazione avviene nell'app Atgora tra il 19 maggio e il 5 giugno. Devi tornare solo circa quattro volte in queste due settimane, per circa 10 minuti ogni volta. Il workshop è una possibile fase successiva separata per le persone più coinvolte.",
     "Before or around May 19": "Prima o attorno al 19 maggio",
     "Setup": "Preparazione",
-    "Scan the QR code at the top of the page or use the App Store and Google Play links.":
-      "Scansiona il codice QR in alto nella pagina o usa i link all'App Store e a Google Play.",
+    "Use the App Store or Google Play links on this page.":
+      "Usa i link all'App Store o a Google Play in questa pagina.",
     "From May 19": "Dal 19 maggio",
     "Consent": "Consenso",
-    "Consent and check": "Consenso e verifica",
-    "Read the study information, confirm consent, and answer a short comprehension check in the app.":
+    "Consent and quick check": "Consenso e breve verifica",
+    "Read the study information, confirm consent, and answer a short understanding check in the app.":
       "Leggi le informazioni sullo studio, conferma il consenso e rispondi nell'app a una breve verifica di comprensione.",
     "Survey": "Questionario",
-    "Baseline survey": "Questionario iniziale",
-    "Share views about AI, work, productivity, worker protection, education, inequality, and reskilling.":
-      "Condividi opinioni su IA, lavoro, produttività, protezione delle lavoratrici e dei lavoratori, educazione, disuguaglianza e riqualificazione.",
+    "First survey": "Primo questionario",
+    "Share views about AI, work, productivity, worker protection, education, inequality, and new skills.":
+      "Condividi opinioni su IA, lavoro, produttività, protezione delle lavoratrici e dei lavoratori, educazione, disuguaglianza e nuove competenze.",
     "Until June 5": "Fino al 5 giugno",
     "Main input": "Contributo principale",
     "Four short app visits": "Quattro brevi visite nell'app",
-    "Open the app about four times over the two weeks, around 10 minutes each time, for learning modules, quick polls, and short arguments.":
-      "Apri l'app circa quattro volte nelle due settimane, circa 10 minuti ogni volta, per moduli informativi, brevi sondaggi e brevi argomenti.",
+    "Open the app about four times over the two weeks, around 10 minutes each time, for learning modules, quick polls, and short responses.":
+      "Apri l'app circa quattro volte nelle due settimane, circa 10 minuti ogni volta, per moduli informativi, brevi sondaggi e brevi risposte.",
     "After the app rounds": "Dopo i turni nell'app",
     "Invitation": "Invito",
     "Possible workshop invitation": "Possibile invito a un workshop",
@@ -729,7 +770,7 @@ window.SWISS_AI_I18N.it = {
     "Can use the Atgora mobile app on a personal smartphone": "puoi usare l'app mobile Atgora su uno smartphone personale",
     "Want to share your own perspective, whether or not you feel like an AI expert":
       "vuoi condividere il tuo punto di vista, anche se non ti senti esperta o esperto di IA",
-    "Are willing to complete digital consent and a comprehension check": "sei disposto a completare il consenso digitale e una verifica di comprensione",
+    "Are willing to complete digital consent and a short understanding check": "sei disposto a completare il consenso digitale e una breve verifica di comprensione",
     "The workshop is a possible next step": "Il workshop è una possibile fase successiva",
     "You can still join the app study even if you are unsure whether you can attend an in-person workshop.":
       "Puoi comunque partecipare allo studio nell'app anche se non sei sicuro di poter partecipare a un workshop in presenza.",
@@ -744,15 +785,15 @@ window.SWISS_AI_I18N.it = {
     "App input first": "Prima il contributo nell'app",
     "The online rounds are a voluntary contribution to public-interest research. If you stay engaged throughout the app study, you may later be invited to a separate in-person workshop in Zurich or Lausanne.":
       "I turni online sono un contributo volontario a una ricerca di interesse pubblico. Se resti coinvolto durante lo studio nell'app, potresti essere invitato in seguito a un workshop separato in presenza a Zurigo o Losanna.",
-    "The workshop stage is separate and includes a flat-rate CHF 40 voucher for invited participants who attend. Travel costs are not reimbursed.":
-      "La fase dei workshop è separata e prevede un buono forfettario di CHF 40 per le persone invitate che partecipano. Le spese di viaggio non sono rimborsate.",
+    "The workshop stage is separate and includes a fixed CHF 40 voucher for invited participants who attend. Travel costs are not reimbursed.":
+      "La fase dei workshop è separata e prevede un buono fisso di CHF 40 per le persone invitate che partecipano. Le spese di viaggio non sono rimborsate.",
     "Privacy and data protection": "Privacy e protezione dei dati",
     "Clear data limits": "Limiti chiari per i dati",
-    "ETH Zurich is responsible for the research data. Identifying information is stored separately from coded or pseudonymised research data. App infrastructure is hosted in the European Union, Stockholm region.":
-      "L'ETH Zurigo è responsabile dei dati di ricerca. Le informazioni identificative sono conservate separatamente dai dati di ricerca codificati o pseudonimizzati. L'infrastruttura dell'app è ospitata nell'Unione europea, regione di Stoccolma.",
+    "ETH Zurich is responsible for the research data. Identifying information is stored separately from coded research data, which means study data is stored under an ID rather than your name. App infrastructure is hosted in the European Union, Stockholm region.":
+      "L'ETH Zurigo è responsabile dei dati di ricerca. Le informazioni identificative sono conservate separatamente dai dati di ricerca codificati; questo significa che i dati dello studio sono salvati con un ID invece che con il tuo nome. L'infrastruttura dell'app è ospitata nell'Unione europea, regione di Stoccolma.",
     "Data the study may collect": "Dati che lo studio può raccogliere",
     "Contact details for study communication, workshop invitations, and voucher administration": "Dati di contatto per comunicazioni dello studio, inviti ai workshop e gestione dei buoni",
-    "Survey responses, demographic profile information, app votes, and short written arguments": "Risposte ai questionari, informazioni di profilo demografico, voti nell'app e brevi argomenti scritti",
+    "Survey responses, demographic profile information, app votes, and short written responses": "Risposte ai questionari, informazioni di profilo demografico, voti nell'app e brevi risposte scritte",
     "Participation and completion information needed to run the study": "Informazioni su partecipazione e completamento necessarie per svolgere lo studio",
     "Audio recordings only for workshop discussion participants who explicitly consent": "Registrazioni audio solo per le persone che partecipano alle discussioni nei workshop e danno consenso esplicito",
     "What is not collected or not used": "Cosa non viene raccolto o usato",
@@ -772,8 +813,9 @@ window.SWISS_AI_I18N.it = {
       "con un team di ricerca radicato in Svizzera che lavora attraverso diverse istituzioni in Svizzera.",
     "Members of the project team gathered outside for a group photo":
       "Membri del team del progetto riuniti all'aperto per una foto di gruppo",
-    "The project brings together Swiss-affiliated researchers across institutions, combining expertise in LLMs, public policy, education, ethics, and deliberation.":
-      "Il progetto riunisce ricercatrici e ricercatori radicati in Svizzera attraverso diverse istituzioni, combinando competenze su LLM, politiche pubbliche, educazione, etica e deliberazione.",
+    "The project brings together Swiss-affiliated researchers across institutions, combining expertise in LLMs, public policy, education, ethics, and public discussion.":
+      "Il progetto riunisce ricercatrici e ricercatori radicati in Svizzera attraverso diverse istituzioni, combinando competenze su LLM, politiche pubbliche, educazione, etica e discussione pubblica.",
+    "View full project team and contact details": "Vedi tutto il team del progetto e i contatti",
     "Study contact": "Contatto dello studio",
     "Principal Investigator": "Ricercatrice principale",
     "Swiss AI Futures consortium": "Consorzio Swiss AI Futures",
@@ -821,7 +863,7 @@ window.SWISS_AI_I18N.it = {
     {
       label: "Turno 01",
       title: "Leggere moduli brevi",
-      copy: "Leggi contenuti concisi su IA, lavoro, competenze, produttività e politiche pubbliche.",
+      copy: "Leggi brevi contenuti su IA, lavoro, competenze, educazione e politiche pubbliche.",
       shotAlt: "Schermata di esempio di Atgora con un breve modulo di contesto"
     },
     {
@@ -832,9 +874,9 @@ window.SWISS_AI_I18N.it = {
     },
     {
       label: "Turno 03",
-      title: "Inviare brevi argomenti",
-      copy: "Aggiungi un breve argomento o una preoccupazione. Il materiale successivo può riprendere prospettive proposte dalle persone partecipanti.",
-      shotAlt: "Schermata di esempio di Atgora con l'interfaccia di un gruppo di voto attivo"
+      title: "Condividere brevi risposte",
+      copy: "Aggiungi una breve risposta o una preoccupazione. Il materiale successivo può riprendere prospettive proposte dalle persone partecipanti.",
+      shotAlt: "Schermata del questionario Atgora con più opzioni di risposta"
     },
     {
       label: "Turno 04",

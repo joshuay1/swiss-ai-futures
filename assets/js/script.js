@@ -135,6 +135,17 @@ if ("IntersectionObserver" in window) {
   revealItems.forEach((item) => item.classList.add("is-visible"));
 }
 
+const refreshVisibleReveals = () => {
+  revealItems.forEach(revealIfInView);
+};
+
+window.addEventListener("load", () => {
+  window.setTimeout(refreshVisibleReveals, 80);
+});
+window.addEventListener("hashchange", () => {
+  window.setTimeout(refreshVisibleReveals, 180);
+});
+
 const getRoundContent = () => getLanguageData().rounds || getEnglishData().rounds || [];
 
 const roundButtons = document.querySelectorAll(".round-button");
@@ -147,7 +158,7 @@ const flowStages = document.querySelectorAll(".flow-stage");
 const roundScreenshots = [
   "assets/images/app-screenshots/providing-context-in-education-app.png",
   "assets/images/app-screenshots/likert-style-poll-in-module.png",
-  "assets/images/app-screenshots/voting-group-interface.png",
+  "assets/images/instructions/04-answer-questionnaire-prompts.png",
   "assets/images/app-screenshots/polling-for-alignment.png"
 ];
 

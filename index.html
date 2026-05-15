@@ -11,6 +11,7 @@
     <link rel="icon" type="image/png" href="assets/images/logos/favicon.png">
     <link rel="apple-touch-icon" href="assets/images/logos/apple-touch-icon.png">
     <link rel="preload" href="assets/images/logos/logo-long.png" as="image">
+    <link rel="preload" href="assets/images/logos/eth-logo.png" as="image">
     <link rel="preload" href="assets/images/logos/TA-SWISS-logo.svg" as="image">
     <link rel="preload" href="assets/images/photos/group-photo.jpg" as="image">
     <link rel="stylesheet" href="assets/css/styles.css">
@@ -40,12 +41,26 @@
           <button type="button" data-lang="fr" aria-pressed="false">FR</button>
           <button type="button" data-lang="it" aria-pressed="false">IT</button>
         </div>
-        <a class="header-cta js-download" href="#download">Join in Atgora</a>
+        <a class="header-cta" href="#download">Join in Atgora</a>
       </div>
     </header>
 
     <main id="main">
       <section class="hero section" id="top">
+        <div class="hero-trust" data-reveal aria-label="Project institutions">
+          <a href="https://ethz.ch/en.html" target="_blank" rel="noopener noreferrer">
+            <img src="assets/images/logos/eth-logo.png" alt="ETH Zurich" width="520" height="251">
+          </a>
+          <a href="https://www.ta-swiss.ch/en/ta-swiss" target="_blank" rel="noopener noreferrer">
+            <img class="hero-trust-ta" src="assets/images/logos/TA-SWISS-logo.svg" alt="TA-SWISS" width="103" height="107">
+          </a>
+          <span>University of Zurich</span>
+          <span>University of Lausanne</span>
+          <span>University of St.Gallen</span>
+          <span>LUT University</span>
+          <span>PH Zurich</span>
+        </div>
+
         <div class="hero-copy" data-reveal>
           <p class="eyebrow">Swiss residents 18+ are invited</p>
           <h1>
@@ -57,58 +72,121 @@
           <p class="hero-text">
             AI is already changing Switzerland: how people learn, work, are hired, train for new skills, and use
             public services. Researchers from a Swiss research consortium invite people living in Switzerland to
-            add their voice to a study on how AI should shape the future of work and labour markets.
+            add their voice to a study on how AI should shape work, education, and labour markets.
           </p>
           <p class="hero-text">
-            We especially welcome pluralistic, diverse citizen voices: different backgrounds, regions, professions,
-            education paths, and everyday experiences with technology. Good policy needs this range of public
-            experience, not only expert, company, or institutional perspectives. No AI expertise is needed.
+            You do not need to be an AI expert. We want to hear from people with different backgrounds, regions,
+            jobs, education paths, and everyday experiences with technology.
           </p>
           <div class="cta-row" aria-label="Primary actions">
-            <a class="button primary js-download" href="#download">Download Atgora</a>
+            <a class="button primary" href="#why">Why your voice matters</a>
           </div>
         </div>
+      </section>
 
-        <div class="hero-entry" data-reveal aria-label="Immediate app access">
-          <div class="hero-entry-header">
-            <h2>Start in the app</h2>
-            <p>Download Atgora, then follow the study onboarding instructions in the app.</p>
+      <section class="section split-section" id="why">
+        <div class="section-copy" data-reveal>
+          <p class="eyebrow">Why your voice matters</p>
+          <h2>Public voices should shape AI policy</h2>
+          <p>
+            AI is no longer only a technical topic. It can affect hiring, training, productivity, worker protection,
+            education, public services, and who benefits from new tools.
+          </p>
+          <p>
+            Good policy should be shaped by people who live with these changes, not only by experts, companies, or
+            institutions. This study asks people living in Switzerland to share the questions, concerns, and ideas
+            they want decision-makers to hear.
+          </p>
+          <p>
+            The results will contribute to a TA-SWISS report/book and policy outputs for Swiss decision-makers,
+            including the Swiss Parliament.
+          </p>
+        </div>
+
+        <figure
+          class="signal-panel opinion-panel"
+          data-reveal
+          aria-label="Animated opinion map showing public responses grouped into changing clusters"
+        >
+          <div class="opinion-panel-head">
+            <span>Public input map</span>
+            <strong id="opinion-count">42 responses</strong>
           </div>
-          <div class="hero-qr-grid">
+          <div class="opinion-map-wrap">
+            <canvas class="opinion-map" width="680" height="430" aria-hidden="true"></canvas>
+            <span class="axis-label axis-label-left">More cautious</span>
+            <span class="axis-label axis-label-right">More optimistic</span>
+            <span class="axis-label axis-label-top">Collective safeguards</span>
+            <span class="axis-label axis-label-bottom">Individual opportunity</span>
+          </div>
+          <figcaption>
+            New app responses appear as points. Similar views form groups that help researchers find shared
+            concerns, disagreements, and policy ideas.
+          </figcaption>
+        </figure>
+      </section>
+
+      <section class="section download-section early-download-section" aria-label="Download Atgora">
+        <div class="download-copy" data-reveal>
+          <p class="eyebrow">Join the study</p>
+          <h2>Download Atgora</h2>
+          <p>
+            Scan the QR code for your phone or use the store buttons. Atgora is the app used for four short online
+            participation rounds between May 19 and June 5, around 10 minutes each.
+          </p>
+        </div>
+
+        <div class="download-panel" data-reveal>
+          <div class="download-qrs" aria-label="App store QR codes">
             <a
-              class="hero-qr"
+              class="qr-placeholder"
               href="https://apps.apple.com/us/app/gora/id6621260183"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="Open Atgora in the Apple App Store"
             >
-              <img src="assets/images/qr/atgora-ios-qr.png" alt="QR code linking to Atgora in the Apple App Store" width="112" height="112">
-              <span>
-                <strong>iPhone</strong>
-                <small>App Store</small>
-              </span>
+              <img src="assets/images/qr/atgora-ios-qr.png" alt="QR code linking to Atgora in the Apple App Store" width="140" height="140">
+              <span>iPhone</span>
             </a>
             <a
-              class="hero-qr"
+              class="qr-placeholder"
               href="https://play.google.com/store/apps/details?id=com.mobilezorro"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="Open Atgora in Google Play"
             >
-              <img src="assets/images/qr/atgora-android-qr.png" alt="QR code linking to Atgora in Google Play" width="112" height="112">
-              <span>
-                <strong>Android</strong>
-                <small>Google Play</small>
-              </span>
+              <img src="assets/images/qr/atgora-android-qr.png" alt="QR code linking to Atgora in Google Play" width="140" height="140">
+              <span>Android</span>
             </a>
           </div>
-          <div class="hero-dates" aria-label="Study dates">
-            <span>
-              <strong>App study</strong>
-              <time datetime="2026-05-19">May 19-June 5</time>
-            </span>
-            <span>
-              <strong>Possible workshops</strong>
-              <time datetime="2026-06-15">June 15-19</time>
-            </span>
+          <div class="store-actions">
+            <a
+              class="store-button"
+              href="https://apps.apple.com/us/app/gora/id6621260183"
+              data-store="ios"
+              data-url="https://apps.apple.com/us/app/gora/id6621260183"
+            >
+              <span>iOS</span>
+              Download on the App Store
+            </a>
+            <a
+              class="store-button"
+              href="https://play.google.com/store/apps/details?id=com.mobilezorro"
+              data-store="android"
+              data-url="https://play.google.com/store/apps/details?id=com.mobilezorro"
+            >
+              <span>Android</span>
+              Get it on Google Play
+            </a>
+            <a
+              class="store-button external-resource"
+              href="https://www.atgora.org/atgoraapp"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <span>Atgora</span>
+              Official app page
+            </a>
           </div>
         </div>
       </section>
@@ -225,10 +303,10 @@
           <p class="eyebrow">Where this study fits</p>
           <h2>Phase 3: citizen input</h2>
           <p>
-            The project first maps what is already known about LLMs, then develops future-facing scenarios and
-            focus group evidence. This page invites people living in Switzerland into the third phase: public
-            app-based deliberation and possible in-person workshops, so public perspectives can be considered
-            while policy-facing recommendations are being developed.
+            The project first maps what is already known about LLMs, then develops future scenarios and gathers
+            input from focus groups. This page invites people living in Switzerland into the third phase: public
+            app-based discussion and possible in-person workshops, so public perspectives can be considered while
+            recommendations for policy are being developed.
           </p>
         </div>
 
@@ -246,65 +324,21 @@
             <h3>Focus groups and future scenarios</h3>
             <p>
               The project explores future scenarios through focus groups and supporting experiments on possible
-              deskilling and upskilling effects, with facilitation and analysis support from Qualinsights.
+              loss or growth of skills, with help from a specialist research partner.
             </p>
           </article>
           <article class="phase-card active-phase" data-reveal>
             <span>Phase 03</span>
             <span class="phase-status">You are here</span>
-            <h3>Citizen input and AI-supported deliberation</h3>
+            <h3>Citizen input and AI-supported discussion</h3>
             <p>
               This is the phase you are being invited to join. App rounds and possible workshops connect earlier
-              findings with lived experiences, policy priorities, and ethical questions about LLMs, helping show
-              what people in Switzerland want protected, improved, or debated before AI becomes more deeply
-              embedded in everyday work.
+              findings with everyday experiences, policy priorities, and ethical questions about LLMs, helping
+              show what people in Switzerland want protected, improved, or debated before AI becomes more common
+              in everyday work.
             </p>
           </article>
         </div>
-      </section>
-
-      <section class="section split-section" id="why">
-        <div class="section-copy" data-reveal>
-          <p class="eyebrow">Why your voice matters</p>
-          <h2>Public voices should shape AI policy</h2>
-          <p>
-            AI is moving from a technical issue to a Swiss public issue. It can affect hiring, training,
-            productivity, worker protection, education, public services, and who benefits from new tools. Policy
-            choices about these changes should be informed by people who live with the consequences, not only by
-            experts, companies, or institutions.
-          </p>
-          <p>
-            This study invites people living in Switzerland to share the questions, concerns, and proposals they
-            want decision-makers to hear. A diverse mix of voices helps researchers identify where the public sees
-            agreement, disagreement, fairness, urgency, and practical next steps.
-          </p>
-          <p>
-            The results will contribute to a TA-SWISS report/book and policy-facing outputs intended to inform
-            Swiss decision-makers, including the Swiss Parliament.
-          </p>
-        </div>
-
-        <figure
-          class="signal-panel opinion-panel"
-          data-reveal
-          aria-label="Animated opinion map showing public responses grouped into evolving clusters"
-        >
-          <div class="opinion-panel-head">
-            <span>Public input map</span>
-            <strong id="opinion-count">42 responses</strong>
-          </div>
-          <div class="opinion-map-wrap">
-            <canvas class="opinion-map" width="680" height="430" aria-hidden="true"></canvas>
-            <span class="axis-label axis-label-left">More cautious</span>
-            <span class="axis-label axis-label-right">More optimistic</span>
-            <span class="axis-label axis-label-top">Collective safeguards</span>
-            <span class="axis-label axis-label-bottom">Individual opportunity</span>
-          </div>
-          <figcaption>
-            New app responses appear as points. Similar views form clusters that help researchers identify
-            shared concerns, disagreements, and policy ideas.
-          </figcaption>
-        </figure>
       </section>
 
       <section class="section app-section" id="app">
@@ -313,8 +347,8 @@
           <h2>Conversation over time</h2>
           <p>
             The Atgora app lets participants return for four short rounds, usually around 10 minutes each.
-            Later rounds may reflect perspectives, arguments, or disagreements contributed earlier, so the
-            discussion can develop without needing everyone online at the same moment.
+            Later rounds may reflect views, short arguments, or disagreements shared earlier, so the discussion
+            can develop without everyone being online at the same moment.
           </p>
         </div>
 
@@ -330,7 +364,7 @@
             </button>
             <button class="round-button" type="button" data-round="2">
               <span>03</span>
-              Submit short arguments
+              Share short responses
             </button>
             <button class="round-button" type="button" data-round="3">
               <span>04</span>
@@ -354,7 +388,7 @@
               <p class="screen-label" id="app-label">Round 01</p>
               <h3 id="app-title">Learn from short modules</h3>
               <p id="app-copy">
-                Read concise learning content about AI, jobs, skills, productivity, and public policy.
+                Read short learning content about AI, jobs, skills, education, and public policy.
               </p>
               <div class="round-flow" aria-label="Round-by-round signal from learning to review">
                 <div class="flow-line" aria-hidden="true">
@@ -373,7 +407,7 @@
                 </div>
                 <div class="flow-stage" data-flow-round="2">
                   <span>R3</span>
-                  Argue
+                  Respond
                 </div>
                 <div class="flow-stage" data-flow-round="3">
                   <span>R4</span>
@@ -381,11 +415,42 @@
                 </div>
               </div>
               <p class="app-shot-note">
-                Interface examples; study prompts will focus on AI, work, and skills.
+                Interface examples; study prompts will focus on AI, work, education, and skills.
               </p>
             </div>
           </div>
         </div>
+      </section>
+
+      <section class="section process-section" id="process">
+        <div class="section-heading" data-reveal>
+          <p class="eyebrow">How public input is used</p>
+          <h2>Each round builds on the last</h2>
+          <p>
+            In each app round, participants receive a short learning prompt or question. After the round closes,
+            the study team reviews the previous input and uses it to shape the next round of learning material
+            and voting questions.
+          </p>
+          <p>
+            The diagram below is for people who want the research detail. In the app itself, you only need to
+            follow the short prompts.
+          </p>
+        </div>
+
+        <figure class="process-figure" data-reveal>
+          <img
+            src="assets/images/maxi-public.png"
+            alt="Diagram of the Stage 1 online process, with information inputs, participant responses, short voting rounds, and workshop topics"
+            width="1764"
+            height="1188"
+            loading="lazy"
+            decoding="async"
+          >
+          <figcaption>
+            The workflow has more detail than participants need day to day; the app experience is simpler: read,
+            vote, respond, and come back for the next round.
+          </figcaption>
+        </figure>
       </section>
 
       <section class="section journey-section" id="journey">
@@ -393,9 +458,9 @@
           <p class="eyebrow">Participant journey</p>
           <h2>Study path</h2>
           <p>
-            Most participation happens asynchronously in the Atgora app between May 19 and June 5. You only need
-            to return about four times over these two weeks, for roughly 10 minutes each time. The workshop is a
-            separate possible next step for engaged participants.
+            Most participation happens in the Atgora app between May 19 and June 5. You only need to return about
+            four times over these two weeks, for roughly 10 minutes each time. The workshop is a separate possible
+            next step for engaged participants.
           </p>
         </div>
 
@@ -408,7 +473,7 @@
             </div>
             <div class="step-copy">
               <h3>Download Atgora</h3>
-              <p>Scan the QR code at the top of the page or use the App Store and Google Play links.</p>
+              <p>Use the App Store or Google Play links on this page.</p>
             </div>
           </li>
           <li data-reveal>
@@ -418,8 +483,8 @@
               <span class="step-action">Consent</span>
             </div>
             <div class="step-copy">
-              <h3>Consent and check</h3>
-              <p>Read the study information, confirm consent, and answer a short comprehension check in the app.</p>
+              <h3>Consent and quick check</h3>
+              <p>Read the study information, confirm consent, and answer a short understanding check in the app.</p>
             </div>
           </li>
           <li data-reveal>
@@ -429,8 +494,8 @@
               <span class="step-action">Survey</span>
             </div>
             <div class="step-copy">
-              <h3>Baseline survey</h3>
-              <p>Share views about AI, work, productivity, worker protection, education, inequality, and reskilling.</p>
+              <h3>First survey</h3>
+              <p>Share views about AI, work, productivity, worker protection, education, inequality, and new skills.</p>
             </div>
           </li>
           <li data-reveal>
@@ -441,7 +506,7 @@
             </div>
             <div class="step-copy">
               <h3>Four short app visits</h3>
-              <p>Open the app about four times over the two weeks, around 10 minutes each time, for learning modules, quick polls, and short arguments.</p>
+              <p>Open the app about four times over the two weeks, around 10 minutes each time, for learning modules, quick polls, and short responses.</p>
             </div>
           </li>
           <li data-reveal>
@@ -483,7 +548,7 @@
               <li>Are 18 years old or older</li>
               <li>Can use the Atgora mobile app on a personal smartphone</li>
               <li>Want to share your own perspective, whether or not you feel like an AI expert</li>
-              <li>Are willing to complete digital consent and a comprehension check</li>
+              <li>Are willing to complete digital consent and a short understanding check</li>
             </ul>
           </article>
           <article class="info-card accent-card" data-reveal>
@@ -521,7 +586,7 @@
               throughout the app study, you may later be invited to a separate in-person workshop in Zurich or
               Lausanne.
             </p>
-            <p class="note">The workshop stage is separate and includes a flat-rate CHF 40 voucher for invited participants who attend. Travel costs are not reimbursed.</p>
+            <p class="note">The workshop stage is separate and includes a fixed CHF 40 voucher for invited participants who attend. Travel costs are not reimbursed.</p>
           </article>
         </div>
       </section>
@@ -532,7 +597,8 @@
           <h2>Clear data limits</h2>
           <p>
             ETH Zurich is responsible for the research data. Identifying information is stored separately from
-            coded or pseudonymised research data. App infrastructure is hosted in the European Union, Stockholm region.
+            coded research data, which means study data is stored under an ID rather than your name. App
+            infrastructure is hosted in the European Union, Stockholm region.
           </p>
         </div>
 
@@ -541,7 +607,7 @@
             <h3>Data the study may collect</h3>
             <ul>
               <li>Contact details for study communication, workshop invitations, and voucher administration</li>
-              <li>Survey responses, demographic profile information, app votes, and short written arguments</li>
+              <li>Survey responses, demographic profile information, app votes, and short written responses</li>
               <li>Participation and completion information needed to run the study</li>
               <li>Audio recordings only for workshop discussion participants who explicitly consent</li>
             </ul>
@@ -561,101 +627,6 @@
               Participation is voluntary. You may withdraw at any time without giving a reason and without
               disadvantage. You may request access, correction, deletion, or restriction of processing where applicable.
             </p>
-          </article>
-        </div>
-      </section>
-
-      <section class="section people-section" id="team">
-        <div class="section-heading" data-reveal>
-          <p class="eyebrow">Who is running the study</p>
-          <h2>Project team</h2>
-          <p>
-            The study belongs to the project <em>Transforming Competencies in the Era of Large Language Models
-            (LLMs) and Detecting Future Directions</em>, with a Swiss-affiliated research team working across
-            institutions in Switzerland.
-          </p>
-        </div>
-
-        <figure class="team-photo-panel" data-reveal>
-          <img
-            src="assets/images/photos/group-photo.jpg"
-            alt="Members of the project team gathered outside for a group photo"
-            width="5712"
-            height="4284"
-            loading="eager"
-            decoding="async"
-          >
-          <figcaption>
-            The project brings together Swiss-affiliated researchers across institutions, combining expertise in
-            LLMs, public policy, education, ethics, and deliberation.
-          </figcaption>
-        </figure>
-
-        <div class="people-grid">
-          <article class="person-card" data-reveal>
-            <span>Study contact</span>
-            <h3>Joshua C. Yang</h3>
-            <p>ETH Zürich</p>
-            <a href="https://joshuacyang.com/" target="_blank" rel="noopener noreferrer">joshuacyang.com</a>
-            <a href="mailto:joyang@ethz.ch">joyang@ethz.ch</a>
-          </article>
-          <article class="person-card lead-person" data-reveal>
-            <span>Principal Investigator</span>
-            <h3>Maud Reveilhac</h3>
-            <p>Swiss AI Futures consortium</p>
-            <p class="person-note">Project lead for the broader TA-SWISS study.</p>
-          </article>
-          <article class="person-card" data-reveal>
-            <span>Research team</span>
-            <h3>Clement Guitton</h3>
-            <p>Universität St.Gallen</p>
-            <h3>Gerold Schneider</h3>
-            <p>Universität Zürich</p>
-            <h3>Martial Pasquier</h3>
-            <p>Universität Lausanne, IDHEAP</p>
-          </article>
-          <article class="person-card" data-reveal>
-            <span>Research team</span>
-            <h3>Aurelia Tamò-Larrieux</h3>
-            <p>Universität Lausanne</p>
-            <h3>Bohdan Trembovelskyi</h3>
-            <p>Universität Lausanne, IDHEAP</p>
-          </article>
-          <article class="person-card" data-reveal>
-            <span>Research team</span>
-            <h3>Manuela Paolini e Silva</h3>
-            <p>Universität Lausanne</p>
-            <h3>Vlada Druta</h3>
-            <p>Universität Lausanne</p>
-            <h3>Nisha Yadav</h3>
-            <p>Swiss AI Futures consortium</p>
-          </article>
-          <article class="person-card" data-reveal>
-            <span>External experts</span>
-            <h3>Simon Mayer</h3>
-            <p>Universität St.Gallen</p>
-            <h3>Kenneth Horvath</h3>
-            <p>Pädagogische Hochschule Zürich</p>
-            <h3>Emmanuel Sylvestre</h3>
-            <p>Universität Lausanne</p>
-          </article>
-          <article class="person-card" data-reveal>
-            <img class="person-logo ta-person-logo" src="assets/images/logos/TA-SWISS-logo.svg" alt="TA-SWISS">
-            <span>Funder and technology</span>
-            <h3>TA-SWISS</h3>
-            <p>Main funder: Swiss Foundation for Technology Assessment</p>
-            <a href="https://www.ta-swiss.ch/en/ta-swiss" target="_blank" rel="noopener noreferrer">Visit TA-SWISS</a>
-            <h3>@gora Foundation / Carbon Copy</h3>
-            <p>Technology partner and Atgora app provider</p>
-            <a href="https://www.atgora.org/atgoraapp" target="_blank" rel="noopener noreferrer">Visit the Atgora app page</a>
-          </article>
-          <article class="person-card" data-reveal>
-            <span>Data and ethics</span>
-            <h3>Data controller: ETH Zurich</h3>
-            <p>Data protection officer: Tomislav Mitar</p>
-            <a href="mailto:tomislav.mitar@sl.ethz.ch">tomislav.mitar@sl.ethz.ch</a>
-            <p>Ethics complaints: ETH Zurich Ethics Commission office</p>
-            <a href="mailto:ethics@sl.ethz.ch">ethics@sl.ethz.ch</a>
           </article>
         </div>
       </section>
@@ -773,6 +744,90 @@
             Links open the official Atgora app listings and the Atgora information page.
           </p>
         </div>
+      </section>
+
+      <section class="section people-section" id="team">
+        <div class="section-heading" data-reveal>
+          <p class="eyebrow">Who is running the study</p>
+          <h2>Project team</h2>
+          <p>
+            The study belongs to the project <em>Transforming Competencies in the Era of Large Language Models
+            (LLMs) and Detecting Future Directions</em>, with a Swiss-affiliated research team working across
+            institutions in Switzerland.
+          </p>
+        </div>
+
+        <figure class="team-photo-panel" data-reveal>
+          <img
+            src="assets/images/photos/group-photo.jpg"
+            alt="Members of the project team gathered outside for a group photo"
+            width="5712"
+            height="4284"
+            loading="lazy"
+            decoding="async"
+          >
+          <figcaption>
+            The project brings together Swiss-affiliated researchers across institutions, combining expertise in
+            LLMs, public policy, education, ethics, and public discussion.
+          </figcaption>
+        </figure>
+
+        <details class="team-details" data-reveal>
+          <summary>View full project team and contact details</summary>
+          <div class="team-compact">
+            <div class="team-row">
+              <span class="team-role">Study contact</span>
+              <p>
+                <strong>Joshua C. Yang</strong>, ETH Zürich ·
+                <a href="https://joshuacyang.com/" target="_blank" rel="noopener noreferrer">joshuacyang.com</a> ·
+                <a href="mailto:joyang@ethz.ch">joyang@ethz.ch</a>
+              </p>
+            </div>
+            <div class="team-row">
+              <span class="team-role">Principal Investigator</span>
+              <p><strong>Maud Reveilhac</strong>, LUT University · Project lead for the broader TA-SWISS study.</p>
+            </div>
+            <div class="team-row">
+              <span class="team-role">Research team</span>
+              <p>
+                <strong>Clement Guitton</strong>, Universität St.Gallen ·
+                <strong>Gerold Schneider</strong>, Universität Zürich ·
+                <strong>Martial Pasquier</strong>, Universität Lausanne, IDHEAP ·
+                <strong>Aurelia Tamò-Larrieux</strong>, Universität Lausanne ·
+                <strong>Bohdan Trembovelskyi</strong>, Universität Lausanne, IDHEAP ·
+                <strong>Vlada Druta</strong>, Universität Lausanne ·
+                <strong>Nisha Yadav</strong>, LUT University
+              </p>
+            </div>
+            <div class="team-row">
+              <span class="team-role">External experts</span>
+              <p>
+                <strong>Simon Mayer</strong>, Universität St.Gallen ·
+                <strong>Kenneth Horvath</strong>, Pädagogische Hochschule Zürich ·
+                <strong>Emmanuel Sylvestre</strong>, Universität Lausanne
+              </p>
+            </div>
+            <div class="team-row">
+              <span class="team-role">Funder and technology</span>
+              <p>
+                <strong>TA-SWISS</strong>, Main funder: Swiss Foundation for Technology Assessment ·
+                <a href="https://www.ta-swiss.ch/en/ta-swiss" target="_blank" rel="noopener noreferrer">Visit TA-SWISS</a> ·
+                <strong>@gora Foundation / Carbon Copy</strong>, Technology partner and Atgora app provider ·
+                <a href="https://www.atgora.org/atgoraapp" target="_blank" rel="noopener noreferrer">Visit the Atgora app page</a>
+              </p>
+            </div>
+            <div class="team-row">
+              <span class="team-role">Data and ethics</span>
+              <p>
+                <strong>Data controller: ETH Zurich</strong> ·
+                Data protection officer: Tomislav Mitar,
+                <a href="mailto:tomislav.mitar@sl.ethz.ch">tomislav.mitar@sl.ethz.ch</a> ·
+                Ethics complaints: ETH Zurich Ethics Commission office,
+                <a href="mailto:ethics@sl.ethz.ch">ethics@sl.ethz.ch</a>
+              </p>
+            </div>
+          </div>
+        </details>
       </section>
     </main>
 
