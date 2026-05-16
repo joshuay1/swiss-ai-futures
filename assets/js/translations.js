@@ -1,9 +1,9 @@
 window.SWISS_AI_I18N = {
   en: {
     htmlLang: "en",
-    title: "Help Shape the Future of AI in Switzerland | Atgora Study",
+    title: "Help Shape AI Policy in Switzerland | Swiss AI Futures",
     description:
-      "Join the AI-Supported Deliberation Experiment, part of Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.",
+      "Share your views on AI, work, education, and labour markets. Public input will inform Swiss policy discussion.",
     text: {},
     rounds: [
       {
@@ -46,9 +46,9 @@ window.SWISS_AI_I18N = {
   },
   de: {
     htmlLang: "de-CH",
-    title: "Gestalten Sie die Zukunft der KI in der Schweiz mit | Atgora-Studie",
+    title: "Gestalten Sie KI-Politik in der Schweiz mit | Swiss AI Futures",
     description:
-      "Nehmen Sie am Experiment zur KI-unterstützten Deliberation teil, Teil des Projekts Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.",
+      "Teilen Sie Ihre Sicht auf KI, Arbeit, Bildung und Arbeitsmärkte. Öffentliche Beiträge informieren die politische Diskussion in der Schweiz.",
     text: {
       "Skip to main content": "Zum Hauptinhalt springen",
       "Start": "Start",
@@ -479,9 +479,9 @@ window.SWISS_AI_I18N = {
 
 window.SWISS_AI_I18N.fr = {
   htmlLang: "fr-CH",
-  title: "Contribuez à façonner l'avenir de l'IA en Suisse | Étude Atgora",
+  title: "Contribuez à façonner la politique de l'IA en Suisse | Swiss AI Futures",
   description:
-    "Participez à l'expérience de délibération assistée par l'IA, dans le cadre du projet Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.",
+    "Partagez votre point de vue sur l'IA, le travail, l'éducation et les marchés du travail. Les contributions du public nourriront la discussion politique en Suisse.",
   text: {
     "Skip to main content": "Aller au contenu principal",
     "Start": "Début",
@@ -895,9 +895,9 @@ window.SWISS_AI_I18N.fr = {
 
 window.SWISS_AI_I18N.it = {
   htmlLang: "it-CH",
-  title: "Contribuisci a plasmare il futuro dell'IA in Svizzera | Studio Atgora",
+  title: "Contribuite a orientare la politica sull'IA in Svizzera | Swiss AI Futures",
   description:
-    "Partecipa all'esperimento di deliberazione assistita dall'IA, parte del progetto Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.",
+    "Condividete il vostro punto di vista su IA, lavoro, educazione e mercati del lavoro. I contributi pubblici informeranno la discussione politica in Svizzera.",
   text: {
     "Skip to main content": "Vai al contenuto principale",
     "Start": "Inizio",
