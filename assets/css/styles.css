@@ -291,7 +291,6 @@ button {
   display: block;
 }
 
-.process-section::before,
 .faq-section::before {
   display: block;
   background: var(--section-tint-alt);
@@ -1106,6 +1105,7 @@ h3 {
 }
 
 .process-summary {
+  margin-top: clamp(40px, 6vw, 76px);
   display: grid;
   grid-template-columns: minmax(220px, 0.34fr) minmax(0, 1fr);
   gap: clamp(28px, 5vw, 72px);

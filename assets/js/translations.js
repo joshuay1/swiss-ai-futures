@@ -138,6 +138,12 @@ window.SWISS_AI_I18N = {
       "Individual opportunity": "Individuelle Chancen",
       "New app responses appear as points. Similar views form groups that help researchers find shared concerns, disagreements, and policy ideas.":
         "Neue Antworten in der App erscheinen als Punkte. Ähnliche Sichtweisen bilden Gruppen, die Forschenden helfen, gemeinsame Anliegen, Uneinigkeit und politische Ideen zu erkennen.",
+      "Atgora app": "Atgora-App",
+      "Four short rounds, guided by participants": "Vier kurze Runden, mitgelenkt von Teilnehmenden",
+      "Atgora lets you return for four short rounds, usually around 10 minutes each. In each round you can read, vote, or share a brief response in your own words.":
+        "Atgora ermöglicht es Ihnen, für vier kurze Runden zurückzukehren, in der Regel etwa 10 Minuten pro Runde. In jeder Runde können Sie lesen, abstimmen oder eine kurze Antwort in eigenen Worten teilen.",
+      "Your input helps set the direction: if many participants raise a concern, question, or idea, later rounds can focus on it.":
+        "Ihre Beiträge helfen, die Richtung zu setzen: Wenn viele Teilnehmende ein Anliegen, eine Frage oder eine Idee einbringen, können spätere Runden darauf eingehen.",
       "Why the study uses an app": "Warum die Studie eine App nutzt",
       "Conversation over time": "Gespräch über die Zeit",
       "The Atgora app lets participants return for four short rounds, usually around 10 minutes each. Later rounds may reflect views, short arguments, or disagreements shared earlier, so the discussion can develop without everyone being online at the same moment.":
@@ -179,6 +185,18 @@ window.SWISS_AI_I18N = {
         "Themen aus den App-Runden können helfen, Workshop-Inhalte und spätere Projektergebnisse zu gestalten.",
       "In the app itself, you only need to follow the prompts. Your repeated input helps guide where the discussion goes.":
         "In der App selbst müssen Sie nur den Hinweisen folgen. Ihre wiederholten Beiträge helfen zu lenken, wohin die Diskussion geht.",
+      "How your input guides the next round": "Wie Ihre Beiträge die nächste Runde lenken",
+      "After each round, the study team looks at what participants raised and uses it to prepare the next short round.":
+        "Nach jeder Runde prüft das Studienteam, was Teilnehmende eingebracht haben, und nutzt dies, um die nächste kurze Runde vorzubereiten.",
+      "Your view enters the round": "Ihre Sicht fliesst in die Runde ein",
+      "Common questions, concerns, disagreements, and ideas help show what participants want the study to explore next.":
+        "Gemeinsame Fragen, Anliegen, Meinungsverschiedenheiten und Ideen zeigen, was Teilnehmende als Nächstes vertiefen möchten.",
+      "The next round follows what people raised": "Die nächste Runde folgt dem, was Menschen eingebracht haben",
+      "New learning material and voting questions can focus on themes from earlier rounds.":
+        "Neues Lernmaterial und Abstimmungsfragen können sich auf Themen aus früheren Runden konzentrieren.",
+      "Themes can shape later project steps": "Themen können spätere Projektschritte prägen",
+      "Input from the app can help guide workshop topics and later outputs for policy discussion.":
+        "Beiträge aus der App können helfen, Workshop-Themen und spätere Ergebnisse für die politische Diskussion zu lenken.",
       "How your input shapes the next round": "Wie Ihre Beiträge die nächste Runde prägen",
       "Each app round is short. You may read a short text, answer a poll, or share a brief response.":
         "Jede App-Runde ist kurz. Sie können einen kurzen Text lesen, an einer Umfrage teilnehmen oder eine kurze Antwort teilen.",
@@ -547,6 +565,12 @@ window.SWISS_AI_I18N.fr = {
     "Individual opportunity": "Opportunité individuelle",
     "New app responses appear as points. Similar views form groups that help researchers find shared concerns, disagreements, and policy ideas.":
       "Les nouvelles réponses dans l'app apparaissent sous forme de points. Les points de vue similaires forment des groupes qui aident à repérer les préoccupations partagées, les désaccords et les idées politiques.",
+    "Atgora app": "App Atgora",
+    "Four short rounds, guided by participants": "Quatre courts tours, orientés par les participantes et participants",
+    "Atgora lets you return for four short rounds, usually around 10 minutes each. In each round you can read, vote, or share a brief response in your own words.":
+      "Atgora vous permet de revenir pour quatre courts tours, généralement d'environ 10 minutes chacun. À chaque tour, vous pouvez lire, voter ou partager une brève réponse avec vos propres mots.",
+    "Your input helps set the direction: if many participants raise a concern, question, or idea, later rounds can focus on it.":
+      "Vos contributions aident à fixer la direction: si beaucoup de participantes et participants soulèvent une préoccupation, une question ou une idée, les tours suivants peuvent s'y concentrer.",
     "Why the study uses an app": "Pourquoi l'étude utilise une app",
     "Conversation over time": "Conversation dans le temps",
     "The Atgora app lets participants return for four short rounds, usually around 10 minutes each. Later rounds may reflect views, short arguments, or disagreements shared earlier, so the discussion can develop without everyone being online at the same moment.":
@@ -588,6 +612,18 @@ window.SWISS_AI_I18N.fr = {
       "Les thèmes issus des tours dans l'app peuvent aider à préparer les sujets d'atelier et les futurs résultats du projet.",
     "In the app itself, you only need to follow the prompts. Your repeated input helps guide where the discussion goes.":
       "Dans l'app elle-même, il suffit de suivre les consignes. Vos contributions répétées aident à orienter la discussion.",
+    "How your input guides the next round": "Comment vos contributions orientent le prochain tour",
+    "After each round, the study team looks at what participants raised and uses it to prepare the next short round.":
+      "Après chaque tour, l'équipe de recherche examine ce que les participantes et participants ont soulevé et l'utilise pour préparer le prochain court tour.",
+    "Your view enters the round": "Votre point de vue entre dans le tour",
+    "Common questions, concerns, disagreements, and ideas help show what participants want the study to explore next.":
+      "Les questions, préoccupations, désaccords et idées partagés aident à montrer ce que les participantes et participants souhaitent voir exploré ensuite.",
+    "The next round follows what people raised": "Le tour suivant suit ce que les personnes ont soulevé",
+    "New learning material and voting questions can focus on themes from earlier rounds.":
+      "De nouveaux contenus d'information et de nouvelles questions de vote peuvent se concentrer sur les thèmes des tours précédents.",
+    "Themes can shape later project steps": "Les thèmes peuvent façonner les étapes suivantes du projet",
+    "Input from the app can help guide workshop topics and later outputs for policy discussion.":
+      "Les contributions dans l'app peuvent aider à orienter les sujets d'atelier et les futurs résultats destinés à la discussion politique.",
     "How your input shapes the next round": "Comment vos contributions orientent le prochain tour",
     "Each app round is short. You may read a short text, answer a poll, or share a brief response.":
       "Chaque tour dans l'app est court. Vous pouvez lire un court texte, répondre à un sondage ou partager une brève réponse.",
@@ -945,6 +981,12 @@ window.SWISS_AI_I18N.it = {
     "Individual opportunity": "Opportunità individuale",
     "New app responses appear as points. Similar views form groups that help researchers find shared concerns, disagreements, and policy ideas.":
       "Le nuove risposte nell'app appaiono come punti. Le opinioni simili formano gruppi che aiutano la ricerca a identificare preoccupazioni condivise, divergenze e idee politiche.",
+    "Atgora app": "App Atgora",
+    "Four short rounds, guided by participants": "Quattro brevi turni, orientati dalle persone partecipanti",
+    "Atgora lets you return for four short rounds, usually around 10 minutes each. In each round you can read, vote, or share a brief response in your own words.":
+      "Atgora vi permette di tornare per quattro brevi turni, di solito circa 10 minuti ciascuno. In ogni turno potete leggere, votare o condividere una breve risposta con parole vostre.",
+    "Your input helps set the direction: if many participants raise a concern, question, or idea, later rounds can focus on it.":
+      "Il vostro contributo aiuta a definire la direzione: se molte persone partecipanti sollevano una preoccupazione, una domanda o un'idea, i turni successivi possono concentrarsi su questo.",
     "Why the study uses an app": "Perché lo studio usa un'app",
     "Conversation over time": "Conversazione nel tempo",
     "The Atgora app lets participants return for four short rounds, usually around 10 minutes each. Later rounds may reflect views, short arguments, or disagreements shared earlier, so the discussion can develop without everyone being online at the same moment.":
@@ -986,6 +1028,18 @@ window.SWISS_AI_I18N.it = {
       "I temi emersi dai turni nell'app possono aiutare a definire gli argomenti dei workshop e i successivi risultati del progetto.",
     "In the app itself, you only need to follow the prompts. Your repeated input helps guide where the discussion goes.":
       "Nell'app stessa basta seguire le indicazioni. I vostri contributi ripetuti aiutano a orientare la discussione.",
+    "How your input guides the next round": "Come il vostro contributo orienta il turno successivo",
+    "After each round, the study team looks at what participants raised and uses it to prepare the next short round.":
+      "Dopo ogni turno, il team di ricerca esamina ciò che le persone partecipanti hanno sollevato e lo usa per preparare il breve turno successivo.",
+    "Your view enters the round": "Il vostro punto di vista entra nel turno",
+    "Common questions, concerns, disagreements, and ideas help show what participants want the study to explore next.":
+      "Domande, preoccupazioni, disaccordi e idee comuni aiutano a mostrare cosa le persone partecipanti vogliono che lo studio esplori dopo.",
+    "The next round follows what people raised": "Il turno successivo segue ciò che le persone hanno sollevato",
+    "New learning material and voting questions can focus on themes from earlier rounds.":
+      "Nuovo materiale informativo e domande di voto possono concentrarsi sui temi emersi nei turni precedenti.",
+    "Themes can shape later project steps": "I temi possono definire i passaggi successivi del progetto",
+    "Input from the app can help guide workshop topics and later outputs for policy discussion.":
+      "I contributi dall'app possono aiutare a orientare gli argomenti dei workshop e i successivi risultati per la discussione politica.",
     "How your input shapes the next round": "Come il vostro contributo orienta il turno successivo",
     "Each app round is short. You may read a short text, answer a poll, or share a brief response.":
       "Ogni turno nell'app è breve. Si può leggere un breve testo, rispondere a un sondaggio o condividere una breve risposta.",
