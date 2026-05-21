@@ -104,6 +104,11 @@ window.SWISS_AI_I18N = {
         "Tippen Sie auf die erste Modulkarte, lesen Sie dann jede Frage und nutzen Sie den Pfeil, um fortzufahren.",
       "Swiss AI Futures topic list showing the first study modules":
         "Themenliste von Swiss AI Futures mit den ersten Studienmodulen",
+      "Read the introduction": "Die Einführung lesen",
+      "Read the Swiss AI Futures intro screen, then use the arrow to begin the first prompts.":
+        "Lesen Sie den Einführungsbildschirm von Swiss AI Futures und nutzen Sie dann den Pfeil, um mit den ersten Fragen zu beginnen.",
+      "Swiss AI Futures first steps introduction screen":
+        "Einführungsbildschirm Erste Schritte von Swiss AI Futures",
       "Main funder": "Hauptförderer",
       "Technology assessment": "Technologiefolgenabschätzung",
       "TA-SWISS is the Swiss Foundation for Technology Assessment. It supports interdisciplinary studies and participatory projects that examine the social, legal, ethical, and political consequences of emerging technologies. Its recommendations are intended to support public debate and decision-making in Switzerland, including for Parliament and the Federal Council.":
@@ -638,6 +643,10 @@ window.SWISS_AI_I18N.fr = {
     "Tap the first module card, then read each prompt and use the arrow to continue.":
       "Touchez la première carte de module, puis lisez chaque consigne et utilisez la flèche pour continuer.",
     "Swiss AI Futures topic list showing the first study modules": "Liste des thèmes Swiss AI Futures montrant les premiers modules de l'étude",
+    "Read the introduction": "Lire l'introduction",
+    "Read the Swiss AI Futures intro screen, then use the arrow to begin the first prompts.":
+      "Lisez l'écran d'introduction de Swiss AI Futures, puis utilisez la flèche pour commencer les premières questions.",
+    "Swiss AI Futures first steps introduction screen": "Écran d'introduction Premiers pas de Swiss AI Futures",
     "Main funder": "Financeur principal",
     "Technology assessment": "Évaluation des technologies",
     "TA-SWISS is the Swiss Foundation for Technology Assessment. It supports interdisciplinary studies and participatory projects that examine the social, legal, ethical, and political consequences of emerging technologies. Its recommendations are intended to support public debate and decision-making in Switzerland, including for Parliament and the Federal Council.":
@@ -1158,6 +1167,10 @@ window.SWISS_AI_I18N.it = {
     "Tap the first module card, then read each prompt and use the arrow to continue.":
       "Tocca la prima card del modulo, poi leggi ogni domanda e usa la freccia per continuare.",
     "Swiss AI Futures topic list showing the first study modules": "Elenco dei temi Swiss AI Futures con i primi moduli dello studio",
+    "Read the introduction": "Leggi l'introduzione",
+    "Read the Swiss AI Futures intro screen, then use the arrow to begin the first prompts.":
+      "Leggi la schermata introduttiva di Swiss AI Futures, poi usa la freccia per iniziare le prime domande.",
+    "Swiss AI Futures first steps introduction screen": "Schermata introduttiva Primi passi di Swiss AI Futures",
     "Main funder": "Finanziatore principale",
     "Technology assessment": "Valutazione della tecnologia",
     "TA-SWISS is the Swiss Foundation for Technology Assessment. It supports interdisciplinary studies and participatory projects that examine the social, legal, ethical, and political consequences of emerging technologies. Its recommendations are intended to support public debate and decision-making in Switzerland, including for Parliament and the Federal Council.":

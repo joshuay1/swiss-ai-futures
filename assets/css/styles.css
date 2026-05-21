@@ -612,7 +612,7 @@ h3 {
 }
 
 .instruction-shot {
-  width: min(100%, 420px, calc((100vh - 180px) * 1206 / 2622));
+  width: min(100%, 360px, calc((100vh - 240px) * 1206 / 2622));
   aspect-ratio: 1206 / 2622;
   margin: 0;
   display: grid;
@@ -2068,7 +2068,7 @@ h3 {
   }
 
   .instruction-shot {
-    width: min(100%, 420px);
+    width: min(100%, 360px);
   }
 
   .hero-entry {
@@ -2280,7 +2280,7 @@ h3 {
   }
 
   .instruction-shot {
-    width: min(100%, 390px);
+    width: min(100%, 340px);
   }
 
   .team-photo-stack {
