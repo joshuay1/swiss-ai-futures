@@ -603,8 +603,64 @@ document.querySelectorAll("[data-lang]").forEach((button) => {
   });
 });
 
+const flyerPreview = document.querySelector("[data-flyer-preview]");
+const updateFlyerPreview = () => {
+  if (!flyerPreview) return;
+  const source =
+    flyerPreview.dataset[`flyer${currentLanguage.charAt(0).toUpperCase()}${currentLanguage.slice(1)}`] ||
+    flyerPreview.dataset.flyerEn;
+  if (source && flyerPreview.getAttribute("src") !== source) {
+    flyerPreview.setAttribute("src", source);
+  }
+};
+
+const instructionSteppers = document.querySelectorAll("[data-instruction-stepper]");
+instructionSteppers.forEach((stepper) => {
+  const buttons = Array.from(stepper.querySelectorAll("[data-instruction-step]"));
+  const panels = Array.from(stepper.querySelectorAll("[role='tabpanel']"));
+
+  const setInstructionStep = (nextIndex) => {
+    buttons.forEach((button, index) => {
+      const isActive = index === nextIndex;
+      button.classList.toggle("is-active", isActive);
+      button.setAttribute("aria-selected", isActive ? "true" : "false");
+      button.setAttribute("tabindex", isActive ? "0" : "-1");
+    });
+
+    panels.forEach((panel, index) => {
+      const isActive = index === nextIndex;
+      panel.classList.toggle("is-active", isActive);
+      panel.hidden = !isActive;
+    });
+  };
+
+  buttons.forEach((button, index) => {
+    button.addEventListener("click", () => setInstructionStep(index));
+    button.addEventListener("keydown", (event) => {
+      const currentIndex = buttons.indexOf(document.activeElement);
+      const keyActions = {
+        ArrowDown: () => (currentIndex + 1) % buttons.length,
+        ArrowRight: () => (currentIndex + 1) % buttons.length,
+        ArrowUp: () => (currentIndex - 1 + buttons.length) % buttons.length,
+        ArrowLeft: () => (currentIndex - 1 + buttons.length) % buttons.length,
+        Home: () => 0,
+        End: () => buttons.length - 1
+      };
+      const getNextIndex = keyActions[event.key];
+      if (!getNextIndex) return;
+      event.preventDefault();
+      const nextIndex = getNextIndex();
+      setInstructionStep(nextIndex);
+      buttons[nextIndex]?.focus();
+    });
+  });
+
+  setInstructionStep(0);
+});
+
 document.addEventListener("language-change", () => {
   setRound(activeRound);
+  updateFlyerPreview();
 });
 
 const downloadStatus = document.getElementById("download-status");
@@ -655,6 +711,124 @@ downloadTriggers.forEach((trigger) => {
     downloadStatus.textContent =
       getLanguageData().ui?.chooseStore ||
       "Choose the App Store or Google Play button below, or scan the matching QR code for your phone.";
+  });
+});
+
+const copyTemplateButtons = document.querySelectorAll("[data-copy-template]");
+const copyResetTimers = new WeakMap();
+
+const normaliseCopyText = (value) =>
+  value
+    .replace(/\u00a0/g, " ")
+    .replace(/[ \t]+\n/g, "\n")
+    .replace(/\n[ \t]+/g, "\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+
+const getTemplateCopyText = (source) => {
+  if (!source) return "";
+  const chunks = [];
+
+  Array.from(source.children).forEach((child) => {
+    const tagName = child.tagName;
+
+    if (tagName === "OL" || tagName === "UL") {
+      const listItems = Array.from(child.children)
+        .filter((item) => item.tagName === "LI")
+        .map((item, index) => {
+          const marker = tagName === "OL" ? `${index + 1}.` : "-";
+          return normaliseCopyText(`${marker} ${item.innerText}`);
+        })
+        .filter(Boolean);
+
+      if (listItems.length) {
+        chunks.push(listItems.join("\n"));
+      }
+      return;
+    }
+
+    const text = normaliseCopyText(child.innerText || child.textContent || "");
+    if (text) {
+      chunks.push(text);
+    }
+  });
+
+  return chunks.join("\n\n");
+};
+
+const writeClipboardText = async (text) => {
+  if (navigator.clipboard?.writeText && window.isSecureContext) {
+    await navigator.clipboard.writeText(text);
+    return;
+  }
+
+  const textArea = document.createElement("textarea");
+  textArea.value = text;
+  textArea.setAttribute("readonly", "");
+  textArea.style.position = "fixed";
+  textArea.style.inset = "0 auto auto 0";
+  textArea.style.width = "1px";
+  textArea.style.height = "1px";
+  textArea.style.opacity = "0";
+  document.body.appendChild(textArea);
+  textArea.focus();
+  textArea.select();
+
+  const copied = document.execCommand("copy");
+  textArea.remove();
+
+  if (!copied) {
+    throw new Error("Copy command failed");
+  }
+};
+
+const resetCopyTemplateButton = (button) => {
+  const timer = copyResetTimers.get(button);
+  if (timer) {
+    window.clearTimeout(timer);
+    copyResetTimers.delete(button);
+  }
+  button.disabled = false;
+  button.textContent = translateText("Copy text");
+};
+
+copyTemplateButtons.forEach((button) => {
+  button.addEventListener("click", async () => {
+    const card = button.closest(".share-copy-card");
+    const source = card?.querySelector("[data-copy-source]");
+    const status = card?.querySelector("[data-copy-status]");
+    const copyText = getTemplateCopyText(source);
+
+    if (!copyText) return;
+
+    resetCopyTemplateButton(button);
+    button.disabled = true;
+
+    try {
+      await writeClipboardText(copyText);
+      button.textContent = translateText("Copied");
+      if (status) status.textContent = translateText("Copied to clipboard");
+    } catch (error) {
+      button.textContent = translateText("Copy text");
+      if (status) status.textContent = translateText("Copy failed");
+    } finally {
+      button.disabled = false;
+      copyResetTimers.set(
+        button,
+        window.setTimeout(() => {
+          resetCopyTemplateButton(button);
+          if (status) status.textContent = "";
+        }, 1800)
+      );
+    }
+  });
+});
+
+document.addEventListener("language-change", () => {
+  copyTemplateButtons.forEach((button) => {
+    resetCopyTemplateButton(button);
+    const status = button.closest(".share-copy-card")?.querySelector("[data-copy-status]");
+    if (status) status.textContent = "";
   });
 });
 

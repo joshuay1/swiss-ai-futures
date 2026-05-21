@@ -52,6 +52,7 @@ window.SWISS_AI_I18N = {
     text: {
       "Skip to main content": "Zum Hauptinhalt springen",
       "Start": "Start",
+      "Flyer": "Flyer",
       "Why it matters": "Warum es zählt",
       "How it works": "Ablauf",
       "Privacy": "Datenschutz",
@@ -75,28 +76,34 @@ window.SWISS_AI_I18N = {
       "Possible workshops": "Mögliche Workshops",
       "June 15-19": "15.-19. Juni",
       "Start in Atgora": "Start in Atgora",
-      "Find the Swiss AI Futures course": "Den Swiss AI Futures-Kurs finden",
-      "After downloading Atgora, open the app, go to Courses, choose Swiss AI Futures, and start the Stage 1 Questionnaire. These screens show the path from the app listing to the first study questions.":
-        "Öffnen Sie nach dem Herunterladen von Atgora die App, gehen Sie zu Courses, wählen Sie Swiss AI Futures aus und starten Sie den Stage1 Questionnaire. Diese Screenshots zeigen den Weg vom App-Eintrag zu den ersten Studienfragen.",
+      "Find the study inside Atgora": "Die Studie in Atgora finden",
+      "After downloading Atgora, open the app and go to Courses. Select the Swiss AI Futures course, then open the main topic and start the first module.":
+        "Öffnen Sie nach dem Herunterladen von Atgora die App und gehen Sie zu Kurse. Wählen Sie den Swiss AI Futures-Kurs aus, öffnen Sie dann das Hauptthema und starten Sie das erste Modul.",
+      "Screenshots show one current app language. If your app is in another language, follow the equivalent labels shown in your app.":
+        "Die Screenshots zeigen eine aktuelle App-Sprache. Wenn Ihre App in einer anderen Sprache angezeigt wird, folgen Sie den entsprechenden Bezeichnungen in Ihrer App.",
       "Download or open Atgora": "Atgora herunterladen oder öffnen",
-      "Use the App Store or Google Play link on this page, then install or open the Atgora app.":
-        "Nutzen Sie den App-Store- oder Google-Play-Link auf dieser Seite und installieren oder öffnen Sie dann die Atgora-App.",
+      "Use the store buttons on this page, then install or open the Atgora app.":
+        "Nutzen Sie die Store-Schaltflächen auf dieser Seite und installieren oder öffnen Sie dann die Atgora-App.",
       "App Store page for Atgora with the Open button visible": "App-Store-Seite für Atgora mit sichtbarem Öffnen-Button",
-      "Go to Courses": "Zu Courses gehen",
-      "On the home screen, open the Courses tab and select the Swiss AI Futures course card.":
-        "Öffnen Sie auf dem Startbildschirm den Tab Courses und wählen Sie die Kurskarte Swiss AI Futures aus.",
-      "Atgora Courses tab showing the Swiss AI Futures course card":
-        "Atgora-Tab Courses mit der Kurskarte Swiss AI Futures",
-      "Start Stage 1": "Stage 1 starten",
-      "Inside Swiss AI Futures, tap Stage1 Questionnaire to begin the first study module.":
-        "Tippen Sie in Swiss AI Futures auf Stage1 Questionnaire, um das erste Studienmodul zu beginnen.",
-      "Swiss AI Futures course page with the Stage1 Questionnaire card":
-        "Kursseite Swiss AI Futures mit der Karte Stage1 Questionnaire",
-      "Answer each prompt": "Jede Frage beantworten",
-      "Read the question, choose the answer that best fits your view, and use the arrow to continue.":
-        "Lesen Sie die Frage, wählen Sie die Antwort, die Ihrer Sicht am besten entspricht, und nutzen Sie den Pfeil, um fortzufahren.",
-      "Atgora questionnaire screen with multiple answer options":
-        "Atgora-Fragebogenbildschirm mit mehreren Antwortoptionen",
+      "Sign in or register": "Einloggen oder registrieren",
+      "If Atgora asks, sign in or create an account and complete the short setup.":
+        "Wenn Atgora danach fragt, melden Sie sich an oder erstellen Sie ein Konto und schliessen Sie die kurze Einrichtung ab.",
+      "Atgora login screen with login and registration options": "Atgora-Loginbildschirm mit Optionen zum Einloggen und Registrieren",
+      "Open Courses": "Kurse öffnen",
+      "Open the Courses tab on the home screen, then select the Swiss AI Futures course card.":
+        "Öffnen Sie auf dem Startbildschirm den Kurse-Tab und wählen Sie dann die Kurskarte Swiss AI Futures aus.",
+      "Atgora setup steps": "Atgora-Einrichtungsschritte",
+      "Atgora Courses tab showing the Schweizer AI-Futures course card":
+        "Atgora-Tab Courses mit der Kurskarte Schweizer AI-Futures",
+      "Open the main topic": "Das Hauptthema öffnen",
+      "Inside Swiss AI Futures, tap the first topic card to enter the study topic.":
+        "Tippen Sie in Swiss AI Futures auf die erste Themenkarte, um das Studienthema zu öffnen.",
+      "Swiss AI Futures course page showing the main topic card": "Kursseite Swiss AI Futures mit der Hauptthemenkarte",
+      "Start the first module": "Das erste Modul starten",
+      "Tap the first module card, then read each prompt and use the arrow to continue.":
+        "Tippen Sie auf die erste Modulkarte, lesen Sie dann jede Frage und nutzen Sie den Pfeil, um fortzufahren.",
+      "Swiss AI Futures topic list showing the first study modules":
+        "Themenliste von Swiss AI Futures mit den ersten Studienmodulen",
       "Main funder": "Hauptförderer",
       "Technology assessment": "Technologiefolgenabschätzung",
       "TA-SWISS is the Swiss Foundation for Technology Assessment. It supports interdisciplinary studies and participatory projects that examine the social, legal, ethical, and political consequences of emerging technologies. Its recommendations are intended to support public debate and decision-making in Switzerland, including for Parliament and the Federal Council.":
@@ -291,9 +298,9 @@ window.SWISS_AI_I18N = {
       "Participant activity": "Aktivität der Teilnehmenden",
       "Participant journey": "Ablauf für Teilnehmende",
       "Study path": "Studienablauf",
-      "Most participation happens in the Atgora app between May 19 and June 5. You only need to return about four times over these two weeks, for roughly 10 minutes each time. The workshop is a separate possible next step for engaged participants.":
-        "Der grösste Teil der Teilnahme findet in der Atgora-App zwischen dem 19. Mai und dem 5. Juni statt. Sie müssen in diesen zwei Wochen nur etwa viermal zurückkehren, jeweils für ungefähr 10 Minuten. Der Workshop ist ein separater möglicher nächster Schritt für engagierte Teilnehmende.",
-      "Before or around May 19": "Vor oder um den 19. Mai",
+      "The Atgora app study is open now and runs until June 5, 2026. You only need to return about four times over this period, for roughly 10 minutes each time. The workshop is a separate possible next step for engaged participants.":
+        "Die Atgora-App-Studie ist jetzt geöffnet und läuft bis zum 5. Juni 2026. Sie müssen in diesem Zeitraum nur etwa viermal zurückkehren, jeweils für ungefähr 10 Minuten. Der Workshop ist ein separater möglicher nächster Schritt für engagierte Teilnehmende.",
+      "Open now": "Jetzt geöffnet",
       "Setup": "Einrichtung",
       "Use the App Store or Google Play links on this page.":
         "Nutzen Sie die Links zum App Store oder zu Google Play auf dieser Seite.",
@@ -335,8 +342,9 @@ window.SWISS_AI_I18N = {
       "Participants who stay engaged and complete the main app tasks may have a chance to be invited to one physical workshop in Zurich or Lausanne. Invitations depend on workshop capacity, availability during June 15-19, and separate written consent.":
         "Teilnehmende, die engagiert bleiben und die Hauptaufgaben in der App abschliessen, können möglicherweise zu einem Workshop vor Ort in Zürich oder Lausanne eingeladen werden. Einladungen hängen von der Workshop-Kapazität, der Verfügbarkeit vom 15. bis 19. Juni und einer separaten schriftlichen Einwilligung ab.",
       "Time commitment": "Zeitaufwand",
-      "Participants are asked to interact with the app about four times between May 19 and June 5. Each visit should take around 10 minutes, and the app may send a reminder when a new round is available.":
-        "Teilnehmende werden gebeten, zwischen dem 19. Mai und dem 5. Juni etwa viermal mit der App zu interagieren. Jeder Besuch sollte rund 10 Minuten dauern, und die App kann eine Erinnerung senden, wenn eine neue Runde verfügbar ist.",
+      "Open until June 5": "Geöffnet bis 5. Juni",
+      "Participants are asked to interact with the app about four times while the study is open, until June 5, 2026. Each visit should take around 10 minutes, and the app may send a reminder when a new round is available.":
+        "Teilnehmende werden gebeten, während der laufenden Studie bis zum 5. Juni 2026 etwa viermal mit der App zu interagieren. Jeder Besuch sollte rund 10 Minuten dauern, und die App kann eine Erinnerung senden, wenn eine neue Runde verfügbar ist.",
       "Approximate total: about 40 minutes across the app study.":
         "Ungefähre Gesamtdauer: etwa 40 Minuten über die App-Studie hinweg.",
       "Participation": "Teilnahme",
@@ -406,8 +414,8 @@ window.SWISS_AI_I18N = {
       "No. The app includes short learning modules to help participants engage with the topic.":
         "Nein. Die App enthält kurze Lernmodule, die den Einstieg ins Thema erleichtern.",
       "Why do I need to download the app?": "Warum muss ich die App herunterladen?",
-      "The study asks participants to contribute about four times between May 19 and June 5, usually around 10 minutes each time. The app lets participants return for new rounds and receive reminders when a round is available.":
-        "Die Studie bittet Teilnehmende, zwischen dem 19. Mai und dem 5. Juni etwa viermal Beiträge zu leisten, in der Regel rund 10 Minuten pro Mal. Die App ermöglicht die Rückkehr zu neuen Runden und sendet Erinnerungen, wenn eine Runde verfügbar ist.",
+      "The study asks participants to contribute about four times while the app study is open, until June 5, 2026, usually around 10 minutes each time. The app lets participants return for new rounds and receive reminders when a round is available.":
+        "Die Studie bittet Teilnehmende, während der laufenden App-Studie bis zum 5. Juni 2026 etwa viermal Beiträge zu leisten, in der Regel rund 10 Minuten pro Mal. Die App ermöglicht die Rückkehr zu neuen Runden und sendet Erinnerungen, wenn eine Runde verfügbar ist.",
       "Is this app stage compensated?": "Wird diese App-Phase entschädigt?",
       "This stage is focused on voluntary app input. Compensation applies only to the separate in-person workshop stage: invited participants who attend receive a flat-rate CHF 40 voucher. Travel costs are not reimbursed.":
         "Diese Phase konzentriert sich auf freiwillige Beiträge in der App. Eine Entschädigung gilt nur für die separate Workshop-Phase vor Ort: Eingeladene Teilnehmende, die teilnehmen, erhalten einen pauschalen Gutschein von CHF 40. Reisekosten werden nicht erstattet.",
@@ -421,11 +429,106 @@ window.SWISS_AI_I18N = {
       "Yes. You may withdraw at any time without giving a reason and without disadvantage.":
         "Ja. Sie können jederzeit ohne Angabe von Gründen und ohne Nachteile zurücktreten.",
       "Join the study": "An der Studie teilnehmen",
-      "Scan the QR code for your phone or use the store buttons. Atgora is the app used for four short online participation rounds between May 19 and June 5, around 10 minutes each.":
-        "Scannen Sie den QR-Code für Ihr Smartphone oder nutzen Sie die Store-Buttons. Atgora ist die App für vier kurze Online-Teilnahmerunden zwischen dem 19. Mai und dem 5. Juni, jeweils rund 10 Minuten.",
+      "Share": "Teilen",
+      "Download study flyers": "Studienflyer herunterladen",
+      "Share study invitation": "Studieneinladung teilen",
+      "Share the invitation": "Einladung teilen",
+      "You can help spread the word by downloading flyers or copying a message template into WhatsApp, email, LinkedIn, Instagram, or a community group. Share whichever format fits your audience.":
+        "Sie können helfen, die Studie bekannter zu machen, indem Sie Flyer herunterladen oder eine Textvorlage in WhatsApp, E-Mail, LinkedIn, Instagram oder eine Community-Gruppe kopieren. Teilen Sie das Format, das am besten zu Ihrem Publikum passt.",
+      "Download the flyer": "Flyer herunterladen",
+      "You can help spread the word by sharing a flyer online or printing a copy for a workplace, classroom, association, noticeboard, or community space. Choose the language that fits your audience.":
+        "Sie können helfen, die Einladung zu verbreiten, indem Sie einen Flyer online teilen oder eine Kopie für einen Arbeitsplatz, ein Klassenzimmer, einen Verein, ein Schwarzes Brett oder einen Gemeinschaftsort ausdrucken. Wählen Sie die Sprache, die zu Ihrem Publikum passt.",
+      "Swiss AI Futures study flyer preview": "Vorschau des Swiss AI Futures-Studienflyers",
+      "Flyer downloads by language": "Flyer-Downloads nach Sprache",
+      "English": "Englisch",
+      "German": "Deutsch",
+      "French": "Französisch",
+      "JPGs work well for social media and messaging. PDFs are best for printing.":
+        "JPGs eignen sich gut für soziale Medien und Messenger. PDFs sind am besten zum Drucken geeignet.",
+      "Help us reach more voices": "Helfen Sie uns, mehr Stimmen zu erreichen",
+      "Message templates to share": "Vorlagen zum Teilen",
+      "If you can, copy one of these invitations into WhatsApp, email, LinkedIn, Instagram, or a community group. The wording comes from the research team and explains why this citizen-input phase matters.":
+        "Wenn Sie können, kopieren Sie eine dieser Einladungen in WhatsApp, E-Mail, LinkedIn, Instagram oder eine Community-Gruppe. Der Text kommt vom Forschungsteam und erklärt, warum diese Phase der öffentlichen Beteiligung wichtig ist.",
+      "WhatsApp message": "WhatsApp-Nachricht",
+      "Hi everyone, we’re launching the next part of our Swiss AI Futures study, and this is the part where we really need public voices.":
+        "Hallo zusammen, wir starten den nächsten Teil unserer Swiss AI Futures-Studie, und genau hier brauchen wir wirklich öffentliche Stimmen.",
+      "In the first steps of the project, we looked at existing research, policy debates, and future scenarios around AI and work. We also gathered expert and focus-group input. Now we’re moving into the third part: citizen input.":
+        "In den ersten Schritten des Projekts haben wir bestehende Forschung, politische Debatten und Zukunftsszenarien rund um KI und Arbeit angeschaut. Ausserdem haben wir Beiträge von Fachpersonen und aus Fokusgruppen gesammelt. Jetzt gehen wir in den dritten Teil: öffentliche Beteiligung.",
+      "That means we want to hear directly from people living in Switzerland: what you think, what worries you, what feels exciting, and what Swiss decision-makers should understand about AI, work, education, and society.":
+        "Das bedeutet: Wir möchten direkt von Menschen hören, die in der Schweiz leben: was Sie denken, was Ihnen Sorgen macht, was Sie spannend finden und was Schweizer Entscheidungsträger über KI, Arbeit, Bildung und Gesellschaft verstehen sollten.",
+      "If you live in Switzerland and are 18+, please download @gora, join the Swiss AI Futures course, and complete the short first survey/app round.":
+        "Wenn Sie in der Schweiz leben und 18 Jahre oder älter sind, laden Sie bitte @gora herunter, treten Sie dem Swiss AI Futures-Kurs bei und füllen Sie die kurze erste Umfrage/App-Runde aus.",
+      "After the app phase, some engaged participants may also be invited to an in-person citizen workshop in Zurich or Lausanne, where we’ll go deeper into the ideas and recommendations emerging from the study.":
+        "Nach der App-Phase können einige engagierte Teilnehmende auch zu einem Workshop für Bürgerinnen und Bürger vor Ort in Zürich oder Lausanne eingeladen werden, wo wir die Ideen und Empfehlungen aus der Studie vertiefen.",
+      "No AI expertise needed. Your perspective is exactly what this phase is about.":
+        "Es braucht keine KI-Vorkenntnisse. Ihre Perspektive ist genau das, worum es in dieser Phase geht.",
+      "Start here:": "Hier starten:",
+      "And if possible, please share this with friends, family, colleagues, students, community groups, or anyone in Switzerland whose voice should be included. It would really help us reach beyond our usual circles.":
+        "Und wenn möglich, teilen Sie diese Einladung bitte mit Freundinnen und Freunden, Familie, Kolleginnen und Kollegen, Studierenden, Community-Gruppen oder anderen Menschen in der Schweiz, deren Perspektiven einbezogen werden sollten. Das würde uns sehr helfen, über unsere üblichen Kreise hinauszukommen.",
+      "Social media post": "Social-Media-Beitrag",
+      "We’re opening the citizen-input phase of Swiss AI Futures, and we’d love you to take part.":
+        "Wir öffnen die Phase der öffentlichen Beteiligung von Swiss AI Futures und würden uns sehr freuen, wenn Sie mitmachen.",
+      "Over the first stages of this project, we reviewed research and policy debates on AI, work, and skills. We also worked with experts and focus groups to think through possible futures.":
+        "In den ersten Projektphasen haben wir Forschung und politische Debatten zu KI, Arbeit und Kompetenzen ausgewertet. Ausserdem haben wir mit Fachpersonen und Fokusgruppen gearbeitet, um mögliche Zukünfte zu durchdenken.",
+      "Now comes the third and most public part: hearing directly from people living in Switzerland.":
+        "Jetzt kommt der dritte und öffentlichste Teil: Wir möchten direkt von Menschen hören, die in der Schweiz leben.",
+      "AI is already changing how we work, learn, hire, train, and use public services. We don’t want this conversation to stay only with researchers, companies, or policymakers. We want to know what people across Switzerland think should be protected, improved, questioned, or imagined differently.":
+        "KI verändert bereits, wie wir arbeiten, lernen, einstellen, uns weiterbilden und öffentliche Dienstleistungen nutzen. Wir möchten nicht, dass dieses Gespräch nur bei Forschenden, Unternehmen oder politischen Entscheidungsträgern bleibt. Wir möchten wissen, was Menschen in der ganzen Schweiz geschützt, verbessert, hinterfragt oder anders gedacht sehen wollen.",
+      "If you live in Switzerland and are 18+, join us:": "Wenn Sie in der Schweiz leben und 18+ sind, machen Sie mit:",
+      "Download @gora": "@gora herunterladen",
+      "Join the Swiss AI Futures course": "Dem Swiss AI Futures-Kurs beitreten",
+      "Complete the first short survey/app round": "Die erste kurze Umfrage/App-Runde ausfüllen",
+      "Come back for the next short rounds": "Für die nächsten kurzen Runden zurückkommen",
+      "After the app phase, some engaged participants may also be invited to an in-person citizen workshop in Zurich or Lausanne, where we will discuss and refine the ideas and recommendations emerging from the study.":
+        "Nach der App-Phase können einige engagierte Teilnehmende auch zu einem Workshop für Bürgerinnen und Bürger vor Ort in Zürich oder Lausanne eingeladen werden, bei dem wir die Ideen und Empfehlungen aus der Studie diskutieren und weiterentwickeln.",
+      "You don’t need to be an AI expert. We’re looking for real public perspectives.":
+        "Sie müssen keine KI-Expertin und kein KI-Experte sein. Wir suchen echte öffentliche Perspektiven.",
+      "Your input will contribute to a TA-SWISS research project and policy-facing outputs for Swiss decision-makers.":
+        "Ihre Beiträge fliessen in ein TA-SWISS-Forschungsprojekt und in politikbezogene Ergebnisse für Schweizer Entscheidungsträger ein.",
+      "Join here:": "Hier teilnehmen:",
+      "Please also share this if you can. We’re trying to reach people beyond our own networks, across different regions, jobs, backgrounds, and everyday experiences with technology.":
+        "Bitte teilen Sie dies auch, wenn Sie können. Wir versuchen, Menschen über unsere eigenen Netzwerke hinaus zu erreichen, aus verschiedenen Regionen, Berufen, Hintergründen und Alltagserfahrungen mit Technologie.",
+      "Email text": "E-Mail-Text",
+      "Subject: Join the citizen-input phase of Swiss AI Futures":
+        "Betreff: Machen Sie bei der Phase der öffentlichen Beteiligung von Swiss AI Futures mit",
+      "Dear all,": "Liebe alle,",
+      "We are excited to invite you to take part in the next phase of our Swiss AI Futures study.":
+        "Wir freuen uns, Sie zur nächsten Phase unserer Swiss AI Futures-Studie einzuladen.",
+      "In the first parts of this project, we reviewed existing research, policy discussions, and future scenarios around AI, work, and skills. We also gathered input through expert and focus-group work. These steps helped us understand the questions already being discussed.":
+        "In den ersten Teilen dieses Projekts haben wir bestehende Forschung, politische Diskussionen und Zukunftsszenarien zu KI, Arbeit und Kompetenzen ausgewertet. Ausserdem haben wir Beiträge von Fachpersonen und aus Fokusgruppen gesammelt. Diese Schritte haben uns geholfen, die Fragen zu verstehen, die bereits diskutiert werden.",
+      "Now we are moving into the third part of the project: citizen input.":
+        "Nun gehen wir in den dritten Teil des Projekts: öffentliche Beteiligung.",
+      "This is where we want to hear directly from people living in Switzerland. AI is already changing work, education, hiring, training, public services, and everyday life. We believe that public voices should be part of the conversation about what comes next.":
+        "Hier möchten wir direkt von Menschen hören, die in der Schweiz leben. KI verändert bereits Arbeit, Bildung, Einstellungen, Weiterbildung, öffentliche Dienstleistungen und den Alltag. Wir glauben, dass öffentliche Stimmen Teil des Gesprächs darüber sein sollten, was als Nächstes kommt.",
+      "If you live in Switzerland and are 18 or older, you can take part through the @gora app. You do not need to be an AI expert. We are interested in your perspective: what concerns you, what gives you hope, what feels urgent, and what you think Swiss decision-makers should pay attention to.":
+        "Wenn Sie in der Schweiz leben und 18 Jahre oder älter sind, können Sie über die @gora-App teilnehmen. Sie müssen keine KI-Expertin und kein KI-Experte sein. Uns interessiert Ihre Perspektive: was Sie beschäftigt, was Ihnen Hoffnung macht, was dringend erscheint und worauf Schweizer Entscheidungsträger achten sollten.",
+      "Taking part is simple:": "Mitmachen ist einfach:",
+      "Download the @gora app": "Die @gora-App herunterladen",
+      "Select Swiss AI Futures": "Swiss AI Futures auswählen",
+      "Return for the next short rounds when prompted": "Für die nächsten kurzen Runden zurückkommen, wenn Sie dazu aufgefordert werden",
+      "After the app phase, some engaged participants may also be invited to an in-person citizen workshop in Zurich or Lausanne. These workshops will go deeper into the ideas and recommendations emerging from the study and give participants another opportunity to help shape the final outputs.":
+        "Nach der App-Phase können einige engagierte Teilnehmende auch zu einem Workshop für Bürgerinnen und Bürger vor Ort in Zürich oder Lausanne eingeladen werden. In diesen Workshops werden wir die Ideen und Empfehlungen aus der Studie vertiefen, und Teilnehmende haben eine weitere Möglichkeit, die finalen Ergebnisse mitzugestalten.",
+      "Your input will help us understand where people agree, where they disagree, and which public concerns and ideas should be included in future policy discussions. The results will contribute to a TA-SWISS research project and policy-facing outputs for Swiss decision-makers.":
+        "Ihre Beiträge helfen uns zu verstehen, wo Menschen übereinstimmen, wo sie unterschiedlicher Meinung sind und welche öffentlichen Anliegen und Ideen in künftige politische Diskussionen einfliessen sollten. Die Ergebnisse tragen zu einem TA-SWISS-Forschungsprojekt und politikbezogenen Ergebnissen für Schweizer Entscheidungsträger bei.",
+      "You can start here:": "Sie können hier starten:",
+      "If possible, please also forward this invitation to friends, colleagues, students, community groups, or others in Switzerland who may want to add their voice. Reaching people beyond our own networks is really important for this citizen-input phase.":
+        "Wenn möglich, leiten Sie diese Einladung bitte auch an Freundinnen und Freunde, Kolleginnen und Kollegen, Studierende, Community-Gruppen oder andere Menschen in der Schweiz weiter, die ihre Stimme einbringen möchten. Menschen über unsere eigenen Netzwerke hinaus zu erreichen, ist für diese Phase der öffentlichen Beteiligung wirklich wichtig.",
+      "Thank you for helping us make this phase genuinely public.":
+        "Vielen Dank, dass Sie uns helfen, diese Phase wirklich öffentlich zu machen.",
+      "Best wishes,": "Herzliche Grüsse,",
+      "The Swiss AI Futures research team": "Das Swiss AI Futures-Forschungsteam",
+      "Copy text": "Text kopieren",
+      "Copied": "Kopiert",
+      "Copied to clipboard": "In die Zwischenablage kopiert",
+      "Copy failed": "Kopieren fehlgeschlagen",
+      "Message template text": "Textvorlage",
+      "Scan the QR code for your phone or use the store buttons. The app study is open now and runs until June 5, 2026, with four short online participation rounds of around 10 minutes each.":
+        "Scannen Sie den QR-Code für Ihr Smartphone oder nutzen Sie die Store-Buttons. Die App-Studie ist jetzt geöffnet und läuft bis zum 5. Juni 2026, mit vier kurzen Online-Teilnahmerunden von jeweils rund 10 Minuten.",
       "Download on the App Store": "Im App Store herunterladen",
       "Get it on Google Play": "Bei Google Play herunterladen",
       "Official app page": "Offizielle App-Seite",
+      "Flyers and messages": "Flyer und Nachrichten",
+      "Download flyers": "Flyer herunterladen",
       "Links open the official Atgora app listings and the Atgora information page.":
         "Die Links öffnen die offiziellen Atgora-App-Einträge und die Atgora-Informationsseite.",
       "AI-Supported Deliberation Experiment": "Experiment zur KI-unterstützten Deliberation",
@@ -485,6 +588,7 @@ window.SWISS_AI_I18N.fr = {
   text: {
     "Skip to main content": "Aller au contenu principal",
     "Start": "Début",
+    "Flyer": "Flyer",
     "Why it matters": "Pourquoi c'est important",
     "How it works": "Déroulement",
     "Privacy": "Protection des données",
@@ -508,25 +612,32 @@ window.SWISS_AI_I18N.fr = {
     "Possible workshops": "Ateliers possibles",
     "June 15-19": "15-19 juin",
     "Start in Atgora": "Commencer dans Atgora",
-    "Find the Swiss AI Futures course": "Trouver le cours Swiss AI Futures",
-    "After downloading Atgora, open the app, go to Courses, choose Swiss AI Futures, and start the Stage 1 Questionnaire. These screens show the path from the app listing to the first study questions.":
-      "Après avoir téléchargé Atgora, ouvrez l'application, allez dans Courses, choisissez Swiss AI Futures et lancez Stage1 Questionnaire. Ces écrans montrent le chemin depuis la fiche de l'app jusqu'aux premières questions de l'étude.",
+    "Find the study inside Atgora": "Trouver l'étude dans Atgora",
+    "After downloading Atgora, open the app and go to Courses. Select the Swiss AI Futures course, then open the main topic and start the first module.":
+      "Après avoir téléchargé Atgora, ouvrez l'application et allez dans Courses. Sélectionnez le cours Swiss AI Futures, puis ouvrez le thème principal et commencez le premier module.",
+    "Screenshots show one current app language. If your app is in another language, follow the equivalent labels shown in your app.":
+      "Les captures d'écran montrent une langue actuelle de l'app. Si votre app est affichée dans une autre langue, suivez les libellés équivalents affichés dans votre app.",
     "Download or open Atgora": "Télécharger ou ouvrir Atgora",
-    "Use the App Store or Google Play link on this page, then install or open the Atgora app.":
-      "Utilisez le lien App Store ou Google Play sur cette page, puis installez ou ouvrez l'application Atgora.",
+    "Use the store buttons on this page, then install or open the Atgora app.":
+      "Utilisez les boutons des stores sur cette page, puis installez ou ouvrez l'application Atgora.",
     "App Store page for Atgora with the Open button visible": "Page App Store d'Atgora avec le bouton Ouvrir visible",
-    "Go to Courses": "Aller dans Courses",
-    "On the home screen, open the Courses tab and select the Swiss AI Futures course card.":
-      "Sur l'écran d'accueil, ouvrez l'onglet Courses et sélectionnez la carte du cours Swiss AI Futures.",
-    "Atgora Courses tab showing the Swiss AI Futures course card": "Onglet Courses d'Atgora montrant la carte du cours Swiss AI Futures",
-    "Start Stage 1": "Commencer Stage 1",
-    "Inside Swiss AI Futures, tap Stage1 Questionnaire to begin the first study module.":
-      "Dans Swiss AI Futures, touchez Stage1 Questionnaire pour commencer le premier module de l'étude.",
-    "Swiss AI Futures course page with the Stage1 Questionnaire card": "Page du cours Swiss AI Futures avec la carte Stage1 Questionnaire",
-    "Answer each prompt": "Répondre à chaque question",
-    "Read the question, choose the answer that best fits your view, and use the arrow to continue.":
-      "Lisez la question, choisissez la réponse qui correspond le mieux à votre point de vue, puis utilisez la flèche pour continuer.",
-    "Atgora questionnaire screen with multiple answer options": "Écran de questionnaire Atgora avec plusieurs options de réponse",
+    "Sign in or register": "Se connecter ou s'inscrire",
+    "If Atgora asks, sign in or create an account and complete the short setup.":
+      "Si Atgora vous le demande, connectez-vous ou créez un compte et terminez la courte configuration.",
+    "Atgora login screen with login and registration options": "Écran de connexion Atgora avec options de connexion et d'inscription",
+    "Open Courses": "Ouvrir Courses",
+    "Open the Courses tab on the home screen, then select the Swiss AI Futures course card.":
+      "Ouvrez l'onglet Courses sur l'écran d'accueil, puis sélectionnez la carte du cours Swiss AI Futures.",
+    "Atgora setup steps": "Étapes de configuration d'Atgora",
+    "Atgora Courses tab showing the Schweizer AI-Futures course card": "Onglet Courses d'Atgora montrant la carte du cours Schweizer AI-Futures",
+    "Open the main topic": "Ouvrir le thème principal",
+    "Inside Swiss AI Futures, tap the first topic card to enter the study topic.":
+      "Dans Swiss AI Futures, touchez la première carte de thème pour accéder au thème de l'étude.",
+    "Swiss AI Futures course page showing the main topic card": "Page du cours Swiss AI Futures montrant la carte du thème principal",
+    "Start the first module": "Commencer le premier module",
+    "Tap the first module card, then read each prompt and use the arrow to continue.":
+      "Touchez la première carte de module, puis lisez chaque consigne et utilisez la flèche pour continuer.",
+    "Swiss AI Futures topic list showing the first study modules": "Liste des thèmes Swiss AI Futures montrant les premiers modules de l'étude",
     "Main funder": "Financeur principal",
     "Technology assessment": "Évaluation des technologies",
     "TA-SWISS is the Swiss Foundation for Technology Assessment. It supports interdisciplinary studies and participatory projects that examine the social, legal, ethical, and political consequences of emerging technologies. Its recommendations are intended to support public debate and decision-making in Switzerland, including for Parliament and the Federal Council.":
@@ -718,9 +829,9 @@ window.SWISS_AI_I18N.fr = {
     "Participant activity": "Activité des participantes et participants",
     "Participant journey": "Parcours de participation",
     "Study path": "Parcours de l'étude",
-    "Most participation happens in the Atgora app between May 19 and June 5. You only need to return about four times over these two weeks, for roughly 10 minutes each time. The workshop is a separate possible next step for engaged participants.":
-      "La plus grande partie de la participation se déroule dans l'app Atgora entre le 19 mai et le 5 juin. Vous n'avez besoin de revenir qu'environ quatre fois pendant ces deux semaines, pour environ 10 minutes à chaque fois. L'atelier est une étape séparée et possible pour les participantes et participants engagés.",
-    "Before or around May 19": "Avant ou autour du 19 mai",
+    "The Atgora app study is open now and runs until June 5, 2026. You only need to return about four times over this period, for roughly 10 minutes each time. The workshop is a separate possible next step for engaged participants.":
+      "L'étude dans l'app Atgora est maintenant ouverte et se poursuit jusqu'au 5 juin 2026. Vous n'avez besoin de revenir qu'environ quatre fois pendant cette période, pour environ 10 minutes à chaque fois. L'atelier est une étape séparée et possible pour les participantes et participants engagés.",
+    "Open now": "Ouvert maintenant",
     "Setup": "Installation",
     "Use the App Store or Google Play links on this page.":
       "Utilisez les liens vers l'App Store ou Google Play sur cette page.",
@@ -762,8 +873,9 @@ window.SWISS_AI_I18N.fr = {
     "Participants who stay engaged and complete the main app tasks may have a chance to be invited to one physical workshop in Zurich or Lausanne. Invitations depend on workshop capacity, availability during June 15-19, and separate written consent.":
       "Les personnes qui restent engagées et complètent les tâches principales dans l'app peuvent avoir une chance d'être invitées à un atelier en présence à Zurich ou Lausanne. Les invitations dépendent de la capacité des ateliers, de la disponibilité du 15 au 19 juin et d'un consentement écrit séparé.",
     "Time commitment": "Temps à prévoir",
-    "Participants are asked to interact with the app about four times between May 19 and June 5. Each visit should take around 10 minutes, and the app may send a reminder when a new round is available.":
-      "Les participantes et participants sont invités à interagir avec l'app environ quatre fois entre le 19 mai et le 5 juin. Chaque visite devrait prendre environ 10 minutes, et l'app peut envoyer un rappel lorsqu'un nouveau tour est disponible.",
+    "Open until June 5": "Ouvert jusqu'au 5 juin",
+    "Participants are asked to interact with the app about four times while the study is open, until June 5, 2026. Each visit should take around 10 minutes, and the app may send a reminder when a new round is available.":
+      "Les participantes et participants sont invités à interagir avec l'app environ quatre fois pendant que l'étude est ouverte, jusqu'au 5 juin 2026. Chaque visite devrait prendre environ 10 minutes, et l'app peut envoyer un rappel lorsqu'un nouveau tour est disponible.",
     "Approximate total: about 40 minutes across the app study.":
       "Total approximatif: environ 40 minutes pour l'ensemble de l'étude dans l'app.",
     "Participation": "Participation",
@@ -828,8 +940,8 @@ window.SWISS_AI_I18N.fr = {
     "Do I need to know a lot about AI?": "Dois-je bien connaître l'IA?",
     "No. The app includes short learning modules to help participants engage with the topic.": "Non. L'app comprend de courts modules d'information pour aider les participantes et participants à entrer dans le sujet.",
     "Why do I need to download the app?": "Pourquoi dois-je télécharger l'app?",
-    "The study asks participants to contribute about four times between May 19 and June 5, usually around 10 minutes each time. The app lets participants return for new rounds and receive reminders when a round is available.":
-      "L'étude demande aux participantes et participants de contribuer environ quatre fois entre le 19 mai et le 5 juin, généralement environ 10 minutes à chaque fois. L'app permet de revenir pour de nouveaux tours et de recevoir des rappels lorsqu'un tour est disponible.",
+    "The study asks participants to contribute about four times while the app study is open, until June 5, 2026, usually around 10 minutes each time. The app lets participants return for new rounds and receive reminders when a round is available.":
+      "L'étude demande aux participantes et participants de contribuer environ quatre fois pendant que l'étude dans l'app est ouverte, jusqu'au 5 juin 2026, généralement environ 10 minutes à chaque fois. L'app permet de revenir pour de nouveaux tours et de recevoir des rappels lorsqu'un tour est disponible.",
     "Is this app stage compensated?": "Cette phase dans l'app est-elle indemnisée?",
     "This stage is focused on voluntary app input. Compensation applies only to the separate in-person workshop stage: invited participants who attend receive a flat-rate CHF 40 voucher. Travel costs are not reimbursed.":
       "Cette phase porte sur une contribution volontaire dans l'app. Une indemnisation s'applique uniquement à la phase séparée d'atelier en présence: les personnes invitées qui participent reçoivent un bon forfaitaire de CHF 40. Les frais de déplacement ne sont pas remboursés.",
@@ -841,11 +953,106 @@ window.SWISS_AI_I18N.fr = {
     "Can I withdraw?": "Puis-je me retirer?",
     "Yes. You may withdraw at any time without giving a reason and without disadvantage.": "Oui. Vous pouvez vous retirer à tout moment sans donner de raison et sans désavantage.",
     "Join the study": "Participer à l'étude",
-    "Scan the QR code for your phone or use the store buttons. Atgora is the app used for four short online participation rounds between May 19 and June 5, around 10 minutes each.":
-      "Scannez le code QR correspondant à votre téléphone ou utilisez les boutons des stores. Atgora est l'app utilisée pour quatre courts tours de participation en ligne entre le 19 mai et le 5 juin, environ 10 minutes chacun.",
+    "Share": "Partager",
+    "Download study flyers": "Télécharger les flyers de l'étude",
+    "Share study invitation": "Partager l'invitation à l'étude",
+    "Share the invitation": "Partager l'invitation",
+    "You can help spread the word by downloading flyers or copying a message template into WhatsApp, email, LinkedIn, Instagram, or a community group. Share whichever format fits your audience.":
+      "Vous pouvez aider à faire connaître l'étude en téléchargeant des flyers ou en copiant un modèle de message dans WhatsApp, un e-mail, LinkedIn, Instagram ou un groupe communautaire. Partagez le format qui convient le mieux à votre public.",
+    "Download the flyer": "Télécharger le flyer",
+    "You can help spread the word by sharing a flyer online or printing a copy for a workplace, classroom, association, noticeboard, or community space. Choose the language that fits your audience.":
+      "Vous pouvez aider à faire connaître l'étude en partageant un flyer en ligne ou en imprimant un exemplaire pour un lieu de travail, une salle de classe, une association, un panneau d'affichage ou un espace communautaire. Choisissez la langue qui convient à votre public.",
+    "Swiss AI Futures study flyer preview": "Aperçu du flyer de l'étude Swiss AI Futures",
+    "Flyer downloads by language": "Téléchargements du flyer par langue",
+    "English": "Anglais",
+    "German": "Allemand",
+    "French": "Français",
+    "JPGs work well for social media and messaging. PDFs are best for printing.":
+      "Les JPG conviennent bien aux réseaux sociaux et aux messages. Les PDF sont les meilleurs formats pour l'impression.",
+    "Help us reach more voices": "Aidez-nous à entendre davantage de voix",
+    "Message templates to share": "Textes prêts à partager",
+    "If you can, copy one of these invitations into WhatsApp, email, LinkedIn, Instagram, or a community group. The wording comes from the research team and explains why this citizen-input phase matters.":
+      "Si vous le pouvez, copiez l'une de ces invitations dans WhatsApp, un e-mail, LinkedIn, Instagram ou un groupe communautaire. Le texte vient de l'équipe de recherche et explique pourquoi cette phase de contribution citoyenne est importante.",
+    "WhatsApp message": "Message WhatsApp",
+    "Hi everyone, we’re launching the next part of our Swiss AI Futures study, and this is the part where we really need public voices.":
+      "Bonjour à toutes et tous, nous lançons la prochaine partie de notre étude Swiss AI Futures, et c'est précisément la partie où nous avons vraiment besoin de voix du public.",
+    "In the first steps of the project, we looked at existing research, policy debates, and future scenarios around AI and work. We also gathered expert and focus-group input. Now we’re moving into the third part: citizen input.":
+      "Dans les premières étapes du projet, nous avons examiné la recherche existante, les débats politiques et les scénarios futurs autour de l'IA et du travail. Nous avons aussi recueilli des contributions de spécialistes et de groupes de discussion. Nous passons maintenant à la troisième partie: la contribution citoyenne.",
+    "That means we want to hear directly from people living in Switzerland: what you think, what worries you, what feels exciting, and what Swiss decision-makers should understand about AI, work, education, and society.":
+      "Cela signifie que nous voulons entendre directement les personnes qui vivent en Suisse: ce que vous pensez, ce qui vous inquiète, ce qui vous enthousiasme, et ce que les décideuses et décideurs suisses devraient comprendre sur l'IA, le travail, l'éducation et la société.",
+    "If you live in Switzerland and are 18+, please download @gora, join the Swiss AI Futures course, and complete the short first survey/app round.":
+      "Si vous vivez en Suisse et avez 18 ans ou plus, merci de télécharger @gora, de rejoindre le cours Swiss AI Futures et de compléter le premier court questionnaire/tour dans l'app.",
+    "After the app phase, some engaged participants may also be invited to an in-person citizen workshop in Zurich or Lausanne, where we’ll go deeper into the ideas and recommendations emerging from the study.":
+      "Après la phase dans l'app, certaines personnes engagées pourront aussi être invitées à un atelier citoyen en présence à Zurich ou Lausanne, où nous approfondirons les idées et recommandations qui émergent de l'étude.",
+    "No AI expertise needed. Your perspective is exactly what this phase is about.":
+      "Aucune expertise en IA n'est nécessaire. Votre perspective est exactement ce que cette phase cherche à recueillir.",
+    "Start here:": "Commencer ici:",
+    "And if possible, please share this with friends, family, colleagues, students, community groups, or anyone in Switzerland whose voice should be included. It would really help us reach beyond our usual circles.":
+      "Et si possible, partagez cette invitation avec des amies et amis, votre famille, des collègues, des étudiantes et étudiants, des groupes communautaires ou toute personne en Suisse dont la voix devrait être incluse. Cela nous aiderait vraiment à dépasser nos cercles habituels.",
+    "Social media post": "Publication pour les réseaux sociaux",
+    "We’re opening the citizen-input phase of Swiss AI Futures, and we’d love you to take part.":
+      "Nous ouvrons la phase de contribution citoyenne de Swiss AI Futures, et nous serions ravis que vous y participiez.",
+    "Over the first stages of this project, we reviewed research and policy debates on AI, work, and skills. We also worked with experts and focus groups to think through possible futures.":
+      "Au cours des premières étapes de ce projet, nous avons passé en revue la recherche et les débats politiques sur l'IA, le travail et les compétences. Nous avons aussi travaillé avec des spécialistes et des groupes de discussion pour réfléchir à des futurs possibles.",
+    "Now comes the third and most public part: hearing directly from people living in Switzerland.":
+      "Vient maintenant la troisième partie, la plus publique: entendre directement les personnes qui vivent en Suisse.",
+    "AI is already changing how we work, learn, hire, train, and use public services. We don’t want this conversation to stay only with researchers, companies, or policymakers. We want to know what people across Switzerland think should be protected, improved, questioned, or imagined differently.":
+      "L'IA transforme déjà la manière dont nous travaillons, apprenons, recrutons, nous formons et utilisons les services publics. Nous ne voulons pas que cette conversation reste seulement entre chercheuses et chercheurs, entreprises ou responsables politiques. Nous voulons savoir ce que les personnes en Suisse pensent qu'il faudrait protéger, améliorer, questionner ou imaginer autrement.",
+    "If you live in Switzerland and are 18+, join us:": "Si vous vivez en Suisse et avez 18 ans ou plus, participez:",
+    "Download @gora": "Télécharger @gora",
+    "Join the Swiss AI Futures course": "Rejoindre le cours Swiss AI Futures",
+    "Complete the first short survey/app round": "Compléter le premier court questionnaire/tour dans l'app",
+    "Come back for the next short rounds": "Revenir pour les prochains courts tours",
+    "After the app phase, some engaged participants may also be invited to an in-person citizen workshop in Zurich or Lausanne, where we will discuss and refine the ideas and recommendations emerging from the study.":
+      "Après la phase dans l'app, certaines personnes engagées pourront aussi être invitées à un atelier citoyen en présence à Zurich ou Lausanne, où nous discuterons et affinerons les idées et recommandations qui émergent de l'étude.",
+    "You don’t need to be an AI expert. We’re looking for real public perspectives.":
+      "Vous n'avez pas besoin d'être spécialiste de l'IA. Nous cherchons de véritables perspectives du public.",
+    "Your input will contribute to a TA-SWISS research project and policy-facing outputs for Swiss decision-makers.":
+      "Votre contribution alimentera un projet de recherche TA-SWISS et des résultats destinés à la discussion politique pour les décideuses et décideurs suisses.",
+    "Join here:": "Participer ici:",
+    "Please also share this if you can. We’re trying to reach people beyond our own networks, across different regions, jobs, backgrounds, and everyday experiences with technology.":
+      "Merci aussi de partager cette invitation si vous le pouvez. Nous essayons de toucher des personnes au-delà de nos propres réseaux, dans différentes régions, professions, trajectoires et expériences quotidiennes avec la technologie.",
+    "Email text": "Texte d'e-mail",
+    "Subject: Join the citizen-input phase of Swiss AI Futures":
+      "Objet: Participez à la phase de contribution citoyenne de Swiss AI Futures",
+    "Dear all,": "Bonjour à toutes et tous,",
+    "We are excited to invite you to take part in the next phase of our Swiss AI Futures study.":
+      "Nous sommes ravis de vous inviter à participer à la prochaine phase de notre étude Swiss AI Futures.",
+    "In the first parts of this project, we reviewed existing research, policy discussions, and future scenarios around AI, work, and skills. We also gathered input through expert and focus-group work. These steps helped us understand the questions already being discussed.":
+      "Dans les premières parties de ce projet, nous avons examiné la recherche existante, les discussions politiques et les scénarios futurs autour de l'IA, du travail et des compétences. Nous avons aussi recueilli des contributions de spécialistes et de groupes de discussion. Ces étapes nous ont aidés à comprendre les questions déjà en débat.",
+    "Now we are moving into the third part of the project: citizen input.":
+      "Nous passons maintenant à la troisième partie du projet: la contribution citoyenne.",
+    "This is where we want to hear directly from people living in Switzerland. AI is already changing work, education, hiring, training, public services, and everyday life. We believe that public voices should be part of the conversation about what comes next.":
+      "C'est ici que nous voulons entendre directement les personnes qui vivent en Suisse. L'IA transforme déjà le travail, l'éducation, le recrutement, la formation, les services publics et la vie quotidienne. Nous pensons que les voix du public doivent faire partie de la conversation sur la suite.",
+    "If you live in Switzerland and are 18 or older, you can take part through the @gora app. You do not need to be an AI expert. We are interested in your perspective: what concerns you, what gives you hope, what feels urgent, and what you think Swiss decision-makers should pay attention to.":
+      "Si vous vivez en Suisse et avez 18 ans ou plus, vous pouvez participer via l'app @gora. Vous n'avez pas besoin d'être spécialiste de l'IA. Votre perspective nous intéresse: ce qui vous préoccupe, ce qui vous donne de l'espoir, ce qui vous semble urgent et ce à quoi les décideuses et décideurs suisses devraient prêter attention.",
+    "Taking part is simple:": "Participer est simple:",
+    "Download the @gora app": "Télécharger l'app @gora",
+    "Select Swiss AI Futures": "Sélectionner Swiss AI Futures",
+    "Return for the next short rounds when prompted": "Revenir pour les prochains courts tours lorsque l'app vous le demande",
+    "After the app phase, some engaged participants may also be invited to an in-person citizen workshop in Zurich or Lausanne. These workshops will go deeper into the ideas and recommendations emerging from the study and give participants another opportunity to help shape the final outputs.":
+      "Après la phase dans l'app, certaines personnes engagées pourront aussi être invitées à un atelier citoyen en présence à Zurich ou Lausanne. Ces ateliers approfondiront les idées et recommandations qui émergent de l'étude et donneront aux participantes et participants une autre occasion de contribuer aux résultats finaux.",
+    "Your input will help us understand where people agree, where they disagree, and which public concerns and ideas should be included in future policy discussions. The results will contribute to a TA-SWISS research project and policy-facing outputs for Swiss decision-makers.":
+      "Votre contribution nous aidera à comprendre où les personnes sont d'accord, où elles ne le sont pas, et quelles préoccupations et idées du public devraient être incluses dans les futures discussions politiques. Les résultats contribueront à un projet de recherche TA-SWISS et à des résultats destinés à la discussion politique pour les décideuses et décideurs suisses.",
+    "You can start here:": "Vous pouvez commencer ici:",
+    "If possible, please also forward this invitation to friends, colleagues, students, community groups, or others in Switzerland who may want to add their voice. Reaching people beyond our own networks is really important for this citizen-input phase.":
+      "Si possible, merci aussi de transmettre cette invitation à des amies et amis, collègues, étudiantes et étudiants, groupes communautaires ou autres personnes en Suisse qui pourraient vouloir ajouter leur voix. Toucher des personnes au-delà de nos propres réseaux est vraiment important pour cette phase de contribution citoyenne.",
+    "Thank you for helping us make this phase genuinely public.":
+      "Merci de nous aider à rendre cette phase véritablement publique.",
+    "Best wishes,": "Avec nos meilleures salutations,",
+    "The Swiss AI Futures research team": "L'équipe de recherche Swiss AI Futures",
+    "Copy text": "Copier le texte",
+    "Copied": "Copié",
+    "Copied to clipboard": "Copié dans le presse-papiers",
+    "Copy failed": "La copie a échoué",
+    "Message template text": "Texte du modèle de message",
+    "Scan the QR code for your phone or use the store buttons. The app study is open now and runs until June 5, 2026, with four short online participation rounds of around 10 minutes each.":
+      "Scannez le code QR correspondant à votre téléphone ou utilisez les boutons des stores. L'étude dans l'app est maintenant ouverte et se poursuit jusqu'au 5 juin 2026, avec quatre courts tours de participation en ligne d'environ 10 minutes chacun.",
     "Download on the App Store": "Télécharger sur l'App Store",
     "Get it on Google Play": "Obtenir sur Google Play",
     "Official app page": "Page officielle de l'app",
+    "Flyers and messages": "Flyers et messages",
+    "Download flyers": "Télécharger les flyers",
     "Links open the official Atgora app listings and the Atgora information page.": "Les liens ouvrent les fiches officielles de l'app Atgora et la page d'information Atgora.",
     "AI-Supported Deliberation Experiment": "Expérience de délibération assistée par l'IA",
     "Part of Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.": "Fait partie du projet Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.",
@@ -901,6 +1108,7 @@ window.SWISS_AI_I18N.it = {
   text: {
     "Skip to main content": "Vai al contenuto principale",
     "Start": "Inizio",
+    "Flyer": "Volantino",
     "Why it matters": "Perché conta",
     "How it works": "Come funziona",
     "Privacy": "Protezione dei dati",
@@ -924,25 +1132,32 @@ window.SWISS_AI_I18N.it = {
     "Possible workshops": "Workshop possibili",
     "June 15-19": "15-19 giugno",
     "Start in Atgora": "Inizia in Atgora",
-    "Find the Swiss AI Futures course": "Trova il corso Swiss AI Futures",
-    "After downloading Atgora, open the app, go to Courses, choose Swiss AI Futures, and start the Stage 1 Questionnaire. These screens show the path from the app listing to the first study questions.":
-      "Dopo aver scaricato Atgora, apri l'app, vai su Courses, scegli Swiss AI Futures e avvia Stage1 Questionnaire. Queste schermate mostrano il percorso dalla scheda dell'app alle prime domande dello studio.",
+    "Find the study inside Atgora": "Trova lo studio in Atgora",
+    "After downloading Atgora, open the app and go to Courses. Select the Swiss AI Futures course, then open the main topic and start the first module.":
+      "Dopo aver scaricato Atgora, apri l'app e vai su Courses. Seleziona il corso Swiss AI Futures, poi apri il tema principale e avvia il primo modulo.",
+    "Screenshots show one current app language. If your app is in another language, follow the equivalent labels shown in your app.":
+      "Gli screenshot mostrano una delle lingue attuali dell'app. Se la tua app è visualizzata in un'altra lingua, segui le etichette equivalenti mostrate nell'app.",
     "Download or open Atgora": "Scarica o apri Atgora",
-    "Use the App Store or Google Play link on this page, then install or open the Atgora app.":
-      "Usa il link App Store o Google Play su questa pagina, poi installa o apri l'app Atgora.",
+    "Use the store buttons on this page, then install or open the Atgora app.":
+      "Usa i pulsanti degli store su questa pagina, poi installa o apri l'app Atgora.",
     "App Store page for Atgora with the Open button visible": "Pagina App Store di Atgora con il pulsante Apri visibile",
-    "Go to Courses": "Vai su Courses",
-    "On the home screen, open the Courses tab and select the Swiss AI Futures course card.":
-      "Nella schermata principale, apri la scheda Courses e seleziona la card del corso Swiss AI Futures.",
-    "Atgora Courses tab showing the Swiss AI Futures course card": "Scheda Courses di Atgora con la card del corso Swiss AI Futures",
-    "Start Stage 1": "Avvia Stage 1",
-    "Inside Swiss AI Futures, tap Stage1 Questionnaire to begin the first study module.":
-      "Dentro Swiss AI Futures, tocca Stage1 Questionnaire per iniziare il primo modulo dello studio.",
-    "Swiss AI Futures course page with the Stage1 Questionnaire card": "Pagina del corso Swiss AI Futures con la card Stage1 Questionnaire",
-    "Answer each prompt": "Rispondi a ogni domanda",
-    "Read the question, choose the answer that best fits your view, and use the arrow to continue.":
-      "Leggi la domanda, scegli la risposta che corrisponde meglio alla tua opinione e usa la freccia per continuare.",
-    "Atgora questionnaire screen with multiple answer options": "Schermata del questionario Atgora con più opzioni di risposta",
+    "Sign in or register": "Accedi o registrati",
+    "If Atgora asks, sign in or create an account and complete the short setup.":
+      "Se Atgora lo richiede, accedi oppure crea un account e completa la breve configurazione.",
+    "Atgora login screen with login and registration options": "Schermata di accesso Atgora con opzioni di login e registrazione",
+    "Open Courses": "Apri Courses",
+    "Open the Courses tab on the home screen, then select the Swiss AI Futures course card.":
+      "Apri la scheda Courses nella schermata principale, poi seleziona la card del corso Swiss AI Futures.",
+    "Atgora setup steps": "Passaggi di configurazione di Atgora",
+    "Atgora Courses tab showing the Schweizer AI-Futures course card": "Scheda Courses di Atgora con la card del corso Schweizer AI-Futures",
+    "Open the main topic": "Apri il tema principale",
+    "Inside Swiss AI Futures, tap the first topic card to enter the study topic.":
+      "Dentro Swiss AI Futures, tocca la prima card del tema per entrare nel tema dello studio.",
+    "Swiss AI Futures course page showing the main topic card": "Pagina del corso Swiss AI Futures con la card del tema principale",
+    "Start the first module": "Avvia il primo modulo",
+    "Tap the first module card, then read each prompt and use the arrow to continue.":
+      "Tocca la prima card del modulo, poi leggi ogni domanda e usa la freccia per continuare.",
+    "Swiss AI Futures topic list showing the first study modules": "Elenco dei temi Swiss AI Futures con i primi moduli dello studio",
     "Main funder": "Finanziatore principale",
     "Technology assessment": "Valutazione della tecnologia",
     "TA-SWISS is the Swiss Foundation for Technology Assessment. It supports interdisciplinary studies and participatory projects that examine the social, legal, ethical, and political consequences of emerging technologies. Its recommendations are intended to support public debate and decision-making in Switzerland, including for Parliament and the Federal Council.":
@@ -1134,9 +1349,9 @@ window.SWISS_AI_I18N.it = {
     "Participant activity": "Attività delle persone partecipanti",
     "Participant journey": "Percorso di partecipazione",
     "Study path": "Percorso dello studio",
-    "Most participation happens in the Atgora app between May 19 and June 5. You only need to return about four times over these two weeks, for roughly 10 minutes each time. The workshop is a separate possible next step for engaged participants.":
-      "La maggior parte della partecipazione avviene nell'app Atgora tra il 19 maggio e il 5 giugno. Devi tornare solo circa quattro volte in queste due settimane, per circa 10 minuti ogni volta. Il workshop è una possibile fase successiva separata per le persone più coinvolte.",
-    "Before or around May 19": "Prima o attorno al 19 maggio",
+    "The Atgora app study is open now and runs until June 5, 2026. You only need to return about four times over this period, for roughly 10 minutes each time. The workshop is a separate possible next step for engaged participants.":
+      "Lo studio nell'app Atgora è ora aperto e prosegue fino al 5 giugno 2026. Devi tornare solo circa quattro volte durante questo periodo, per circa 10 minuti ogni volta. Il workshop è una possibile fase successiva separata per le persone più coinvolte.",
+    "Open now": "Ora aperto",
     "Setup": "Preparazione",
     "Use the App Store or Google Play links on this page.":
       "Usa i link all'App Store o a Google Play in questa pagina.",
@@ -1178,8 +1393,9 @@ window.SWISS_AI_I18N.it = {
     "Participants who stay engaged and complete the main app tasks may have a chance to be invited to one physical workshop in Zurich or Lausanne. Invitations depend on workshop capacity, availability during June 15-19, and separate written consent.":
       "Le persone che restano coinvolte e completano i compiti principali nell'app possono avere la possibilità di essere invitate a un workshop in presenza a Zurigo o Losanna. Gli inviti dipendono dalla capacità dei workshop, dalla disponibilità dal 15 al 19 giugno e da un consenso scritto separato.",
     "Time commitment": "Impegno richiesto",
-    "Participants are asked to interact with the app about four times between May 19 and June 5. Each visit should take around 10 minutes, and the app may send a reminder when a new round is available.":
-      "Alle persone partecipanti viene chiesto di interagire con l'app circa quattro volte tra il 19 maggio e il 5 giugno. Ogni visita dovrebbe durare circa 10 minuti, e l'app può inviare un promemoria quando è disponibile un nuovo turno.",
+    "Open until June 5": "Aperto fino al 5 giugno",
+    "Participants are asked to interact with the app about four times while the study is open, until June 5, 2026. Each visit should take around 10 minutes, and the app may send a reminder when a new round is available.":
+      "Alle persone partecipanti viene chiesto di interagire con l'app circa quattro volte mentre lo studio è aperto, fino al 5 giugno 2026. Ogni visita dovrebbe durare circa 10 minuti, e l'app può inviare un promemoria quando è disponibile un nuovo turno.",
     "Approximate total: about 40 minutes across the app study.":
       "Totale approssimativo: circa 40 minuti per l'intero studio nell'app.",
     "Participation": "Partecipazione",
@@ -1244,8 +1460,8 @@ window.SWISS_AI_I18N.it = {
     "Do I need to know a lot about AI?": "Devo sapere molto sull'IA?",
     "No. The app includes short learning modules to help participants engage with the topic.": "No. L'app include brevi moduli informativi per aiutare le persone partecipanti a entrare nel tema.",
     "Why do I need to download the app?": "Perché devo scaricare l'app?",
-    "The study asks participants to contribute about four times between May 19 and June 5, usually around 10 minutes each time. The app lets participants return for new rounds and receive reminders when a round is available.":
-      "Lo studio chiede alle persone partecipanti di contribuire circa quattro volte tra il 19 maggio e il 5 giugno, di solito circa 10 minuti ogni volta. L'app permette di tornare per nuovi turni e ricevere promemoria quando un turno è disponibile.",
+    "The study asks participants to contribute about four times while the app study is open, until June 5, 2026, usually around 10 minutes each time. The app lets participants return for new rounds and receive reminders when a round is available.":
+      "Lo studio chiede alle persone partecipanti di contribuire circa quattro volte mentre lo studio nell'app è aperto, fino al 5 giugno 2026, di solito circa 10 minuti ogni volta. L'app permette di tornare per nuovi turni e ricevere promemoria quando un turno è disponibile.",
     "Is this app stage compensated?": "Questa fase nell'app è compensata?",
     "This stage is focused on voluntary app input. Compensation applies only to the separate in-person workshop stage: invited participants who attend receive a flat-rate CHF 40 voucher. Travel costs are not reimbursed.":
       "Questa fase è centrata su contributi volontari nell'app. Il compenso si applica solo alla fase separata dei workshop in presenza: le persone invitate che partecipano ricevono un buono forfettario di CHF 40. Le spese di viaggio non sono rimborsate.",
@@ -1257,11 +1473,106 @@ window.SWISS_AI_I18N.it = {
     "Can I withdraw?": "Posso ritirarmi?",
     "Yes. You may withdraw at any time without giving a reason and without disadvantage.": "Sì. Puoi ritirarti in qualsiasi momento senza fornire una ragione e senza svantaggi.",
     "Join the study": "Partecipa allo studio",
-    "Scan the QR code for your phone or use the store buttons. Atgora is the app used for four short online participation rounds between May 19 and June 5, around 10 minutes each.":
-      "Scansiona il codice QR per il tuo telefono o usa i pulsanti degli store. Atgora è l'app usata per quattro brevi turni di partecipazione online tra il 19 maggio e il 5 giugno, circa 10 minuti ciascuno.",
+    "Share": "Condividi",
+    "Download study flyers": "Scarica i volantini dello studio",
+    "Share study invitation": "Condividi l'invito allo studio",
+    "Share the invitation": "Condividi l'invito",
+    "You can help spread the word by downloading flyers or copying a message template into WhatsApp, email, LinkedIn, Instagram, or a community group. Share whichever format fits your audience.":
+      "Puoi aiutare a far conoscere lo studio scaricando i volantini o copiando un modello di messaggio in WhatsApp, e-mail, LinkedIn, Instagram o in un gruppo di comunità. Condividi il formato più adatto al tuo pubblico.",
+    "Download the flyer": "Scarica il volantino",
+    "You can help spread the word by sharing a flyer online or printing a copy for a workplace, classroom, association, noticeboard, or community space. Choose the language that fits your audience.":
+      "Puoi aiutare a far conoscere lo studio condividendo un volantino online o stampandone una copia per un luogo di lavoro, un'aula, un'associazione, una bacheca o uno spazio comunitario. Scegli la lingua più adatta al tuo pubblico.",
+    "Swiss AI Futures study flyer preview": "Anteprima del volantino dello studio Swiss AI Futures",
+    "Flyer downloads by language": "Download dei volantini per lingua",
+    "English": "Inglese",
+    "German": "Tedesco",
+    "French": "Francese",
+    "JPGs work well for social media and messaging. PDFs are best for printing.":
+      "I JPG funzionano bene per i social media e i messaggi. I PDF sono il formato migliore per la stampa.",
+    "Help us reach more voices": "Aiutateci ad ascoltare più voci",
+    "Message templates to share": "Testi pronti da condividere",
+    "If you can, copy one of these invitations into WhatsApp, email, LinkedIn, Instagram, or a community group. The wording comes from the research team and explains why this citizen-input phase matters.":
+      "Se potete, copiate uno di questi inviti in WhatsApp, e-mail, LinkedIn, Instagram o in un gruppo di comunità. Il testo viene dal team di ricerca e spiega perché questa fase di partecipazione civica è importante.",
+    "WhatsApp message": "Messaggio WhatsApp",
+    "Hi everyone, we’re launching the next part of our Swiss AI Futures study, and this is the part where we really need public voices.":
+      "Ciao a tutte e tutti, stiamo lanciando la prossima parte del nostro studio Swiss AI Futures, ed è proprio la parte in cui abbiamo davvero bisogno delle voci del pubblico.",
+    "In the first steps of the project, we looked at existing research, policy debates, and future scenarios around AI and work. We also gathered expert and focus-group input. Now we’re moving into the third part: citizen input.":
+      "Nei primi passaggi del progetto abbiamo esaminato la ricerca esistente, i dibattiti politici e gli scenari futuri su IA e lavoro. Abbiamo anche raccolto contributi da esperte ed esperti e da focus group. Ora passiamo alla terza parte: la partecipazione civica.",
+    "That means we want to hear directly from people living in Switzerland: what you think, what worries you, what feels exciting, and what Swiss decision-makers should understand about AI, work, education, and society.":
+      "Questo significa che vogliamo ascoltare direttamente le persone che vivono in Svizzera: cosa pensate, cosa vi preoccupa, cosa vi entusiasma e cosa i decisori svizzeri dovrebbero capire su IA, lavoro, educazione e società.",
+    "If you live in Switzerland and are 18+, please download @gora, join the Swiss AI Futures course, and complete the short first survey/app round.":
+      "Se vivete in Svizzera e avete 18 anni o più, scaricate @gora, entrate nel corso Swiss AI Futures e completate il primo breve questionario/turno nell'app.",
+    "After the app phase, some engaged participants may also be invited to an in-person citizen workshop in Zurich or Lausanne, where we’ll go deeper into the ideas and recommendations emerging from the study.":
+      "Dopo la fase nell'app, alcune persone partecipanti più coinvolte potranno anche essere invitate a un workshop civico in presenza a Zurigo o Losanna, dove approfondiremo le idee e le raccomandazioni che emergono dallo studio.",
+    "No AI expertise needed. Your perspective is exactly what this phase is about.":
+      "Non serve alcuna competenza in IA. La vostra prospettiva è esattamente ciò che questa fase vuole raccogliere.",
+    "Start here:": "Iniziate qui:",
+    "And if possible, please share this with friends, family, colleagues, students, community groups, or anyone in Switzerland whose voice should be included. It would really help us reach beyond our usual circles.":
+      "E se possibile, condividete questo invito con amiche e amici, familiari, colleghe e colleghi, studenti, gruppi di comunità o chiunque in Svizzera la cui voce dovrebbe essere inclusa. Ci aiuterebbe davvero a raggiungere persone oltre i nostri soliti giri.",
+    "Social media post": "Post per social media",
+    "We’re opening the citizen-input phase of Swiss AI Futures, and we’d love you to take part.":
+      "Stiamo aprendo la fase di partecipazione civica di Swiss AI Futures e ci farebbe molto piacere se partecipaste.",
+    "Over the first stages of this project, we reviewed research and policy debates on AI, work, and skills. We also worked with experts and focus groups to think through possible futures.":
+      "Nelle prime fasi di questo progetto abbiamo esaminato la ricerca e i dibattiti politici su IA, lavoro e competenze. Abbiamo anche lavorato con esperte ed esperti e focus group per riflettere su possibili futuri.",
+    "Now comes the third and most public part: hearing directly from people living in Switzerland.":
+      "Ora arriva la terza parte, la più pubblica: ascoltare direttamente le persone che vivono in Svizzera.",
+    "AI is already changing how we work, learn, hire, train, and use public services. We don’t want this conversation to stay only with researchers, companies, or policymakers. We want to know what people across Switzerland think should be protected, improved, questioned, or imagined differently.":
+      "L'IA sta già cambiando il modo in cui lavoriamo, impariamo, assumiamo, ci formiamo e usiamo i servizi pubblici. Non vogliamo che questa conversazione resti solo tra ricercatrici e ricercatori, aziende o decisori politici. Vogliamo sapere cosa le persone in tutta la Svizzera pensano debba essere protetto, migliorato, messo in discussione o immaginato diversamente.",
+    "If you live in Switzerland and are 18+, join us:": "Se vivete in Svizzera e avete 18 anni o più, partecipate:",
+    "Download @gora": "Scaricate @gora",
+    "Join the Swiss AI Futures course": "Entrate nel corso Swiss AI Futures",
+    "Complete the first short survey/app round": "Completate il primo breve questionario/turno nell'app",
+    "Come back for the next short rounds": "Tornate per i prossimi brevi turni",
+    "After the app phase, some engaged participants may also be invited to an in-person citizen workshop in Zurich or Lausanne, where we will discuss and refine the ideas and recommendations emerging from the study.":
+      "Dopo la fase nell'app, alcune persone partecipanti più coinvolte potranno anche essere invitate a un workshop civico in presenza a Zurigo o Losanna, dove discuteremo e affineremo le idee e le raccomandazioni che emergono dallo studio.",
+    "You don’t need to be an AI expert. We’re looking for real public perspectives.":
+      "Non dovete essere esperte o esperti di IA. Cerchiamo vere prospettive pubbliche.",
+    "Your input will contribute to a TA-SWISS research project and policy-facing outputs for Swiss decision-makers.":
+      "Il vostro contributo confluirà in un progetto di ricerca TA-SWISS e in risultati orientati alle politiche per i decisori svizzeri.",
+    "Join here:": "Partecipate qui:",
+    "Please also share this if you can. We’re trying to reach people beyond our own networks, across different regions, jobs, backgrounds, and everyday experiences with technology.":
+      "Condividete questo invito se potete. Stiamo cercando di raggiungere persone oltre le nostre reti, in diverse regioni, professioni, background ed esperienze quotidiane con la tecnologia.",
+    "Email text": "Testo e-mail",
+    "Subject: Join the citizen-input phase of Swiss AI Futures":
+      "Oggetto: Partecipate alla fase di partecipazione civica di Swiss AI Futures",
+    "Dear all,": "Care e cari,",
+    "We are excited to invite you to take part in the next phase of our Swiss AI Futures study.":
+      "Siamo felici di invitarvi a partecipare alla prossima fase del nostro studio Swiss AI Futures.",
+    "In the first parts of this project, we reviewed existing research, policy discussions, and future scenarios around AI, work, and skills. We also gathered input through expert and focus-group work. These steps helped us understand the questions already being discussed.":
+      "Nelle prime parti di questo progetto abbiamo esaminato la ricerca esistente, le discussioni politiche e gli scenari futuri su IA, lavoro e competenze. Abbiamo anche raccolto contributi attraverso il lavoro con esperte ed esperti e focus group. Questi passaggi ci hanno aiutato a capire le domande già in discussione.",
+    "Now we are moving into the third part of the project: citizen input.":
+      "Ora passiamo alla terza parte del progetto: la partecipazione civica.",
+    "This is where we want to hear directly from people living in Switzerland. AI is already changing work, education, hiring, training, public services, and everyday life. We believe that public voices should be part of the conversation about what comes next.":
+      "È qui che vogliamo ascoltare direttamente le persone che vivono in Svizzera. L'IA sta già cambiando lavoro, educazione, assunzioni, formazione, servizi pubblici e vita quotidiana. Crediamo che le voci del pubblico debbano far parte della conversazione su ciò che verrà dopo.",
+    "If you live in Switzerland and are 18 or older, you can take part through the @gora app. You do not need to be an AI expert. We are interested in your perspective: what concerns you, what gives you hope, what feels urgent, and what you think Swiss decision-makers should pay attention to.":
+      "Se vivete in Svizzera e avete 18 anni o più, potete partecipare tramite l'app @gora. Non dovete essere esperte o esperti di IA. Ci interessa la vostra prospettiva: cosa vi preoccupa, cosa vi dà speranza, cosa vi sembra urgente e a cosa i decisori svizzeri dovrebbero prestare attenzione.",
+    "Taking part is simple:": "Partecipare è semplice:",
+    "Download the @gora app": "Scaricare l'app @gora",
+    "Select Swiss AI Futures": "Selezionare Swiss AI Futures",
+    "Return for the next short rounds when prompted": "Tornare per i prossimi brevi turni quando richiesto",
+    "After the app phase, some engaged participants may also be invited to an in-person citizen workshop in Zurich or Lausanne. These workshops will go deeper into the ideas and recommendations emerging from the study and give participants another opportunity to help shape the final outputs.":
+      "Dopo la fase nell'app, alcune persone partecipanti più coinvolte potranno anche essere invitate a un workshop civico in presenza a Zurigo o Losanna. Questi workshop approfondiranno le idee e le raccomandazioni che emergono dallo studio e offriranno alle persone partecipanti un'altra opportunità per contribuire ai risultati finali.",
+    "Your input will help us understand where people agree, where they disagree, and which public concerns and ideas should be included in future policy discussions. The results will contribute to a TA-SWISS research project and policy-facing outputs for Swiss decision-makers.":
+      "Il vostro contributo ci aiuterà a capire dove le persone sono d'accordo, dove non lo sono e quali preoccupazioni e idee pubbliche dovrebbero essere incluse nelle future discussioni politiche. I risultati contribuiranno a un progetto di ricerca TA-SWISS e a risultati orientati alle politiche per i decisori svizzeri.",
+    "You can start here:": "Potete iniziare qui:",
+    "If possible, please also forward this invitation to friends, colleagues, students, community groups, or others in Switzerland who may want to add their voice. Reaching people beyond our own networks is really important for this citizen-input phase.":
+      "Se possibile, inoltrate questo invito anche ad amiche e amici, colleghe e colleghi, studenti, gruppi di comunità o altre persone in Svizzera che potrebbero voler aggiungere la propria voce. Raggiungere persone oltre le nostre reti è davvero importante per questa fase di partecipazione civica.",
+    "Thank you for helping us make this phase genuinely public.":
+      "Grazie per aiutarci a rendere questa fase davvero pubblica.",
+    "Best wishes,": "Cordiali saluti,",
+    "The Swiss AI Futures research team": "Il team di ricerca Swiss AI Futures",
+    "Copy text": "Copia testo",
+    "Copied": "Copiato",
+    "Copied to clipboard": "Copiato negli appunti",
+    "Copy failed": "Copia non riuscita",
+    "Message template text": "Testo del modello di messaggio",
+    "Scan the QR code for your phone or use the store buttons. The app study is open now and runs until June 5, 2026, with four short online participation rounds of around 10 minutes each.":
+      "Scansiona il codice QR per il tuo telefono o usa i pulsanti degli store. Lo studio nell'app è ora aperto e prosegue fino al 5 giugno 2026, con quattro brevi turni di partecipazione online di circa 10 minuti ciascuno.",
     "Download on the App Store": "Scarica dall'App Store",
     "Get it on Google Play": "Scarica da Google Play",
     "Official app page": "Pagina ufficiale dell'app",
+    "Flyers and messages": "Volantini e messaggi",
+    "Download flyers": "Scarica i volantini",
     "Links open the official Atgora app listings and the Atgora information page.": "I link aprono le schede ufficiali dell'app Atgora e la pagina informativa di Atgora.",
     "AI-Supported Deliberation Experiment": "Esperimento di deliberazione assistita dall'IA",
     "Part of Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.": "Parte del progetto Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.",
