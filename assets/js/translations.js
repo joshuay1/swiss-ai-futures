@@ -2617,3 +2617,132 @@ window.SWISS_AI_I18N.it = {
     Object.assign(target.text, text);
   });
 })();
+
+(() => {
+  const registrationUpdates = {
+    de: {
+      "Sign up": "Anmelden",
+      "Sign up for workshop": "Zum Workshop anmelden",
+      "Finish Atgora questionnaire": "Atgora-Fragebogen abschliessen",
+      "To join, please do both: sign up with the Swiss AI Futures form and complete the short questionnaire in Atgora before the workshop. No AI expertise is needed.":
+        "Um teilzunehmen, erledigen Sie bitte beides: Melden Sie sich mit dem Swiss AI Futures-Formular an und schliessen Sie den kurzen Fragebogen in Atgora vor dem Workshop ab. KI-Fachwissen ist nicht nötig.",
+      "For participants who sign up, complete the Atgora questionnaire, and attend one workshop.":
+        "Für Teilnehmende, die sich anmelden, den Atgora-Fragebogen abschliessen und an einem Workshop teilnehmen.",
+      "Complete the Atgora questionnaire": "Den Atgora-Fragebogen abschliessen",
+      "After signing up, scan the QR code for your phone or use the store buttons. Once Atgora is installed, open the Swiss AI Futures course and complete the short questionnaire before the workshop.":
+        "Scannen Sie nach der Anmeldung den QR-Code mit Ihrem Smartphone oder nutzen Sie die Store-Schaltflächen. Sobald Atgora installiert ist, öffnen Sie den Kurs Swiss AI Futures und schliessen Sie den kurzen Fragebogen vor dem Workshop ab.",
+      "After downloading Atgora, open the app and go to Courses. Select the Swiss AI Futures course, open the module shown below, and finish the questionnaire before you come to Zürich or Lausanne.":
+        "Öffnen Sie nach dem Herunterladen von Atgora die App und gehen Sie zu Kurse. Wählen Sie den Kurs Swiss AI Futures, öffnen Sie das unten gezeigte Modul und schliessen Sie den Fragebogen ab, bevor Sie nach Zürich oder Lausanne kommen.",
+      "You can take part if you live in Switzerland, are 18 or older, can use Atgora on a personal smartphone, sign up for a workshop, finish the Atgora questionnaire before attending, and can join one workshop in Zürich or Lausanne.":
+        "Sie können teilnehmen, wenn Sie in der Schweiz wohnen, 18 Jahre oder älter sind, Atgora auf einem persönlichen Smartphone nutzen können, sich für einen Workshop anmelden, den Atgora-Fragebogen vor der Teilnahme abschliessen und an einem Workshop in Zürich oder Lausanne teilnehmen können.",
+      "How do I sign up?": "Wie melde ich mich an?",
+      "Use the": "Nutzen Sie das",
+      "Swiss AI Futures sign-up form": "Swiss AI Futures-Anmeldeformular",
+      "to register for a workshop. After signing up, please also complete the Atgora questionnaire before coming.":
+        "zur Anmeldung für einen Workshop. Schliessen Sie nach der Anmeldung bitte auch den Atgora-Fragebogen ab, bevor Sie kommen.",
+      "The short Atgora questionnaire gives everyone a shared starting point and helps the research team prepare the in-person discussion. It is required in addition to signing up.":
+        "Der kurze Atgora-Fragebogen gibt allen einen gemeinsamen Ausgangspunkt und hilft dem Forschungsteam, die Diskussion vor Ort vorzubereiten. Er ist zusätzlich zur Anmeldung erforderlich.",
+      "Yes, but please sign up and complete the Atgora questionnaire first. Download Atgora, open Swiss AI Futures, and finish the questionnaire before coming to Zürich or Lausanne.":
+        "Ja, aber melden Sie sich bitte zuerst an und schliessen Sie den Atgora-Fragebogen ab. Laden Sie Atgora herunter, öffnen Sie Swiss AI Futures und schliessen Sie den Fragebogen ab, bevor Sie nach Zürich oder Lausanne kommen.",
+      "Participants who sign up, complete the Atgora questionnaire, and attend one physical workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
+        "Teilnehmende, die sich anmelden, den Atgora-Fragebogen abschliessen und an einem Workshop vor Ort teilnehmen, erhalten einen Galaxus-Gutschein über CHF 40. Reisekosten werden nicht erstattet.",
+      "Participants who sign up, complete the Atgora questionnaire, and attend one workshop receive a CHF 40 Galaxus voucher.":
+        "Teilnehmende, die sich anmelden, den Atgora-Fragebogen abschliessen und an einem Workshop teilnehmen, erhalten einen Galaxus-Gutschein über CHF 40.",
+      "To join, sign up here:": "Zur Teilnahme hier anmelden:",
+      "Before attending, participants should also download @gora, join the Swiss AI Futures course, and finish the short questionnaire.":
+        "Vor der Teilnahme sollten Teilnehmende ausserdem @gora herunterladen, dem Kurs Swiss AI Futures beitreten und den kurzen Fragebogen abschliessen.",
+      "Sign up here:": "Hier anmelden:",
+      "Before attending, also download @gora, join the Swiss AI Futures course, and finish the short questionnaire.":
+        "Laden Sie vor der Teilnahme ausserdem @gora herunter, treten Sie dem Kurs Swiss AI Futures bei und schliessen Sie den kurzen Fragebogen ab.",
+      "To join, please do both:": "Für die Teilnahme erledigen Sie bitte beides:",
+      "Sign up for the workshop: https://forms.gle/9kbysBanAQ4Ny3BeA":
+        "Für den Workshop anmelden: https://forms.gle/9kbysBanAQ4Ny3BeA",
+      "Finish the questionnaire before attending the workshop": "Den Fragebogen vor dem Workshop abschliessen"
+    },
+    fr: {
+      "Sign up": "S'inscrire",
+      "Sign up for workshop": "S'inscrire à l'atelier",
+      "Finish Atgora questionnaire": "Terminer le questionnaire Atgora",
+      "To join, please do both: sign up with the Swiss AI Futures form and complete the short questionnaire in Atgora before the workshop. No AI expertise is needed.":
+        "Pour participer, veuillez faire les deux: vous inscrire avec le formulaire Swiss AI Futures et terminer le court questionnaire dans Atgora avant l'atelier. Aucune expertise en IA n'est nécessaire.",
+      "For participants who sign up, complete the Atgora questionnaire, and attend one workshop.":
+        "Pour les personnes qui s'inscrivent, terminent le questionnaire Atgora et participent à un atelier.",
+      "Complete the Atgora questionnaire": "Terminer le questionnaire Atgora",
+      "After signing up, scan the QR code for your phone or use the store buttons. Once Atgora is installed, open the Swiss AI Futures course and complete the short questionnaire before the workshop.":
+        "Après votre inscription, scannez le code QR avec votre téléphone ou utilisez les boutons des stores. Une fois Atgora installée, ouvrez le cours Swiss AI Futures et terminez le court questionnaire avant l'atelier.",
+      "After downloading Atgora, open the app and go to Courses. Select the Swiss AI Futures course, open the module shown below, and finish the questionnaire before you come to Zürich or Lausanne.":
+        "Après avoir téléchargé Atgora, ouvrez l'app et allez dans Courses. Sélectionnez le cours Swiss AI Futures, ouvrez le module ci-dessous et terminez le questionnaire avant de venir à Zurich ou Lausanne.",
+      "You can take part if you live in Switzerland, are 18 or older, can use Atgora on a personal smartphone, sign up for a workshop, finish the Atgora questionnaire before attending, and can join one workshop in Zürich or Lausanne.":
+        "Vous pouvez participer si vous vivez en Suisse, avez 18 ans ou plus, pouvez utiliser Atgora sur un smartphone personnel, vous inscrivez à un atelier, terminez le questionnaire Atgora avant de participer et pouvez rejoindre un atelier à Zurich ou Lausanne.",
+      "How do I sign up?": "Comment m'inscrire?",
+      "Use the": "Utilisez le",
+      "Swiss AI Futures sign-up form": "formulaire d'inscription Swiss AI Futures",
+      "to register for a workshop. After signing up, please also complete the Atgora questionnaire before coming.":
+        "pour vous inscrire à un atelier. Après l'inscription, veuillez aussi terminer le questionnaire Atgora avant de venir.",
+      "The short Atgora questionnaire gives everyone a shared starting point and helps the research team prepare the in-person discussion. It is required in addition to signing up.":
+        "Le court questionnaire Atgora donne à tout le monde un point de départ commun et aide l'équipe de recherche à préparer la discussion en présence. Il est requis en plus de l'inscription.",
+      "Yes, but please sign up and complete the Atgora questionnaire first. Download Atgora, open Swiss AI Futures, and finish the questionnaire before coming to Zürich or Lausanne.":
+        "Oui, mais veuillez d'abord vous inscrire et terminer le questionnaire Atgora. Téléchargez Atgora, ouvrez Swiss AI Futures et terminez le questionnaire avant de venir à Zurich ou Lausanne.",
+      "Participants who sign up, complete the Atgora questionnaire, and attend one physical workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
+        "Les personnes qui s'inscrivent, terminent le questionnaire Atgora et participent à un atelier en présence reçoivent un bon Galaxus de CHF 40. Les frais de déplacement ne sont pas remboursés.",
+      "Participants who sign up, complete the Atgora questionnaire, and attend one workshop receive a CHF 40 Galaxus voucher.":
+        "Les personnes qui s'inscrivent, terminent le questionnaire Atgora et participent à un atelier reçoivent un bon Galaxus de CHF 40.",
+      "To join, sign up here:": "Pour participer, inscrivez-vous ici:",
+      "Before attending, participants should also download @gora, join the Swiss AI Futures course, and finish the short questionnaire.":
+        "Avant de participer, les personnes devraient aussi télécharger @gora, rejoindre le cours Swiss AI Futures et terminer le court questionnaire.",
+      "Sign up here:": "Inscription ici:",
+      "Before attending, also download @gora, join the Swiss AI Futures course, and finish the short questionnaire.":
+        "Avant de participer, téléchargez aussi @gora, rejoignez le cours Swiss AI Futures et terminez le court questionnaire.",
+      "To join, please do both:": "Pour participer, veuillez faire les deux:",
+      "Sign up for the workshop: https://forms.gle/9kbysBanAQ4Ny3BeA":
+        "Inscrivez-vous à l'atelier: https://forms.gle/9kbysBanAQ4Ny3BeA",
+      "Finish the questionnaire before attending the workshop": "Terminer le questionnaire avant de participer à l'atelier"
+    },
+    it: {
+      "Sign up": "Iscriviti",
+      "Sign up for workshop": "Iscriviti al workshop",
+      "Finish Atgora questionnaire": "Completa il questionario Atgora",
+      "To join, please do both: sign up with the Swiss AI Futures form and complete the short questionnaire in Atgora before the workshop. No AI expertise is needed.":
+        "Per partecipare, fai entrambe le cose: iscriviti con il modulo Swiss AI Futures e completa il breve questionario in Atgora prima del workshop. Non è necessaria alcuna competenza in IA.",
+      "For participants who sign up, complete the Atgora questionnaire, and attend one workshop.":
+        "Per le persone che si iscrivono, completano il questionario Atgora e partecipano a un workshop.",
+      "Complete the Atgora questionnaire": "Completa il questionario Atgora",
+      "After signing up, scan the QR code for your phone or use the store buttons. Once Atgora is installed, open the Swiss AI Futures course and complete the short questionnaire before the workshop.":
+        "Dopo l'iscrizione, scansiona il codice QR con il telefono o usa i pulsanti degli store. Una volta installata Atgora, apri il corso Swiss AI Futures e completa il breve questionario prima del workshop.",
+      "After downloading Atgora, open the app and go to Courses. Select the Swiss AI Futures course, open the module shown below, and finish the questionnaire before you come to Zürich or Lausanne.":
+        "Dopo aver scaricato Atgora, apri l'app e vai su Courses. Seleziona il corso Swiss AI Futures, apri il modulo mostrato sotto e completa il questionario prima di venire a Zurigo o Losanna.",
+      "You can take part if you live in Switzerland, are 18 or older, can use Atgora on a personal smartphone, sign up for a workshop, finish the Atgora questionnaire before attending, and can join one workshop in Zürich or Lausanne.":
+        "Puoi partecipare se vivi in Svizzera, hai almeno 18 anni, puoi usare Atgora su uno smartphone personale, ti iscrivi a un workshop, completi il questionario Atgora prima di partecipare e puoi prendere parte a un workshop a Zurigo o Losanna.",
+      "How do I sign up?": "Come mi iscrivo?",
+      "Use the": "Usa il",
+      "Swiss AI Futures sign-up form": "modulo di iscrizione Swiss AI Futures",
+      "to register for a workshop. After signing up, please also complete the Atgora questionnaire before coming.":
+        "per registrarti a un workshop. Dopo l'iscrizione, completa anche il questionario Atgora prima di venire.",
+      "The short Atgora questionnaire gives everyone a shared starting point and helps the research team prepare the in-person discussion. It is required in addition to signing up.":
+        "Il breve questionario Atgora dà a tutte e tutti un punto di partenza comune e aiuta il team di ricerca a preparare la discussione in presenza. È richiesto oltre all'iscrizione.",
+      "Yes, but please sign up and complete the Atgora questionnaire first. Download Atgora, open Swiss AI Futures, and finish the questionnaire before coming to Zürich or Lausanne.":
+        "Sì, ma prima iscriviti e completa il questionario Atgora. Scarica Atgora, apri Swiss AI Futures e completa il questionario prima di venire a Zurigo o Losanna.",
+      "Participants who sign up, complete the Atgora questionnaire, and attend one physical workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
+        "Le persone che si iscrivono, completano il questionario Atgora e partecipano a un workshop in presenza ricevono un buono Galaxus da CHF 40. Le spese di viaggio non sono rimborsate.",
+      "Participants who sign up, complete the Atgora questionnaire, and attend one workshop receive a CHF 40 Galaxus voucher.":
+        "Le persone che si iscrivono, completano il questionario Atgora e partecipano a un workshop ricevono un buono Galaxus da CHF 40.",
+      "To join, sign up here:": "Per partecipare, iscriviti qui:",
+      "Before attending, participants should also download @gora, join the Swiss AI Futures course, and finish the short questionnaire.":
+        "Prima di partecipare, le persone dovrebbero anche scaricare @gora, unirsi al corso Swiss AI Futures e completare il breve questionario.",
+      "Sign up here:": "Iscrizione qui:",
+      "Before attending, also download @gora, join the Swiss AI Futures course, and finish the short questionnaire.":
+        "Prima di partecipare, scarica anche @gora, unisciti al corso Swiss AI Futures e completa il breve questionario.",
+      "To join, please do both:": "Per partecipare, fai entrambe le cose:",
+      "Sign up for the workshop: https://forms.gle/9kbysBanAQ4Ny3BeA":
+        "Iscriviti al workshop: https://forms.gle/9kbysBanAQ4Ny3BeA",
+      "Finish the questionnaire before attending the workshop": "Completa il questionario prima di partecipare al workshop"
+    }
+  };
+
+  Object.entries(registrationUpdates).forEach(([language, text]) => {
+    const target = window.SWISS_AI_I18N?.[language];
+    if (!target) return;
+    target.text = target.text || {};
+    Object.assign(target.text, text);
+  });
+})();
