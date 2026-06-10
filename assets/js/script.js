@@ -217,10 +217,12 @@ const roundScreenshots = [
   "assets/images/app-screenshots/polling-for-alignment.png"
 ];
 
-roundScreenshots.forEach((src) => {
-  const image = new Image();
-  image.src = src;
-});
+if (roundButtons.length || appPreview) {
+  roundScreenshots.forEach((src) => {
+    const image = new Image();
+    image.src = src;
+  });
+}
 
 let activeRound = 0;
 

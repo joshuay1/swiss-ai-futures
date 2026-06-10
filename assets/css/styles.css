@@ -286,6 +286,7 @@ button {
 }
 
 .instruction-section::before,
+.workshop-section::before,
 .share-section::before,
 .app-section::before,
 .privacy-section::before,
@@ -317,7 +318,8 @@ button {
 .download-copy,
 .download-panel,
 .app-preview,
-.hero-pattern {
+.hero-pattern,
+.workshop-hero-panel {
   min-width: 0;
 }
 
@@ -449,6 +451,221 @@ h3 {
   max-width: 700px;
   color: var(--muted);
   font-size: var(--type-body);
+}
+
+.strong-hero-text {
+  color: var(--ink);
+  font-weight: 900;
+}
+
+.workshop-hero-panel {
+  align-self: start;
+  padding: 28px 0 0;
+  border-top: var(--rule-accent);
+}
+
+.hero-workshop-list {
+  display: grid;
+  gap: 0;
+  border-top: var(--rule);
+}
+
+.hero-workshop-list article {
+  display: grid;
+  gap: 8px;
+  padding: 18px 0;
+  border-bottom: var(--rule);
+}
+
+.hero-workshop-list span,
+.event-kicker {
+  color: var(--red);
+  font-size: var(--type-micro);
+  font-weight: 900;
+  line-height: 1.1;
+  text-transform: uppercase;
+}
+
+.hero-workshop-list h2 {
+  margin: 0;
+  font-size: clamp(2rem, 3.4vw, 3.35rem);
+  line-height: 0.96;
+}
+
+.hero-workshop-list time,
+.workshop-event time {
+  color: var(--ink);
+  font-size: clamp(1.18rem, 1.8vw, 1.48rem);
+  font-weight: 900;
+  line-height: 1.1;
+}
+
+.voucher-callout,
+.voucher-strip {
+  margin-top: 22px;
+  padding: 18px 0;
+  border-top: var(--rule-strong);
+  border-bottom: var(--rule);
+}
+
+.voucher-callout span {
+  display: block;
+  color: var(--red);
+  font-size: var(--type-micro);
+  font-weight: 900;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.voucher-callout strong {
+  display: block;
+  margin-top: 8px;
+  color: var(--ink);
+  font-size: clamp(1.5rem, 2.6vw, 2.25rem);
+  line-height: 1;
+}
+
+.voucher-callout p,
+.workshop-event p,
+.workshop-prep p {
+  color: var(--muted);
+}
+
+.voucher-callout p {
+  margin: 12px 0 0;
+}
+
+.apero-note {
+  margin: 14px 0 0;
+  padding: 14px 0 0;
+  border-top: var(--rule);
+  color: var(--muted);
+  font-size: var(--type-small);
+  font-weight: 800;
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.primary-link-button,
+.secondary-link-button {
+  min-height: 46px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.72rem 0.92rem;
+  border: var(--rule-strong);
+  text-decoration: none;
+  font-size: var(--type-small);
+  font-weight: 900;
+}
+
+.primary-link-button {
+  color: var(--paper);
+  background: var(--ink);
+}
+
+.secondary-link-button {
+  color: var(--ink);
+  background: transparent;
+}
+
+.primary-link-button:hover,
+.primary-link-button:focus-visible,
+.secondary-link-button:hover,
+.secondary-link-button:focus-visible {
+  color: var(--paper);
+  background: var(--red);
+  border-color: var(--red);
+}
+
+.workshop-section {
+  padding-top: 72px;
+}
+
+.workshop-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 0.62fr) minmax(300px, 0.38fr);
+  gap: clamp(30px, 5vw, 72px);
+  align-items: start;
+}
+
+.workshop-events {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: var(--space-grid);
+}
+
+.workshop-event,
+.workshop-prep {
+  padding: 24px 0 0;
+  border-top: var(--rule-strong);
+}
+
+.workshop-event h3 {
+  margin: 10px 0 8px;
+  font-size: clamp(1.85rem, 3.2vw, 3.05rem);
+  line-height: 1;
+}
+
+.workshop-event p {
+  margin: 18px 0 0;
+}
+
+.workshop-prep {
+  background: transparent;
+}
+
+.workshop-prep h3 {
+  margin-bottom: 16px;
+  font-size: clamp(1.45rem, 2.2vw, 2rem);
+}
+
+.workshop-prep ol {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 12px;
+  counter-reset: workshopPrep;
+  list-style: none;
+}
+
+.workshop-prep li {
+  position: relative;
+  min-height: 40px;
+  padding-left: 54px;
+  color: var(--ink);
+  font-weight: 800;
+}
+
+.workshop-prep li::before {
+  counter-increment: workshopPrep;
+  content: counter(workshopPrep, decimal-leading-zero);
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 36px;
+  height: 36px;
+  display: grid;
+  place-items: center;
+  color: var(--red);
+  background: var(--surface-strong);
+  border: var(--rule);
+  font-size: var(--type-micro);
+  font-weight: 900;
+}
+
+.workshop-prep ol + p {
+  margin-top: 22px;
+}
+
+.voucher-strip {
+  color: var(--ink);
+  font-weight: 900;
 }
 
 .hero-entry {
@@ -645,6 +862,7 @@ h3 {
 
 .institution-logo-link,
 .institution-copy {
+  min-width: 0;
   color: var(--ink);
 }
 
@@ -669,12 +887,14 @@ h3 {
   max-width: 850px;
   margin-bottom: 14px;
   font-size: clamp(1.9rem, 3.5vw, 3rem);
+  overflow-wrap: anywhere;
 }
 
 .institution-copy p:not(.eyebrow) {
   max-width: 780px;
   color: var(--muted);
   font-size: var(--type-body);
+  overflow-wrap: anywhere;
 }
 
 .institution-copy a {
@@ -1550,6 +1770,10 @@ h3 {
   align-items: start;
 }
 
+.share-layout-single {
+  grid-template-columns: minmax(0, 820px);
+}
+
 .share-tool {
   padding-top: 22px;
   border-top: var(--rule);
@@ -1704,6 +1928,19 @@ h3 {
   grid-template-columns: minmax(0, 0.68fr) minmax(360px, 1fr);
   gap: clamp(34px, 6vw, 88px);
   align-items: start;
+}
+
+.prep-section {
+  padding-top: 32px;
+}
+
+.prep-instructions-heading,
+.prep-section .instruction-stepper {
+  grid-column: 1 / -1;
+}
+
+.prep-instructions-heading {
+  margin-top: clamp(10px, 2vw, 24px);
 }
 
 .early-download-section {
@@ -2045,6 +2282,7 @@ h3 {
 
   .hero,
   .split-section,
+  .workshop-layout,
   .rounds-layout,
   .share-layout,
   .download-section {
@@ -2073,6 +2311,10 @@ h3 {
 
   .hero-entry {
     max-width: 680px;
+  }
+
+  .workshop-hero-panel {
+    max-width: 760px;
   }
 
   .people-grid,
@@ -2178,6 +2420,33 @@ h3 {
     font-size: 1.42rem;
   }
 
+  .workshop-hero-panel {
+    padding-top: 22px;
+  }
+
+  .hero-actions {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .primary-link-button,
+  .secondary-link-button {
+    width: 100%;
+  }
+
+  .workshop-section {
+    padding-top: 58px;
+  }
+
+  .workshop-layout {
+    gap: 30px;
+  }
+
+  .workshop-event,
+  .workshop-prep {
+    padding-top: 20px;
+  }
+
   h1 {
     font-size: clamp(2.5rem, 10vw, 3.08rem);
     overflow-wrap: anywhere;
@@ -2207,6 +2476,7 @@ h3 {
   .practical-grid,
   .people-grid,
   .privacy-grid,
+  .workshop-events,
   .share-layout,
   .flyer-panel,
   .download-panel {

@@ -1632,3 +1632,988 @@ window.SWISS_AI_I18N.it = {
     chooseStore: "Scegli App Store o Google Play qui sotto, oppure scansiona il codice QR adatto al tuo telefono."
   }
 };
+
+(() => {
+  const workshopUpdates = {
+    en: {
+      title: "Citizen Workshops on AI Policy in Switzerland | Swiss AI Futures",
+      description:
+        "Join a citizen workshop in Zürich or Lausanne on AI policy in Switzerland. Finish Big Questions in Atgora first and receive a CHF 40 Galaxus voucher after taking part.",
+      rounds: [
+        {
+          label: "Round 01",
+          title: "Read short prompts",
+          copy: "Start with short learning material about AI, jobs, skills, education, and public policy.",
+          shotAlt: "Atgora example screen showing a short context module"
+        },
+        {
+          label: "Round 02",
+          title: "Answer quick polls",
+          copy: "Share your view on statements about worker protection, innovation, transparency, and reskilling.",
+          shotAlt: "Atgora example screen showing a slider-style poll"
+        },
+        {
+          label: "Round 03",
+          title: "Share your view",
+          copy: "Add a brief response, concern, or policy idea in your own words.",
+          shotAlt: "Atgora questionnaire screen with multiple answer options"
+        },
+        {
+          label: "Round 04",
+          title: "Arrive prepared",
+          copy: "Finish Big Questions before joining the physical workshop in Zürich or Lausanne.",
+          shotAlt: "Atgora example screen showing a multiple-choice alignment poll"
+        }
+      ]
+    },
+    de: {
+      title: "Bürgerworkshops zur KI-Politik in der Schweiz | Swiss AI Futures",
+      description:
+        "Nehmen Sie an einem Bürgerworkshop in Zürich oder Lausanne zur KI-Politik in der Schweiz teil. Schliessen Sie zuerst Big Questions in Atgora ab und erhalten Sie nach der Teilnahme einen Galaxus-Gutschein über CHF 40.",
+      text: {
+        "Workshops": "Workshops",
+        "Atgora first": "Zuerst Atgora",
+        "Big Questions": "Big Questions",
+        "Start in Atgora": "In Atgora starten",
+        "Citizen workshops in June": "Bürgerworkshops im Juni",
+        "Join a citizen workshop": "Nehmen Sie an einem Bürgerworkshop teil",
+        "on AI policy": "zur KI-Politik",
+        "in Switzerland.": "in der Schweiz.",
+        "The next step of Swiss AI Futures is in person: a two-hour citizen workshop in Zürich or Lausanne where people living in Switzerland discuss what AI policy should pay attention to.":
+          "Der nächste Schritt von Swiss AI Futures findet vor Ort statt: ein zweistündiger Bürgerworkshop in Zürich oder Lausanne, bei dem Menschen in der Schweiz diskutieren, worauf KI-Politik achten sollte.",
+        "If you have not used the app yet, please start now. Before attending, download Atgora and finish Big Questions in the Swiss AI Futures course so the workshop can build on your input.":
+          "Wenn Sie die App noch nicht genutzt haben, beginnen Sie bitte jetzt. Laden Sie vor der Teilnahme Atgora herunter und schliessen Sie Big Questions im Kurs Swiss AI Futures ab, damit der Workshop auf Ihren Beiträgen aufbauen kann.",
+        "Participants who finish Big Questions and attend one workshop receive a CHF 40 Galaxus voucher.":
+          "Teilnehmende, die Big Questions abschliessen und an einem Workshop teilnehmen, erhalten einen Galaxus-Gutschein über CHF 40.",
+        "Workshop dates": "Workshopdaten",
+        "Workshop dates and voucher": "Workshopdaten und Gutschein",
+        "Thursday, June 18": "Donnerstag, 18. Juni",
+        "Friday, June 19": "Freitag, 19. Juni",
+        "2:00-4:00 pm": "14.00-16.00 Uhr",
+        "40 Franken": "40 Franken",
+        "Galaxus voucher": "Galaxus-Gutschein",
+        "For participants who complete Big Questions and attend one workshop.": "Für Teilnehmende, die Big Questions abschliessen und an einem Workshop teilnehmen.",
+        "See workshop details": "Workshopdetails ansehen",
+        "Physical workshops": "Workshops vor Ort",
+        "Choose Zürich or Lausanne": "Wählen Sie Zürich oder Lausanne",
+        "These two citizen workshops are now the main next step. You will join a moderated discussion about AI, work, education, and public policy in Switzerland, using the app input as a shared starting point.":
+          "Diese beiden Bürgerworkshops sind jetzt der wichtigste nächste Schritt. Sie nehmen an einer moderierten Diskussion über KI, Arbeit, Bildung und Politik in der Schweiz teil; die Beiträge aus der App dienen als gemeinsamer Ausgangspunkt.",
+        "Workshop schedule": "Workshop-Zeitplan",
+        "Zürich citizen workshop": "Bürgerworkshop Zürich",
+        "Lausanne citizen workshop": "Bürgerworkshop Lausanne",
+        "Attend the Zürich session if this location works best for you.": "Nehmen Sie am Termin in Zürich teil, wenn dieser Ort für Sie am besten passt.",
+        "Attend the Lausanne session if this location works best for you.": "Nehmen Sie am Termin in Lausanne teil, wenn dieser Ort für Sie am besten passt.",
+        "Before you attend": "Vor der Teilnahme",
+        "Download Atgora or open it if it is already installed.": "Laden Sie Atgora herunter oder öffnen Sie die App, falls sie bereits installiert ist.",
+        "Open the Swiss AI Futures course.": "Öffnen Sie den Kurs Swiss AI Futures.",
+        "Finish Big Questions before coming to the workshop.": "Schliessen Sie Big Questions ab, bevor Sie zum Workshop kommen.",
+        "This app step matters: it gives everyone a shared starting point and helps the workshop discussion feed into AI policy recommendations for Switzerland.":
+          "Dieser App-Schritt ist wichtig: Er gibt allen einen gemeinsamen Ausgangspunkt und hilft, die Workshop-Diskussion in Empfehlungen zur KI-Politik in der Schweiz einfliessen zu lassen.",
+        "Complete the app step and attend one workshop to receive a CHF 40 Galaxus voucher.": "Schliessen Sie den App-Schritt ab und nehmen Sie an einem Workshop teil, um einen Galaxus-Gutschein über CHF 40 zu erhalten.",
+        "Before the workshop": "Vor dem Workshop",
+        "Finish Big Questions in Atgora": "Big Questions in Atgora abschliessen",
+        "Scan the QR code for your phone or use the store buttons. If you have not completed the app yet, install Atgora, open the Swiss AI Futures course, and finish Big Questions before attending the Zürich or Lausanne workshop.":
+          "Scannen Sie den QR-Code für Ihr Smartphone oder nutzen Sie die Store-Schaltflächen. Falls Sie die App noch nicht abgeschlossen haben, installieren Sie Atgora, öffnen Sie den Kurs Swiss AI Futures und schliessen Sie Big Questions ab, bevor Sie am Workshop in Zürich oder Lausanne teilnehmen.",
+        "App step before attending": "App-Schritt vor der Teilnahme",
+        "Complete Big Questions before the workshop": "Big Questions vor dem Workshop abschliessen",
+        "After downloading Atgora, open the app and go to Courses. Select the Swiss AI Futures course, open Big Questions, and finish the prompts before you come to Zürich or Lausanne.":
+          "Öffnen Sie nach dem Herunterladen von Atgora die App und gehen Sie zu Kurse. Wählen Sie den Kurs Swiss AI Futures, öffnen Sie Big Questions und schliessen Sie die Fragen ab, bevor Sie nach Zürich oder Lausanne kommen.",
+        "Open Big Questions": "Big Questions öffnen",
+        "Inside Swiss AI Futures, tap Big Questions to enter the workshop preparation topic.": "Tippen Sie in Swiss AI Futures auf Big Questions, um das Vorbereitungsthema für den Workshop zu öffnen.",
+        "Start the prompts": "Mit den Fragen beginnen",
+        "Finish before attending": "Vor der Teilnahme abschliessen",
+        "Complete Big Questions before coming to the Zürich or Lausanne workshop.": "Schliessen Sie Big Questions ab, bevor Sie zum Workshop in Zürich oder Lausanne kommen.",
+        "The workshop discussion and app input will contribute to a TA-SWISS report/book and policy outputs for Swiss decision-makers, including the Swiss Parliament.":
+          "Die Workshop-Diskussion und die Beiträge aus der App fliessen in einen TA-SWISS-Bericht/ein Buch und in politische Ergebnisse für Schweizer Entscheidungsträger ein, darunter das Schweizer Parlament.",
+        "App responses appear as points. Similar views form groups that help researchers find shared concerns, disagreements, and policy ideas to bring into the workshops.":
+          "Antworten aus der App erscheinen als Punkte. Ähnliche Sichtweisen bilden Gruppen, die Forschenden helfen, gemeinsame Anliegen, Meinungsverschiedenheiten und politische Ideen für die Workshops zu erkennen.",
+        "Use Big Questions to prepare for the room": "Mit Big Questions auf den Workshop vorbereiten",
+        "Big Questions gives you short prompts about AI, work, education, and public policy before the workshop. You can read, vote, and share brief responses in your own words.":
+          "Big Questions gibt Ihnen vor dem Workshop kurze Impulse zu KI, Arbeit, Bildung und öffentlicher Politik. Sie können lesen, abstimmen und kurze Antworten in eigenen Worten teilen.",
+        "Your app input helps the research team identify concerns, disagreements, and policy ideas that are worth discussing together in Zürich and Lausanne.":
+          "Ihre Beiträge in der App helfen dem Forschungsteam, Anliegen, Meinungsverschiedenheiten und politische Ideen zu erkennen, die in Zürich und Lausanne gemeinsam diskutiert werden sollten.",
+        "Read short prompts": "Kurze Impulse lesen",
+        "Share your view": "Ihre Sicht teilen",
+        "Arrive prepared": "Vorbereitet teilnehmen",
+        "Read": "Lesen",
+        "Share": "Teilen",
+        "Prepare": "Vorbereiten",
+        "Interface examples; Big Questions focuses on AI, work, education, skills, and policy choices.":
+          "Beispiele der Oberfläche; Big Questions konzentriert sich auf KI, Arbeit, Bildung, Kompetenzen und politische Entscheidungen.",
+        "How your app input enters the workshop": "Wie Ihre App-Beiträge in den Workshop einfliessen",
+        "Before the workshop, the study team looks at what participants raised in Big Questions.": "Vor dem Workshop prüft das Studienteam, was Teilnehmende in Big Questions eingebracht haben.",
+        "The workshop follows what people raised": "Der Workshop greift auf, was Menschen eingebracht haben",
+        "The in-person discussion can focus on themes participants surfaced in the app.": "Die Diskussion vor Ort kann sich auf Themen konzentrieren, die Teilnehmende in der App sichtbar gemacht haben.",
+        "Ideas move toward policy discussion": "Ideen fliessen in politische Diskussionen ein",
+        "Input from the app and workshops can help shape later outputs for policy discussion.": "Beiträge aus der App und den Workshops können spätere Ergebnisse für politische Diskussionen mitprägen.",
+        "In the app itself, you only need to follow the short prompts and finish Big Questions before attending.":
+          "In der App selbst müssen Sie nur den kurzen Hinweisen folgen und Big Questions vor der Teilnahme abschliessen.",
+        "Workshop path": "Ablauf zum Workshop",
+        "The physical workshop is the focus now. The app still comes first: finish Big Questions in Atgora, then attend one two-hour workshop in Zürich or Lausanne.":
+          "Der Workshop vor Ort steht jetzt im Mittelpunkt. Die App kommt weiterhin zuerst: Schliessen Sie Big Questions in Atgora ab und nehmen Sie dann an einem zweistündigen Workshop in Zürich oder Lausanne teil.",
+        "Atgora": "Atgora",
+        "Use the App Store or Google Play links on this page and open the Swiss AI Futures course.": "Nutzen Sie die Links zum App Store oder zu Google Play auf dieser Seite und öffnen Sie den Kurs Swiss AI Futures.",
+        "Before attending": "Vor der Teilnahme",
+        "App input": "App-Beitrag",
+        "Finish Big Questions": "Big Questions abschliessen",
+        "Complete the app prompts so your perspective is included before the workshop discussion starts.": "Schliessen Sie die App-Fragen ab, damit Ihre Perspektive vor Beginn der Workshop-Diskussion einbezogen wird.",
+        "June 18, 2:00-4:00 pm": "18. Juni, 14.00-16.00 Uhr",
+        "June 19, 2:00-4:00 pm": "19. Juni, 14.00-16.00 Uhr",
+        "Zürich workshop": "Workshop Zürich",
+        "Lausanne workshop": "Workshop Lausanne",
+        "Join the Zürich citizen workshop if this location is the best fit for you.": "Nehmen Sie am Bürgerworkshop in Zürich teil, wenn dieser Ort für Sie am besten passt.",
+        "Join the Lausanne citizen workshop if this location is the best fit for you.": "Nehmen Sie am Bürgerworkshop in Lausanne teil, wenn dieser Ort für Sie am besten passt.",
+        "At the workshop": "Beim Workshop",
+        "Voucher": "Gutschein",
+        "Discuss AI policy and receive the voucher": "KI-Politik diskutieren und Gutschein erhalten",
+        "Contribute to the discussion of AI policies in Switzerland and receive a CHF 40 Galaxus voucher after completing the process.":
+          "Tragen Sie zur Diskussion über KI-Politik in der Schweiz bei und erhalten Sie nach Abschluss des Prozesses einen Galaxus-Gutschein über CHF 40.",
+        "Who can attend": "Wer teilnehmen kann",
+        "You can take part if you": "Sie können teilnehmen, wenn Sie",
+        "Finish Big Questions in the Swiss AI Futures course before attending": "Big Questions im Kurs Swiss AI Futures vor der Teilnahme abschliessen",
+        "Can attend one workshop in Zürich or Lausanne": "an einem Workshop in Zürich oder Lausanne teilnehmen können",
+        "The app prepares the workshop": "Die App bereitet den Workshop vor",
+        "Big Questions gives everyone a shared starting point before the in-person discussion. Please complete it before coming to the workshop.":
+          "Big Questions gibt allen vor der Diskussion vor Ort einen gemeinsamen Ausgangspunkt. Bitte schliessen Sie es ab, bevor Sie zum Workshop kommen.",
+        "Voucher and civic contribution": "Gutschein und gesellschaftlicher Beitrag",
+        "Participants who finish Big Questions and attend one workshop receive a CHF 40 Galaxus voucher. Your contribution helps the project bring public perspectives into Swiss AI policy discussion.":
+          "Teilnehmende, die Big Questions abschliessen und an einem Workshop teilnehmen, erhalten einen Galaxus-Gutschein über CHF 40. Ihr Beitrag hilft dem Projekt, öffentliche Perspektiven in die Diskussion zur Schweizer KI-Politik einzubringen.",
+        "Two hours in the afternoon": "Zwei Stunden am Nachmittag",
+        "The Zürich workshop is Thursday, June 18, from 2:00 to 4:00 pm. The Lausanne workshop is Friday, June 19, from 2:00 to 4:00 pm.":
+          "Der Workshop in Zürich findet am Donnerstag, 18. Juni, von 14.00 bis 16.00 Uhr statt. Der Workshop in Lausanne findet am Freitag, 19. Juni, von 14.00 bis 16.00 Uhr statt.",
+        "Please also allow time before the workshop to finish Big Questions in Atgora.": "Bitte planen Sie vor dem Workshop auch Zeit ein, um Big Questions in Atgora abzuschliessen.",
+        "CHF 40 Galaxus voucher": "Galaxus-Gutschein über CHF 40",
+        "The workshop process includes the app preparation and one physical workshop. Participants who complete Big Questions and attend the workshop receive a 40 Franken Galaxus voucher.":
+          "Der Workshop-Prozess umfasst die Vorbereitung in der App und einen Workshop vor Ort. Teilnehmende, die Big Questions abschliessen und am Workshop teilnehmen, erhalten einen Galaxus-Gutschein über 40 Franken.",
+        "Travel costs are not reimbursed.": "Reisekosten werden nicht erstattet.",
+        "Contact details for study communication, workshop coordination, and voucher administration": "Kontaktdaten für Studienkommunikation, Workshop-Koordination und Gutscheinverwaltung",
+        "If a workshop discussion is recorded, that requires separate consent": "Wenn eine Workshop-Diskussion aufgezeichnet wird, ist dafür eine separate Einwilligung erforderlich",
+        "Big Questions in Atgora gives everyone a shared starting point before the workshop. Please finish it before attending so your perspective can help shape the in-person discussion.":
+          "Big Questions in Atgora gibt allen vor dem Workshop einen gemeinsamen Ausgangspunkt. Bitte schliessen Sie es vor der Teilnahme ab, damit Ihre Perspektive die Diskussion vor Ort mitprägen kann.",
+        "Can I attend if I have not used Atgora yet?": "Kann ich teilnehmen, wenn ich Atgora noch nicht genutzt habe?",
+        "Yes, but complete the app step first. Download Atgora, open Swiss AI Futures, and finish Big Questions before coming to Zürich or Lausanne.":
+          "Ja, aber schliessen Sie zuerst den App-Schritt ab. Laden Sie Atgora herunter, öffnen Sie Swiss AI Futures und schliessen Sie Big Questions ab, bevor Sie nach Zürich oder Lausanne kommen.",
+        "Is participation compensated?": "Wird die Teilnahme entschädigt?",
+        "Participants who finish Big Questions and attend one physical workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
+          "Teilnehmende, die Big Questions abschliessen und an einem Workshop vor Ort teilnehmen, erhalten einen Galaxus-Gutschein über CHF 40. Reisekosten werden nicht erstattet.",
+        "When and where are the workshops?": "Wann und wo finden die Workshops statt?",
+        "Zürich is Thursday, June 18, 2026, from 2:00 to 4:00 pm. Lausanne is Friday, June 19, 2026, from 2:00 to 4:00 pm.":
+          "Zürich ist am Donnerstag, 18. Juni 2026, von 14.00 bis 16.00 Uhr. Lausanne ist am Freitag, 19. Juni 2026, von 14.00 bis 16.00 Uhr.",
+        "Share the workshop invitation": "Workshop-Einladung teilen",
+        "You can help spread the word by copying a message template into WhatsApp, email, LinkedIn, Instagram, or a community group. The message templates include the workshop dates and the Atgora preparation step.":
+          "Sie können helfen, die Einladung zu verbreiten, indem Sie eine Nachrichtenvorlage in WhatsApp, E-Mail, LinkedIn, Instagram oder eine Community-Gruppe kopieren. Die Nachrichtenvorlagen enthalten die Workshopdaten und den Vorbereitungsschritt in Atgora.",
+        "Message templates": "Nachrichtenvorlagen",
+        "The message templates include the workshop dates and the Atgora preparation step.": "Die Nachrichtenvorlagen enthalten die Workshopdaten und den Vorbereitungsschritt in Atgora.",
+        "The wording explains the workshop dates, the Big Questions app step, and why this citizen-input phase matters.":
+          "Der Text erklärt die Workshopdaten, den App-Schritt Big Questions und warum diese Phase öffentlicher Beteiligung wichtig ist.",
+        "Prepare for the workshop": "Auf den Workshop vorbereiten",
+        "Start Big Questions now": "Big Questions jetzt starten",
+        "Scan the QR code for your phone or use the store buttons. Finish Big Questions in Atgora before attending the Zürich workshop on June 18 or the Lausanne workshop on June 19.":
+          "Scannen Sie den QR-Code für Ihr Smartphone oder nutzen Sie die Store-Schaltflächen. Schliessen Sie Big Questions in Atgora ab, bevor Sie am Workshop in Zürich am 18. Juni oder in Lausanne am 19. Juni teilnehmen.",
+        "The project first maps what is already known about LLMs, then develops future scenarios and gathers input from focus groups. This page invites people living in Switzerland into the third phase: Atgora preparation and citizen workshops in Zürich and Lausanne, so public perspectives can be considered while recommendations for policy are being developed.":
+          "Das Projekt erfasst zunächst den Stand des Wissens zu LLMs, entwickelt dann Zukunftsszenarien und sammelt Beiträge aus Fokusgruppen. Diese Seite lädt Personen in der Schweiz in die dritte Phase ein: Vorbereitung in Atgora und Bürgerworkshops in Zürich und Lausanne, damit öffentliche Perspektiven berücksichtigt werden können, während Empfehlungen für die Politik entwickelt werden.",
+        "This is the phase you are being invited to join. Atgora input and citizen workshops connect earlier findings with everyday experiences, policy priorities, and ethical questions about LLMs, helping show what people in Switzerland want protected, improved, or debated before AI becomes more common in everyday work.":
+          "Dies ist die Phase, zu der Sie eingeladen sind. Beiträge in Atgora und Bürgerworkshops verbinden frühere Erkenntnisse mit Alltagserfahrungen, politischen Prioritäten und ethischen Fragen zu LLMs. So wird sichtbar, was Menschen in der Schweiz geschützt, verbessert oder diskutiert sehen möchten, bevor KI im Arbeitsalltag noch üblicher wird."
+      },
+      rounds: [
+        {
+          label: "Runde 01",
+          title: "Kurze Impulse lesen",
+          copy: "Beginnen Sie mit kurzen Lerninhalten zu KI, Arbeit, Kompetenzen, Bildung und öffentlicher Politik.",
+          shotAlt: "Atgora-Beispielbildschirm mit einem kurzen Kontextmodul"
+        },
+        {
+          label: "Runde 02",
+          title: "Kurze Umfragen beantworten",
+          copy: "Teilen Sie Ihre Sicht auf Aussagen zu Arbeitnehmerschutz, Innovation, Transparenz und Umschulung.",
+          shotAlt: "Atgora-Beispielbildschirm mit einer Umfrage"
+        },
+        {
+          label: "Runde 03",
+          title: "Ihre Sicht teilen",
+          copy: "Fügen Sie eine kurze Antwort, ein Anliegen oder eine politische Idee in eigenen Worten hinzu.",
+          shotAlt: "Atgora-Fragebogenbildschirm mit mehreren Antwortoptionen"
+        },
+        {
+          label: "Runde 04",
+          title: "Vorbereitet teilnehmen",
+          copy: "Schliessen Sie Big Questions ab, bevor Sie am Workshop vor Ort in Zürich oder Lausanne teilnehmen.",
+          shotAlt: "Atgora-Beispielbildschirm mit einer Multiple-Choice-Umfrage"
+        }
+      ]
+    },
+    fr: {
+      title: "Ateliers citoyens sur la politique de l'IA en Suisse | Swiss AI Futures",
+      description:
+        "Participez à un atelier citoyen à Zurich ou Lausanne sur la politique de l'IA en Suisse. Terminez d'abord Big Questions dans Atgora et recevez un bon Galaxus de CHF 40 après votre participation.",
+      text: {
+        "Workshops": "Ateliers",
+        "Atgora first": "Atgora d'abord",
+        "Big Questions": "Big Questions",
+        "Start in Atgora": "Commencer dans Atgora",
+        "Citizen workshops in June": "Ateliers citoyens en juin",
+        "Join a citizen workshop": "Participez à un atelier citoyen",
+        "on AI policy": "sur la politique de l'IA",
+        "in Switzerland.": "en Suisse.",
+        "The next step of Swiss AI Futures is in person: a two-hour citizen workshop in Zürich or Lausanne where people living in Switzerland discuss what AI policy should pay attention to.":
+          "La prochaine étape de Swiss AI Futures se déroule en présence: un atelier citoyen de deux heures à Zurich ou Lausanne, où les personnes vivant en Suisse discutent de ce à quoi la politique de l'IA devrait prêter attention.",
+        "If you have not used the app yet, please start now. Before attending, download Atgora and finish Big Questions in the Swiss AI Futures course so the workshop can build on your input.":
+          "Si vous n'avez pas encore utilisé l'app, commencez maintenant. Avant de participer, téléchargez Atgora et terminez Big Questions dans le cours Swiss AI Futures afin que l'atelier puisse s'appuyer sur votre contribution.",
+        "Participants who finish Big Questions and attend one workshop receive a CHF 40 Galaxus voucher.":
+          "Les personnes qui terminent Big Questions et participent à un atelier reçoivent un bon Galaxus de CHF 40.",
+        "Workshop dates": "Dates des ateliers",
+        "Workshop dates and voucher": "Dates des ateliers et bon",
+        "Thursday, June 18": "Jeudi 18 juin",
+        "Friday, June 19": "Vendredi 19 juin",
+        "2:00-4:00 pm": "14 h-16 h",
+        "Zürich": "Zurich",
+        "40 Franken": "40 francs",
+        "Galaxus voucher": "Bon Galaxus",
+        "For participants who complete Big Questions and attend one workshop.": "Pour les personnes qui terminent Big Questions et participent à un atelier.",
+        "See workshop details": "Voir les détails des ateliers",
+        "Physical workshops": "Ateliers en présence",
+        "Choose Zürich or Lausanne": "Choisissez Zurich ou Lausanne",
+        "These two citizen workshops are now the main next step. You will join a moderated discussion about AI, work, education, and public policy in Switzerland, using the app input as a shared starting point.":
+          "Ces deux ateliers citoyens sont maintenant la principale prochaine étape. Vous participerez à une discussion modérée sur l'IA, le travail, l'éducation et les politiques publiques en Suisse, en utilisant les contributions de l'app comme point de départ commun.",
+        "Workshop schedule": "Calendrier des ateliers",
+        "Zürich citizen workshop": "Atelier citoyen de Zurich",
+        "Lausanne citizen workshop": "Atelier citoyen de Lausanne",
+        "Attend the Zürich session if this location works best for you.": "Participez à la séance de Zurich si ce lieu vous convient le mieux.",
+        "Attend the Lausanne session if this location works best for you.": "Participez à la séance de Lausanne si ce lieu vous convient le mieux.",
+        "Before you attend": "Avant de participer",
+        "Download Atgora or open it if it is already installed.": "Téléchargez Atgora ou ouvrez l'app si elle est déjà installée.",
+        "Open the Swiss AI Futures course.": "Ouvrez le cours Swiss AI Futures.",
+        "Finish Big Questions before coming to the workshop.": "Terminez Big Questions avant de venir à l'atelier.",
+        "This app step matters: it gives everyone a shared starting point and helps the workshop discussion feed into AI policy recommendations for Switzerland.":
+          "Cette étape dans l'app est importante: elle donne à tout le monde un point de départ commun et aide la discussion de l'atelier à alimenter des recommandations pour la politique de l'IA en Suisse.",
+        "Complete the app step and attend one workshop to receive a CHF 40 Galaxus voucher.": "Terminez l'étape dans l'app et participez à un atelier pour recevoir un bon Galaxus de CHF 40.",
+        "Before the workshop": "Avant l'atelier",
+        "Finish Big Questions in Atgora": "Terminer Big Questions dans Atgora",
+        "Scan the QR code for your phone or use the store buttons. If you have not completed the app yet, install Atgora, open the Swiss AI Futures course, and finish Big Questions before attending the Zürich or Lausanne workshop.":
+          "Scannez le code QR avec votre téléphone ou utilisez les boutons des stores. Si vous n'avez pas encore terminé l'app, installez Atgora, ouvrez le cours Swiss AI Futures et terminez Big Questions avant de participer à l'atelier de Zurich ou de Lausanne.",
+        "App step before attending": "Étape dans l'app avant de participer",
+        "Complete Big Questions before the workshop": "Terminer Big Questions avant l'atelier",
+        "After downloading Atgora, open the app and go to Courses. Select the Swiss AI Futures course, open Big Questions, and finish the prompts before you come to Zürich or Lausanne.":
+          "Après avoir téléchargé Atgora, ouvrez l'app et allez dans Courses. Sélectionnez le cours Swiss AI Futures, ouvrez Big Questions et terminez les questions avant de venir à Zurich ou Lausanne.",
+        "Open Big Questions": "Ouvrir Big Questions",
+        "Inside Swiss AI Futures, tap Big Questions to enter the workshop preparation topic.": "Dans Swiss AI Futures, touchez Big Questions pour accéder au thème de préparation de l'atelier.",
+        "Start the prompts": "Commencer les questions",
+        "Finish before attending": "Terminer avant de participer",
+        "Complete Big Questions before coming to the Zürich or Lausanne workshop.": "Terminez Big Questions avant de venir à l'atelier de Zurich ou de Lausanne.",
+        "The workshop discussion and app input will contribute to a TA-SWISS report/book and policy outputs for Swiss decision-makers, including the Swiss Parliament.":
+          "La discussion en atelier et les contributions dans l'app alimenteront un rapport/livre TA-SWISS et des résultats destinés aux décideuses et décideurs suisses, y compris le Parlement suisse.",
+        "App responses appear as points. Similar views form groups that help researchers find shared concerns, disagreements, and policy ideas to bring into the workshops.":
+          "Les réponses dans l'app apparaissent sous forme de points. Les points de vue similaires forment des groupes qui aident les chercheuses et chercheurs à repérer les préoccupations communes, les désaccords et les idées politiques à apporter aux ateliers.",
+        "Use Big Questions to prepare for the room": "Utiliser Big Questions pour préparer l'atelier",
+        "Big Questions gives you short prompts about AI, work, education, and public policy before the workshop. You can read, vote, and share brief responses in your own words.":
+          "Big Questions vous propose avant l'atelier de courtes questions sur l'IA, le travail, l'éducation et les politiques publiques. Vous pouvez lire, voter et partager de brèves réponses avec vos propres mots.",
+        "Your app input helps the research team identify concerns, disagreements, and policy ideas that are worth discussing together in Zürich and Lausanne.":
+          "Vos contributions dans l'app aident l'équipe de recherche à identifier les préoccupations, les désaccords et les idées politiques qui méritent d'être discutés ensemble à Zurich et Lausanne.",
+        "Read short prompts": "Lire de courtes questions",
+        "Share your view": "Partager votre point de vue",
+        "Arrive prepared": "Arriver préparé-e",
+        "Read": "Lire",
+        "Share": "Partager",
+        "Prepare": "Préparer",
+        "Interface examples; Big Questions focuses on AI, work, education, skills, and policy choices.":
+          "Exemples d'interface; Big Questions porte sur l'IA, le travail, l'éducation, les compétences et les choix politiques.",
+        "How your app input enters the workshop": "Comment votre contribution dans l'app entre dans l'atelier",
+        "Before the workshop, the study team looks at what participants raised in Big Questions.": "Avant l'atelier, l'équipe de recherche examine ce que les participantes et participants ont soulevé dans Big Questions.",
+        "The workshop follows what people raised": "L'atelier suit ce que les personnes ont soulevé",
+        "The in-person discussion can focus on themes participants surfaced in the app.": "La discussion en présence peut se concentrer sur les thèmes apparus dans l'app.",
+        "Ideas move toward policy discussion": "Les idées alimentent la discussion politique",
+        "Input from the app and workshops can help shape later outputs for policy discussion.": "Les contributions de l'app et des ateliers peuvent contribuer aux résultats ultérieurs pour la discussion politique.",
+        "In the app itself, you only need to follow the short prompts and finish Big Questions before attending.":
+          "Dans l'app elle-même, il vous suffit de suivre les courtes questions et de terminer Big Questions avant de participer.",
+        "Workshop path": "Parcours vers l'atelier",
+        "The physical workshop is the focus now. The app still comes first: finish Big Questions in Atgora, then attend one two-hour workshop in Zürich or Lausanne.":
+          "L'atelier en présence est maintenant le point central. L'app vient toujours d'abord: terminez Big Questions dans Atgora, puis participez à un atelier de deux heures à Zurich ou Lausanne.",
+        "Use the App Store or Google Play links on this page and open the Swiss AI Futures course.": "Utilisez les liens App Store ou Google Play sur cette page et ouvrez le cours Swiss AI Futures.",
+        "Before attending": "Avant de participer",
+        "App input": "Contribution dans l'app",
+        "Finish Big Questions": "Terminer Big Questions",
+        "Complete the app prompts so your perspective is included before the workshop discussion starts.": "Terminez les questions dans l'app afin que votre perspective soit incluse avant le début de la discussion en atelier.",
+        "June 18, 2:00-4:00 pm": "18 juin, 14 h-16 h",
+        "June 19, 2:00-4:00 pm": "19 juin, 14 h-16 h",
+        "Zürich workshop": "Atelier de Zurich",
+        "Lausanne workshop": "Atelier de Lausanne",
+        "Join the Zürich citizen workshop if this location is the best fit for you.": "Participez à l'atelier citoyen de Zurich si ce lieu vous convient le mieux.",
+        "Join the Lausanne citizen workshop if this location is the best fit for you.": "Participez à l'atelier citoyen de Lausanne si ce lieu vous convient le mieux.",
+        "At the workshop": "À l'atelier",
+        "Voucher": "Bon",
+        "Discuss AI policy and receive the voucher": "Discuter de politique de l'IA et recevoir le bon",
+        "Contribute to the discussion of AI policies in Switzerland and receive a CHF 40 Galaxus voucher after completing the process.":
+          "Contribuez à la discussion sur les politiques de l'IA en Suisse et recevez un bon Galaxus de CHF 40 après avoir terminé le processus.",
+        "Who can attend": "Qui peut participer",
+        "You can take part if you": "Vous pouvez participer si vous",
+        "Finish Big Questions in the Swiss AI Futures course before attending": "terminez Big Questions dans le cours Swiss AI Futures avant de participer",
+        "Can attend one workshop in Zürich or Lausanne": "pouvez participer à un atelier à Zurich ou Lausanne",
+        "The app prepares the workshop": "L'app prépare l'atelier",
+        "Big Questions gives everyone a shared starting point before the in-person discussion. Please complete it before coming to the workshop.":
+          "Big Questions donne à tout le monde un point de départ commun avant la discussion en présence. Veuillez le terminer avant de venir à l'atelier.",
+        "Voucher and civic contribution": "Bon et contribution civique",
+        "Participants who finish Big Questions and attend one workshop receive a CHF 40 Galaxus voucher. Your contribution helps the project bring public perspectives into Swiss AI policy discussion.":
+          "Les personnes qui terminent Big Questions et participent à un atelier reçoivent un bon Galaxus de CHF 40. Votre contribution aide le projet à intégrer des perspectives publiques dans la discussion sur la politique suisse de l'IA.",
+        "Two hours in the afternoon": "Deux heures l'après-midi",
+        "The Zürich workshop is Thursday, June 18, from 2:00 to 4:00 pm. The Lausanne workshop is Friday, June 19, from 2:00 to 4:00 pm.":
+          "L'atelier de Zurich a lieu le jeudi 18 juin de 14 h à 16 h. L'atelier de Lausanne a lieu le vendredi 19 juin de 14 h à 16 h.",
+        "Please also allow time before the workshop to finish Big Questions in Atgora.": "Prévoyez aussi du temps avant l'atelier pour terminer Big Questions dans Atgora.",
+        "CHF 40 Galaxus voucher": "Bon Galaxus de CHF 40",
+        "The workshop process includes the app preparation and one physical workshop. Participants who complete Big Questions and attend the workshop receive a 40 Franken Galaxus voucher.":
+          "Le processus comprend la préparation dans l'app et un atelier en présence. Les personnes qui terminent Big Questions et participent à l'atelier reçoivent un bon Galaxus de 40 francs.",
+        "Travel costs are not reimbursed.": "Les frais de déplacement ne sont pas remboursés.",
+        "Contact details for study communication, workshop coordination, and voucher administration": "Coordonnées pour les communications de l'étude, la coordination des ateliers et la gestion des bons",
+        "If a workshop discussion is recorded, that requires separate consent": "Si une discussion d'atelier est enregistrée, un consentement séparé est nécessaire",
+        "Big Questions in Atgora gives everyone a shared starting point before the workshop. Please finish it before attending so your perspective can help shape the in-person discussion.":
+          "Big Questions dans Atgora donne à tout le monde un point de départ commun avant l'atelier. Veuillez le terminer avant de participer afin que votre perspective puisse contribuer à la discussion en présence.",
+        "Can I attend if I have not used Atgora yet?": "Puis-je participer si je n'ai pas encore utilisé Atgora?",
+        "Yes, but complete the app step first. Download Atgora, open Swiss AI Futures, and finish Big Questions before coming to Zürich or Lausanne.":
+          "Oui, mais terminez d'abord l'étape dans l'app. Téléchargez Atgora, ouvrez Swiss AI Futures et terminez Big Questions avant de venir à Zurich ou Lausanne.",
+        "Is participation compensated?": "La participation est-elle indemnisée?",
+        "Participants who finish Big Questions and attend one physical workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
+          "Les personnes qui terminent Big Questions et participent à un atelier en présence reçoivent un bon Galaxus de CHF 40. Les frais de déplacement ne sont pas remboursés.",
+        "When and where are the workshops?": "Quand et où ont lieu les ateliers?",
+        "Zürich is Thursday, June 18, 2026, from 2:00 to 4:00 pm. Lausanne is Friday, June 19, 2026, from 2:00 to 4:00 pm.":
+          "Zurich a lieu le jeudi 18 juin 2026 de 14 h à 16 h. Lausanne a lieu le vendredi 19 juin 2026 de 14 h à 16 h.",
+        "Share the workshop invitation": "Partager l'invitation aux ateliers",
+        "You can help spread the word by copying a message template into WhatsApp, email, LinkedIn, Instagram, or a community group. The message templates include the workshop dates and the Atgora preparation step.":
+          "Vous pouvez aider à faire connaître l'invitation en copiant un modèle de message dans WhatsApp, un e-mail, LinkedIn, Instagram ou un groupe communautaire. Les modèles de message incluent les dates des ateliers et l'étape de préparation dans Atgora.",
+        "Message templates": "Modèles de message",
+        "The message templates include the workshop dates and the Atgora preparation step.": "Les modèles de message incluent les dates des ateliers et l'étape de préparation dans Atgora.",
+        "The wording explains the workshop dates, the Big Questions app step, and why this citizen-input phase matters.":
+          "Le texte explique les dates des ateliers, l'étape Big Questions dans l'app et pourquoi cette phase de participation citoyenne est importante.",
+        "Prepare for the workshop": "Se préparer à l'atelier",
+        "Start Big Questions now": "Commencer Big Questions maintenant",
+        "Scan the QR code for your phone or use the store buttons. Finish Big Questions in Atgora before attending the Zürich workshop on June 18 or the Lausanne workshop on June 19.":
+          "Scannez le code QR avec votre téléphone ou utilisez les boutons des stores. Terminez Big Questions dans Atgora avant de participer à l'atelier de Zurich le 18 juin ou à l'atelier de Lausanne le 19 juin.",
+        "The project first maps what is already known about LLMs, then develops future scenarios and gathers input from focus groups. This page invites people living in Switzerland into the third phase: Atgora preparation and citizen workshops in Zürich and Lausanne, so public perspectives can be considered while recommendations for policy are being developed.":
+          "Le projet commence par cartographier ce que l'on sait déjà sur les LLM, puis développe des scénarios futurs et recueille les contributions de groupes de discussion. Cette page invite les personnes vivant en Suisse à participer à la troisième phase: préparation dans Atgora et ateliers citoyens à Zurich et Lausanne, afin que les perspectives publiques puissent être prises en compte pendant l'élaboration de recommandations politiques.",
+        "This is the phase you are being invited to join. Atgora input and citizen workshops connect earlier findings with everyday experiences, policy priorities, and ethical questions about LLMs, helping show what people in Switzerland want protected, improved, or debated before AI becomes more common in everyday work.":
+          "C'est la phase à laquelle vous êtes invité-e à participer. Les contributions dans Atgora et les ateliers citoyens relient les résultats précédents aux expériences quotidiennes, aux priorités politiques et aux questions éthiques liées aux LLM, afin de montrer ce que les personnes en Suisse souhaitent protéger, améliorer ou débattre avant que l'IA ne devienne plus courante dans le travail quotidien."
+      },
+      rounds: [
+        {
+          label: "Tour 01",
+          title: "Lire de courtes questions",
+          copy: "Commencez par de courts contenus sur l'IA, l'emploi, les compétences, l'éducation et les politiques publiques.",
+          shotAlt: "Écran d'exemple Atgora montrant un court module de contexte"
+        },
+        {
+          label: "Tour 02",
+          title: "Répondre à de courts sondages",
+          copy: "Partagez votre avis sur des affirmations concernant la protection des travailleuses et travailleurs, l'innovation, la transparence et la reconversion.",
+          shotAlt: "Écran d'exemple Atgora montrant un sondage"
+        },
+        {
+          label: "Tour 03",
+          title: "Partager votre point de vue",
+          copy: "Ajoutez une brève réponse, une préoccupation ou une idée politique avec vos propres mots.",
+          shotAlt: "Écran de questionnaire Atgora avec plusieurs options de réponse"
+        },
+        {
+          label: "Tour 04",
+          title: "Arriver préparé-e",
+          copy: "Terminez Big Questions avant de participer à l'atelier en présence à Zurich ou Lausanne.",
+          shotAlt: "Écran d'exemple Atgora montrant un sondage à choix multiples"
+        }
+      ]
+    },
+    it: {
+      title: "Workshop cittadini sulla politica dell'IA in Svizzera | Swiss AI Futures",
+      description:
+        "Partecipa a un workshop cittadino a Zurigo o Losanna sulla politica dell'IA in Svizzera. Completa prima Big Questions in Atgora e ricevi un buono Galaxus da CHF 40 dopo la partecipazione.",
+      text: {
+        "Workshops": "Workshop",
+        "Atgora first": "Prima Atgora",
+        "Big Questions": "Big Questions",
+        "Start in Atgora": "Inizia in Atgora",
+        "Citizen workshops in June": "Workshop cittadini a giugno",
+        "Join a citizen workshop": "Partecipa a un workshop cittadino",
+        "on AI policy": "sulla politica dell'IA",
+        "in Switzerland.": "in Svizzera.",
+        "The next step of Swiss AI Futures is in person: a two-hour citizen workshop in Zürich or Lausanne where people living in Switzerland discuss what AI policy should pay attention to.":
+          "La prossima fase di Swiss AI Futures si svolge in presenza: un workshop cittadino di due ore a Zurigo o Losanna, in cui le persone che vivono in Svizzera discutono a cosa dovrebbe prestare attenzione la politica sull'IA.",
+        "If you have not used the app yet, please start now. Before attending, download Atgora and finish Big Questions in the Swiss AI Futures course so the workshop can build on your input.":
+          "Se non hai ancora usato l'app, inizia ora. Prima di partecipare, scarica Atgora e completa Big Questions nel corso Swiss AI Futures, così il workshop potrà basarsi sul tuo contributo.",
+        "Participants who finish Big Questions and attend one workshop receive a CHF 40 Galaxus voucher.":
+          "Le persone che completano Big Questions e partecipano a un workshop ricevono un buono Galaxus da CHF 40.",
+        "Workshop dates": "Date dei workshop",
+        "Workshop dates and voucher": "Date dei workshop e buono",
+        "Thursday, June 18": "Giovedì 18 giugno",
+        "Friday, June 19": "Venerdì 19 giugno",
+        "2:00-4:00 pm": "14:00-16:00",
+        "Zürich": "Zurigo",
+        "40 Franken": "40 franchi",
+        "Galaxus voucher": "Buono Galaxus",
+        "For participants who complete Big Questions and attend one workshop.": "Per le persone che completano Big Questions e partecipano a un workshop.",
+        "See workshop details": "Vedi dettagli dei workshop",
+        "Physical workshops": "Workshop in presenza",
+        "Choose Zürich or Lausanne": "Scegli Zurigo o Losanna",
+        "These two citizen workshops are now the main next step. You will join a moderated discussion about AI, work, education, and public policy in Switzerland, using the app input as a shared starting point.":
+          "Questi due workshop cittadini sono ora il prossimo passo principale. Parteciperai a una discussione moderata su IA, lavoro, educazione e politiche pubbliche in Svizzera, usando i contributi dell'app come punto di partenza comune.",
+        "Workshop schedule": "Programma dei workshop",
+        "Zürich citizen workshop": "Workshop cittadino a Zurigo",
+        "Lausanne citizen workshop": "Workshop cittadino a Losanna",
+        "Attend the Zürich session if this location works best for you.": "Partecipa alla sessione di Zurigo se questo luogo è più adatto a te.",
+        "Attend the Lausanne session if this location works best for you.": "Partecipa alla sessione di Losanna se questo luogo è più adatto a te.",
+        "Before you attend": "Prima di partecipare",
+        "Download Atgora or open it if it is already installed.": "Scarica Atgora o aprila se è già installata.",
+        "Open the Swiss AI Futures course.": "Apri il corso Swiss AI Futures.",
+        "Finish Big Questions before coming to the workshop.": "Completa Big Questions prima di venire al workshop.",
+        "This app step matters: it gives everyone a shared starting point and helps the workshop discussion feed into AI policy recommendations for Switzerland.":
+          "Questo passaggio nell'app è importante: dà a tutte e tutti un punto di partenza comune e aiuta la discussione del workshop a contribuire alle raccomandazioni sulla politica dell'IA in Svizzera.",
+        "Complete the app step and attend one workshop to receive a CHF 40 Galaxus voucher.": "Completa il passaggio nell'app e partecipa a un workshop per ricevere un buono Galaxus da CHF 40.",
+        "Before the workshop": "Prima del workshop",
+        "Finish Big Questions in Atgora": "Completa Big Questions in Atgora",
+        "Scan the QR code for your phone or use the store buttons. If you have not completed the app yet, install Atgora, open the Swiss AI Futures course, and finish Big Questions before attending the Zürich or Lausanne workshop.":
+          "Scansiona il codice QR con il telefono o usa i pulsanti degli store. Se non hai ancora completato l'app, installa Atgora, apri il corso Swiss AI Futures e completa Big Questions prima di partecipare al workshop di Zurigo o Losanna.",
+        "App step before attending": "Passaggio nell'app prima di partecipare",
+        "Complete Big Questions before the workshop": "Completa Big Questions prima del workshop",
+        "After downloading Atgora, open the app and go to Courses. Select the Swiss AI Futures course, open Big Questions, and finish the prompts before you come to Zürich or Lausanne.":
+          "Dopo aver scaricato Atgora, apri l'app e vai su Courses. Seleziona il corso Swiss AI Futures, apri Big Questions e completa le domande prima di venire a Zurigo o Losanna.",
+        "Open Big Questions": "Apri Big Questions",
+        "Inside Swiss AI Futures, tap Big Questions to enter the workshop preparation topic.": "Dentro Swiss AI Futures, tocca Big Questions per entrare nel tema di preparazione al workshop.",
+        "Start the prompts": "Inizia le domande",
+        "Finish before attending": "Completa prima di partecipare",
+        "Complete Big Questions before coming to the Zürich or Lausanne workshop.": "Completa Big Questions prima di venire al workshop di Zurigo o Losanna.",
+        "The workshop discussion and app input will contribute to a TA-SWISS report/book and policy outputs for Swiss decision-makers, including the Swiss Parliament.":
+          "La discussione del workshop e i contributi nell'app confluiranno in un rapporto/libro TA-SWISS e in risultati per la politica destinati ai decisori svizzeri, incluso il Parlamento svizzero.",
+        "App responses appear as points. Similar views form groups that help researchers find shared concerns, disagreements, and policy ideas to bring into the workshops.":
+          "Le risposte nell'app appaiono come punti. Opinioni simili formano gruppi che aiutano le ricercatrici e i ricercatori a individuare preoccupazioni condivise, disaccordi e idee politiche da portare nei workshop.",
+        "Use Big Questions to prepare for the room": "Usa Big Questions per prepararti al workshop",
+        "Big Questions gives you short prompts about AI, work, education, and public policy before the workshop. You can read, vote, and share brief responses in your own words.":
+          "Big Questions propone brevi domande su IA, lavoro, educazione e politiche pubbliche prima del workshop. Puoi leggere, votare e condividere brevi risposte con parole tue.",
+        "Your app input helps the research team identify concerns, disagreements, and policy ideas that are worth discussing together in Zürich and Lausanne.":
+          "I tuoi contributi nell'app aiutano il team di ricerca a identificare preoccupazioni, disaccordi e idee politiche che vale la pena discutere insieme a Zurigo e Losanna.",
+        "Read short prompts": "Leggere brevi domande",
+        "Share your view": "Condividere la tua opinione",
+        "Arrive prepared": "Arrivare preparati",
+        "Read": "Leggere",
+        "Share": "Condividere",
+        "Prepare": "Preparare",
+        "Interface examples; Big Questions focuses on AI, work, education, skills, and policy choices.":
+          "Esempi di interfaccia; Big Questions riguarda IA, lavoro, educazione, competenze e scelte politiche.",
+        "How your app input enters the workshop": "Come il tuo contributo nell'app entra nel workshop",
+        "Before the workshop, the study team looks at what participants raised in Big Questions.": "Prima del workshop, il team di studio esamina ciò che le persone partecipanti hanno sollevato in Big Questions.",
+        "The workshop follows what people raised": "Il workshop segue ciò che le persone hanno sollevato",
+        "The in-person discussion can focus on themes participants surfaced in the app.": "La discussione in presenza può concentrarsi sui temi emersi nell'app.",
+        "Ideas move toward policy discussion": "Le idee arrivano alla discussione politica",
+        "Input from the app and workshops can help shape later outputs for policy discussion.": "I contributi dall'app e dai workshop possono aiutare a definire risultati successivi per la discussione politica.",
+        "In the app itself, you only need to follow the short prompts and finish Big Questions before attending.":
+          "Nell'app devi solo seguire le brevi domande e completare Big Questions prima di partecipare.",
+        "Workshop path": "Percorso verso il workshop",
+        "The physical workshop is the focus now. The app still comes first: finish Big Questions in Atgora, then attend one two-hour workshop in Zürich or Lausanne.":
+          "Il workshop in presenza è ora il punto centrale. L'app viene comunque prima: completa Big Questions in Atgora, poi partecipa a un workshop di due ore a Zurigo o Losanna.",
+        "Use the App Store or Google Play links on this page and open the Swiss AI Futures course.": "Usa i link App Store o Google Play su questa pagina e apri il corso Swiss AI Futures.",
+        "Before attending": "Prima di partecipare",
+        "App input": "Contributo nell'app",
+        "Finish Big Questions": "Completa Big Questions",
+        "Complete the app prompts so your perspective is included before the workshop discussion starts.": "Completa le domande nell'app così la tua prospettiva sarà inclusa prima dell'inizio della discussione del workshop.",
+        "June 18, 2:00-4:00 pm": "18 giugno, 14:00-16:00",
+        "June 19, 2:00-4:00 pm": "19 giugno, 14:00-16:00",
+        "Zürich workshop": "Workshop di Zurigo",
+        "Lausanne workshop": "Workshop di Losanna",
+        "Join the Zürich citizen workshop if this location is the best fit for you.": "Partecipa al workshop cittadino di Zurigo se questo luogo è più adatto a te.",
+        "Join the Lausanne citizen workshop if this location is the best fit for you.": "Partecipa al workshop cittadino di Losanna se questo luogo è più adatto a te.",
+        "At the workshop": "Al workshop",
+        "Voucher": "Buono",
+        "Discuss AI policy and receive the voucher": "Discutere la politica dell'IA e ricevere il buono",
+        "Contribute to the discussion of AI policies in Switzerland and receive a CHF 40 Galaxus voucher after completing the process.":
+          "Contribuisci alla discussione sulle politiche dell'IA in Svizzera e ricevi un buono Galaxus da CHF 40 dopo aver completato il processo.",
+        "Who can attend": "Chi può partecipare",
+        "You can take part if you": "Puoi partecipare se",
+        "Finish Big Questions in the Swiss AI Futures course before attending": "completi Big Questions nel corso Swiss AI Futures prima di partecipare",
+        "Can attend one workshop in Zürich or Lausanne": "puoi partecipare a un workshop a Zurigo o Losanna",
+        "The app prepares the workshop": "L'app prepara il workshop",
+        "Big Questions gives everyone a shared starting point before the in-person discussion. Please complete it before coming to the workshop.":
+          "Big Questions dà a tutte e tutti un punto di partenza comune prima della discussione in presenza. Completalo prima di venire al workshop.",
+        "Voucher and civic contribution": "Buono e contributo civico",
+        "Participants who finish Big Questions and attend one workshop receive a CHF 40 Galaxus voucher. Your contribution helps the project bring public perspectives into Swiss AI policy discussion.":
+          "Le persone che completano Big Questions e partecipano a un workshop ricevono un buono Galaxus da CHF 40. Il tuo contributo aiuta il progetto a portare prospettive pubbliche nella discussione sulla politica svizzera dell'IA.",
+        "Two hours in the afternoon": "Due ore nel pomeriggio",
+        "The Zürich workshop is Thursday, June 18, from 2:00 to 4:00 pm. The Lausanne workshop is Friday, June 19, from 2:00 to 4:00 pm.":
+          "Il workshop di Zurigo si tiene giovedì 18 giugno dalle 14:00 alle 16:00. Il workshop di Losanna si tiene venerdì 19 giugno dalle 14:00 alle 16:00.",
+        "Please also allow time before the workshop to finish Big Questions in Atgora.": "Prevedi anche del tempo prima del workshop per completare Big Questions in Atgora.",
+        "CHF 40 Galaxus voucher": "Buono Galaxus da CHF 40",
+        "The workshop process includes the app preparation and one physical workshop. Participants who complete Big Questions and attend the workshop receive a 40 Franken Galaxus voucher.":
+          "Il processo comprende la preparazione nell'app e un workshop in presenza. Le persone che completano Big Questions e partecipano al workshop ricevono un buono Galaxus da 40 franchi.",
+        "Travel costs are not reimbursed.": "Le spese di viaggio non sono rimborsate.",
+        "Contact details for study communication, workshop coordination, and voucher administration": "Dati di contatto per comunicazioni dello studio, coordinamento dei workshop e gestione dei buoni",
+        "If a workshop discussion is recorded, that requires separate consent": "Se una discussione del workshop viene registrata, è necessario un consenso separato",
+        "Big Questions in Atgora gives everyone a shared starting point before the workshop. Please finish it before attending so your perspective can help shape the in-person discussion.":
+          "Big Questions in Atgora dà a tutte e tutti un punto di partenza comune prima del workshop. Completalo prima di partecipare, così la tua prospettiva potrà contribuire alla discussione in presenza.",
+        "Can I attend if I have not used Atgora yet?": "Posso partecipare se non ho ancora usato Atgora?",
+        "Yes, but complete the app step first. Download Atgora, open Swiss AI Futures, and finish Big Questions before coming to Zürich or Lausanne.":
+          "Sì, ma completa prima il passaggio nell'app. Scarica Atgora, apri Swiss AI Futures e completa Big Questions prima di venire a Zurigo o Losanna.",
+        "Is participation compensated?": "La partecipazione è compensata?",
+        "Participants who finish Big Questions and attend one physical workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
+          "Le persone che completano Big Questions e partecipano a un workshop in presenza ricevono un buono Galaxus da CHF 40. Le spese di viaggio non sono rimborsate.",
+        "When and where are the workshops?": "Quando e dove si svolgono i workshop?",
+        "Zürich is Thursday, June 18, 2026, from 2:00 to 4:00 pm. Lausanne is Friday, June 19, 2026, from 2:00 to 4:00 pm.":
+          "Zurigo si svolge giovedì 18 giugno 2026 dalle 14:00 alle 16:00. Losanna si svolge venerdì 19 giugno 2026 dalle 14:00 alle 16:00.",
+        "Share the workshop invitation": "Condividi l'invito al workshop",
+        "You can help spread the word by copying a message template into WhatsApp, email, LinkedIn, Instagram, or a community group. The message templates include the workshop dates and the Atgora preparation step.":
+          "Puoi aiutare a diffondere l'invito copiando un modello di messaggio in WhatsApp, e-mail, LinkedIn, Instagram o in un gruppo di comunità. I modelli di messaggio includono le date dei workshop e il passaggio di preparazione in Atgora.",
+        "Message templates": "Modelli di messaggio",
+        "The message templates include the workshop dates and the Atgora preparation step.": "I modelli di messaggio includono le date dei workshop e il passaggio di preparazione in Atgora.",
+        "The wording explains the workshop dates, the Big Questions app step, and why this citizen-input phase matters.":
+          "Il testo spiega le date dei workshop, il passaggio Big Questions nell'app e perché questa fase di partecipazione civica è importante.",
+        "Prepare for the workshop": "Preparati al workshop",
+        "Start Big Questions now": "Inizia Big Questions ora",
+        "Scan the QR code for your phone or use the store buttons. Finish Big Questions in Atgora before attending the Zürich workshop on June 18 or the Lausanne workshop on June 19.":
+          "Scansiona il codice QR con il telefono o usa i pulsanti degli store. Completa Big Questions in Atgora prima di partecipare al workshop di Zurigo il 18 giugno o al workshop di Losanna il 19 giugno.",
+        "The project first maps what is already known about LLMs, then develops future scenarios and gathers input from focus groups. This page invites people living in Switzerland into the third phase: Atgora preparation and citizen workshops in Zürich and Lausanne, so public perspectives can be considered while recommendations for policy are being developed.":
+          "Il progetto mappa prima ciò che è già noto sugli LLM, poi sviluppa scenari futuri e raccoglie contributi dai focus group. Questa pagina invita le persone che vivono in Svizzera alla terza fase: preparazione in Atgora e workshop cittadini a Zurigo e Losanna, affinché le prospettive pubbliche possano essere considerate mentre vengono sviluppate raccomandazioni politiche.",
+        "This is the phase you are being invited to join. Atgora input and citizen workshops connect earlier findings with everyday experiences, policy priorities, and ethical questions about LLMs, helping show what people in Switzerland want protected, improved, or debated before AI becomes more common in everyday work.":
+          "Questa è la fase a cui sei invitato a partecipare. I contributi in Atgora e i workshop cittadini collegano i risultati precedenti con esperienze quotidiane, priorità politiche e questioni etiche sugli LLM, aiutando a mostrare ciò che le persone in Svizzera vogliono proteggere, migliorare o discutere prima che l'IA diventi più comune nel lavoro quotidiano."
+      },
+      rounds: [
+        {
+          label: "Turno 01",
+          title: "Leggere brevi domande",
+          copy: "Inizia con brevi contenuti su IA, lavoro, competenze, educazione e politiche pubbliche.",
+          shotAlt: "Schermata di esempio di Atgora con un breve modulo di contesto"
+        },
+        {
+          label: "Turno 02",
+          title: "Rispondere a brevi sondaggi",
+          copy: "Condividi la tua opinione su affermazioni riguardanti protezione delle lavoratrici e dei lavoratori, innovazione, trasparenza e riqualificazione.",
+          shotAlt: "Schermata di esempio di Atgora con un sondaggio"
+        },
+        {
+          label: "Turno 03",
+          title: "Condividere la tua opinione",
+          copy: "Aggiungi una breve risposta, una preoccupazione o un'idea politica con parole tue.",
+          shotAlt: "Schermata del questionario Atgora con più opzioni di risposta"
+        },
+        {
+          label: "Turno 04",
+          title: "Arrivare preparati",
+          copy: "Completa Big Questions prima di partecipare al workshop in presenza a Zurigo o Losanna.",
+          shotAlt: "Schermata di esempio di Atgora con un sondaggio a scelta multipla"
+        }
+      ]
+    }
+  };
+
+  Object.entries(workshopUpdates).forEach(([language, update]) => {
+    const target = window.SWISS_AI_I18N?.[language];
+    if (!target) return;
+    if (update.title) target.title = update.title;
+    if (update.description) target.description = update.description;
+    if (update.rounds) target.rounds = update.rounds;
+    if (update.text) {
+      target.text = target.text || {};
+      Object.assign(target.text, update.text);
+    }
+  });
+})();
+
+(() => {
+  const moduleNameTrimUpdates = {
+    de: {
+      description:
+        "Nehmen Sie an einem Bürgerworkshop in Zürich oder Lausanne zur KI-Politik in der Schweiz teil. Schliessen Sie zuerst die Vorbereitung in Atgora ab und erhalten Sie nach der Teilnahme einen Galaxus-Gutschein über CHF 40.",
+      text: {
+        "App module": "App-Modul",
+        "Before you come, complete the preparation module in the Swiss AI Futures course in Atgora. No AI expertise is needed.":
+          "Schliessen Sie vor der Teilnahme das Vorbereitungsmodul im Kurs Swiss AI Futures in Atgora ab. KI-Fachwissen ist nicht nötig.",
+        "For participants who complete the Atgora step and attend one workshop.": "Für Teilnehmende, die den Atgora-Schritt abschliessen und an einem Workshop teilnehmen.",
+        "Finish the preparation module before coming to the workshop.": "Schliessen Sie das Vorbereitungsmodul ab, bevor Sie zum Workshop kommen.",
+        "Prepare in Atgora": "In Atgora vorbereiten",
+        "Scan the QR code for your phone or use the store buttons. Once Atgora is installed, open the Swiss AI Futures course and complete the workshop preparation module.":
+          "Scannen Sie den QR-Code mit Ihrem Smartphone oder nutzen Sie die Store-Schaltflächen. Sobald Atgora installiert ist, öffnen Sie den Kurs Swiss AI Futures und schliessen Sie das Vorbereitungsmodul für den Workshop ab.",
+        "Find the workshop module in Atgora": "Das Workshop-Modul in Atgora finden",
+        "After downloading Atgora, open the app and go to Courses. Select the Swiss AI Futures course, open the workshop preparation module, and finish the prompts before you come to Zürich or Lausanne.":
+          "Öffnen Sie nach dem Herunterladen von Atgora die App und gehen Sie zu Kurse. Wählen Sie den Kurs Swiss AI Futures, öffnen Sie das Vorbereitungsmodul für den Workshop und beantworten Sie die Fragen, bevor Sie nach Zürich oder Lausanne kommen.",
+        "Complete the module before coming to the Zürich or Lausanne workshop.": "Schliessen Sie das Modul ab, bevor Sie zum Workshop in Zürich oder Lausanne kommen.",
+        "Complete the app module": "Das App-Modul abschliessen",
+        "Open the Swiss AI Futures course in Atgora and finish the prompts.": "Öffnen Sie den Kurs Swiss AI Futures in Atgora und beantworten Sie die Fragen.",
+        "Complete the Atgora preparation before attending": "die Vorbereitung in Atgora vor der Teilnahme abschliessen",
+        "Participants who complete the Atgora step and attend one workshop receive a CHF 40 Galaxus voucher.":
+          "Teilnehmende, die den Atgora-Schritt abschliessen und an einem Workshop teilnehmen, erhalten einen Galaxus-Gutschein über CHF 40.",
+        "The app module gives everyone a shared starting point before the workshop.": "Das App-Modul gibt allen vor dem Workshop einen gemeinsamen Ausgangspunkt.",
+        "Yes. Download Atgora and complete the preparation module before coming.": "Ja. Laden Sie Atgora herunter und schliessen Sie das Vorbereitungsmodul ab, bevor Sie kommen.",
+        "Participants who complete the Atgora step and attend one physical workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
+          "Teilnehmende, die den Atgora-Schritt abschliessen und an einem Workshop vor Ort teilnehmen, erhalten einen Galaxus-Gutschein über CHF 40. Reisekosten werden nicht erstattet.",
+        "The wording explains the workshop dates, the Atgora preparation step, and why this citizen-input phase matters.":
+          "Der Text erklärt die Workshopdaten, den Vorbereitungsschritt in Atgora und warum diese Phase öffentlicher Beteiligung wichtig ist.",
+        "Before attending, participants should download @gora, join the Swiss AI Futures course, and complete the preparation module in the app.":
+          "Vor der Teilnahme sollten Teilnehmende @gora herunterladen, dem Kurs Swiss AI Futures beitreten und das Vorbereitungsmodul in der App abschliessen.",
+        "Before attending, download @gora, join the Swiss AI Futures course, and complete the preparation module in the app.":
+          "Laden Sie vor der Teilnahme @gora herunter, treten Sie dem Kurs Swiss AI Futures bei und schliessen Sie das Vorbereitungsmodul in der App ab.",
+        "Complete the preparation module before attending the workshop": "Das Vorbereitungsmodul vor dem Workshop abschliessen",
+        "Participants who complete the Atgora step and attend one workshop receive a CHF 40 Galaxus voucher.":
+          "Teilnehmende, die den Atgora-Schritt abschliessen und an einem Workshop teilnehmen, erhalten einen Galaxus-Gutschein über CHF 40."
+      }
+    },
+    fr: {
+      description:
+        "Participez à un atelier citoyen à Zurich ou Lausanne sur la politique de l'IA en Suisse. Terminez d'abord la préparation dans Atgora et recevez un bon Galaxus de CHF 40 après votre participation.",
+      text: {
+        "App module": "Module dans l'app",
+        "Before you come, complete the preparation module in the Swiss AI Futures course in Atgora. No AI expertise is needed.":
+          "Avant de venir, terminez le module de préparation dans le cours Swiss AI Futures dans Atgora. Aucune expertise en IA n'est nécessaire.",
+        "For participants who complete the Atgora step and attend one workshop.": "Pour les personnes qui terminent l'étape dans Atgora et participent à un atelier.",
+        "Finish the preparation module before coming to the workshop.": "Terminez le module de préparation avant de venir à l'atelier.",
+        "Prepare in Atgora": "Se préparer dans Atgora",
+        "Scan the QR code for your phone or use the store buttons. Once Atgora is installed, open the Swiss AI Futures course and complete the workshop preparation module.":
+          "Scannez le code QR avec votre téléphone ou utilisez les boutons des stores. Une fois Atgora installée, ouvrez le cours Swiss AI Futures et terminez le module de préparation à l'atelier.",
+        "Find the workshop module in Atgora": "Trouver le module d'atelier dans Atgora",
+        "After downloading Atgora, open the app and go to Courses. Select the Swiss AI Futures course, open the workshop preparation module, and finish the prompts before you come to Zürich or Lausanne.":
+          "Après avoir téléchargé Atgora, ouvrez l'app et allez dans Courses. Sélectionnez le cours Swiss AI Futures, ouvrez le module de préparation à l'atelier et terminez les questions avant de venir à Zurich ou Lausanne.",
+        "Complete the module before coming to the Zürich or Lausanne workshop.": "Terminez le module avant de venir à l'atelier de Zurich ou de Lausanne.",
+        "Complete the app module": "Terminer le module dans l'app",
+        "Open the Swiss AI Futures course in Atgora and finish the prompts.": "Ouvrez le cours Swiss AI Futures dans Atgora et terminez les questions.",
+        "Complete the Atgora preparation before attending": "terminer la préparation dans Atgora avant de participer",
+        "Participants who complete the Atgora step and attend one workshop receive a CHF 40 Galaxus voucher.":
+          "Les personnes qui terminent l'étape dans Atgora et participent à un atelier reçoivent un bon Galaxus de CHF 40.",
+        "The app module gives everyone a shared starting point before the workshop.": "Le module dans l'app donne à tout le monde un point de départ commun avant l'atelier.",
+        "Yes. Download Atgora and complete the preparation module before coming.": "Oui. Téléchargez Atgora et terminez le module de préparation avant de venir.",
+        "Participants who complete the Atgora step and attend one physical workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
+          "Les personnes qui terminent l'étape dans Atgora et participent à un atelier en présence reçoivent un bon Galaxus de CHF 40. Les frais de déplacement ne sont pas remboursés.",
+        "The wording explains the workshop dates, the Atgora preparation step, and why this citizen-input phase matters.":
+          "Le texte explique les dates des ateliers, l'étape de préparation dans Atgora et pourquoi cette phase de participation citoyenne est importante.",
+        "Before attending, participants should download @gora, join the Swiss AI Futures course, and complete the preparation module in the app.":
+          "Avant de participer, les personnes devraient télécharger @gora, rejoindre le cours Swiss AI Futures et terminer le module de préparation dans l'app.",
+        "Before attending, download @gora, join the Swiss AI Futures course, and complete the preparation module in the app.":
+          "Avant de participer, téléchargez @gora, rejoignez le cours Swiss AI Futures et terminez le module de préparation dans l'app.",
+        "Complete the preparation module before attending the workshop": "Terminer le module de préparation avant de participer à l'atelier",
+        "Participants who complete the Atgora step and attend one workshop receive a CHF 40 Galaxus voucher.":
+          "Les personnes qui terminent l'étape dans Atgora et participent à un atelier reçoivent un bon Galaxus de CHF 40."
+      }
+    },
+    it: {
+      description:
+        "Partecipa a un workshop cittadino a Zurigo o Losanna sulla politica dell'IA in Svizzera. Completa prima la preparazione in Atgora e ricevi un buono Galaxus da CHF 40 dopo la partecipazione.",
+      text: {
+        "App module": "Modulo nell'app",
+        "Before you come, complete the preparation module in the Swiss AI Futures course in Atgora. No AI expertise is needed.":
+          "Prima di venire, completa il modulo di preparazione nel corso Swiss AI Futures in Atgora. Non è necessaria alcuna competenza in IA.",
+        "For participants who complete the Atgora step and attend one workshop.": "Per le persone che completano il passaggio in Atgora e partecipano a un workshop.",
+        "Finish the preparation module before coming to the workshop.": "Completa il modulo di preparazione prima di venire al workshop.",
+        "Prepare in Atgora": "Prepararsi in Atgora",
+        "Scan the QR code for your phone or use the store buttons. Once Atgora is installed, open the Swiss AI Futures course and complete the workshop preparation module.":
+          "Scansiona il codice QR con il telefono o usa i pulsanti degli store. Una volta installata Atgora, apri il corso Swiss AI Futures e completa il modulo di preparazione al workshop.",
+        "Find the workshop module in Atgora": "Trova il modulo del workshop in Atgora",
+        "After downloading Atgora, open the app and go to Courses. Select the Swiss AI Futures course, open the workshop preparation module, and finish the prompts before you come to Zürich or Lausanne.":
+          "Dopo aver scaricato Atgora, apri l'app e vai su Courses. Seleziona il corso Swiss AI Futures, apri il modulo di preparazione al workshop e completa le domande prima di venire a Zurigo o Losanna.",
+        "Complete the module before coming to the Zürich or Lausanne workshop.": "Completa il modulo prima di venire al workshop di Zurigo o Losanna.",
+        "Complete the app module": "Completa il modulo nell'app",
+        "Open the Swiss AI Futures course in Atgora and finish the prompts.": "Apri il corso Swiss AI Futures in Atgora e completa le domande.",
+        "Complete the Atgora preparation before attending": "completi la preparazione in Atgora prima di partecipare",
+        "Participants who complete the Atgora step and attend one workshop receive a CHF 40 Galaxus voucher.":
+          "Le persone che completano il passaggio in Atgora e partecipano a un workshop ricevono un buono Galaxus da CHF 40.",
+        "The app module gives everyone a shared starting point before the workshop.": "Il modulo nell'app dà a tutte e tutti un punto di partenza comune prima del workshop.",
+        "Yes. Download Atgora and complete the preparation module before coming.": "Sì. Scarica Atgora e completa il modulo di preparazione prima di venire.",
+        "Participants who complete the Atgora step and attend one physical workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
+          "Le persone che completano il passaggio in Atgora e partecipano a un workshop in presenza ricevono un buono Galaxus da CHF 40. Le spese di viaggio non sono rimborsate.",
+        "The wording explains the workshop dates, the Atgora preparation step, and why this citizen-input phase matters.":
+          "Il testo spiega le date dei workshop, il passaggio di preparazione in Atgora e perché questa fase di partecipazione civica è importante.",
+        "Before attending, participants should download @gora, join the Swiss AI Futures course, and complete the preparation module in the app.":
+          "Prima di partecipare, le persone dovrebbero scaricare @gora, unirsi al corso Swiss AI Futures e completare il modulo di preparazione nell'app.",
+        "Before attending, download @gora, join the Swiss AI Futures course, and complete the preparation module in the app.":
+          "Prima di partecipare, scarica @gora, unisciti al corso Swiss AI Futures e completa il modulo di preparazione nell'app.",
+        "Complete the preparation module before attending the workshop": "Completa il modulo di preparazione prima di partecipare al workshop",
+        "Participants who complete the Atgora step and attend one workshop receive a CHF 40 Galaxus voucher.":
+          "Le persone che completano il passaggio in Atgora e partecipano a un workshop ricevono un buono Galaxus da CHF 40."
+      }
+    }
+  };
+
+  Object.entries(moduleNameTrimUpdates).forEach(([language, update]) => {
+    const target = window.SWISS_AI_I18N?.[language];
+    if (!target) return;
+    if (update.description) target.description = update.description;
+    target.text = target.text || {};
+    Object.assign(target.text, update.text);
+  });
+})();
+
+(() => {
+  const trimUpdates = {
+    de: {
+      "The next step of Swiss AI Futures is in person: a two-hour citizen workshop where people living in Switzerland discuss what AI policy should pay attention to.":
+        "Der nächste Schritt von Swiss AI Futures findet vor Ort statt: ein zweistündiger Bürgerworkshop, bei dem Menschen in der Schweiz diskutieren, worauf KI-Politik achten sollte.",
+      "Before you come, complete Big Questions in the Swiss AI Futures course in Atgora. No AI expertise is needed.":
+        "Schliessen Sie vor der Teilnahme Big Questions im Kurs Swiss AI Futures in Atgora ab. KI-Fachwissen ist nicht nötig.",
+      "Pick the session that works for you. The discussion will focus on AI, work, education, and public policy in Switzerland.":
+        "Wählen Sie den Termin, der für Sie passt. Die Diskussion konzentriert sich auf KI, Arbeit, Bildung und öffentliche Politik in der Schweiz.",
+      "This gives everyone a shared starting point before the in-person discussion.":
+        "So haben alle vor der Diskussion vor Ort einen gemeinsamen Ausgangspunkt.",
+      "Scan the QR code for your phone or use the store buttons. Once Atgora is installed, open the Swiss AI Futures course and complete Big Questions.":
+        "Scannen Sie den QR-Code mit Ihrem Smartphone oder nutzen Sie die Store-Schaltflächen. Sobald Atgora installiert ist, öffnen Sie den Kurs Swiss AI Futures und schliessen Sie Big Questions ab.",
+      "Three steps: prepare in Atgora, join one workshop, and receive the voucher after taking part.":
+        "Drei Schritte: in Atgora vorbereiten, an einem Workshop teilnehmen und danach den Gutschein erhalten.",
+      "Prepare": "Vorbereiten",
+      "Open the Swiss AI Futures course in Atgora and complete the prompts.":
+        "Öffnen Sie den Kurs Swiss AI Futures in Atgora und beantworten Sie die Fragen.",
+      "Discuss": "Diskutieren",
+      "Join one session": "An einem Termin teilnehmen",
+      "Attend the Zürich or Lausanne workshop and take part in the moderated discussion.":
+        "Nehmen Sie am Workshop in Zürich oder Lausanne und an der moderierten Diskussion teil.",
+      "Receive CHF 40": "CHF 40 erhalten",
+      "After completing the app step and attending the workshop, you receive a Galaxus voucher.":
+        "Nach Abschluss des App-Schritts und Teilnahme am Workshop erhalten Sie einen Galaxus-Gutschein.",
+      "What you receive": "Was Sie erhalten",
+      "Participants who complete Big Questions and attend one workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
+        "Teilnehmende, die Big Questions abschliessen und an einem Workshop teilnehmen, erhalten einen Galaxus-Gutschein über CHF 40. Reisekosten werden nicht erstattet.",
+      "Big Questions gives everyone a shared starting point before the workshop.":
+        "Big Questions gibt allen vor dem Workshop einen gemeinsamen Ausgangspunkt.",
+      "Yes. Download Atgora and finish Big Questions before coming.":
+        "Ja. Laden Sie Atgora herunter und schliessen Sie Big Questions ab, bevor Sie kommen."
+    },
+    fr: {
+      "The next step of Swiss AI Futures is in person: a two-hour citizen workshop where people living in Switzerland discuss what AI policy should pay attention to.":
+        "La prochaine étape de Swiss AI Futures se déroule en présence: un atelier citoyen de deux heures où les personnes vivant en Suisse discutent de ce à quoi la politique de l'IA devrait prêter attention.",
+      "Before you come, complete Big Questions in the Swiss AI Futures course in Atgora. No AI expertise is needed.":
+        "Avant de venir, terminez Big Questions dans le cours Swiss AI Futures dans Atgora. Aucune expertise en IA n'est nécessaire.",
+      "Pick the session that works for you. The discussion will focus on AI, work, education, and public policy in Switzerland.":
+        "Choisissez la séance qui vous convient. La discussion portera sur l'IA, le travail, l'éducation et les politiques publiques en Suisse.",
+      "This gives everyone a shared starting point before the in-person discussion.":
+        "Cela donne à tout le monde un point de départ commun avant la discussion en présence.",
+      "Scan the QR code for your phone or use the store buttons. Once Atgora is installed, open the Swiss AI Futures course and complete Big Questions.":
+        "Scannez le code QR avec votre téléphone ou utilisez les boutons des stores. Une fois Atgora installée, ouvrez le cours Swiss AI Futures et terminez Big Questions.",
+      "Three steps: prepare in Atgora, join one workshop, and receive the voucher after taking part.":
+        "Trois étapes: se préparer dans Atgora, participer à un atelier, puis recevoir le bon.",
+      "Prepare": "Préparer",
+      "Open the Swiss AI Futures course in Atgora and complete the prompts.":
+        "Ouvrez le cours Swiss AI Futures dans Atgora et répondez aux questions.",
+      "Discuss": "Discuter",
+      "Join one session": "Participer à une séance",
+      "Attend the Zürich or Lausanne workshop and take part in the moderated discussion.":
+        "Participez à l'atelier de Zurich ou de Lausanne et à la discussion modérée.",
+      "Receive CHF 40": "Recevoir CHF 40",
+      "After completing the app step and attending the workshop, you receive a Galaxus voucher.":
+        "Après avoir terminé l'étape dans l'app et participé à l'atelier, vous recevez un bon Galaxus.",
+      "What you receive": "Ce que vous recevez",
+      "Participants who complete Big Questions and attend one workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
+        "Les personnes qui terminent Big Questions et participent à un atelier reçoivent un bon Galaxus de CHF 40. Les frais de déplacement ne sont pas remboursés.",
+      "Big Questions gives everyone a shared starting point before the workshop.":
+        "Big Questions donne à tout le monde un point de départ commun avant l'atelier.",
+      "Yes. Download Atgora and finish Big Questions before coming.":
+        "Oui. Téléchargez Atgora et terminez Big Questions avant de venir."
+    },
+    it: {
+      "The next step of Swiss AI Futures is in person: a two-hour citizen workshop where people living in Switzerland discuss what AI policy should pay attention to.":
+        "La prossima fase di Swiss AI Futures si svolge in presenza: un workshop cittadino di due ore in cui le persone che vivono in Svizzera discutono a cosa dovrebbe prestare attenzione la politica sull'IA.",
+      "Before you come, complete Big Questions in the Swiss AI Futures course in Atgora. No AI expertise is needed.":
+        "Prima di venire, completa Big Questions nel corso Swiss AI Futures in Atgora. Non è necessaria alcuna competenza in IA.",
+      "Pick the session that works for you. The discussion will focus on AI, work, education, and public policy in Switzerland.":
+        "Scegli la sessione più adatta a te. La discussione si concentrerà su IA, lavoro, educazione e politiche pubbliche in Svizzera.",
+      "This gives everyone a shared starting point before the in-person discussion.":
+        "Questo dà a tutte e tutti un punto di partenza comune prima della discussione in presenza.",
+      "Scan the QR code for your phone or use the store buttons. Once Atgora is installed, open the Swiss AI Futures course and complete Big Questions.":
+        "Scansiona il codice QR con il telefono o usa i pulsanti degli store. Una volta installata Atgora, apri il corso Swiss AI Futures e completa Big Questions.",
+      "Three steps: prepare in Atgora, join one workshop, and receive the voucher after taking part.":
+        "Tre passaggi: prepararsi in Atgora, partecipare a un workshop e ricevere il buono dopo la partecipazione.",
+      "Prepare": "Preparare",
+      "Open the Swiss AI Futures course in Atgora and complete the prompts.":
+        "Apri il corso Swiss AI Futures in Atgora e completa le domande.",
+      "Discuss": "Discutere",
+      "Join one session": "Partecipa a una sessione",
+      "Attend the Zürich or Lausanne workshop and take part in the moderated discussion.":
+        "Partecipa al workshop di Zurigo o Losanna e alla discussione moderata.",
+      "Receive CHF 40": "Ricevi CHF 40",
+      "After completing the app step and attending the workshop, you receive a Galaxus voucher.":
+        "Dopo aver completato il passaggio nell'app e partecipato al workshop, riceverai un buono Galaxus.",
+      "What you receive": "Cosa ricevi",
+      "Participants who complete Big Questions and attend one workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
+        "Le persone che completano Big Questions e partecipano a un workshop ricevono un buono Galaxus da CHF 40. Le spese di viaggio non sono rimborsate.",
+      "Big Questions gives everyone a shared starting point before the workshop.":
+        "Big Questions dà a tutte e tutti un punto di partenza comune prima del workshop.",
+      "Yes. Download Atgora and finish Big Questions before coming.":
+        "Sì. Scarica Atgora e completa Big Questions prima di venire."
+    }
+  };
+
+  Object.entries(trimUpdates).forEach(([language, text]) => {
+    const target = window.SWISS_AI_I18N?.[language];
+    if (!target) return;
+    target.text = target.text || {};
+    Object.assign(target.text, text);
+  });
+})();
+
+(() => {
+  const repetitionTrimUpdates = {
+    de: {
+      "Before you come, complete the short app step in the Swiss AI Futures course in Atgora. No AI expertise is needed.":
+        "Schliessen Sie vor der Teilnahme den kurzen App-Schritt im Kurs Swiss AI Futures in Atgora ab. KI-Fachwissen ist nicht nötig.",
+      "Finish the short prompts before coming to the workshop.": "Beantworten Sie die kurzen Fragen, bevor Sie zum Workshop kommen.",
+      "Scan the QR code for your phone or use the store buttons. Once Atgora is installed, open the Swiss AI Futures course and complete the short prompts.":
+        "Scannen Sie den QR-Code mit Ihrem Smartphone oder nutzen Sie die Store-Schaltflächen. Sobald Atgora installiert ist, öffnen Sie den Kurs Swiss AI Futures und beantworten Sie die kurzen Fragen.",
+      "After downloading Atgora, open the app and go to Courses. Select the Swiss AI Futures course, open the module shown below, and finish the prompts before you come to Zürich or Lausanne.":
+        "Öffnen Sie nach dem Herunterladen von Atgora die App und gehen Sie zu Kurse. Wählen Sie den Kurs Swiss AI Futures, öffnen Sie das unten gezeigte Modul und beantworten Sie die Fragen, bevor Sie nach Zürich oder Lausanne kommen.",
+      "Yes. Download Atgora and finish the app step before coming.": "Ja. Laden Sie Atgora herunter und schliessen Sie den App-Schritt ab, bevor Sie kommen.",
+      "Before attending, participants should download @gora, join the Swiss AI Futures course, and finish the short app step.":
+        "Vor der Teilnahme sollten Teilnehmende @gora herunterladen, dem Kurs Swiss AI Futures beitreten und den kurzen App-Schritt abschliessen.",
+      "Before attending, download @gora, join the Swiss AI Futures course, and finish the short app step.":
+        "Laden Sie vor der Teilnahme @gora herunter, treten Sie dem Kurs Swiss AI Futures bei und schliessen Sie den kurzen App-Schritt ab.",
+      "Finish the app step before attending the workshop": "Den App-Schritt vor dem Workshop abschliessen"
+    },
+    fr: {
+      "Before you come, complete the short app step in the Swiss AI Futures course in Atgora. No AI expertise is needed.":
+        "Avant de venir, terminez la courte étape dans l'app dans le cours Swiss AI Futures dans Atgora. Aucune expertise en IA n'est nécessaire.",
+      "Finish the short prompts before coming to the workshop.": "Terminez les courtes questions avant de venir à l'atelier.",
+      "Scan the QR code for your phone or use the store buttons. Once Atgora is installed, open the Swiss AI Futures course and complete the short prompts.":
+        "Scannez le code QR avec votre téléphone ou utilisez les boutons des stores. Une fois Atgora installée, ouvrez le cours Swiss AI Futures et terminez les courtes questions.",
+      "After downloading Atgora, open the app and go to Courses. Select the Swiss AI Futures course, open the module shown below, and finish the prompts before you come to Zürich or Lausanne.":
+        "Après avoir téléchargé Atgora, ouvrez l'app et allez dans Courses. Sélectionnez le cours Swiss AI Futures, ouvrez le module ci-dessous et terminez les questions avant de venir à Zurich ou Lausanne.",
+      "Yes. Download Atgora and finish the app step before coming.": "Oui. Téléchargez Atgora et terminez l'étape dans l'app avant de venir.",
+      "Before attending, participants should download @gora, join the Swiss AI Futures course, and finish the short app step.":
+        "Avant de participer, les personnes devraient télécharger @gora, rejoindre le cours Swiss AI Futures et terminer la courte étape dans l'app.",
+      "Before attending, download @gora, join the Swiss AI Futures course, and finish the short app step.":
+        "Avant de participer, téléchargez @gora, rejoignez le cours Swiss AI Futures et terminez la courte étape dans l'app.",
+      "Finish the app step before attending the workshop": "Terminer l'étape dans l'app avant de participer à l'atelier"
+    },
+    it: {
+      "Before you come, complete the short app step in the Swiss AI Futures course in Atgora. No AI expertise is needed.":
+        "Prima di venire, completa il breve passaggio nell'app nel corso Swiss AI Futures in Atgora. Non è necessaria alcuna competenza in IA.",
+      "Finish the short prompts before coming to the workshop.": "Completa le brevi domande prima di venire al workshop.",
+      "Scan the QR code for your phone or use the store buttons. Once Atgora is installed, open the Swiss AI Futures course and complete the short prompts.":
+        "Scansiona il codice QR con il telefono o usa i pulsanti degli store. Una volta installata Atgora, apri il corso Swiss AI Futures e completa le brevi domande.",
+      "After downloading Atgora, open the app and go to Courses. Select the Swiss AI Futures course, open the module shown below, and finish the prompts before you come to Zürich or Lausanne.":
+        "Dopo aver scaricato Atgora, apri l'app e vai su Courses. Seleziona il corso Swiss AI Futures, apri il modulo mostrato sotto e completa le domande prima di venire a Zurigo o Losanna.",
+      "Yes. Download Atgora and finish the app step before coming.": "Sì. Scarica Atgora e completa il passaggio nell'app prima di venire.",
+      "Before attending, participants should download @gora, join the Swiss AI Futures course, and finish the short app step.":
+        "Prima di partecipare, le persone dovrebbero scaricare @gora, unirsi al corso Swiss AI Futures e completare il breve passaggio nell'app.",
+      "Before attending, download @gora, join the Swiss AI Futures course, and finish the short app step.":
+        "Prima di partecipare, scarica @gora, unisciti al corso Swiss AI Futures e completa il breve passaggio nell'app.",
+      "Finish the app step before attending the workshop": "Completa il passaggio nell'app prima di partecipare al workshop"
+    }
+  };
+
+  Object.entries(repetitionTrimUpdates).forEach(([language, text]) => {
+    const target = window.SWISS_AI_I18N?.[language];
+    if (!target) return;
+    target.text = target.text || {};
+    Object.assign(target.text, text);
+  });
+})();
+
+(() => {
+  const streamlinedPageUpdates = {
+    de: {
+      "Why attend": "Warum teilnehmen",
+      "Practical details": "Praktische Details",
+      "Share": "Teilen",
+      "Team": "Team",
+      "What to know before attending": "Was Sie vor der Teilnahme wissen sollten",
+      "Who can attend?": "Wer kann teilnehmen?",
+      "You can take part if you live in Switzerland, are 18 or older, can use Atgora on a personal smartphone, finish the app step before attending, and can join one workshop in Zürich or Lausanne.":
+        "Sie können teilnehmen, wenn Sie in der Schweiz wohnen, 18 Jahre oder älter sind, Atgora auf einem persönlichen Smartphone nutzen können, den App-Schritt vor der Teilnahme abschliessen und an einem Workshop in Zürich oder Lausanne teilnehmen können.",
+      "No. The app includes short prompts to help participants engage with the topic.":
+        "Nein. Die App enthält kurze Fragen, die den Einstieg ins Thema erleichtern.",
+      "Why do I need to use Atgora before the workshop?": "Warum muss ich Atgora vor dem Workshop nutzen?",
+      "The short app step gives everyone a shared starting point and helps the research team prepare the in-person discussion.":
+        "Der kurze App-Schritt gibt allen einen gemeinsamen Ausgangspunkt und hilft dem Forschungsteam, die Diskussion vor Ort vorzubereiten.",
+      "What data is collected?": "Welche Daten werden erhoben?",
+      "ETH Zurich is responsible for the research data. The study uses contact details for communication, workshop coordination, and voucher administration, plus survey responses, demographic profile information, app votes, short written responses, and participation or completion information. Identifying information is stored separately from coded research data.":
+        "ETH Zürich ist für die Forschungsdaten verantwortlich. Die Studie nutzt Kontaktdaten für Kommunikation, Workshop-Koordination und Gutscheinverwaltung sowie Umfrageantworten, demografische Profilinformationen, App-Abstimmungen, kurze schriftliche Antworten und Teilnahme- oder Abschlussinformationen. Identifizierende Informationen werden getrennt von codierten Forschungsdaten gespeichert."
+    },
+    fr: {
+      "Why attend": "Pourquoi participer",
+      "Practical details": "Détails pratiques",
+      "Share": "Partager",
+      "Team": "Équipe",
+      "What to know before attending": "Ce qu'il faut savoir avant de participer",
+      "Who can attend?": "Qui peut participer?",
+      "You can take part if you live in Switzerland, are 18 or older, can use Atgora on a personal smartphone, finish the app step before attending, and can join one workshop in Zürich or Lausanne.":
+        "Vous pouvez participer si vous vivez en Suisse, avez 18 ans ou plus, pouvez utiliser Atgora sur un smartphone personnel, terminez l'étape dans l'app avant de participer et pouvez rejoindre un atelier à Zurich ou Lausanne.",
+      "No. The app includes short prompts to help participants engage with the topic.":
+        "Non. L'app comprend de courtes questions pour aider les participantes et participants à entrer dans le sujet.",
+      "Why do I need to use Atgora before the workshop?": "Pourquoi dois-je utiliser Atgora avant l'atelier?",
+      "The short app step gives everyone a shared starting point and helps the research team prepare the in-person discussion.":
+        "La courte étape dans l'app donne à tout le monde un point de départ commun et aide l'équipe de recherche à préparer la discussion en présence.",
+      "What data is collected?": "Quelles données sont collectées?",
+      "ETH Zurich is responsible for the research data. The study uses contact details for communication, workshop coordination, and voucher administration, plus survey responses, demographic profile information, app votes, short written responses, and participation or completion information. Identifying information is stored separately from coded research data.":
+        "L'ETH Zurich est responsable des données de recherche. L'étude utilise les coordonnées pour la communication, la coordination de l'atelier et l'administration des bons, ainsi que les réponses aux sondages, les informations de profil démographique, les votes dans l'app, les courtes réponses écrites et les informations de participation ou d'achèvement. Les informations d'identification sont stockées séparément des données de recherche codées."
+    },
+    it: {
+      "Why attend": "Perché partecipare",
+      "Practical details": "Dettagli pratici",
+      "Share": "Condividi",
+      "Team": "Team",
+      "What to know before attending": "Cosa sapere prima di partecipare",
+      "Who can attend?": "Chi può partecipare?",
+      "You can take part if you live in Switzerland, are 18 or older, can use Atgora on a personal smartphone, finish the app step before attending, and can join one workshop in Zürich or Lausanne.":
+        "Puoi partecipare se vivi in Svizzera, hai almeno 18 anni, puoi usare Atgora su uno smartphone personale, completi il passaggio nell'app prima di partecipare e puoi prendere parte a un workshop a Zurigo o Losanna.",
+      "No. The app includes short prompts to help participants engage with the topic.":
+        "No. L'app include brevi domande per aiutare le persone partecipanti a entrare nel tema.",
+      "Why do I need to use Atgora before the workshop?": "Perché devo usare Atgora prima del workshop?",
+      "The short app step gives everyone a shared starting point and helps the research team prepare the in-person discussion.":
+        "Il breve passaggio nell'app dà a tutte e tutti un punto di partenza comune e aiuta il team di ricerca a preparare la discussione in presenza.",
+      "What data is collected?": "Quali dati vengono raccolti?",
+      "ETH Zurich is responsible for the research data. The study uses contact details for communication, workshop coordination, and voucher administration, plus survey responses, demographic profile information, app votes, short written responses, and participation or completion information. Identifying information is stored separately from coded research data.":
+        "L'ETH Zurigo è responsabile dei dati di ricerca. Lo studio utilizza i dati di contatto per la comunicazione, il coordinamento del workshop e la gestione dei buoni, oltre a risposte ai sondaggi, informazioni demografiche, voti nell'app, brevi risposte scritte e informazioni di partecipazione o completamento. Le informazioni identificative sono conservate separatamente dai dati di ricerca codificati."
+    }
+  };
+
+  Object.entries(streamlinedPageUpdates).forEach(([language, text]) => {
+    const target = window.SWISS_AI_I18N?.[language];
+    if (!target) return;
+    target.text = target.text || {};
+    Object.assign(target.text, text);
+  });
+})();
+
+(() => {
+  const aperoUpdates = {
+    de: {
+      "Optional apéro afterwards for anyone who wants to keep talking with fellow citizens.":
+        "Im Anschluss gibt es optional einen Apéro für alle, die mit anderen Bürgerinnen und Bürgern weiterdiskutieren möchten.",
+      "Is there an apéro afterwards?": "Gibt es danach einen Apéro?",
+      "Yes. After the workshop, there will be an optional apéro for anyone who wants to continue the conversation with fellow citizens.":
+        "Ja. Nach dem Workshop gibt es optional einen Apéro für alle, die das Gespräch mit anderen Bürgerinnen und Bürgern fortsetzen möchten."
+    },
+    fr: {
+      "Optional apéro afterwards for anyone who wants to keep talking with fellow citizens.":
+        "Un apéritif facultatif est prévu ensuite pour celles et ceux qui souhaitent continuer la discussion avec d'autres citoyennes et citoyens.",
+      "Is there an apéro afterwards?": "Y a-t-il un apéritif après l'atelier?",
+      "Yes. After the workshop, there will be an optional apéro for anyone who wants to continue the conversation with fellow citizens.":
+        "Oui. Après l'atelier, un apéritif facultatif est prévu pour celles et ceux qui souhaitent poursuivre la conversation avec d'autres citoyennes et citoyens."
+    },
+    it: {
+      "Optional apéro afterwards for anyone who wants to keep talking with fellow citizens.":
+        "Dopo il workshop è previsto un aperitivo facoltativo per chi vuole continuare a parlare con altre cittadine e altri cittadini.",
+      "Is there an apéro afterwards?": "C'è un aperitivo dopo il workshop?",
+      "Yes. After the workshop, there will be an optional apéro for anyone who wants to continue the conversation with fellow citizens.":
+        "Sì. Dopo il workshop è previsto un aperitivo facoltativo per chi vuole continuare la conversazione con altre cittadine e altri cittadini."
+    }
+  };
+
+  Object.entries(aperoUpdates).forEach(([language, text]) => {
+    const target = window.SWISS_AI_I18N?.[language];
+    if (!target) return;
+    target.text = target.text || {};
+    Object.assign(target.text, text);
+  });
+})();
+
+(() => {
+  const workshopFormatUpdates = {
+    de: {
+      "What will the workshop format be?": "Wie ist der Workshop aufgebaut?",
+      "We will discuss one topic using an AI-supported deliberation tool and another topic with a human moderator. If enough people on site prefer the same language, we will try to provide a moderator who can moderate in that language.":
+        "Wir diskutieren ein Thema mit einem KI-gestützten Deliberationstool und ein weiteres Thema mit einer menschlichen Moderation. Wenn genügend Personen vor Ort dieselbe Sprache bevorzugen, versuchen wir, eine Moderation bereitzustellen, die in dieser Sprache moderieren kann."
+    },
+    fr: {
+      "What will the workshop format be?": "Quel sera le format de l'atelier?",
+      "We will discuss one topic using an AI-supported deliberation tool and another topic with a human moderator. If enough people on site prefer the same language, we will try to provide a moderator who can moderate in that language.":
+        "Nous discuterons d'un thème avec un outil de délibération assistée par IA et d'un autre thème avec une modératrice ou un modérateur humain. Si suffisamment de personnes sur place préfèrent la même langue, nous essaierons de proposer une modération dans cette langue."
+    },
+    it: {
+      "What will the workshop format be?": "Quale sarà il formato del workshop?",
+      "We will discuss one topic using an AI-supported deliberation tool and another topic with a human moderator. If enough people on site prefer the same language, we will try to provide a moderator who can moderate in that language.":
+        "Discuteremo un tema con uno strumento di deliberazione supportato dall'IA e un altro tema con una moderatrice o un moderatore umano. Se abbastanza persone presenti preferiscono la stessa lingua, cercheremo di offrire una moderazione in quella lingua."
+    }
+  };
+
+  Object.entries(workshopFormatUpdates).forEach(([language, text]) => {
+    const target = window.SWISS_AI_I18N?.[language];
+    if (!target) return;
+    target.text = target.text || {};
+    Object.assign(target.text, text);
+  });
+})();
