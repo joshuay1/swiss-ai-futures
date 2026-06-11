@@ -2746,3 +2746,54 @@ window.SWISS_AI_I18N.it = {
     Object.assign(target.text, text);
   });
 })();
+
+(() => {
+  const venueUpdates = {
+    de: {
+      "ETH Zurich HG (main building), Room E33.1": "ETH Zürich HG (Hauptgebäude), Raum E33.1",
+      "Zürich is Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. Lausanne is Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL.":
+        "Zürich ist am Donnerstag, 18. Juni 2026, von 14.00 bis 16.00 Uhr an der ETH Zürich HG (Hauptgebäude), Raum E33.1. Lausanne ist am Freitag, 19. Juni 2026, von 14.00 bis 16.00 Uhr an der UNIL.",
+      "The workshops are in Zürich on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1, and in Lausanne on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL.":
+        "Die Workshops finden in Zürich am Donnerstag, 18. Juni 2026, von 14.00 bis 16.00 Uhr an der ETH Zürich HG (Hauptgebäude), Raum E33.1, und in Lausanne am Freitag, 19. Juni 2026, von 14.00 bis 16.00 Uhr an der UNIL statt.",
+      "Zürich: Thursday, June 18, 2026, 2:00-4:00 pm, ETH Zurich HG (main building), Room E33.1":
+        "Zürich: Donnerstag, 18. Juni 2026, 14.00-16.00 Uhr, ETH Zürich HG (Hauptgebäude), Raum E33.1",
+      "Lausanne: Friday, June 19, 2026, 2:00-4:00 pm, UNIL":
+        "Lausanne: Freitag, 19. Juni 2026, 14.00-16.00 Uhr, UNIL",
+      "The Zürich workshop takes place on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. The Lausanne workshop takes place on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL.":
+        "Der Workshop in Zürich findet am Donnerstag, 18. Juni 2026, von 14.00 bis 16.00 Uhr an der ETH Zürich HG (Hauptgebäude), Raum E33.1, statt. Der Workshop in Lausanne findet am Freitag, 19. Juni 2026, von 14.00 bis 16.00 Uhr an der UNIL statt."
+    },
+    fr: {
+      "ETH Zurich HG (main building), Room E33.1": "ETH Zurich HG (bâtiment principal), salle E33.1",
+      "Zürich is Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. Lausanne is Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL.":
+        "Zurich a lieu le jeudi 18 juin 2026 de 14 h à 16 h à l'ETH Zurich HG (bâtiment principal), salle E33.1. Lausanne a lieu le vendredi 19 juin 2026 de 14 h à 16 h à l'UNIL.",
+      "The workshops are in Zürich on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1, and in Lausanne on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL.":
+        "Les ateliers ont lieu à Zurich le jeudi 18 juin 2026 de 14 h à 16 h à l'ETH Zurich HG (bâtiment principal), salle E33.1, et à Lausanne le vendredi 19 juin 2026 de 14 h à 16 h à l'UNIL.",
+      "Zürich: Thursday, June 18, 2026, 2:00-4:00 pm, ETH Zurich HG (main building), Room E33.1":
+        "Zurich: jeudi 18 juin 2026, 14 h-16 h, ETH Zurich HG (bâtiment principal), salle E33.1",
+      "Lausanne: Friday, June 19, 2026, 2:00-4:00 pm, UNIL":
+        "Lausanne: vendredi 19 juin 2026, 14 h-16 h, UNIL",
+      "The Zürich workshop takes place on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. The Lausanne workshop takes place on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL.":
+        "L'atelier de Zurich a lieu le jeudi 18 juin 2026 de 14 h à 16 h à l'ETH Zurich HG (bâtiment principal), salle E33.1. L'atelier de Lausanne a lieu le vendredi 19 juin 2026 de 14 h à 16 h à l'UNIL."
+    },
+    it: {
+      "ETH Zurich HG (main building), Room E33.1": "ETH Zurigo HG (edificio principale), aula E33.1",
+      "Zürich is Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. Lausanne is Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL.":
+        "Zurigo è giovedì 18 giugno 2026, dalle 14:00 alle 16:00, all'ETH Zurigo HG (edificio principale), aula E33.1. Losanna è venerdì 19 giugno 2026, dalle 14:00 alle 16:00, all'UNIL.",
+      "The workshops are in Zürich on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1, and in Lausanne on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL.":
+        "I workshop si svolgono a Zurigo giovedì 18 giugno 2026, dalle 14:00 alle 16:00, all'ETH Zurigo HG (edificio principale), aula E33.1, e a Losanna venerdì 19 giugno 2026, dalle 14:00 alle 16:00, all'UNIL.",
+      "Zürich: Thursday, June 18, 2026, 2:00-4:00 pm, ETH Zurich HG (main building), Room E33.1":
+        "Zurigo: giovedì 18 giugno 2026, 14:00-16:00, ETH Zurigo HG (edificio principale), aula E33.1",
+      "Lausanne: Friday, June 19, 2026, 2:00-4:00 pm, UNIL":
+        "Losanna: venerdì 19 giugno 2026, 14:00-16:00, UNIL",
+      "The Zürich workshop takes place on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. The Lausanne workshop takes place on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL.":
+        "Il workshop di Zurigo si svolge giovedì 18 giugno 2026, dalle 14:00 alle 16:00, all'ETH Zurigo HG (edificio principale), aula E33.1. Il workshop di Losanna si svolge venerdì 19 giugno 2026, dalle 14:00 alle 16:00, all'UNIL."
+    }
+  };
+
+  Object.entries(venueUpdates).forEach(([language, text]) => {
+    const target = window.SWISS_AI_I18N?.[language];
+    if (!target) return;
+    target.text = target.text || {};
+    Object.assign(target.text, text);
+  });
+})();

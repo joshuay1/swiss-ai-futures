@@ -500,6 +500,14 @@ h3 {
   line-height: 1.1;
 }
 
+.workshop-location {
+  margin: 0;
+  color: var(--muted);
+  font-size: var(--type-small);
+  font-weight: 800;
+  line-height: 1.25;
+}
+
 .voucher-callout,
 .voucher-strip {
   margin-top: 22px;
