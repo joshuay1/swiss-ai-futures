@@ -2751,42 +2751,45 @@ window.SWISS_AI_I18N.it = {
   const venueUpdates = {
     de: {
       "ETH Zurich HG (main building), Room E33.1": "ETH Zürich HG (Hauptgebäude), Raum E33.1",
-      "Zürich is Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. Lausanne is Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL.":
-        "Zürich ist am Donnerstag, 18. Juni 2026, von 14.00 bis 16.00 Uhr an der ETH Zürich HG (Hauptgebäude), Raum E33.1. Lausanne ist am Freitag, 19. Juni 2026, von 14.00 bis 16.00 Uhr an der UNIL.",
-      "The workshops are in Zürich on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1, and in Lausanne on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL.":
-        "Die Workshops finden in Zürich am Donnerstag, 18. Juni 2026, von 14.00 bis 16.00 Uhr an der ETH Zürich HG (Hauptgebäude), Raum E33.1, und in Lausanne am Freitag, 19. Juni 2026, von 14.00 bis 16.00 Uhr an der UNIL statt.",
+      "UNIL (Exact room to be confirmed)": "UNIL (genauer Raum wird noch bestätigt)",
+      "Zürich is Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. Lausanne is Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL (Exact room to be confirmed).":
+        "Zürich ist am Donnerstag, 18. Juni 2026, von 14.00 bis 16.00 Uhr an der ETH Zürich HG (Hauptgebäude), Raum E33.1. Lausanne ist am Freitag, 19. Juni 2026, von 14.00 bis 16.00 Uhr an der UNIL (genauer Raum wird noch bestätigt).",
+      "The workshops are in Zürich on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1, and in Lausanne on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL (Exact room to be confirmed).":
+        "Die Workshops finden in Zürich am Donnerstag, 18. Juni 2026, von 14.00 bis 16.00 Uhr an der ETH Zürich HG (Hauptgebäude), Raum E33.1, und in Lausanne am Freitag, 19. Juni 2026, von 14.00 bis 16.00 Uhr an der UNIL (genauer Raum wird noch bestätigt) statt.",
       "Zürich: Thursday, June 18, 2026, 2:00-4:00 pm, ETH Zurich HG (main building), Room E33.1":
         "Zürich: Donnerstag, 18. Juni 2026, 14.00-16.00 Uhr, ETH Zürich HG (Hauptgebäude), Raum E33.1",
-      "Lausanne: Friday, June 19, 2026, 2:00-4:00 pm, UNIL":
-        "Lausanne: Freitag, 19. Juni 2026, 14.00-16.00 Uhr, UNIL",
-      "The Zürich workshop takes place on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. The Lausanne workshop takes place on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL.":
-        "Der Workshop in Zürich findet am Donnerstag, 18. Juni 2026, von 14.00 bis 16.00 Uhr an der ETH Zürich HG (Hauptgebäude), Raum E33.1, statt. Der Workshop in Lausanne findet am Freitag, 19. Juni 2026, von 14.00 bis 16.00 Uhr an der UNIL statt."
+      "Lausanne: Friday, June 19, 2026, 2:00-4:00 pm, UNIL (Exact room to be confirmed)":
+        "Lausanne: Freitag, 19. Juni 2026, 14.00-16.00 Uhr, UNIL (genauer Raum wird noch bestätigt)",
+      "The Zürich workshop takes place on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. The Lausanne workshop takes place on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL (Exact room to be confirmed).":
+        "Der Workshop in Zürich findet am Donnerstag, 18. Juni 2026, von 14.00 bis 16.00 Uhr an der ETH Zürich HG (Hauptgebäude), Raum E33.1, statt. Der Workshop in Lausanne findet am Freitag, 19. Juni 2026, von 14.00 bis 16.00 Uhr an der UNIL (genauer Raum wird noch bestätigt) statt."
     },
     fr: {
       "ETH Zurich HG (main building), Room E33.1": "ETH Zurich HG (bâtiment principal), salle E33.1",
-      "Zürich is Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. Lausanne is Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL.":
-        "Zurich a lieu le jeudi 18 juin 2026 de 14 h à 16 h à l'ETH Zurich HG (bâtiment principal), salle E33.1. Lausanne a lieu le vendredi 19 juin 2026 de 14 h à 16 h à l'UNIL.",
-      "The workshops are in Zürich on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1, and in Lausanne on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL.":
-        "Les ateliers ont lieu à Zurich le jeudi 18 juin 2026 de 14 h à 16 h à l'ETH Zurich HG (bâtiment principal), salle E33.1, et à Lausanne le vendredi 19 juin 2026 de 14 h à 16 h à l'UNIL.",
+      "UNIL (Exact room to be confirmed)": "UNIL (salle exacte à confirmer)",
+      "Zürich is Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. Lausanne is Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL (Exact room to be confirmed).":
+        "Zurich a lieu le jeudi 18 juin 2026 de 14 h à 16 h à l'ETH Zurich HG (bâtiment principal), salle E33.1. Lausanne a lieu le vendredi 19 juin 2026 de 14 h à 16 h à l'UNIL (salle exacte à confirmer).",
+      "The workshops are in Zürich on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1, and in Lausanne on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL (Exact room to be confirmed).":
+        "Les ateliers ont lieu à Zurich le jeudi 18 juin 2026 de 14 h à 16 h à l'ETH Zurich HG (bâtiment principal), salle E33.1, et à Lausanne le vendredi 19 juin 2026 de 14 h à 16 h à l'UNIL (salle exacte à confirmer).",
       "Zürich: Thursday, June 18, 2026, 2:00-4:00 pm, ETH Zurich HG (main building), Room E33.1":
         "Zurich: jeudi 18 juin 2026, 14 h-16 h, ETH Zurich HG (bâtiment principal), salle E33.1",
-      "Lausanne: Friday, June 19, 2026, 2:00-4:00 pm, UNIL":
-        "Lausanne: vendredi 19 juin 2026, 14 h-16 h, UNIL",
-      "The Zürich workshop takes place on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. The Lausanne workshop takes place on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL.":
-        "L'atelier de Zurich a lieu le jeudi 18 juin 2026 de 14 h à 16 h à l'ETH Zurich HG (bâtiment principal), salle E33.1. L'atelier de Lausanne a lieu le vendredi 19 juin 2026 de 14 h à 16 h à l'UNIL."
+      "Lausanne: Friday, June 19, 2026, 2:00-4:00 pm, UNIL (Exact room to be confirmed)":
+        "Lausanne: vendredi 19 juin 2026, 14 h-16 h, UNIL (salle exacte à confirmer)",
+      "The Zürich workshop takes place on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. The Lausanne workshop takes place on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL (Exact room to be confirmed).":
+        "L'atelier de Zurich a lieu le jeudi 18 juin 2026 de 14 h à 16 h à l'ETH Zurich HG (bâtiment principal), salle E33.1. L'atelier de Lausanne a lieu le vendredi 19 juin 2026 de 14 h à 16 h à l'UNIL (salle exacte à confirmer)."
     },
     it: {
       "ETH Zurich HG (main building), Room E33.1": "ETH Zurigo HG (edificio principale), aula E33.1",
-      "Zürich is Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. Lausanne is Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL.":
-        "Zurigo è giovedì 18 giugno 2026, dalle 14:00 alle 16:00, all'ETH Zurigo HG (edificio principale), aula E33.1. Losanna è venerdì 19 giugno 2026, dalle 14:00 alle 16:00, all'UNIL.",
-      "The workshops are in Zürich on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1, and in Lausanne on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL.":
-        "I workshop si svolgono a Zurigo giovedì 18 giugno 2026, dalle 14:00 alle 16:00, all'ETH Zurigo HG (edificio principale), aula E33.1, e a Losanna venerdì 19 giugno 2026, dalle 14:00 alle 16:00, all'UNIL.",
+      "UNIL (Exact room to be confirmed)": "UNIL (aula esatta da confermare)",
+      "Zürich is Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. Lausanne is Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL (Exact room to be confirmed).":
+        "Zurigo è giovedì 18 giugno 2026, dalle 14:00 alle 16:00, all'ETH Zurigo HG (edificio principale), aula E33.1. Losanna è venerdì 19 giugno 2026, dalle 14:00 alle 16:00, all'UNIL (aula esatta da confermare).",
+      "The workshops are in Zürich on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1, and in Lausanne on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL (Exact room to be confirmed).":
+        "I workshop si svolgono a Zurigo giovedì 18 giugno 2026, dalle 14:00 alle 16:00, all'ETH Zurigo HG (edificio principale), aula E33.1, e a Losanna venerdì 19 giugno 2026, dalle 14:00 alle 16:00, all'UNIL (aula esatta da confermare).",
       "Zürich: Thursday, June 18, 2026, 2:00-4:00 pm, ETH Zurich HG (main building), Room E33.1":
         "Zurigo: giovedì 18 giugno 2026, 14:00-16:00, ETH Zurigo HG (edificio principale), aula E33.1",
-      "Lausanne: Friday, June 19, 2026, 2:00-4:00 pm, UNIL":
-        "Losanna: venerdì 19 giugno 2026, 14:00-16:00, UNIL",
-      "The Zürich workshop takes place on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. The Lausanne workshop takes place on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL.":
-        "Il workshop di Zurigo si svolge giovedì 18 giugno 2026, dalle 14:00 alle 16:00, all'ETH Zurigo HG (edificio principale), aula E33.1. Il workshop di Losanna si svolge venerdì 19 giugno 2026, dalle 14:00 alle 16:00, all'UNIL."
+      "Lausanne: Friday, June 19, 2026, 2:00-4:00 pm, UNIL (Exact room to be confirmed)":
+        "Losanna: venerdì 19 giugno 2026, 14:00-16:00, UNIL (aula esatta da confermare)",
+      "The Zürich workshop takes place on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. The Lausanne workshop takes place on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL (Exact room to be confirmed).":
+        "Il workshop di Zurigo si svolge giovedì 18 giugno 2026, dalle 14:00 alle 16:00, all'ETH Zurigo HG (edificio principale), aula E33.1. Il workshop di Losanna si svolge venerdì 19 giugno 2026, dalle 14:00 alle 16:00, all'UNIL (aula esatta da confermare)."
     }
   };
 
