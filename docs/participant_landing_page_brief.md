@@ -22,7 +22,7 @@ This document contains the study facts, participant-facing copy, CTA ideas, priv
 - **Stage 1 format:** Asynchronous online app-based learning, surveys, micro-polling, and argument submission from May 19 to June 5
 - **Stage 1 rhythm:** Four expected app rounds over about two weeks, around 10 minutes each, with possible reminder notifications every few days
 - **Stage 1 compensation:** Not compensated
-- **Stage 2 format:** Optional/invited in-person workshops, one in Zurich and one in Lausanne, during June 15-19
+- **Stage 2 format:** Optional/invited in-person workshops, one in Zurich on August 11, 2026 and one in Lausanne on August 12, 2026, both starting at 5:30 pm
 - **Stage 2 compensation:** Flat-rate CHF 40 voucher for invited participants who attend; travel costs are not reimbursed
 - **Broader project structure:** The citizen input recruited through this page is Phase 3 of the broader project. Phase 1 reviews published work, public AI/LLM documents, policy responses, and experiments on LLM usage and skills. Phase 2 uses focus groups, future scenarios, and experiments on deskilling/upskilling. Phase 3 is co-led by Joshua C. Yang, Maud Reveilhac, and Aurelia Tamò-Larrieux, and uses app-based public deliberation and possible workshops to connect earlier findings with lived experiences, decision-making patterns, and ethical considerations.
 - **Civic impact:** Participant input will contribute to a TA-SWISS report/book and policy-facing outputs intended to inform Swiss decision-makers, including the Swiss Parliament
@@ -40,7 +40,7 @@ The page should make clear that:
 - Participation is voluntary.
 - The main app study takes place in the Atgora app from May 19 to June 5 and is not compensated.
 - The app is used because the study needs repeated input over time, not just a one-time survey.
-- Participants who stay engaged throughout the app study and complete the main tasks will most likely be invited to one of two physical workshops, one in Zurich and one in Lausanne, during June 15-19, subject to workshop capacity and availability. Workshop participation is compensated.
+- Participants who stay engaged throughout the app study and complete the main tasks will most likely be invited to one of two physical workshops, one in Zurich on August 11, 2026 and one in Lausanne on August 12, 2026, both starting at 5:30 pm, subject to workshop capacity and availability. Workshop participation is compensated.
 - The study is about AI in the future of work and labour markets.
 - Participants are being invited to contribute to a public conversation about the future of AI in Switzerland and how public voices should be reflected in policy-facing recommendations.
 - Participant input will feed into the project's final report/book and policy-facing outputs.
@@ -82,7 +82,7 @@ See how your input will be used
 - **Who can join:** Swiss residents aged 18 or older
 - **App study:** May 19-June 5, with app-based learning, surveys, and quick opinion polls across several rounds
 - **App rhythm:** Participants are asked to return to the app about four times, around 10 minutes each, with notifications every few days
-- **Workshops:** Two in-person workshops, one in Zurich and one in Lausanne, during June 15-19; engaged app participants will most likely be invited, subject to workshop capacity and availability
+- **Workshops:** Two in-person workshops, one in Zurich on August 11, 2026 and one in Lausanne on August 12, 2026, both starting at 5:30 pm; engaged app participants will most likely be invited, subject to workshop capacity and availability
 - **Civic impact:** Results will contribute to a TA-SWISS report/book and policy-facing outputs intended to inform decision-makers, including the Swiss Parliament
 - **Compensation:** The app study is unpaid; invited workshop participation includes a flat-rate CHF 40 voucher. Travel costs are not reimbursed.
 - **Research lead:** Joshua C. Yang, ETH Zurich, joyang@ethz.ch
@@ -275,7 +275,7 @@ Current wording:
 - The app may send a reminder notification every few days when a new round is available.
 - Each app visit is expected to take around 10 minutes.
 - Approximate total Stage 1 app time is about 40 minutes.
-- Invited participants may attend one of two physical workshops, one in Zurich and one in Lausanne, during June 15-19.
+- Invited participants may attend one of two physical workshops, one in Zurich on August 11, 2026 and one in Lausanne on August 12, 2026, both starting at 5:30 pm.
 
 Add before launch:
 
@@ -283,7 +283,7 @@ Add before launch:
 - Expected total time for Stage 1: `around 40 minutes`
 - Exact workshop duration in hours: `TBD`
 - Recruitment and study dates: `May 19-June 5`
-- Workshop dates and venues: `June 15-19; Zurich and Lausanne`
+- Workshop dates and venues: `August 11, 2026 at 5:30 pm in Zurich, exact location TBD; August 12, 2026 at 5:30 pm in Lausanne, exact location TBD`
 
 ## Compensation
 
@@ -639,7 +639,7 @@ Confirm image permissions and branding rules before publication.
 - [ ] Number of Stage 1 app rounds is confirmed
 - [ ] Stage 1 notification schedule is confirmed
 - [ ] Stage 1 expected time per round and total time commitment are confirmed
-- [x] Workshop date window and cities are confirmed: June 15-19, Zurich and Lausanne
+- [x] Workshop dates and cities are confirmed: August 11, 2026 at 5:30 pm in Zurich; August 12, 2026 at 5:30 pm in Lausanne
 - [x] Workshop voucher is confirmed: flat-rate CHF 40, with no travel reimbursement
 - [ ] Privacy notice is reviewed by the study team
 - [ ] Data processing agreements are in place for the Atgora technology partner
@@ -663,9 +663,9 @@ Confirm image permissions and branding rules before publication.
 - Stage 1 notification schedule: `Every few days expected; confirm before launch`
 - Stage 1 expected participant time per round: `around 10 minutes`
 - Stage 1 expected total participant time: `around 40 minutes`
-- Workshop dates: `June 15-19`
-- Zurich venue: `TBD`
-- Lausanne venue: `TBD`
+- Workshop dates: `August 11, 2026 at 5:30 pm in Zurich; August 12, 2026 at 5:30 pm in Lausanne`
+- Zurich exact venue: `TBD`
+- Lausanne exact venue: `TBD`
 - Ethics approval number: `26 ETHICS-116`
 - Final approved privacy notice URL: `TBD`
 - Support resource sheet URL: `TBD`

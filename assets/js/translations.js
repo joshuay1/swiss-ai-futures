@@ -2748,52 +2748,74 @@ window.SWISS_AI_I18N.it = {
 })();
 
 (() => {
-  const venueUpdates = {
+  const dateChangeUpdates = {
     de: {
-      "ETH Zurich HG (main building), Room E33.1": "ETH Zürich HG (Hauptgebäude), Raum E33.1",
-      "UNIL (Exact room to be confirmed)": "UNIL (genauer Raum wird noch bestätigt)",
-      "Zürich is Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. Lausanne is Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL (Exact room to be confirmed).":
-        "Zürich ist am Donnerstag, 18. Juni 2026, von 14.00 bis 16.00 Uhr an der ETH Zürich HG (Hauptgebäude), Raum E33.1. Lausanne ist am Freitag, 19. Juni 2026, von 14.00 bis 16.00 Uhr an der UNIL (genauer Raum wird noch bestätigt).",
-      "The workshops are in Zürich on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1, and in Lausanne on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL (Exact room to be confirmed).":
-        "Die Workshops finden in Zürich am Donnerstag, 18. Juni 2026, von 14.00 bis 16.00 Uhr an der ETH Zürich HG (Hauptgebäude), Raum E33.1, und in Lausanne am Freitag, 19. Juni 2026, von 14.00 bis 16.00 Uhr an der UNIL (genauer Raum wird noch bestätigt) statt.",
-      "Zürich: Thursday, June 18, 2026, 2:00-4:00 pm, ETH Zurich HG (main building), Room E33.1":
-        "Zürich: Donnerstag, 18. Juni 2026, 14.00-16.00 Uhr, ETH Zürich HG (Hauptgebäude), Raum E33.1",
-      "Lausanne: Friday, June 19, 2026, 2:00-4:00 pm, UNIL (Exact room to be confirmed)":
-        "Lausanne: Freitag, 19. Juni 2026, 14.00-16.00 Uhr, UNIL (genauer Raum wird noch bestätigt)",
-      "The Zürich workshop takes place on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. The Lausanne workshop takes place on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL (Exact room to be confirmed).":
-        "Der Workshop in Zürich findet am Donnerstag, 18. Juni 2026, von 14.00 bis 16.00 Uhr an der ETH Zürich HG (Hauptgebäude), Raum E33.1, statt. Der Workshop in Lausanne findet am Freitag, 19. Juni 2026, von 14.00 bis 16.00 Uhr an der UNIL (genauer Raum wird noch bestätigt) statt."
+      "Date change:": "Terminänderung:",
+      "The citizen workshops have moved from June 18/19 to August 11/12. Zürich is now Tuesday, August 11, 2026, 5:30-7:30 pm; Lausanne is now Wednesday, August 12, 2026, 5:30-7:30 pm. Please use the new dates and do not go to the previous June events.":
+        "Die Bürgerworkshops wurden vom 18./19. Juni auf den 11./12. August verschoben. Zürich ist jetzt Dienstag, 11. August 2026, 17.30-19.30 Uhr; Lausanne ist jetzt Mittwoch, 12. August 2026, 17.30-19.30 Uhr. Bitte nutzen Sie die neuen Daten und gehen Sie nicht zu den früheren Terminen im Juni.",
+      "Citizen workshops in August": "Bürgerworkshops im August",
+      "Tuesday, August 11": "Dienstag, 11. August",
+      "Wednesday, August 12": "Mittwoch, 12. August",
+      "5:30-7:30 pm": "17.30-19.30 Uhr",
+      "Exact Zürich location to be confirmed": "Genauer Ort in Zürich wird noch bestätigt",
+      "Exact Lausanne location to be confirmed": "Genauer Ort in Lausanne wird noch bestätigt",
+      "Zürich is Tuesday, August 11, 2026, from 5:30 to 7:30 pm; exact location in Zürich to be confirmed. Lausanne is Wednesday, August 12, 2026, from 5:30 to 7:30 pm; exact location in Lausanne to be confirmed.":
+        "Zürich ist am Dienstag, 11. August 2026, von 17.30 bis 19.30 Uhr; genauer Ort in Zürich wird noch bestätigt. Lausanne ist am Mittwoch, 12. August 2026, von 17.30 bis 19.30 Uhr; genauer Ort in Lausanne wird noch bestätigt.",
+      "The workshops are in Zürich on Tuesday, August 11, 2026, from 5:30 to 7:30 pm, exact location to be confirmed, and in Lausanne on Wednesday, August 12, 2026, from 5:30 to 7:30 pm, exact location to be confirmed.":
+        "Die Workshops finden in Zürich am Dienstag, 11. August 2026, von 17.30 bis 19.30 Uhr statt, genauer Ort wird noch bestätigt, und in Lausanne am Mittwoch, 12. August 2026, von 17.30 bis 19.30 Uhr, genauer Ort wird noch bestätigt.",
+      "Zürich: Tuesday, August 11, 2026, 5:30-7:30 pm, exact location to be confirmed":
+        "Zürich: Dienstag, 11. August 2026, 17.30-19.30 Uhr, genauer Ort wird noch bestätigt",
+      "Lausanne: Wednesday, August 12, 2026, 5:30-7:30 pm, exact location to be confirmed":
+        "Lausanne: Mittwoch, 12. August 2026, 17.30-19.30 Uhr, genauer Ort wird noch bestätigt",
+      "The Zürich workshop takes place on Tuesday, August 11, 2026, from 5:30 to 7:30 pm, with the exact location in Zürich to be confirmed. The Lausanne workshop takes place on Wednesday, August 12, 2026, from 5:30 to 7:30 pm, with the exact location in Lausanne to be confirmed.":
+        "Der Workshop in Zürich findet am Dienstag, 11. August 2026, von 17.30 bis 19.30 Uhr statt; der genaue Ort in Zürich wird noch bestätigt. Der Workshop in Lausanne findet am Mittwoch, 12. August 2026, von 17.30 bis 19.30 Uhr statt; der genaue Ort in Lausanne wird noch bestätigt."
     },
     fr: {
-      "ETH Zurich HG (main building), Room E33.1": "ETH Zurich HG (bâtiment principal), salle E33.1",
-      "UNIL (Exact room to be confirmed)": "UNIL (salle exacte à confirmer)",
-      "Zürich is Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. Lausanne is Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL (Exact room to be confirmed).":
-        "Zurich a lieu le jeudi 18 juin 2026 de 14 h à 16 h à l'ETH Zurich HG (bâtiment principal), salle E33.1. Lausanne a lieu le vendredi 19 juin 2026 de 14 h à 16 h à l'UNIL (salle exacte à confirmer).",
-      "The workshops are in Zürich on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1, and in Lausanne on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL (Exact room to be confirmed).":
-        "Les ateliers ont lieu à Zurich le jeudi 18 juin 2026 de 14 h à 16 h à l'ETH Zurich HG (bâtiment principal), salle E33.1, et à Lausanne le vendredi 19 juin 2026 de 14 h à 16 h à l'UNIL (salle exacte à confirmer).",
-      "Zürich: Thursday, June 18, 2026, 2:00-4:00 pm, ETH Zurich HG (main building), Room E33.1":
-        "Zurich: jeudi 18 juin 2026, 14 h-16 h, ETH Zurich HG (bâtiment principal), salle E33.1",
-      "Lausanne: Friday, June 19, 2026, 2:00-4:00 pm, UNIL (Exact room to be confirmed)":
-        "Lausanne: vendredi 19 juin 2026, 14 h-16 h, UNIL (salle exacte à confirmer)",
-      "The Zürich workshop takes place on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. The Lausanne workshop takes place on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL (Exact room to be confirmed).":
-        "L'atelier de Zurich a lieu le jeudi 18 juin 2026 de 14 h à 16 h à l'ETH Zurich HG (bâtiment principal), salle E33.1. L'atelier de Lausanne a lieu le vendredi 19 juin 2026 de 14 h à 16 h à l'UNIL (salle exacte à confirmer)."
+      "Date change:": "Changement de dates:",
+      "The citizen workshops have moved from June 18/19 to August 11/12. Zürich is now Tuesday, August 11, 2026, 5:30-7:30 pm; Lausanne is now Wednesday, August 12, 2026, 5:30-7:30 pm. Please use the new dates and do not go to the previous June events.":
+        "Les ateliers citoyens ont été déplacés du 18/19 juin au 11/12 août. Zurich a maintenant lieu le mardi 11 août 2026, 17 h 30-19 h 30; Lausanne a maintenant lieu le mercredi 12 août 2026, 17 h 30-19 h 30. Veuillez utiliser les nouvelles dates et ne pas vous rendre aux anciens événements de juin.",
+      "Citizen workshops in August": "Ateliers citoyens en août",
+      "Tuesday, August 11": "Mardi 11 août",
+      "Wednesday, August 12": "Mercredi 12 août",
+      "5:30-7:30 pm": "17 h 30-19 h 30",
+      "Exact Zürich location to be confirmed": "Lieu exact à Zurich à confirmer",
+      "Exact Lausanne location to be confirmed": "Lieu exact à Lausanne à confirmer",
+      "Zürich is Tuesday, August 11, 2026, from 5:30 to 7:30 pm; exact location in Zürich to be confirmed. Lausanne is Wednesday, August 12, 2026, from 5:30 to 7:30 pm; exact location in Lausanne to be confirmed.":
+        "Zurich a lieu le mardi 11 août 2026 de 17 h 30 à 19 h 30; le lieu exact à Zurich sera confirmé. Lausanne a lieu le mercredi 12 août 2026 de 17 h 30 à 19 h 30; le lieu exact à Lausanne sera confirmé.",
+      "The workshops are in Zürich on Tuesday, August 11, 2026, from 5:30 to 7:30 pm, exact location to be confirmed, and in Lausanne on Wednesday, August 12, 2026, from 5:30 to 7:30 pm, exact location to be confirmed.":
+        "Les ateliers ont lieu à Zurich le mardi 11 août 2026 de 17 h 30 à 19 h 30, lieu exact à confirmer, et à Lausanne le mercredi 12 août 2026 de 17 h 30 à 19 h 30, lieu exact à confirmer.",
+      "Zürich: Tuesday, August 11, 2026, 5:30-7:30 pm, exact location to be confirmed":
+        "Zurich: mardi 11 août 2026, 17 h 30-19 h 30, lieu exact à confirmer",
+      "Lausanne: Wednesday, August 12, 2026, 5:30-7:30 pm, exact location to be confirmed":
+        "Lausanne: mercredi 12 août 2026, 17 h 30-19 h 30, lieu exact à confirmer",
+      "The Zürich workshop takes place on Tuesday, August 11, 2026, from 5:30 to 7:30 pm, with the exact location in Zürich to be confirmed. The Lausanne workshop takes place on Wednesday, August 12, 2026, from 5:30 to 7:30 pm, with the exact location in Lausanne to be confirmed.":
+        "L'atelier de Zurich a lieu le mardi 11 août 2026 de 17 h 30 à 19 h 30, avec le lieu exact à Zurich à confirmer. L'atelier de Lausanne a lieu le mercredi 12 août 2026 de 17 h 30 à 19 h 30, avec le lieu exact à Lausanne à confirmer."
     },
     it: {
-      "ETH Zurich HG (main building), Room E33.1": "ETH Zurigo HG (edificio principale), aula E33.1",
-      "UNIL (Exact room to be confirmed)": "UNIL (aula esatta da confermare)",
-      "Zürich is Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. Lausanne is Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL (Exact room to be confirmed).":
-        "Zurigo è giovedì 18 giugno 2026, dalle 14:00 alle 16:00, all'ETH Zurigo HG (edificio principale), aula E33.1. Losanna è venerdì 19 giugno 2026, dalle 14:00 alle 16:00, all'UNIL (aula esatta da confermare).",
-      "The workshops are in Zürich on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1, and in Lausanne on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL (Exact room to be confirmed).":
-        "I workshop si svolgono a Zurigo giovedì 18 giugno 2026, dalle 14:00 alle 16:00, all'ETH Zurigo HG (edificio principale), aula E33.1, e a Losanna venerdì 19 giugno 2026, dalle 14:00 alle 16:00, all'UNIL (aula esatta da confermare).",
-      "Zürich: Thursday, June 18, 2026, 2:00-4:00 pm, ETH Zurich HG (main building), Room E33.1":
-        "Zurigo: giovedì 18 giugno 2026, 14:00-16:00, ETH Zurigo HG (edificio principale), aula E33.1",
-      "Lausanne: Friday, June 19, 2026, 2:00-4:00 pm, UNIL (Exact room to be confirmed)":
-        "Losanna: venerdì 19 giugno 2026, 14:00-16:00, UNIL (aula esatta da confermare)",
-      "The Zürich workshop takes place on Thursday, June 18, 2026, from 2:00 to 4:00 pm at ETH Zurich HG (main building), Room E33.1. The Lausanne workshop takes place on Friday, June 19, 2026, from 2:00 to 4:00 pm at UNIL (Exact room to be confirmed).":
-        "Il workshop di Zurigo si svolge giovedì 18 giugno 2026, dalle 14:00 alle 16:00, all'ETH Zurigo HG (edificio principale), aula E33.1. Il workshop di Losanna si svolge venerdì 19 giugno 2026, dalle 14:00 alle 16:00, all'UNIL (aula esatta da confermare)."
+      "Date change:": "Cambio di data:",
+      "The citizen workshops have moved from June 18/19 to August 11/12. Zürich is now Tuesday, August 11, 2026, 5:30-7:30 pm; Lausanne is now Wednesday, August 12, 2026, 5:30-7:30 pm. Please use the new dates and do not go to the previous June events.":
+        "I workshop cittadini sono stati spostati dal 18/19 giugno all'11/12 agosto. Zurigo si svolge ora martedì 11 agosto 2026, 17:30-19:30; Losanna si svolge ora mercoledì 12 agosto 2026, 17:30-19:30. Usa le nuove date e non andare ai precedenti eventi di giugno.",
+      "Citizen workshops in August": "Workshop cittadini ad agosto",
+      "Tuesday, August 11": "Martedì 11 agosto",
+      "Wednesday, August 12": "Mercoledì 12 agosto",
+      "5:30-7:30 pm": "17:30-19:30",
+      "Lausanne": "Losanna",
+      "Exact Zürich location to be confirmed": "Indirizzo esatto a Zurigo da confermare",
+      "Exact Lausanne location to be confirmed": "Indirizzo esatto a Losanna da confermare",
+      "Zürich is Tuesday, August 11, 2026, from 5:30 to 7:30 pm; exact location in Zürich to be confirmed. Lausanne is Wednesday, August 12, 2026, from 5:30 to 7:30 pm; exact location in Lausanne to be confirmed.":
+        "Zurigo si svolge martedì 11 agosto 2026 dalle 17:30 alle 19:30; indirizzo esatto a Zurigo da confermare. Losanna si svolge mercoledì 12 agosto 2026 dalle 17:30 alle 19:30; indirizzo esatto a Losanna da confermare.",
+      "The workshops are in Zürich on Tuesday, August 11, 2026, from 5:30 to 7:30 pm, exact location to be confirmed, and in Lausanne on Wednesday, August 12, 2026, from 5:30 to 7:30 pm, exact location to be confirmed.":
+        "I workshop si svolgono a Zurigo martedì 11 agosto 2026, dalle 17:30 alle 19:30, indirizzo esatto da confermare, e a Losanna mercoledì 12 agosto 2026, dalle 17:30 alle 19:30, indirizzo esatto da confermare.",
+      "Zürich: Tuesday, August 11, 2026, 5:30-7:30 pm, exact location to be confirmed":
+        "Zurigo: martedì 11 agosto 2026, 17:30-19:30, indirizzo esatto da confermare",
+      "Lausanne: Wednesday, August 12, 2026, 5:30-7:30 pm, exact location to be confirmed":
+        "Losanna: mercoledì 12 agosto 2026, 17:30-19:30, indirizzo esatto da confermare",
+      "The Zürich workshop takes place on Tuesday, August 11, 2026, from 5:30 to 7:30 pm, with the exact location in Zürich to be confirmed. The Lausanne workshop takes place on Wednesday, August 12, 2026, from 5:30 to 7:30 pm, with the exact location in Lausanne to be confirmed.":
+        "Il workshop di Zurigo si svolge martedì 11 agosto 2026, dalle 17:30 alle 19:30, con l'indirizzo esatto a Zurigo da confermare. Il workshop di Losanna si svolge mercoledì 12 agosto 2026, dalle 17:30 alle 19:30, con l'indirizzo esatto a Losanna da confermare."
     }
   };
 
-  Object.entries(venueUpdates).forEach(([language, text]) => {
+  Object.entries(dateChangeUpdates).forEach(([language, text]) => {
     const target = window.SWISS_AI_I18N?.[language];
     if (!target) return;
     target.text = target.text || {};
