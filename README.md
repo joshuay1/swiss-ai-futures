@@ -4,7 +4,9 @@ Static recruitment page for the Atgora-based citizen input study.
 
 ## Structure
 
-- `index.html` - page markup and content
+- `index.html` - short minimalist workshop invitation shown at the public root
+- `details.html` - full recruitment page with practical details, FAQ, sharing text, and team information
+- `workshop-flyer.html` - direct alias of the short invitation page
 - `assets/css/styles.css` - visual design and responsive layout
 - `assets/js/translations.js` - EN, DE, FR, and IT page copy
 - `assets/js/script.js` - language switching, app preview, and visual interactions

@@ -26,11 +26,9 @@ const themeToggle = document.querySelector("[data-theme-toggle]");
 const themeMeta = document.querySelector('meta[name="theme-color"]');
 const themeLogos = document.querySelectorAll("[data-logo-dark][data-logo-light]");
 const getInitialTheme = () => {
-  const saved = window.localStorage.getItem("swiss-ai-theme");
   const documentTheme = document.documentElement.dataset.theme;
-  if (supportedThemes.includes(saved)) return saved;
   if (supportedThemes.includes(documentTheme)) return documentTheme;
-  return "dark";
+  return "light";
 };
 
 let currentTheme = getInitialTheme();
@@ -59,7 +57,7 @@ const applyTheme = (theme, shouldPersist = true) => {
   updateThemeLogos();
   updateThemeToggle();
   if (themeMeta) {
-    themeMeta.setAttribute("content", theme === "dark" ? "#11100e" : "#f7f6f0");
+    themeMeta.setAttribute("content", theme === "dark" ? "#000000" : "#ffffff");
   }
   if (shouldPersist) {
     window.localStorage.setItem("swiss-ai-theme", theme);
