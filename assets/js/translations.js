@@ -356,12 +356,12 @@ window.SWISS_AI_I18N = {
       "App input first": "Zuerst App-Beiträge",
       "The online rounds are a voluntary contribution to public-interest research. If you stay engaged throughout the app study, you may later be invited to a separate in-person workshop in Zurich or Lausanne.":
         "Die Online-Runden sind ein freiwilliger Beitrag zu Forschung im öffentlichen Interesse. Wenn Sie während der App-Studie engagiert bleiben, können Sie später zu einem separaten Workshop vor Ort in Zürich oder Lausanne eingeladen werden.",
-      "The workshop stage is separate and includes a fixed CHF 40 voucher for invited participants who attend. Travel costs are not reimbursed.":
-        "Die Workshop-Phase ist separat und umfasst für eingeladene Teilnehmende, die teilnehmen, einen festen Gutschein von CHF 40. Reisekosten werden nicht erstattet.",
+      "The workshop stage is separate and includes a fixed CHF 60 voucher for invited participants who attend. Travel costs are not reimbursed.":
+        "Die Workshop-Phase ist separat und umfasst für eingeladene Teilnehmende, die teilnehmen, einen festen Gutschein von CHF 60. Reisekosten werden nicht erstattet.",
       "Privacy and data protection": "Privatsphäre und Datenschutz",
       "Clear data limits": "Klare Datengrenzen",
-      "ETH Zurich is responsible for the research data. Identifying information is stored separately from coded research data, which means study data is stored under an ID rather than your name. App infrastructure is hosted in the European Union, Stockholm region.":
-        "Die ETH Zürich ist für die Forschungsdaten verantwortlich. Identifizierende Informationen werden getrennt von codierten Forschungsdaten gespeichert; das heisst, Studiendaten werden unter einer ID statt unter Ihrem Namen gespeichert. Die App-Infrastruktur wird in der Europäischen Union, Region Stockholm, gehostet.",
+      "The study team is responsible for the research data. Identifying information is stored separately from coded research data, which means study data is stored under an ID rather than your name. App infrastructure is hosted in the European Union, Stockholm region.":
+        "Das Studienteam ist für die Forschungsdaten verantwortlich. Identifizierende Informationen werden getrennt von codierten Forschungsdaten gespeichert; das heisst, Studiendaten werden unter einer ID statt unter Ihrem Namen gespeichert. Die App-Infrastruktur wird in der Europäischen Union, Region Stockholm, gehostet.",
       "Data collected during the online app study": "Daten, die während der Online-App-Studie erhoben werden",
       "Data the study may collect": "Daten, die die Studie erfassen kann",
       "Contact details for study communication and possible workshop invitations":
@@ -411,9 +411,8 @@ window.SWISS_AI_I18N = {
       "Technology partner and Atgora app provider": "Technologiepartner und Anbieter der Atgora-App",
       "Visit the Atgora app page": "Atgora-App-Seite besuchen",
       "Data and ethics": "Daten und Ethik",
-      "Data controller: ETH Zurich": "Datenverantwortliche Stelle: ETH Zürich",
       "Data protection officer: Tomislav Mitar": "Datenschutzbeauftragter: Tomislav Mitar",
-      "Ethics complaints: ETH Zurich Ethics Commission office": "Ethikbeschwerden: Geschäftsstelle der Ethikkommission der ETH Zürich",
+      "Ethics complaints: Ethics Commission office": "Ethikbeschwerden: Geschäftsstelle der Ethikkommission",
       "Common questions": "Häufige Fragen",
       "Do I need to know a lot about AI?": "Muss ich viel über KI wissen?",
       "No. The app includes short learning modules to help participants engage with the topic.":
@@ -422,8 +421,8 @@ window.SWISS_AI_I18N = {
       "The study asks participants to contribute about four times while the app study is open, until June 5, 2026, usually around 10 minutes each time. The app lets participants return for new rounds and receive reminders when a round is available.":
         "Die Studie bittet Teilnehmende, während der laufenden App-Studie bis zum 5. Juni 2026 etwa viermal Beiträge zu leisten, in der Regel rund 10 Minuten pro Mal. Die App ermöglicht die Rückkehr zu neuen Runden und sendet Erinnerungen, wenn eine Runde verfügbar ist.",
       "Is this app stage compensated?": "Wird diese App-Phase entschädigt?",
-      "This stage is focused on voluntary app input. Compensation applies only to the separate in-person workshop stage: invited participants who attend receive a flat-rate CHF 40 voucher. Travel costs are not reimbursed.":
-        "Diese Phase konzentriert sich auf freiwillige Beiträge in der App. Eine Entschädigung gilt nur für die separate Workshop-Phase vor Ort: Eingeladene Teilnehmende, die teilnehmen, erhalten einen pauschalen Gutschein von CHF 40. Reisekosten werden nicht erstattet.",
+      "This stage is focused on voluntary app input. Compensation applies only to the separate in-person workshop stage: invited participants who attend receive a flat-rate CHF 60 voucher. Travel costs are not reimbursed.":
+        "Diese Phase konzentriert sich auf freiwillige Beiträge in der App. Eine Entschädigung gilt nur für die separate Workshop-Phase vor Ort: Eingeladene Teilnehmende, die teilnehmen, erhalten einen pauschalen Gutschein von CHF 60. Reisekosten werden nicht erstattet.",
       "Will everyone be invited to a workshop?": "Werden alle zu einem Workshop eingeladen?",
       "No. Participants who stay engaged throughout the app study and complete the main tasks may have a chance to be invited to one of two physical workshops, one in Zurich and one in Lausanne, planned for June 15-19. Invitations depend on workshop capacity, availability, and the additional consent process.":
         "Nein. Teilnehmende, die während der App-Studie engagiert bleiben und die Hauptaufgaben abschliessen, können möglicherweise zu einem von zwei Workshops vor Ort eingeladen werden, einem in Zürich und einem in Lausanne, geplant vom 15. bis 19. Juni. Einladungen hängen von Kapazität, Verfügbarkeit und dem zusätzlichen Einwilligungsprozess ab.",
@@ -539,8 +538,8 @@ window.SWISS_AI_I18N = {
       "AI-Supported Deliberation Experiment": "Experiment zur KI-unterstützten Deliberation",
       "Part of Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.":
         "Teil des Projekts Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.",
-      "Ethics status: approved without reservations by the ETH Zurich Ethics Commission. Project 26 ETHICS-116.":
-        "Ethikstatus: von der Ethikkommission der ETH Zürich ohne Vorbehalte bewilligt. Projekt 26 ETHICS-116.",
+      "Ethics status: approved without reservations. Project 26 ETHICS-116.":
+        "Ethikstatus: ohne Vorbehalte bewilligt. Projekt 26 ETHICS-116.",
       "Contact the study lead": "Studienleitung kontaktieren",
       "Switch to light mode": "Zum hellen Modus wechseln",
       "Switch to dark mode": "Zum dunklen Modus wechseln"
@@ -891,12 +890,12 @@ window.SWISS_AI_I18N.fr = {
     "App input first": "D'abord les contributions dans l'app",
     "The online rounds are a voluntary contribution to public-interest research. If you stay engaged throughout the app study, you may later be invited to a separate in-person workshop in Zurich or Lausanne.":
       "Les tours en ligne sont une contribution volontaire à une recherche d'intérêt public. Si vous restez engagé pendant l'étude dans l'app, vous pourrez ensuite être invité à un atelier séparé en présence à Zurich ou Lausanne.",
-    "The workshop stage is separate and includes a fixed CHF 40 voucher for invited participants who attend. Travel costs are not reimbursed.":
-      "La phase d'atelier est séparée et comprend un bon fixe de CHF 40 pour les personnes invitées qui y participent. Les frais de déplacement ne sont pas remboursés.",
+    "The workshop stage is separate and includes a fixed CHF 60 voucher for invited participants who attend. Travel costs are not reimbursed.":
+      "La phase d'atelier est séparée et comprend un bon fixe de CHF 60 pour les personnes invitées qui y participent. Les frais de déplacement ne sont pas remboursés.",
     "Privacy and data protection": "Vie privée et protection des données",
     "Clear data limits": "Limites claires pour les données",
-    "ETH Zurich is responsible for the research data. Identifying information is stored separately from coded research data, which means study data is stored under an ID rather than your name. App infrastructure is hosted in the European Union, Stockholm region.":
-      "L'ETH Zurich est responsable des données de recherche. Les informations identifiantes sont conservées séparément des données de recherche codées; cela signifie que les données de l'étude sont stockées sous un identifiant plutôt que sous votre nom. L'infrastructure de l'app est hébergée dans l'Union européenne, région de Stockholm.",
+    "The study team is responsible for the research data. Identifying information is stored separately from coded research data, which means study data is stored under an ID rather than your name. App infrastructure is hosted in the European Union, Stockholm region.":
+      "L'équipe de l'étude est responsable des données de recherche. Les informations identifiantes sont conservées séparément des données de recherche codées; cela signifie que les données de l'étude sont stockées sous un identifiant plutôt que sous votre nom. L'infrastructure de l'app est hébergée dans l'Union européenne, région de Stockholm.",
     "Data collected during the online app study": "Données collectées pendant l'étude en ligne dans l'app",
     "Data the study may collect": "Données que l'étude peut collecter",
     "Contact details for study communication and possible workshop invitations":
@@ -942,9 +941,8 @@ window.SWISS_AI_I18N.fr = {
     "Technology partner and Atgora app provider": "Partenaire technologique et fournisseur de l'app Atgora",
     "Visit the Atgora app page": "Visiter la page de l'app Atgora",
     "Data and ethics": "Données et éthique",
-    "Data controller: ETH Zurich": "Responsable du traitement: ETH Zurich",
     "Data protection officer: Tomislav Mitar": "Préposé à la protection des données: Tomislav Mitar",
-    "Ethics complaints: ETH Zurich Ethics Commission office": "Réclamations éthiques: bureau de la Commission d'éthique de l'ETH Zurich",
+    "Ethics complaints: Ethics Commission office": "Réclamations éthiques: bureau de la Commission d'éthique",
     "Common questions": "Questions fréquentes",
     "Do I need to know a lot about AI?": "Dois-je bien connaître l'IA?",
     "No. The app includes short learning modules to help participants engage with the topic.": "Non. L'app comprend de courts modules d'information pour aider les participantes et participants à entrer dans le sujet.",
@@ -952,8 +950,8 @@ window.SWISS_AI_I18N.fr = {
     "The study asks participants to contribute about four times while the app study is open, until June 5, 2026, usually around 10 minutes each time. The app lets participants return for new rounds and receive reminders when a round is available.":
       "L'étude demande aux participantes et participants de contribuer environ quatre fois pendant que l'étude dans l'app est ouverte, jusqu'au 5 juin 2026, généralement environ 10 minutes à chaque fois. L'app permet de revenir pour de nouveaux tours et de recevoir des rappels lorsqu'un tour est disponible.",
     "Is this app stage compensated?": "Cette phase dans l'app est-elle indemnisée?",
-    "This stage is focused on voluntary app input. Compensation applies only to the separate in-person workshop stage: invited participants who attend receive a flat-rate CHF 40 voucher. Travel costs are not reimbursed.":
-      "Cette phase porte sur une contribution volontaire dans l'app. Une indemnisation s'applique uniquement à la phase séparée d'atelier en présence: les personnes invitées qui participent reçoivent un bon forfaitaire de CHF 40. Les frais de déplacement ne sont pas remboursés.",
+    "This stage is focused on voluntary app input. Compensation applies only to the separate in-person workshop stage: invited participants who attend receive a flat-rate CHF 60 voucher. Travel costs are not reimbursed.":
+      "Cette phase porte sur une contribution volontaire dans l'app. Une indemnisation s'applique uniquement à la phase séparée d'atelier en présence: les personnes invitées qui participent reçoivent un bon forfaitaire de CHF 60. Les frais de déplacement ne sont pas remboursés.",
     "Will everyone be invited to a workshop?": "Tout le monde sera-t-il invité à un atelier?",
     "No. Participants who stay engaged throughout the app study and complete the main tasks may have a chance to be invited to one of two physical workshops, one in Zurich and one in Lausanne, planned for June 15-19. Invitations depend on workshop capacity, availability, and the additional consent process.":
       "Non. Les personnes qui restent engagées pendant l'étude dans l'app et complètent les tâches principales peuvent avoir une chance d'être invitées à l'un des deux ateliers en présence, l'un à Zurich et l'autre à Lausanne, prévus du 15 au 19 juin. Les invitations dépendent de la capacité, des disponibilités et du processus de consentement supplémentaire.",
@@ -1065,7 +1063,7 @@ window.SWISS_AI_I18N.fr = {
     "Links open the official Atgora app listings and the Atgora information page.": "Les liens ouvrent les fiches officielles de l'app Atgora et la page d'information Atgora.",
     "AI-Supported Deliberation Experiment": "Expérience de délibération assistée par l'IA",
     "Part of Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.": "Fait partie du projet Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.",
-    "Ethics status: approved without reservations by the ETH Zurich Ethics Commission. Project 26 ETHICS-116.": "Statut éthique: approuvé sans réserve par la Commission d'éthique de l'ETH Zurich. Projet 26 ETHICS-116.",
+    "Ethics status: approved without reservations. Project 26 ETHICS-116.": "Statut éthique: approuvé sans réserve. Projet 26 ETHICS-116.",
     "Contact the study lead": "Contacter la direction de l'étude",
     "Switch to light mode": "Passer au mode clair",
     "Switch to dark mode": "Passer au mode sombre"
@@ -1415,12 +1413,12 @@ window.SWISS_AI_I18N.it = {
     "App input first": "Prima il contributo nell'app",
     "The online rounds are a voluntary contribution to public-interest research. If you stay engaged throughout the app study, you may later be invited to a separate in-person workshop in Zurich or Lausanne.":
       "I turni online sono un contributo volontario a una ricerca di interesse pubblico. Se resti coinvolto durante lo studio nell'app, potresti essere invitato in seguito a un workshop separato in presenza a Zurigo o Losanna.",
-    "The workshop stage is separate and includes a fixed CHF 40 voucher for invited participants who attend. Travel costs are not reimbursed.":
-      "La fase dei workshop è separata e prevede un buono fisso di CHF 40 per le persone invitate che partecipano. Le spese di viaggio non sono rimborsate.",
+    "The workshop stage is separate and includes a fixed CHF 60 voucher for invited participants who attend. Travel costs are not reimbursed.":
+      "La fase dei workshop è separata e prevede un buono fisso di CHF 60 per le persone invitate che partecipano. Le spese di viaggio non sono rimborsate.",
     "Privacy and data protection": "Privacy e protezione dei dati",
     "Clear data limits": "Limiti chiari per i dati",
-    "ETH Zurich is responsible for the research data. Identifying information is stored separately from coded research data, which means study data is stored under an ID rather than your name. App infrastructure is hosted in the European Union, Stockholm region.":
-      "L'ETH Zurigo è responsabile dei dati di ricerca. Le informazioni identificative sono conservate separatamente dai dati di ricerca codificati; questo significa che i dati dello studio sono salvati con un ID invece che con il tuo nome. L'infrastruttura dell'app è ospitata nell'Unione europea, regione di Stoccolma.",
+    "The study team is responsible for the research data. Identifying information is stored separately from coded research data, which means study data is stored under an ID rather than your name. App infrastructure is hosted in the European Union, Stockholm region.":
+      "Il team dello studio è responsabile dei dati di ricerca. Le informazioni identificative sono conservate separatamente dai dati di ricerca codificati; questo significa che i dati dello studio sono salvati con un ID invece che con il tuo nome. L'infrastruttura dell'app è ospitata nell'Unione europea, regione di Stoccolma.",
     "Data collected during the online app study": "Dati raccolti durante lo studio online nell'app",
     "Data the study may collect": "Dati che lo studio può raccogliere",
     "Contact details for study communication and possible workshop invitations":
@@ -1466,9 +1464,8 @@ window.SWISS_AI_I18N.it = {
     "Technology partner and Atgora app provider": "Partner tecnologico e fornitore dell'app Atgora",
     "Visit the Atgora app page": "Visita la pagina dell'app Atgora",
     "Data and ethics": "Dati ed etica",
-    "Data controller: ETH Zurich": "Titolare del trattamento: ETH Zurigo",
     "Data protection officer: Tomislav Mitar": "Responsabile della protezione dei dati: Tomislav Mitar",
-    "Ethics complaints: ETH Zurich Ethics Commission office": "Reclami etici: ufficio della Commissione etica dell'ETH Zurigo",
+    "Ethics complaints: Ethics Commission office": "Reclami etici: ufficio della Commissione etica",
     "Common questions": "Domande frequenti",
     "Do I need to know a lot about AI?": "Devo sapere molto sull'IA?",
     "No. The app includes short learning modules to help participants engage with the topic.": "No. L'app include brevi moduli informativi per aiutare le persone partecipanti a entrare nel tema.",
@@ -1476,8 +1473,8 @@ window.SWISS_AI_I18N.it = {
     "The study asks participants to contribute about four times while the app study is open, until June 5, 2026, usually around 10 minutes each time. The app lets participants return for new rounds and receive reminders when a round is available.":
       "Lo studio chiede alle persone partecipanti di contribuire circa quattro volte mentre lo studio nell'app è aperto, fino al 5 giugno 2026, di solito circa 10 minuti ogni volta. L'app permette di tornare per nuovi turni e ricevere promemoria quando un turno è disponibile.",
     "Is this app stage compensated?": "Questa fase nell'app è compensata?",
-    "This stage is focused on voluntary app input. Compensation applies only to the separate in-person workshop stage: invited participants who attend receive a flat-rate CHF 40 voucher. Travel costs are not reimbursed.":
-      "Questa fase è centrata su contributi volontari nell'app. Il compenso si applica solo alla fase separata dei workshop in presenza: le persone invitate che partecipano ricevono un buono forfettario di CHF 40. Le spese di viaggio non sono rimborsate.",
+    "This stage is focused on voluntary app input. Compensation applies only to the separate in-person workshop stage: invited participants who attend receive a flat-rate CHF 60 voucher. Travel costs are not reimbursed.":
+      "Questa fase è centrata su contributi volontari nell'app. Il compenso si applica solo alla fase separata dei workshop in presenza: le persone invitate che partecipano ricevono un buono forfettario di CHF 60. Le spese di viaggio non sono rimborsate.",
     "Will everyone be invited to a workshop?": "Saranno tutti invitati a un workshop?",
     "No. Participants who stay engaged throughout the app study and complete the main tasks may have a chance to be invited to one of two physical workshops, one in Zurich and one in Lausanne, planned for June 15-19. Invitations depend on workshop capacity, availability, and the additional consent process.":
       "No. Le persone che restano coinvolte durante lo studio nell'app e completano i compiti principali possono avere la possibilità di essere invitate a uno dei due workshop in presenza, uno a Zurigo e uno a Losanna, previsti dal 15 al 19 giugno. Gli inviti dipendono dalla capacità, dalla disponibilità e dal processo di consenso aggiuntivo.",
@@ -1589,7 +1586,7 @@ window.SWISS_AI_I18N.it = {
     "Links open the official Atgora app listings and the Atgora information page.": "I link aprono le schede ufficiali dell'app Atgora e la pagina informativa di Atgora.",
     "AI-Supported Deliberation Experiment": "Esperimento di deliberazione assistita dall'IA",
     "Part of Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.": "Parte del progetto Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.",
-    "Ethics status: approved without reservations by the ETH Zurich Ethics Commission. Project 26 ETHICS-116.": "Stato etico: approvato senza riserve dalla Commissione etica dell'ETH Zurigo. Progetto 26 ETHICS-116.",
+    "Ethics status: approved without reservations. Project 26 ETHICS-116.": "Stato etico: approvato senza riserve. Progetto 26 ETHICS-116.",
     "Contact the study lead": "Contatta la direzione dello studio",
     "Switch to light mode": "Passa alla modalità chiara",
     "Switch to dark mode": "Passa alla modalità scura"
@@ -1638,7 +1635,7 @@ window.SWISS_AI_I18N.it = {
     en: {
       title: "Citizen Workshops on AI Policy in Switzerland | Swiss AI Futures",
       description:
-        "Join a citizen workshop in Zürich or Lausanne on AI policy in Switzerland. Finish Big Questions in Atgora first and receive a CHF 40 Galaxus voucher after taking part.",
+        "Join a citizen workshop in Zürich or Lausanne on AI policy in Switzerland. Finish Big Questions in Atgora first and receive a CHF 60 Galaxus voucher after taking part.",
       rounds: [
         {
           label: "Round 01",
@@ -1669,7 +1666,7 @@ window.SWISS_AI_I18N.it = {
     de: {
       title: "Bürgerworkshops zur KI-Politik in der Schweiz | Swiss AI Futures",
       description:
-        "Nehmen Sie an einem Bürgerworkshop in Zürich oder Lausanne zur KI-Politik in der Schweiz teil. Schliessen Sie zuerst Big Questions in Atgora ab und erhalten Sie nach der Teilnahme einen Galaxus-Gutschein über CHF 40.",
+        "Nehmen Sie an einem Bürgerworkshop in Zürich oder Lausanne zur KI-Politik in der Schweiz teil. Schliessen Sie zuerst Big Questions in Atgora ab und erhalten Sie nach der Teilnahme einen Galaxus-Gutschein über CHF 60.",
       text: {
         "Workshops": "Workshops",
         "Atgora first": "Zuerst Atgora",
@@ -1683,14 +1680,14 @@ window.SWISS_AI_I18N.it = {
           "Der nächste Schritt von Swiss AI Futures findet vor Ort statt: ein zweistündiger Bürgerworkshop in Zürich oder Lausanne, bei dem Menschen in der Schweiz diskutieren, worauf KI-Politik achten sollte.",
         "If you have not used the app yet, please start now. Before attending, download Atgora and finish Big Questions in the Swiss AI Futures course so the workshop can build on your input.":
           "Wenn Sie die App noch nicht genutzt haben, beginnen Sie bitte jetzt. Laden Sie vor der Teilnahme Atgora herunter und schliessen Sie Big Questions im Kurs Swiss AI Futures ab, damit der Workshop auf Ihren Beiträgen aufbauen kann.",
-        "Participants who finish Big Questions and attend one workshop receive a CHF 40 Galaxus voucher.":
-          "Teilnehmende, die Big Questions abschliessen und an einem Workshop teilnehmen, erhalten einen Galaxus-Gutschein über CHF 40.",
+        "Participants who finish Big Questions and attend one workshop receive a CHF 60 Galaxus voucher.":
+          "Teilnehmende, die Big Questions abschliessen und an einem Workshop teilnehmen, erhalten einen Galaxus-Gutschein über CHF 60.",
         "Workshop dates": "Workshopdaten",
         "Workshop dates and voucher": "Workshopdaten und Gutschein",
         "Thursday, June 18": "Donnerstag, 18. Juni",
         "Friday, June 19": "Freitag, 19. Juni",
         "2:00-4:00 pm": "14.00-16.00 Uhr",
-        "40 Franken": "40 Franken",
+        "60 Franken": "60 Franken",
         "Galaxus voucher": "Galaxus-Gutschein",
         "For participants who complete Big Questions and attend one workshop.": "Für Teilnehmende, die Big Questions abschliessen und an einem Workshop teilnehmen.",
         "See workshop details": "Workshopdetails ansehen",
@@ -1709,7 +1706,7 @@ window.SWISS_AI_I18N.it = {
         "Finish Big Questions before coming to the workshop.": "Schliessen Sie Big Questions ab, bevor Sie zum Workshop kommen.",
         "This app step matters: it gives everyone a shared starting point and helps the workshop discussion feed into AI policy recommendations for Switzerland.":
           "Dieser App-Schritt ist wichtig: Er gibt allen einen gemeinsamen Ausgangspunkt und hilft, die Workshop-Diskussion in Empfehlungen zur KI-Politik in der Schweiz einfliessen zu lassen.",
-        "Complete the app step and attend one workshop to receive a CHF 40 Galaxus voucher.": "Schliessen Sie den App-Schritt ab und nehmen Sie an einem Workshop teil, um einen Galaxus-Gutschein über CHF 40 zu erhalten.",
+        "Complete the app step and attend one workshop to receive a CHF 60 Galaxus voucher.": "Schliessen Sie den App-Schritt ab und nehmen Sie an einem Workshop teil, um einen Galaxus-Gutschein über CHF 60 zu erhalten.",
         "Before the workshop": "Vor dem Workshop",
         "Finish Big Questions in Atgora": "Big Questions in Atgora abschliessen",
         "Scan the QR code for your phone or use the store buttons. If you have not completed the app yet, install Atgora, open the Swiss AI Futures course, and finish Big Questions before attending the Zürich or Lausanne workshop.":
@@ -1766,8 +1763,8 @@ window.SWISS_AI_I18N.it = {
         "At the workshop": "Beim Workshop",
         "Voucher": "Gutschein",
         "Discuss AI policy and receive the voucher": "KI-Politik diskutieren und Gutschein erhalten",
-        "Contribute to the discussion of AI policies in Switzerland and receive a CHF 40 Galaxus voucher after completing the process.":
-          "Tragen Sie zur Diskussion über KI-Politik in der Schweiz bei und erhalten Sie nach Abschluss des Prozesses einen Galaxus-Gutschein über CHF 40.",
+        "Contribute to the discussion of AI policies in Switzerland and receive a CHF 60 Galaxus voucher after completing the process.":
+          "Tragen Sie zur Diskussion über KI-Politik in der Schweiz bei und erhalten Sie nach Abschluss des Prozesses einen Galaxus-Gutschein über CHF 60.",
         "Who can attend": "Wer teilnehmen kann",
         "You can take part if you": "Sie können teilnehmen, wenn Sie",
         "Finish Big Questions in the Swiss AI Futures course before attending": "Big Questions im Kurs Swiss AI Futures vor der Teilnahme abschliessen",
@@ -1776,15 +1773,15 @@ window.SWISS_AI_I18N.it = {
         "Big Questions gives everyone a shared starting point before the in-person discussion. Please complete it before coming to the workshop.":
           "Big Questions gibt allen vor der Diskussion vor Ort einen gemeinsamen Ausgangspunkt. Bitte schliessen Sie es ab, bevor Sie zum Workshop kommen.",
         "Voucher and civic contribution": "Gutschein und gesellschaftlicher Beitrag",
-        "Participants who finish Big Questions and attend one workshop receive a CHF 40 Galaxus voucher. Your contribution helps the project bring public perspectives into Swiss AI policy discussion.":
-          "Teilnehmende, die Big Questions abschliessen und an einem Workshop teilnehmen, erhalten einen Galaxus-Gutschein über CHF 40. Ihr Beitrag hilft dem Projekt, öffentliche Perspektiven in die Diskussion zur Schweizer KI-Politik einzubringen.",
+        "Participants who finish Big Questions and attend one workshop receive a CHF 60 Galaxus voucher. Your contribution helps the project bring public perspectives into Swiss AI policy discussion.":
+          "Teilnehmende, die Big Questions abschliessen und an einem Workshop teilnehmen, erhalten einen Galaxus-Gutschein über CHF 60. Ihr Beitrag hilft dem Projekt, öffentliche Perspektiven in die Diskussion zur Schweizer KI-Politik einzubringen.",
         "Two hours in the afternoon": "Zwei Stunden am Nachmittag",
         "The Zürich workshop is Thursday, June 18, from 2:00 to 4:00 pm. The Lausanne workshop is Friday, June 19, from 2:00 to 4:00 pm.":
           "Der Workshop in Zürich findet am Donnerstag, 18. Juni, von 14.00 bis 16.00 Uhr statt. Der Workshop in Lausanne findet am Freitag, 19. Juni, von 14.00 bis 16.00 Uhr statt.",
         "Please also allow time before the workshop to finish Big Questions in Atgora.": "Bitte planen Sie vor dem Workshop auch Zeit ein, um Big Questions in Atgora abzuschliessen.",
-        "CHF 40 Galaxus voucher": "Galaxus-Gutschein über CHF 40",
-        "The workshop process includes the app preparation and one physical workshop. Participants who complete Big Questions and attend the workshop receive a 40 Franken Galaxus voucher.":
-          "Der Workshop-Prozess umfasst die Vorbereitung in der App und einen Workshop vor Ort. Teilnehmende, die Big Questions abschliessen und am Workshop teilnehmen, erhalten einen Galaxus-Gutschein über 40 Franken.",
+        "CHF 60 Galaxus voucher": "Galaxus-Gutschein über CHF 60",
+        "The workshop process includes the app preparation and one physical workshop. Participants who complete Big Questions and attend the workshop receive a 60 Franken Galaxus voucher.":
+          "Der Workshop-Prozess umfasst die Vorbereitung in der App und einen Workshop vor Ort. Teilnehmende, die Big Questions abschliessen und am Workshop teilnehmen, erhalten einen Galaxus-Gutschein über 60 Franken.",
         "Travel costs are not reimbursed.": "Reisekosten werden nicht erstattet.",
         "Contact details for study communication, workshop coordination, and voucher administration": "Kontaktdaten für Studienkommunikation, Workshop-Koordination und Gutscheinverwaltung",
         "If a workshop discussion is recorded, that requires separate consent": "Wenn eine Workshop-Diskussion aufgezeichnet wird, ist dafür eine separate Einwilligung erforderlich",
@@ -1794,8 +1791,8 @@ window.SWISS_AI_I18N.it = {
         "Yes, but complete the app step first. Download Atgora, open Swiss AI Futures, and finish Big Questions before coming to Zürich or Lausanne.":
           "Ja, aber schliessen Sie zuerst den App-Schritt ab. Laden Sie Atgora herunter, öffnen Sie Swiss AI Futures und schliessen Sie Big Questions ab, bevor Sie nach Zürich oder Lausanne kommen.",
         "Is participation compensated?": "Wird die Teilnahme entschädigt?",
-        "Participants who finish Big Questions and attend one physical workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
-          "Teilnehmende, die Big Questions abschliessen und an einem Workshop vor Ort teilnehmen, erhalten einen Galaxus-Gutschein über CHF 40. Reisekosten werden nicht erstattet.",
+        "Participants who finish Big Questions and attend one physical workshop receive a CHF 60 Galaxus voucher. Travel costs are not reimbursed.":
+          "Teilnehmende, die Big Questions abschliessen und an einem Workshop vor Ort teilnehmen, erhalten einen Galaxus-Gutschein über CHF 60. Reisekosten werden nicht erstattet.",
         "When and where are the workshops?": "Wann und wo finden die Workshops statt?",
         "Zürich is Thursday, June 18, 2026, from 2:00 to 4:00 pm. Lausanne is Friday, June 19, 2026, from 2:00 to 4:00 pm.":
           "Zürich ist am Donnerstag, 18. Juni 2026, von 14.00 bis 16.00 Uhr. Lausanne ist am Freitag, 19. Juni 2026, von 14.00 bis 16.00 Uhr.",
@@ -1845,7 +1842,7 @@ window.SWISS_AI_I18N.it = {
     fr: {
       title: "Ateliers citoyens sur la politique de l'IA en Suisse | Swiss AI Futures",
       description:
-        "Participez à un atelier citoyen à Zurich ou Lausanne sur la politique de l'IA en Suisse. Terminez d'abord Big Questions dans Atgora et recevez un bon Galaxus de CHF 40 après votre participation.",
+        "Participez à un atelier citoyen à Zurich ou Lausanne sur la politique de l'IA en Suisse. Terminez d'abord Big Questions dans Atgora et recevez un bon Galaxus de CHF 60 après votre participation.",
       text: {
         "Workshops": "Ateliers",
         "Atgora first": "Atgora d'abord",
@@ -1859,15 +1856,15 @@ window.SWISS_AI_I18N.it = {
           "La prochaine étape de Swiss AI Futures se déroule en présence: un atelier citoyen de deux heures à Zurich ou Lausanne, où les personnes vivant en Suisse discutent de ce à quoi la politique de l'IA devrait prêter attention.",
         "If you have not used the app yet, please start now. Before attending, download Atgora and finish Big Questions in the Swiss AI Futures course so the workshop can build on your input.":
           "Si vous n'avez pas encore utilisé l'app, commencez maintenant. Avant de participer, téléchargez Atgora et terminez Big Questions dans le cours Swiss AI Futures afin que l'atelier puisse s'appuyer sur votre contribution.",
-        "Participants who finish Big Questions and attend one workshop receive a CHF 40 Galaxus voucher.":
-          "Les personnes qui terminent Big Questions et participent à un atelier reçoivent un bon Galaxus de CHF 40.",
+        "Participants who finish Big Questions and attend one workshop receive a CHF 60 Galaxus voucher.":
+          "Les personnes qui terminent Big Questions et participent à un atelier reçoivent un bon Galaxus de CHF 60.",
         "Workshop dates": "Dates des ateliers",
         "Workshop dates and voucher": "Dates des ateliers et bon",
         "Thursday, June 18": "Jeudi 18 juin",
         "Friday, June 19": "Vendredi 19 juin",
         "2:00-4:00 pm": "14 h-16 h",
         "Zürich": "Zurich",
-        "40 Franken": "40 francs",
+        "60 Franken": "60 francs",
         "Galaxus voucher": "Bon Galaxus",
         "For participants who complete Big Questions and attend one workshop.": "Pour les personnes qui terminent Big Questions et participent à un atelier.",
         "See workshop details": "Voir les détails des ateliers",
@@ -1886,7 +1883,7 @@ window.SWISS_AI_I18N.it = {
         "Finish Big Questions before coming to the workshop.": "Terminez Big Questions avant de venir à l'atelier.",
         "This app step matters: it gives everyone a shared starting point and helps the workshop discussion feed into AI policy recommendations for Switzerland.":
           "Cette étape dans l'app est importante: elle donne à tout le monde un point de départ commun et aide la discussion de l'atelier à alimenter des recommandations pour la politique de l'IA en Suisse.",
-        "Complete the app step and attend one workshop to receive a CHF 40 Galaxus voucher.": "Terminez l'étape dans l'app et participez à un atelier pour recevoir un bon Galaxus de CHF 40.",
+        "Complete the app step and attend one workshop to receive a CHF 60 Galaxus voucher.": "Terminez l'étape dans l'app et participez à un atelier pour recevoir un bon Galaxus de CHF 60.",
         "Before the workshop": "Avant l'atelier",
         "Finish Big Questions in Atgora": "Terminer Big Questions dans Atgora",
         "Scan the QR code for your phone or use the store buttons. If you have not completed the app yet, install Atgora, open the Swiss AI Futures course, and finish Big Questions before attending the Zürich or Lausanne workshop.":
@@ -1942,8 +1939,8 @@ window.SWISS_AI_I18N.it = {
         "At the workshop": "À l'atelier",
         "Voucher": "Bon",
         "Discuss AI policy and receive the voucher": "Discuter de politique de l'IA et recevoir le bon",
-        "Contribute to the discussion of AI policies in Switzerland and receive a CHF 40 Galaxus voucher after completing the process.":
-          "Contribuez à la discussion sur les politiques de l'IA en Suisse et recevez un bon Galaxus de CHF 40 après avoir terminé le processus.",
+        "Contribute to the discussion of AI policies in Switzerland and receive a CHF 60 Galaxus voucher after completing the process.":
+          "Contribuez à la discussion sur les politiques de l'IA en Suisse et recevez un bon Galaxus de CHF 60 après avoir terminé le processus.",
         "Who can attend": "Qui peut participer",
         "You can take part if you": "Vous pouvez participer si vous",
         "Finish Big Questions in the Swiss AI Futures course before attending": "terminez Big Questions dans le cours Swiss AI Futures avant de participer",
@@ -1952,15 +1949,15 @@ window.SWISS_AI_I18N.it = {
         "Big Questions gives everyone a shared starting point before the in-person discussion. Please complete it before coming to the workshop.":
           "Big Questions donne à tout le monde un point de départ commun avant la discussion en présence. Veuillez le terminer avant de venir à l'atelier.",
         "Voucher and civic contribution": "Bon et contribution civique",
-        "Participants who finish Big Questions and attend one workshop receive a CHF 40 Galaxus voucher. Your contribution helps the project bring public perspectives into Swiss AI policy discussion.":
-          "Les personnes qui terminent Big Questions et participent à un atelier reçoivent un bon Galaxus de CHF 40. Votre contribution aide le projet à intégrer des perspectives publiques dans la discussion sur la politique suisse de l'IA.",
+        "Participants who finish Big Questions and attend one workshop receive a CHF 60 Galaxus voucher. Your contribution helps the project bring public perspectives into Swiss AI policy discussion.":
+          "Les personnes qui terminent Big Questions et participent à un atelier reçoivent un bon Galaxus de CHF 60. Votre contribution aide le projet à intégrer des perspectives publiques dans la discussion sur la politique suisse de l'IA.",
         "Two hours in the afternoon": "Deux heures l'après-midi",
         "The Zürich workshop is Thursday, June 18, from 2:00 to 4:00 pm. The Lausanne workshop is Friday, June 19, from 2:00 to 4:00 pm.":
           "L'atelier de Zurich a lieu le jeudi 18 juin de 14 h à 16 h. L'atelier de Lausanne a lieu le vendredi 19 juin de 14 h à 16 h.",
         "Please also allow time before the workshop to finish Big Questions in Atgora.": "Prévoyez aussi du temps avant l'atelier pour terminer Big Questions dans Atgora.",
-        "CHF 40 Galaxus voucher": "Bon Galaxus de CHF 40",
-        "The workshop process includes the app preparation and one physical workshop. Participants who complete Big Questions and attend the workshop receive a 40 Franken Galaxus voucher.":
-          "Le processus comprend la préparation dans l'app et un atelier en présence. Les personnes qui terminent Big Questions et participent à l'atelier reçoivent un bon Galaxus de 40 francs.",
+        "CHF 60 Galaxus voucher": "Bon Galaxus de CHF 60",
+        "The workshop process includes the app preparation and one physical workshop. Participants who complete Big Questions and attend the workshop receive a 60 Franken Galaxus voucher.":
+          "Le processus comprend la préparation dans l'app et un atelier en présence. Les personnes qui terminent Big Questions et participent à l'atelier reçoivent un bon Galaxus de 60 francs.",
         "Travel costs are not reimbursed.": "Les frais de déplacement ne sont pas remboursés.",
         "Contact details for study communication, workshop coordination, and voucher administration": "Coordonnées pour les communications de l'étude, la coordination des ateliers et la gestion des bons",
         "If a workshop discussion is recorded, that requires separate consent": "Si une discussion d'atelier est enregistrée, un consentement séparé est nécessaire",
@@ -1970,8 +1967,8 @@ window.SWISS_AI_I18N.it = {
         "Yes, but complete the app step first. Download Atgora, open Swiss AI Futures, and finish Big Questions before coming to Zürich or Lausanne.":
           "Oui, mais terminez d'abord l'étape dans l'app. Téléchargez Atgora, ouvrez Swiss AI Futures et terminez Big Questions avant de venir à Zurich ou Lausanne.",
         "Is participation compensated?": "La participation est-elle indemnisée?",
-        "Participants who finish Big Questions and attend one physical workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
-          "Les personnes qui terminent Big Questions et participent à un atelier en présence reçoivent un bon Galaxus de CHF 40. Les frais de déplacement ne sont pas remboursés.",
+        "Participants who finish Big Questions and attend one physical workshop receive a CHF 60 Galaxus voucher. Travel costs are not reimbursed.":
+          "Les personnes qui terminent Big Questions et participent à un atelier en présence reçoivent un bon Galaxus de CHF 60. Les frais de déplacement ne sont pas remboursés.",
         "When and where are the workshops?": "Quand et où ont lieu les ateliers?",
         "Zürich is Thursday, June 18, 2026, from 2:00 to 4:00 pm. Lausanne is Friday, June 19, 2026, from 2:00 to 4:00 pm.":
           "Zurich a lieu le jeudi 18 juin 2026 de 14 h à 16 h. Lausanne a lieu le vendredi 19 juin 2026 de 14 h à 16 h.",
@@ -2021,7 +2018,7 @@ window.SWISS_AI_I18N.it = {
     it: {
       title: "Workshop cittadini sulla politica dell'IA in Svizzera | Swiss AI Futures",
       description:
-        "Partecipa a un workshop cittadino a Zurigo o Losanna sulla politica dell'IA in Svizzera. Completa prima Big Questions in Atgora e ricevi un buono Galaxus da CHF 40 dopo la partecipazione.",
+        "Partecipa a un workshop cittadino a Zurigo o Losanna sulla politica dell'IA in Svizzera. Completa prima Big Questions in Atgora e ricevi un buono Galaxus da CHF 60 dopo la partecipazione.",
       text: {
         "Workshops": "Workshop",
         "Atgora first": "Prima Atgora",
@@ -2035,15 +2032,15 @@ window.SWISS_AI_I18N.it = {
           "La prossima fase di Swiss AI Futures si svolge in presenza: un workshop cittadino di due ore a Zurigo o Losanna, in cui le persone che vivono in Svizzera discutono a cosa dovrebbe prestare attenzione la politica sull'IA.",
         "If you have not used the app yet, please start now. Before attending, download Atgora and finish Big Questions in the Swiss AI Futures course so the workshop can build on your input.":
           "Se non hai ancora usato l'app, inizia ora. Prima di partecipare, scarica Atgora e completa Big Questions nel corso Swiss AI Futures, così il workshop potrà basarsi sul tuo contributo.",
-        "Participants who finish Big Questions and attend one workshop receive a CHF 40 Galaxus voucher.":
-          "Le persone che completano Big Questions e partecipano a un workshop ricevono un buono Galaxus da CHF 40.",
+        "Participants who finish Big Questions and attend one workshop receive a CHF 60 Galaxus voucher.":
+          "Le persone che completano Big Questions e partecipano a un workshop ricevono un buono Galaxus da CHF 60.",
         "Workshop dates": "Date dei workshop",
         "Workshop dates and voucher": "Date dei workshop e buono",
         "Thursday, June 18": "Giovedì 18 giugno",
         "Friday, June 19": "Venerdì 19 giugno",
         "2:00-4:00 pm": "14:00-16:00",
         "Zürich": "Zurigo",
-        "40 Franken": "40 franchi",
+        "60 Franken": "60 franchi",
         "Galaxus voucher": "Buono Galaxus",
         "For participants who complete Big Questions and attend one workshop.": "Per le persone che completano Big Questions e partecipano a un workshop.",
         "See workshop details": "Vedi dettagli dei workshop",
@@ -2062,7 +2059,7 @@ window.SWISS_AI_I18N.it = {
         "Finish Big Questions before coming to the workshop.": "Completa Big Questions prima di venire al workshop.",
         "This app step matters: it gives everyone a shared starting point and helps the workshop discussion feed into AI policy recommendations for Switzerland.":
           "Questo passaggio nell'app è importante: dà a tutte e tutti un punto di partenza comune e aiuta la discussione del workshop a contribuire alle raccomandazioni sulla politica dell'IA in Svizzera.",
-        "Complete the app step and attend one workshop to receive a CHF 40 Galaxus voucher.": "Completa il passaggio nell'app e partecipa a un workshop per ricevere un buono Galaxus da CHF 40.",
+        "Complete the app step and attend one workshop to receive a CHF 60 Galaxus voucher.": "Completa il passaggio nell'app e partecipa a un workshop per ricevere un buono Galaxus da CHF 60.",
         "Before the workshop": "Prima del workshop",
         "Finish Big Questions in Atgora": "Completa Big Questions in Atgora",
         "Scan the QR code for your phone or use the store buttons. If you have not completed the app yet, install Atgora, open the Swiss AI Futures course, and finish Big Questions before attending the Zürich or Lausanne workshop.":
@@ -2118,8 +2115,8 @@ window.SWISS_AI_I18N.it = {
         "At the workshop": "Al workshop",
         "Voucher": "Buono",
         "Discuss AI policy and receive the voucher": "Discutere la politica dell'IA e ricevere il buono",
-        "Contribute to the discussion of AI policies in Switzerland and receive a CHF 40 Galaxus voucher after completing the process.":
-          "Contribuisci alla discussione sulle politiche dell'IA in Svizzera e ricevi un buono Galaxus da CHF 40 dopo aver completato il processo.",
+        "Contribute to the discussion of AI policies in Switzerland and receive a CHF 60 Galaxus voucher after completing the process.":
+          "Contribuisci alla discussione sulle politiche dell'IA in Svizzera e ricevi un buono Galaxus da CHF 60 dopo aver completato il processo.",
         "Who can attend": "Chi può partecipare",
         "You can take part if you": "Puoi partecipare se",
         "Finish Big Questions in the Swiss AI Futures course before attending": "completi Big Questions nel corso Swiss AI Futures prima di partecipare",
@@ -2128,15 +2125,15 @@ window.SWISS_AI_I18N.it = {
         "Big Questions gives everyone a shared starting point before the in-person discussion. Please complete it before coming to the workshop.":
           "Big Questions dà a tutte e tutti un punto di partenza comune prima della discussione in presenza. Completalo prima di venire al workshop.",
         "Voucher and civic contribution": "Buono e contributo civico",
-        "Participants who finish Big Questions and attend one workshop receive a CHF 40 Galaxus voucher. Your contribution helps the project bring public perspectives into Swiss AI policy discussion.":
-          "Le persone che completano Big Questions e partecipano a un workshop ricevono un buono Galaxus da CHF 40. Il tuo contributo aiuta il progetto a portare prospettive pubbliche nella discussione sulla politica svizzera dell'IA.",
+        "Participants who finish Big Questions and attend one workshop receive a CHF 60 Galaxus voucher. Your contribution helps the project bring public perspectives into Swiss AI policy discussion.":
+          "Le persone che completano Big Questions e partecipano a un workshop ricevono un buono Galaxus da CHF 60. Il tuo contributo aiuta il progetto a portare prospettive pubbliche nella discussione sulla politica svizzera dell'IA.",
         "Two hours in the afternoon": "Due ore nel pomeriggio",
         "The Zürich workshop is Thursday, June 18, from 2:00 to 4:00 pm. The Lausanne workshop is Friday, June 19, from 2:00 to 4:00 pm.":
           "Il workshop di Zurigo si tiene giovedì 18 giugno dalle 14:00 alle 16:00. Il workshop di Losanna si tiene venerdì 19 giugno dalle 14:00 alle 16:00.",
         "Please also allow time before the workshop to finish Big Questions in Atgora.": "Prevedi anche del tempo prima del workshop per completare Big Questions in Atgora.",
-        "CHF 40 Galaxus voucher": "Buono Galaxus da CHF 40",
-        "The workshop process includes the app preparation and one physical workshop. Participants who complete Big Questions and attend the workshop receive a 40 Franken Galaxus voucher.":
-          "Il processo comprende la preparazione nell'app e un workshop in presenza. Le persone che completano Big Questions e partecipano al workshop ricevono un buono Galaxus da 40 franchi.",
+        "CHF 60 Galaxus voucher": "Buono Galaxus da CHF 60",
+        "The workshop process includes the app preparation and one physical workshop. Participants who complete Big Questions and attend the workshop receive a 60 Franken Galaxus voucher.":
+          "Il processo comprende la preparazione nell'app e un workshop in presenza. Le persone che completano Big Questions e partecipano al workshop ricevono un buono Galaxus da 60 franchi.",
         "Travel costs are not reimbursed.": "Le spese di viaggio non sono rimborsate.",
         "Contact details for study communication, workshop coordination, and voucher administration": "Dati di contatto per comunicazioni dello studio, coordinamento dei workshop e gestione dei buoni",
         "If a workshop discussion is recorded, that requires separate consent": "Se una discussione del workshop viene registrata, è necessario un consenso separato",
@@ -2146,8 +2143,8 @@ window.SWISS_AI_I18N.it = {
         "Yes, but complete the app step first. Download Atgora, open Swiss AI Futures, and finish Big Questions before coming to Zürich or Lausanne.":
           "Sì, ma completa prima il passaggio nell'app. Scarica Atgora, apri Swiss AI Futures e completa Big Questions prima di venire a Zurigo o Losanna.",
         "Is participation compensated?": "La partecipazione è compensata?",
-        "Participants who finish Big Questions and attend one physical workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
-          "Le persone che completano Big Questions e partecipano a un workshop in presenza ricevono un buono Galaxus da CHF 40. Le spese di viaggio non sono rimborsate.",
+        "Participants who finish Big Questions and attend one physical workshop receive a CHF 60 Galaxus voucher. Travel costs are not reimbursed.":
+          "Le persone che completano Big Questions e partecipano a un workshop in presenza ricevono un buono Galaxus da CHF 60. Le spese di viaggio non sono rimborsate.",
         "When and where are the workshops?": "Quando e dove si svolgono i workshop?",
         "Zürich is Thursday, June 18, 2026, from 2:00 to 4:00 pm. Lausanne is Friday, June 19, 2026, from 2:00 to 4:00 pm.":
           "Zurigo si svolge giovedì 18 giugno 2026 dalle 14:00 alle 16:00. Losanna si svolge venerdì 19 giugno 2026 dalle 14:00 alle 16:00.",
@@ -2213,7 +2210,7 @@ window.SWISS_AI_I18N.it = {
   const moduleNameTrimUpdates = {
     de: {
       description:
-        "Nehmen Sie an einem Bürgerworkshop in Zürich oder Lausanne zur KI-Politik in der Schweiz teil. Schliessen Sie zuerst die Vorbereitung in Atgora ab und erhalten Sie nach der Teilnahme einen Galaxus-Gutschein über CHF 40.",
+        "Nehmen Sie an einem Bürgerworkshop in Zürich oder Lausanne zur KI-Politik in der Schweiz teil. Schliessen Sie zuerst die Vorbereitung in Atgora ab und erhalten Sie nach der Teilnahme einen Galaxus-Gutschein über CHF 60.",
       text: {
         "App module": "App-Modul",
         "Before you come, complete the preparation module in the Swiss AI Futures course in Atgora. No AI expertise is needed.":
@@ -2230,12 +2227,12 @@ window.SWISS_AI_I18N.it = {
         "Complete the app module": "Das App-Modul abschliessen",
         "Open the Swiss AI Futures course in Atgora and finish the prompts.": "Öffnen Sie den Kurs Swiss AI Futures in Atgora und beantworten Sie die Fragen.",
         "Complete the Atgora preparation before attending": "die Vorbereitung in Atgora vor der Teilnahme abschliessen",
-        "Participants who complete the Atgora step and attend one workshop receive a CHF 40 Galaxus voucher.":
-          "Teilnehmende, die den Atgora-Schritt abschliessen und an einem Workshop teilnehmen, erhalten einen Galaxus-Gutschein über CHF 40.",
+        "Participants who complete the Atgora step and attend one workshop receive a CHF 60 Galaxus voucher.":
+          "Teilnehmende, die den Atgora-Schritt abschliessen und an einem Workshop teilnehmen, erhalten einen Galaxus-Gutschein über CHF 60.",
         "The app module gives everyone a shared starting point before the workshop.": "Das App-Modul gibt allen vor dem Workshop einen gemeinsamen Ausgangspunkt.",
         "Yes. Download Atgora and complete the preparation module before coming.": "Ja. Laden Sie Atgora herunter und schliessen Sie das Vorbereitungsmodul ab, bevor Sie kommen.",
-        "Participants who complete the Atgora step and attend one physical workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
-          "Teilnehmende, die den Atgora-Schritt abschliessen und an einem Workshop vor Ort teilnehmen, erhalten einen Galaxus-Gutschein über CHF 40. Reisekosten werden nicht erstattet.",
+        "Participants who complete the Atgora step and attend one physical workshop receive a CHF 60 Galaxus voucher. Travel costs are not reimbursed.":
+          "Teilnehmende, die den Atgora-Schritt abschliessen und an einem Workshop vor Ort teilnehmen, erhalten einen Galaxus-Gutschein über CHF 60. Reisekosten werden nicht erstattet.",
         "The wording explains the workshop dates, the Atgora preparation step, and why this citizen-input phase matters.":
           "Der Text erklärt die Workshopdaten, den Vorbereitungsschritt in Atgora und warum diese Phase öffentlicher Beteiligung wichtig ist.",
         "Before attending, participants should download @gora, join the Swiss AI Futures course, and complete the preparation module in the app.":
@@ -2243,13 +2240,13 @@ window.SWISS_AI_I18N.it = {
         "Before attending, download @gora, join the Swiss AI Futures course, and complete the preparation module in the app.":
           "Laden Sie vor der Teilnahme @gora herunter, treten Sie dem Kurs Swiss AI Futures bei und schliessen Sie das Vorbereitungsmodul in der App ab.",
         "Complete the preparation module before attending the workshop": "Das Vorbereitungsmodul vor dem Workshop abschliessen",
-        "Participants who complete the Atgora step and attend one workshop receive a CHF 40 Galaxus voucher.":
-          "Teilnehmende, die den Atgora-Schritt abschliessen und an einem Workshop teilnehmen, erhalten einen Galaxus-Gutschein über CHF 40."
+        "Participants who complete the Atgora step and attend one workshop receive a CHF 60 Galaxus voucher.":
+          "Teilnehmende, die den Atgora-Schritt abschliessen und an einem Workshop teilnehmen, erhalten einen Galaxus-Gutschein über CHF 60."
       }
     },
     fr: {
       description:
-        "Participez à un atelier citoyen à Zurich ou Lausanne sur la politique de l'IA en Suisse. Terminez d'abord la préparation dans Atgora et recevez un bon Galaxus de CHF 40 après votre participation.",
+        "Participez à un atelier citoyen à Zurich ou Lausanne sur la politique de l'IA en Suisse. Terminez d'abord la préparation dans Atgora et recevez un bon Galaxus de CHF 60 après votre participation.",
       text: {
         "App module": "Module dans l'app",
         "Before you come, complete the preparation module in the Swiss AI Futures course in Atgora. No AI expertise is needed.":
@@ -2266,12 +2263,12 @@ window.SWISS_AI_I18N.it = {
         "Complete the app module": "Terminer le module dans l'app",
         "Open the Swiss AI Futures course in Atgora and finish the prompts.": "Ouvrez le cours Swiss AI Futures dans Atgora et terminez les questions.",
         "Complete the Atgora preparation before attending": "terminer la préparation dans Atgora avant de participer",
-        "Participants who complete the Atgora step and attend one workshop receive a CHF 40 Galaxus voucher.":
-          "Les personnes qui terminent l'étape dans Atgora et participent à un atelier reçoivent un bon Galaxus de CHF 40.",
+        "Participants who complete the Atgora step and attend one workshop receive a CHF 60 Galaxus voucher.":
+          "Les personnes qui terminent l'étape dans Atgora et participent à un atelier reçoivent un bon Galaxus de CHF 60.",
         "The app module gives everyone a shared starting point before the workshop.": "Le module dans l'app donne à tout le monde un point de départ commun avant l'atelier.",
         "Yes. Download Atgora and complete the preparation module before coming.": "Oui. Téléchargez Atgora et terminez le module de préparation avant de venir.",
-        "Participants who complete the Atgora step and attend one physical workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
-          "Les personnes qui terminent l'étape dans Atgora et participent à un atelier en présence reçoivent un bon Galaxus de CHF 40. Les frais de déplacement ne sont pas remboursés.",
+        "Participants who complete the Atgora step and attend one physical workshop receive a CHF 60 Galaxus voucher. Travel costs are not reimbursed.":
+          "Les personnes qui terminent l'étape dans Atgora et participent à un atelier en présence reçoivent un bon Galaxus de CHF 60. Les frais de déplacement ne sont pas remboursés.",
         "The wording explains the workshop dates, the Atgora preparation step, and why this citizen-input phase matters.":
           "Le texte explique les dates des ateliers, l'étape de préparation dans Atgora et pourquoi cette phase de participation citoyenne est importante.",
         "Before attending, participants should download @gora, join the Swiss AI Futures course, and complete the preparation module in the app.":
@@ -2279,13 +2276,13 @@ window.SWISS_AI_I18N.it = {
         "Before attending, download @gora, join the Swiss AI Futures course, and complete the preparation module in the app.":
           "Avant de participer, téléchargez @gora, rejoignez le cours Swiss AI Futures et terminez le module de préparation dans l'app.",
         "Complete the preparation module before attending the workshop": "Terminer le module de préparation avant de participer à l'atelier",
-        "Participants who complete the Atgora step and attend one workshop receive a CHF 40 Galaxus voucher.":
-          "Les personnes qui terminent l'étape dans Atgora et participent à un atelier reçoivent un bon Galaxus de CHF 40."
+        "Participants who complete the Atgora step and attend one workshop receive a CHF 60 Galaxus voucher.":
+          "Les personnes qui terminent l'étape dans Atgora et participent à un atelier reçoivent un bon Galaxus de CHF 60."
       }
     },
     it: {
       description:
-        "Partecipa a un workshop cittadino a Zurigo o Losanna sulla politica dell'IA in Svizzera. Completa prima la preparazione in Atgora e ricevi un buono Galaxus da CHF 40 dopo la partecipazione.",
+        "Partecipa a un workshop cittadino a Zurigo o Losanna sulla politica dell'IA in Svizzera. Completa prima la preparazione in Atgora e ricevi un buono Galaxus da CHF 60 dopo la partecipazione.",
       text: {
         "App module": "Modulo nell'app",
         "Before you come, complete the preparation module in the Swiss AI Futures course in Atgora. No AI expertise is needed.":
@@ -2302,12 +2299,12 @@ window.SWISS_AI_I18N.it = {
         "Complete the app module": "Completa il modulo nell'app",
         "Open the Swiss AI Futures course in Atgora and finish the prompts.": "Apri il corso Swiss AI Futures in Atgora e completa le domande.",
         "Complete the Atgora preparation before attending": "completi la preparazione in Atgora prima di partecipare",
-        "Participants who complete the Atgora step and attend one workshop receive a CHF 40 Galaxus voucher.":
-          "Le persone che completano il passaggio in Atgora e partecipano a un workshop ricevono un buono Galaxus da CHF 40.",
+        "Participants who complete the Atgora step and attend one workshop receive a CHF 60 Galaxus voucher.":
+          "Le persone che completano il passaggio in Atgora e partecipano a un workshop ricevono un buono Galaxus da CHF 60.",
         "The app module gives everyone a shared starting point before the workshop.": "Il modulo nell'app dà a tutte e tutti un punto di partenza comune prima del workshop.",
         "Yes. Download Atgora and complete the preparation module before coming.": "Sì. Scarica Atgora e completa il modulo di preparazione prima di venire.",
-        "Participants who complete the Atgora step and attend one physical workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
-          "Le persone che completano il passaggio in Atgora e partecipano a un workshop in presenza ricevono un buono Galaxus da CHF 40. Le spese di viaggio non sono rimborsate.",
+        "Participants who complete the Atgora step and attend one physical workshop receive a CHF 60 Galaxus voucher. Travel costs are not reimbursed.":
+          "Le persone che completano il passaggio in Atgora e partecipano a un workshop in presenza ricevono un buono Galaxus da CHF 60. Le spese di viaggio non sono rimborsate.",
         "The wording explains the workshop dates, the Atgora preparation step, and why this citizen-input phase matters.":
           "Il testo spiega le date dei workshop, il passaggio di preparazione in Atgora e perché questa fase di partecipazione civica è importante.",
         "Before attending, participants should download @gora, join the Swiss AI Futures course, and complete the preparation module in the app.":
@@ -2315,8 +2312,8 @@ window.SWISS_AI_I18N.it = {
         "Before attending, download @gora, join the Swiss AI Futures course, and complete the preparation module in the app.":
           "Prima di partecipare, scarica @gora, unisciti al corso Swiss AI Futures e completa il modulo di preparazione nell'app.",
         "Complete the preparation module before attending the workshop": "Completa il modulo di preparazione prima di partecipare al workshop",
-        "Participants who complete the Atgora step and attend one workshop receive a CHF 40 Galaxus voucher.":
-          "Le persone che completano il passaggio in Atgora e partecipano a un workshop ricevono un buono Galaxus da CHF 40."
+        "Participants who complete the Atgora step and attend one workshop receive a CHF 60 Galaxus voucher.":
+          "Le persone che completano il passaggio in Atgora e partecipano a un workshop ricevono un buono Galaxus da CHF 60."
       }
     }
   };
@@ -2352,12 +2349,12 @@ window.SWISS_AI_I18N.it = {
       "Join one session": "An einem Termin teilnehmen",
       "Attend the Zürich or Lausanne workshop and take part in the moderated discussion.":
         "Nehmen Sie am Workshop in Zürich oder Lausanne und an der moderierten Diskussion teil.",
-      "Receive CHF 40": "CHF 40 erhalten",
+      "Receive CHF 60": "CHF 60 erhalten",
       "After completing the app step and attending the workshop, you receive a Galaxus voucher.":
         "Nach Abschluss des App-Schritts und Teilnahme am Workshop erhalten Sie einen Galaxus-Gutschein.",
       "What you receive": "Was Sie erhalten",
-      "Participants who complete Big Questions and attend one workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
-        "Teilnehmende, die Big Questions abschliessen und an einem Workshop teilnehmen, erhalten einen Galaxus-Gutschein über CHF 40. Reisekosten werden nicht erstattet.",
+      "Participants who complete Big Questions and attend one workshop receive a CHF 60 Galaxus voucher. Travel costs are not reimbursed.":
+        "Teilnehmende, die Big Questions abschliessen und an einem Workshop teilnehmen, erhalten einen Galaxus-Gutschein über CHF 60. Reisekosten werden nicht erstattet.",
       "Big Questions gives everyone a shared starting point before the workshop.":
         "Big Questions gibt allen vor dem Workshop einen gemeinsamen Ausgangspunkt.",
       "Yes. Download Atgora and finish Big Questions before coming.":
@@ -2383,12 +2380,12 @@ window.SWISS_AI_I18N.it = {
       "Join one session": "Participer à une séance",
       "Attend the Zürich or Lausanne workshop and take part in the moderated discussion.":
         "Participez à l'atelier de Zurich ou de Lausanne et à la discussion modérée.",
-      "Receive CHF 40": "Recevoir CHF 40",
+      "Receive CHF 60": "Recevoir CHF 60",
       "After completing the app step and attending the workshop, you receive a Galaxus voucher.":
         "Après avoir terminé l'étape dans l'app et participé à l'atelier, vous recevez un bon Galaxus.",
       "What you receive": "Ce que vous recevez",
-      "Participants who complete Big Questions and attend one workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
-        "Les personnes qui terminent Big Questions et participent à un atelier reçoivent un bon Galaxus de CHF 40. Les frais de déplacement ne sont pas remboursés.",
+      "Participants who complete Big Questions and attend one workshop receive a CHF 60 Galaxus voucher. Travel costs are not reimbursed.":
+        "Les personnes qui terminent Big Questions et participent à un atelier reçoivent un bon Galaxus de CHF 60. Les frais de déplacement ne sont pas remboursés.",
       "Big Questions gives everyone a shared starting point before the workshop.":
         "Big Questions donne à tout le monde un point de départ commun avant l'atelier.",
       "Yes. Download Atgora and finish Big Questions before coming.":
@@ -2414,12 +2411,12 @@ window.SWISS_AI_I18N.it = {
       "Join one session": "Partecipa a una sessione",
       "Attend the Zürich or Lausanne workshop and take part in the moderated discussion.":
         "Partecipa al workshop di Zurigo o Losanna e alla discussione moderata.",
-      "Receive CHF 40": "Ricevi CHF 40",
+      "Receive CHF 60": "Ricevi CHF 60",
       "After completing the app step and attending the workshop, you receive a Galaxus voucher.":
         "Dopo aver completato il passaggio nell'app e partecipato al workshop, riceverai un buono Galaxus.",
       "What you receive": "Cosa ricevi",
-      "Participants who complete Big Questions and attend one workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
-        "Le persone che completano Big Questions e partecipano a un workshop ricevono un buono Galaxus da CHF 40. Le spese di viaggio non sono rimborsate.",
+      "Participants who complete Big Questions and attend one workshop receive a CHF 60 Galaxus voucher. Travel costs are not reimbursed.":
+        "Le persone che completano Big Questions e partecipano a un workshop ricevono un buono Galaxus da CHF 60. Le spese di viaggio non sono rimborsate.",
       "Big Questions gives everyone a shared starting point before the workshop.":
         "Big Questions dà a tutte e tutti un punto di partenza comune prima del workshop.",
       "Yes. Download Atgora and finish Big Questions before coming.":
@@ -2509,8 +2506,8 @@ window.SWISS_AI_I18N.it = {
       "The short app step gives everyone a shared starting point and helps the research team prepare the in-person discussion.":
         "Der kurze App-Schritt gibt allen einen gemeinsamen Ausgangspunkt und hilft dem Forschungsteam, die Diskussion vor Ort vorzubereiten.",
       "What data is collected?": "Welche Daten werden erhoben?",
-      "ETH Zurich is responsible for the research data. The study uses contact details for communication, workshop coordination, and voucher administration, plus survey responses, demographic profile information, app votes, short written responses, and participation or completion information. Identifying information is stored separately from coded research data.":
-        "ETH Zürich ist für die Forschungsdaten verantwortlich. Die Studie nutzt Kontaktdaten für Kommunikation, Workshop-Koordination und Gutscheinverwaltung sowie Umfrageantworten, demografische Profilinformationen, App-Abstimmungen, kurze schriftliche Antworten und Teilnahme- oder Abschlussinformationen. Identifizierende Informationen werden getrennt von codierten Forschungsdaten gespeichert."
+      "The study team is responsible for the research data. The study uses contact details for communication, workshop coordination, and voucher administration, plus survey responses, demographic profile information, app votes, short written responses, and participation or completion information. Identifying information is stored separately from coded research data.":
+        "Das Studienteam ist für die Forschungsdaten verantwortlich. Die Studie nutzt Kontaktdaten für Kommunikation, Workshop-Koordination und Gutscheinverwaltung sowie Umfrageantworten, demografische Profilinformationen, App-Abstimmungen, kurze schriftliche Antworten und Teilnahme- oder Abschlussinformationen. Identifizierende Informationen werden getrennt von codierten Forschungsdaten gespeichert."
     },
     fr: {
       "Why attend": "Pourquoi participer",
@@ -2527,8 +2524,8 @@ window.SWISS_AI_I18N.it = {
       "The short app step gives everyone a shared starting point and helps the research team prepare the in-person discussion.":
         "La courte étape dans l'app donne à tout le monde un point de départ commun et aide l'équipe de recherche à préparer la discussion en présence.",
       "What data is collected?": "Quelles données sont collectées?",
-      "ETH Zurich is responsible for the research data. The study uses contact details for communication, workshop coordination, and voucher administration, plus survey responses, demographic profile information, app votes, short written responses, and participation or completion information. Identifying information is stored separately from coded research data.":
-        "L'ETH Zurich est responsable des données de recherche. L'étude utilise les coordonnées pour la communication, la coordination de l'atelier et l'administration des bons, ainsi que les réponses aux sondages, les informations de profil démographique, les votes dans l'app, les courtes réponses écrites et les informations de participation ou d'achèvement. Les informations d'identification sont stockées séparément des données de recherche codées."
+      "The study team is responsible for the research data. The study uses contact details for communication, workshop coordination, and voucher administration, plus survey responses, demographic profile information, app votes, short written responses, and participation or completion information. Identifying information is stored separately from coded research data.":
+        "L'équipe de l'étude est responsable des données de recherche. L'étude utilise les coordonnées pour la communication, la coordination de l'atelier et l'administration des bons, ainsi que les réponses aux sondages, les informations de profil démographique, les votes dans l'app, les courtes réponses écrites et les informations de participation ou d'achèvement. Les informations d'identification sont stockées séparément des données de recherche codées."
     },
     it: {
       "Why attend": "Perché partecipare",
@@ -2545,8 +2542,8 @@ window.SWISS_AI_I18N.it = {
       "The short app step gives everyone a shared starting point and helps the research team prepare the in-person discussion.":
         "Il breve passaggio nell'app dà a tutte e tutti un punto di partenza comune e aiuta il team di ricerca a preparare la discussione in presenza.",
       "What data is collected?": "Quali dati vengono raccolti?",
-      "ETH Zurich is responsible for the research data. The study uses contact details for communication, workshop coordination, and voucher administration, plus survey responses, demographic profile information, app votes, short written responses, and participation or completion information. Identifying information is stored separately from coded research data.":
-        "L'ETH Zurigo è responsabile dei dati di ricerca. Lo studio utilizza i dati di contatto per la comunicazione, il coordinamento del workshop e la gestione dei buoni, oltre a risposte ai sondaggi, informazioni demografiche, voti nell'app, brevi risposte scritte e informazioni di partecipazione o completamento. Le informazioni identificative sono conservate separatamente dai dati di ricerca codificati."
+      "The study team is responsible for the research data. The study uses contact details for communication, workshop coordination, and voucher administration, plus survey responses, demographic profile information, app votes, short written responses, and participation or completion information. Identifying information is stored separately from coded research data.":
+        "Il team dello studio è responsabile dei dati di ricerca. Lo studio utilizza i dati di contatto per la comunicazione, il coordinamento del workshop e la gestione dei buoni, oltre a risposte ai sondaggi, informazioni demografiche, voti nell'app, brevi risposte scritte e informazioni di partecipazione o completamento. Le informazioni identificative sono conservate separatamente dai dati di ricerca codificati."
     }
   };
 
@@ -2644,10 +2641,10 @@ window.SWISS_AI_I18N.it = {
         "Der kurze Atgora-Fragebogen gibt allen einen gemeinsamen Ausgangspunkt und hilft dem Forschungsteam, die Diskussion vor Ort vorzubereiten. Er ist zusätzlich zur Anmeldung erforderlich.",
       "Yes, but please sign up and complete the Atgora questionnaire first. Download Atgora, open Swiss AI Futures, and finish the questionnaire before coming to Zürich or Lausanne.":
         "Ja, aber melden Sie sich bitte zuerst an und schliessen Sie den Atgora-Fragebogen ab. Laden Sie Atgora herunter, öffnen Sie Swiss AI Futures und schliessen Sie den Fragebogen ab, bevor Sie nach Zürich oder Lausanne kommen.",
-      "Participants who sign up, complete the Atgora questionnaire, and attend one physical workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
-        "Teilnehmende, die sich anmelden, den Atgora-Fragebogen abschliessen und an einem Workshop vor Ort teilnehmen, erhalten einen Galaxus-Gutschein über CHF 40. Reisekosten werden nicht erstattet.",
-      "Participants who sign up, complete the Atgora questionnaire, and attend one workshop receive a CHF 40 Galaxus voucher.":
-        "Teilnehmende, die sich anmelden, den Atgora-Fragebogen abschliessen und an einem Workshop teilnehmen, erhalten einen Galaxus-Gutschein über CHF 40.",
+      "Participants who sign up, complete the Atgora questionnaire, and attend one physical workshop receive a CHF 60 Galaxus voucher. Travel costs are not reimbursed.":
+        "Teilnehmende, die sich anmelden, den Atgora-Fragebogen abschliessen und an einem Workshop vor Ort teilnehmen, erhalten einen Galaxus-Gutschein über CHF 60. Reisekosten werden nicht erstattet.",
+      "Participants who sign up, complete the Atgora questionnaire, and attend one workshop receive a CHF 60 Galaxus voucher.":
+        "Teilnehmende, die sich anmelden, den Atgora-Fragebogen abschliessen und an einem Workshop teilnehmen, erhalten einen Galaxus-Gutschein über CHF 60.",
       "To join, sign up here:": "Zur Teilnahme hier anmelden:",
       "Before attending, participants should also download @gora, join the Swiss AI Futures course, and finish the short questionnaire.":
         "Vor der Teilnahme sollten Teilnehmende ausserdem @gora herunterladen, dem Kurs Swiss AI Futures beitreten und den kurzen Fragebogen abschliessen.",
@@ -2683,10 +2680,10 @@ window.SWISS_AI_I18N.it = {
         "Le court questionnaire Atgora donne à tout le monde un point de départ commun et aide l'équipe de recherche à préparer la discussion en présence. Il est requis en plus de l'inscription.",
       "Yes, but please sign up and complete the Atgora questionnaire first. Download Atgora, open Swiss AI Futures, and finish the questionnaire before coming to Zürich or Lausanne.":
         "Oui, mais veuillez d'abord vous inscrire et terminer le questionnaire Atgora. Téléchargez Atgora, ouvrez Swiss AI Futures et terminez le questionnaire avant de venir à Zurich ou Lausanne.",
-      "Participants who sign up, complete the Atgora questionnaire, and attend one physical workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
-        "Les personnes qui s'inscrivent, terminent le questionnaire Atgora et participent à un atelier en présence reçoivent un bon Galaxus de CHF 40. Les frais de déplacement ne sont pas remboursés.",
-      "Participants who sign up, complete the Atgora questionnaire, and attend one workshop receive a CHF 40 Galaxus voucher.":
-        "Les personnes qui s'inscrivent, terminent le questionnaire Atgora et participent à un atelier reçoivent un bon Galaxus de CHF 40.",
+      "Participants who sign up, complete the Atgora questionnaire, and attend one physical workshop receive a CHF 60 Galaxus voucher. Travel costs are not reimbursed.":
+        "Les personnes qui s'inscrivent, terminent le questionnaire Atgora et participent à un atelier en présence reçoivent un bon Galaxus de CHF 60. Les frais de déplacement ne sont pas remboursés.",
+      "Participants who sign up, complete the Atgora questionnaire, and attend one workshop receive a CHF 60 Galaxus voucher.":
+        "Les personnes qui s'inscrivent, terminent le questionnaire Atgora et participent à un atelier reçoivent un bon Galaxus de CHF 60.",
       "To join, sign up here:": "Pour participer, inscrivez-vous ici:",
       "Before attending, participants should also download @gora, join the Swiss AI Futures course, and finish the short questionnaire.":
         "Avant de participer, les personnes devraient aussi télécharger @gora, rejoindre le cours Swiss AI Futures et terminer le court questionnaire.",
@@ -2722,10 +2719,10 @@ window.SWISS_AI_I18N.it = {
         "Il breve questionario Atgora dà a tutte e tutti un punto di partenza comune e aiuta il team di ricerca a preparare la discussione in presenza. È richiesto oltre all'iscrizione.",
       "Yes, but please sign up and complete the Atgora questionnaire first. Download Atgora, open Swiss AI Futures, and finish the questionnaire before coming to Zürich or Lausanne.":
         "Sì, ma prima iscriviti e completa il questionario Atgora. Scarica Atgora, apri Swiss AI Futures e completa il questionario prima di venire a Zurigo o Losanna.",
-      "Participants who sign up, complete the Atgora questionnaire, and attend one physical workshop receive a CHF 40 Galaxus voucher. Travel costs are not reimbursed.":
-        "Le persone che si iscrivono, completano il questionario Atgora e partecipano a un workshop in presenza ricevono un buono Galaxus da CHF 40. Le spese di viaggio non sono rimborsate.",
-      "Participants who sign up, complete the Atgora questionnaire, and attend one workshop receive a CHF 40 Galaxus voucher.":
-        "Le persone che si iscrivono, completano il questionario Atgora e partecipano a un workshop ricevono un buono Galaxus da CHF 40.",
+      "Participants who sign up, complete the Atgora questionnaire, and attend one physical workshop receive a CHF 60 Galaxus voucher. Travel costs are not reimbursed.":
+        "Le persone che si iscrivono, completano il questionario Atgora e partecipano a un workshop in presenza ricevono un buono Galaxus da CHF 60. Le spese di viaggio non sono rimborsate.",
+      "Participants who sign up, complete the Atgora questionnaire, and attend one workshop receive a CHF 60 Galaxus voucher.":
+        "Le persone che si iscrivono, completano il questionario Atgora e partecipano a un workshop ricevono un buono Galaxus da CHF 60.",
       "To join, sign up here:": "Per partecipare, iscriviti qui:",
       "Before attending, participants should also download @gora, join the Swiss AI Futures course, and finish the short questionnaire.":
         "Prima di partecipare, le persone dovrebbero anche scaricare @gora, unirsi al corso Swiss AI Futures e completare il breve questionario.",

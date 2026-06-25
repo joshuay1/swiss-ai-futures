@@ -10,26 +10,26 @@ This document contains the study facts, participant-facing copy, CTA ideas, priv
 - **Parent project title:** Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions
 - **Public invitation:** Help shape the future of AI in Switzerland
 - **Main topic:** AI in the future of work and labour markets
-- **Research institution:** ETH Zurich, Computational Social Science Lab
-- **Principal investigator:** Joshua C. Yang, Postdoctoral Researcher, ETH Zurich, joyang@ethz.ch
+- **Research institution:** Swiss AI Futures research consortium
+- **Principal investigator:** Joshua C. Yang, Postdoctoral Researcher, ETH Zurich, joshyang@mit.edu
 - **Academic collaborators:** Prof. Maud Reveilhac, Swiss-affiliated research consortium; Prof. Aurelia Tamo-Larrieux, Associate Professor, University of Lausanne, Aurelia.Tamo-Larrieux@unil.ch
 - **Funder:** TA-SWISS, the Swiss Foundation for Technology Assessment
 - **Technology partner:** @gora Foundation / Carbon Copy, provider of the Atgora app
-- **Data controller:** ETH Zurich
-- **Data protection officer:** Tomislav Mitar, ETH Zurich, tomislav.mitar@sl.ethz.ch
-- **Ethics complaints contact:** ETH Zurich Ethics Commission office, ethics@sl.ethz.ch, 0041 44 632 85 72
+- **Data responsibility:** Study team
+- **Data protection officer:** Tomislav Mitar, tomislav.mitar@sl.ethz.ch
+- **Ethics complaints contact:** Ethics Commission office, ethics@sl.ethz.ch, 0041 44 632 85 72
 - **Who can participate:** Swiss residents aged 18 or older
 - **Stage 1 format:** Asynchronous online app-based learning, surveys, micro-polling, and argument submission from May 19 to June 5
 - **Stage 1 rhythm:** Four expected app rounds over about two weeks, around 10 minutes each, with possible reminder notifications every few days
 - **Stage 1 compensation:** Not compensated
 - **Stage 2 format:** Optional/invited in-person workshops, one in Zurich on August 11, 2026 and one in Lausanne on August 12, 2026, both starting at 5:30 pm
-- **Stage 2 compensation:** Flat-rate CHF 40 voucher for invited participants who attend; travel costs are not reimbursed
+- **Stage 2 compensation:** Flat-rate CHF 60 voucher for invited participants who attend; travel costs are not reimbursed
 - **Broader project structure:** The citizen input recruited through this page is Phase 3 of the broader project. Phase 1 reviews published work, public AI/LLM documents, policy responses, and experiments on LLM usage and skills. Phase 2 uses focus groups, future scenarios, and experiments on deskilling/upskilling. Phase 3 is co-led by Joshua C. Yang, Maud Reveilhac, and Aurelia Tamò-Larrieux, and uses app-based public deliberation and possible workshops to connect earlier findings with lived experiences, decision-making patterns, and ethical considerations.
 - **Civic impact:** Participant input will contribute to a TA-SWISS report/book and policy-facing outputs intended to inform Swiss decision-makers, including the Swiss Parliament
 - **AI role:** Statistical grouping and summarisation of participant responses; no individual profiling, personal recommendations, hidden persuasion, or automated decisions about what participants should think
 - **Data protection:** Research data is coded or pseudonymised, identifying information is stored separately, and app infrastructure is hosted in the European Union, Stockholm region
 - **Voluntary participation:** Participants may withdraw at any time without giving a reason and without disadvantage
-- **Ethics review status:** Reviewed and approved without reservations by the ETH Zurich Ethics Commission; Project 26 ETHICS-116
+- **Ethics review status:** Reviewed and approved without reservations; Project 26 ETHICS-116
 
 ## Page Goal
 
@@ -84,9 +84,9 @@ See how your input will be used
 - **App rhythm:** Participants are asked to return to the app about four times, around 10 minutes each, with notifications every few days
 - **Workshops:** Two in-person workshops, one in Zurich on August 11, 2026 and one in Lausanne on August 12, 2026, both starting at 5:30 pm; engaged app participants will most likely be invited, subject to workshop capacity and availability
 - **Civic impact:** Results will contribute to a TA-SWISS report/book and policy-facing outputs intended to inform decision-makers, including the Swiss Parliament
-- **Compensation:** The app study is unpaid; invited workshop participation includes a flat-rate CHF 40 voucher. Travel costs are not reimbursed.
-- **Research lead:** Joshua C. Yang, ETH Zurich, joyang@ethz.ch
-- **Data controller:** ETH Zurich
+- **Compensation:** The app study is unpaid; invited workshop participation includes a flat-rate CHF 60 voucher. Travel costs are not reimbursed.
+- **Research lead:** Joshua C. Yang, ETH Zurich, joshyang@mit.edu
+- **Data responsibility:** Study team
 
 ## Public-Facing Study Summary
 
@@ -195,7 +195,7 @@ Participants who answer incorrectly should be shown the study information again 
 
 ### 5. Baseline Survey
 
-Participants complete a baseline survey in the app or through a project-controlled/ETH-approved survey flow.
+Participants complete a baseline survey in the app or through a project-controlled survey flow.
 
 Survey themes:
 
@@ -289,7 +289,7 @@ Add before launch:
 
 Public copy:
 
-The app study is not compensated. Participants invited to and attending one of the physical workshops in Zurich or Lausanne will receive a flat-rate CHF 40 voucher. Travel costs are not reimbursed.
+The app study is not compensated. Participants invited to and attending one of the physical workshops in Zurich or Lausanne will receive a flat-rate CHF 60 voucher. Travel costs are not reimbursed.
 
 Important constraints:
 
@@ -342,7 +342,7 @@ Technical explanation for an expandable section:
 
 Public copy:
 
-ETH Zurich is responsible for the research data. Identifying information, such as names and email addresses, is stored separately from research data. Research data is coded or pseudonymised. Data is protected using standard encryption for data in transit and at rest.
+The study team is responsible for the research data. Identifying information, such as names and email addresses, is stored separately from research data. Research data is coded or pseudonymised. Data is protected using standard encryption for data in transit and at rest.
 
 The Atgora app infrastructure is hosted in the European Union, in the Stockholm region. The @gora Foundation / Carbon Copy provides the app as a technology partner and data processor under a project-specific agreement. The technology partner may process app data only for implementation, security, and technical support, and may not independently analyse, reuse, sell, publish, or train systems on participant data.
 
@@ -374,7 +374,7 @@ For Stage 2 workshops, a designated support person and a quiet space will be ava
 
 Support contacts to include for Stage 2 materials:
 
-- Study contact: Joshua C. Yang, ETH Zurich, joyang@ethz.ch
+- Study contact: Joshua C. Yang, ETH Zurich, joshyang@mit.edu
 - Die Dargebotene Hand / La Main Tendue: 143
 - Pro Mente Sana: 0848 800 858
 - Site-specific Zurich resources: `TBD`
@@ -384,14 +384,14 @@ Support contacts to include for Stage 2 materials:
 
 Use this on the page, ideally in an "About the Study" or "Who is running this?" section.
 
-- **Principal investigator:** Joshua C. Yang, Postdoctoral Researcher, Computational Social Science Lab, ETH Zurich, joyang@ethz.ch
+- **Principal investigator:** Joshua C. Yang, Postdoctoral Researcher, ETH Zurich, joshyang@mit.edu
 - **Collaborator:** Prof. Maud Reveilhac, Swiss-affiliated research consortium
 - **Collaborator:** Prof. Aurelia Tamo-Larrieux, Associate Professor, University of Lausanne, Aurelia.Tamo-Larrieux@unil.ch
 - **Funder:** TA-SWISS, the Swiss Foundation for Technology Assessment
 - **Technology partner:** @gora Foundation / Carbon Copy, provider of the Atgora app
-- **Data controller:** ETH Zurich
-- **Data protection officer:** Tomislav Mitar, ETH Zurich, tomislav.mitar@sl.ethz.ch
-- **Ethics complaints contact:** ETH Zurich Ethics Commission office, ethics@sl.ethz.ch, 0041 44 632 85 72
+- **Data responsibility:** Study team
+- **Data protection officer:** Tomislav Mitar, tomislav.mitar@sl.ethz.ch
+- **Ethics complaints contact:** Ethics Commission office, ethics@sl.ethz.ch, 0041 44 632 85 72
 
 Public-facing role of TA-SWISS:
 
@@ -399,13 +399,13 @@ TA-SWISS supports the project as part of its mandate to promote informed public 
 
 Do not say that TA-SWISS receives individual participant data. It does not.
 
-Do not say that @gora Foundation / Carbon Copy controls the research data. ETH Zurich controls the research data.
+Do not say that @gora Foundation / Carbon Copy controls the research data. Use the approved generic wording for research-data responsibility.
 
 ## Ethics Review
 
 Public copy:
 
-This study was reviewed and approved without reservations by the ETH Zurich Ethics Commission.
+This study was reviewed and approved without reservations.
 
 Ethics approval:
 
@@ -539,7 +539,7 @@ The study focuses on AI in the future of work and labour markets, including ques
 
 ### Is participation paid?
 
-Stage 1 in the app is not paid. Participants invited to and attending a Stage 2 workshop receive a flat-rate CHF 40 voucher. Travel costs are not reimbursed.
+Stage 1 in the app is not paid. Participants invited to and attending a Stage 2 workshop receive a flat-rate CHF 60 voucher. Travel costs are not reimbursed.
 
 ### Will everyone be invited to a workshop?
 
@@ -567,9 +567,9 @@ Yes. You may withdraw at any time without giving a reason and without disadvanta
 
 ### Who can I contact?
 
-For study questions, contact Joshua C. Yang at ETH Zurich: joyang@ethz.ch.
+For study questions, contact Joshua C. Yang: joshyang@mit.edu.
 
-For ethics-related complaints, contact the ETH Zurich Ethics Commission office: ethics@sl.ethz.ch or 0041 44 632 85 72.
+For ethics-related complaints, contact the Ethics Commission office: ethics@sl.ethz.ch or 0041 44 632 85 72.
 
 ## Accessibility and Language Notes
 
@@ -610,7 +610,7 @@ Avoid:
 Prepare:
 
 - Atgora app icon
-- ETH Zurich logo, if approved for this use
+- Partner institution logo strip, if approved for this use
 - TA-SWISS logo, if approved for this use
 - @gora Foundation / Carbon Copy naming or logo, if approved for this use
 - App screenshots showing educational modules, micro-voting, polling priorities, and voting dashboard
@@ -640,7 +640,7 @@ Confirm image permissions and branding rules before publication.
 - [ ] Stage 1 notification schedule is confirmed
 - [ ] Stage 1 expected time per round and total time commitment are confirmed
 - [x] Workshop dates and cities are confirmed: August 11, 2026 at 5:30 pm in Zurich; August 12, 2026 at 5:30 pm in Lausanne
-- [x] Workshop voucher is confirmed: flat-rate CHF 40, with no travel reimbursement
+- [x] Workshop voucher is confirmed: flat-rate CHF 60, with no travel reimbursement
 - [ ] Privacy notice is reviewed by the study team
 - [ ] Data processing agreements are in place for the Atgora technology partner
 - [ ] Gladia DPA is in place before any Stage 2 recording/transcription
