@@ -4,7 +4,7 @@ Static recruitment page for the Atgora-based citizen input study.
 
 ## Structure
 
-- `index.html` - concise public workshop page with signup steps, Atgora QR codes, compensation requirements, and Q&A
+- `index.html` - minimal public workshop page with signup steps, Atgora QR codes, dates, compensation, and key requirements
 - `details.html` - legacy redirect to the public root
 - `workshop-flyer.html` - legacy redirect to the public root
 - `assets/css/styles.css` - visual design and responsive layout

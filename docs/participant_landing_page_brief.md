@@ -418,11 +418,10 @@ Do not publish the page until final approved participant-facing wording is avail
 
 ## Suggested Page Structure
 
-1. Hero with workshop dates, short description, signup CTA, and CHF 60 compensation cue
-2. Atgora download area with App Store and Google Play QR codes
-3. Required steps for participating and receiving CHF 60
-4. Concise Q&A for eligibility, format, language, audio recording, compensation, data, app steps, study team, and withdrawal
-5. Footer with ethics status, TA-SWISS link, and study contact
+1. Hero with the two required actions: sign up, then finish the Swiss AI Futures module on Atgora
+2. Workshop dates, CHF 60 compensation cue, and only the key constraints participants must know before registering
+3. Atgora download area with App Store and Google Play QR codes
+4. Minimal footer with study contact, TA-SWISS, and ethics status
 
 ## Why Your Voice Matters
 

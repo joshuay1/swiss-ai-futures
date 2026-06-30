@@ -517,6 +517,24 @@ h3 {
   margin-top: 8px;
 }
 
+.key-notes {
+  margin: 16px 0 0;
+  padding: 14px 0 0 1.15rem;
+  display: grid;
+  gap: 8px;
+  color: var(--muted);
+  border-top: var(--rule);
+  font-size: var(--type-small);
+}
+
+.key-notes li::marker {
+  color: var(--ink);
+}
+
+.compact-contact {
+  font-weight: 800;
+}
+
 .workshop-hero-panel {
   align-self: start;
   padding: 28px 0 0;
