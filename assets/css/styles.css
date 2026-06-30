@@ -3413,6 +3413,59 @@ h1 {
   font-weight: 500;
 }
 
+.date-callout {
+  max-width: 820px;
+  margin: clamp(54px, 7vw, 96px) 0;
+  padding: 0;
+  border: 0;
+}
+
+.date-callout-label {
+  margin: 0 0 22px;
+  color: var(--muted);
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.date-callout-list {
+  display: grid;
+  gap: clamp(54px, 7vw, 88px);
+}
+
+.date-callout article {
+  display: grid;
+  gap: 10px;
+}
+
+.date-callout span {
+  color: var(--muted);
+  font-size: clamp(1.25rem, 1.85vw, 1.85rem);
+  font-weight: 500;
+  text-transform: none;
+}
+
+.date-callout strong {
+  display: block;
+  color: var(--ink);
+  font-size: clamp(5rem, 9vw, 8.2rem);
+  line-height: 0.88;
+  font-weight: 500;
+}
+
+.date-callout time {
+  display: block;
+  color: var(--ink);
+  font-size: clamp(2.25rem, 4vw, 3.8rem);
+  line-height: 0.98;
+  font-weight: 500;
+}
+
+.date-callout p {
+  margin: 0;
+  color: var(--muted);
+  font-size: clamp(1rem, 1.4vw, 1.22rem);
+}
+
 h2 {
   max-width: 780px;
   font-size: clamp(4rem, 7vw, 7rem);
@@ -3468,7 +3521,7 @@ h2 {
 
 .hero-workshop-list {
   grid-template-columns: 1fr;
-  gap: 52px;
+  gap: clamp(58px, 7vw, 94px);
   border-top: 0;
 }
 
@@ -3486,16 +3539,32 @@ h2 {
 
 .hero-workshop-list span {
   color: var(--muted);
+  font-size: clamp(1.35rem, 2vw, 2rem);
   font-weight: 500;
+  text-transform: none;
 }
 
 .hero-workshop-list h2 {
-  font-size: clamp(3rem, 4.5vw, 4.6rem);
+  margin-top: 10px;
+  font-size: clamp(5rem, 9vw, 8.2rem);
   line-height: 0.92;
 }
 
+.hero-workshop-list time {
+  margin-top: 10px;
+  display: block;
+  font-size: clamp(2.2rem, 4vw, 3.8rem);
+  line-height: 0.98;
+  font-weight: 500;
+}
+
+.workshop-location {
+  margin-top: 12px;
+  font-size: clamp(1.1rem, 1.45vw, 1.35rem);
+}
+
 .voucher-callout {
-  margin-top: clamp(72px, 8vw, 118px);
+  margin-top: clamp(96px, 10vw, 150px);
   padding: 0;
   border: 0;
 }
