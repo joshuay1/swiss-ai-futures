@@ -1974,6 +1974,7 @@ h3 {
 }
 
 .prep-instructions-heading,
+.prep-section .workshop-section,
 .prep-section .instruction-stepper {
   grid-column: 1 / -1;
 }

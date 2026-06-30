@@ -5,157 +5,421 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta
       name="description"
-      content="Short invitation to join a Swiss AI Futures citizen workshop in Zürich or Lausanne in August 2026."
+      content="Join a citizen workshop in Zürich or Lausanne on AI policy in Switzerland. Complete the Atgora preparation first and receive CHF 60 after taking part."
     >
     <title>Swiss AI Futures Citizen Workshops</title>
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Swiss AI Futures">
-    <meta property="og:title" content="Join a Swiss AI Futures citizen workshop">
+    <meta property="og:title" content="Citizen workshops on AI policy in Switzerland">
     <meta
       property="og:description"
-      content="Zürich on August 11 or Lausanne on August 12, 2026. Sign up, complete Atgora, attend, and receive a CHF 60 Galaxus voucher."
+      content="Attend a citizen workshop in Zürich or Lausanne. Complete the Atgora preparation first and receive CHF 60 after taking part."
     >
     <meta property="og:image" content="assets/images/social-card.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Swiss AI Futures recruitment card about public input for AI policy">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Join a Swiss AI Futures citizen workshop">
+    <meta name="twitter:title" content="Citizen workshops on AI policy in Switzerland">
     <meta
       name="twitter:description"
-      content="Zürich on August 11 or Lausanne on August 12, 2026. Sign up, complete Atgora, attend, and receive a CHF 60 Galaxus voucher."
+      content="Attend a citizen workshop in Zürich or Lausanne. Complete the Atgora preparation first and receive CHF 60 after taking part."
     >
     <meta name="twitter:image" content="assets/images/social-card.png">
+    <meta name="twitter:image:alt" content="Swiss AI Futures recruitment card about public input for AI policy">
     <meta name="theme-color" content="#ffffff">
     <meta name="color-scheme" content="light">
     <link rel="icon" type="image/png" href="assets/images/logos/favicon.png">
     <link rel="apple-touch-icon" href="assets/images/logos/apple-touch-icon.png">
     <link rel="preload" href="assets/images/logos/logo-warm-long.png" as="image">
+    <link rel="preload" href="assets/images/logos/TA-SWISS-logo.svg" as="image">
+    <script>
+      (() => {
+        try {
+          const theme = "light";
+          document.documentElement.dataset.theme = theme;
+          document
+            .querySelector('meta[name="theme-color"]')
+            ?.setAttribute("content", "#ffffff");
+        } catch (_) {
+          document.documentElement.dataset.theme = "light";
+        }
+      })();
+    </script>
     <link rel="stylesheet" href="assets/css/styles.css">
   </head>
-  <body class="quick-page">
+  <body>
+    <div class="scroll-progress" aria-hidden="true"></div>
+
     <a class="skip-link" href="#main">Skip to main content</a>
 
-    <header class="quick-header" aria-label="Swiss AI Futures quick invitation">
-      <a href="index.html" aria-label="Swiss AI Futures home">
+    <div class="date-announcement" role="status" aria-live="polite">
+      <strong>Date change:</strong>
+      <span>
+        The citizen workshops have moved from June 18/19 to August 11/12. Zürich is now Tuesday, August 11, 2026,
+        5:30-7:30 pm; Lausanne is now Wednesday, August 12, 2026, 5:30-7:30 pm. Please use the new dates and do not
+        go to the previous June events.
+      </span>
+    </div>
+
+    <header class="site-header" data-reveal>
+      <a class="brand" href="index.html" aria-label="Swiss AI Futures home">
         <img
+          class="brand-wordmark"
           src="assets/images/logos/logo-warm-long.png"
+          data-logo-dark="assets/images/logos/logo-warm-long-light.png"
+          data-logo-light="assets/images/logos/logo-warm-long.png"
           alt="Swiss AI Futures"
-          width="210"
-          height="42"
+          width="200"
+          height="40"
         >
       </a>
-      <nav aria-label="Quick links">
-        <a href="details.html">More information</a>
+
+      <nav class="nav-links" aria-label="Primary navigation">
+        <a href="#download">Atgora first</a>
+        <a href="#requirements">CHF 60 steps</a>
+        <a href="#faq">Q&amp;A</a>
+      </nav>
+
+      <div class="header-actions">
         <a
-          class="quick-nav-cta"
+          class="header-cta"
           href="https://forms.gle/9kbysBanAQ4Ny3BeA"
           target="_blank"
           rel="noopener noreferrer"
         >Sign up</a>
-      </nav>
+      </div>
     </header>
 
-    <main id="main" class="quick-main">
-      <section class="quick-hero" aria-labelledby="quick-title">
-        <div class="quick-hero-copy">
-          <p class="quick-alert">August 11 and 12, 2026</p>
-          <h1 id="quick-title">Join a citizen workshop on AI policy in Switzerland.</h1>
-          <p class="quick-lede">
-            Two hours in person. No AI expertise needed. Your input helps bring public perspectives into Swiss
-            AI policy discussion.
+    <main id="main">
+      <section class="hero section" id="top">
+        <div class="hero-copy" data-reveal>
+          <p class="eyebrow">Citizen workshops in August</p>
+          <h1>
+            Join a citizen workshop
+            <span class="mobile-line">on AI policy</span>
+            <span class="mobile-line">in Switzerland.</span>
+          </h1>
+          <p class="hero-text">
+            The next step of Swiss AI Futures is in person: a two-hour citizen workshop where people living in
+            Switzerland discuss what AI policy should pay attention to.
           </p>
-          <div class="quick-actions" aria-label="Primary actions">
+          <p class="hero-text">
+            To join, please do both: sign up with the Swiss AI Futures form and complete the Swiss AI Futures module in
+            Atgora before the workshop. No AI expertise is needed.
+          </p>
+        </div>
+
+        <aside class="workshop-hero-panel" data-reveal aria-label="Workshop dates and compensation">
+          <p class="eyebrow">Workshop dates</p>
+          <div class="hero-workshop-list">
+            <article>
+              <span>Tuesday, August 11</span>
+              <h2>Zürich</h2>
+              <time datetime="2026-08-11T17:30">5:30-7:30 pm</time>
+              <p class="workshop-location">Exact Zürich location to be confirmed</p>
+            </article>
+            <article>
+              <span>Wednesday, August 12</span>
+              <h2>Lausanne</h2>
+              <time datetime="2026-08-12T17:30">5:30-7:30 pm</time>
+              <p class="workshop-location">Exact Lausanne location to be confirmed</p>
+            </article>
+          </div>
+          <div class="voucher-callout">
+            <span>CHF 60</span>
+            <strong>Compensation after taking part</strong>
+            <p>For participants who register, complete the Atgora preparation, and attend one workshop.</p>
+          </div>
+          <p class="apero-note">Optional apéro afterwards for anyone who wants to keep talking with fellow citizens.</p>
+          <div class="hero-actions">
             <a
-              class="quick-primary"
+              class="primary-link-button"
               href="https://forms.gle/9kbysBanAQ4Ny3BeA"
               target="_blank"
               rel="noopener noreferrer"
-            >Sign up for a workshop</a>
-            <a class="quick-secondary" href="details.html">More information</a>
+            >Sign up for workshop</a>
+            <a class="secondary-link-button" href="#download">Finish Atgora preparation</a>
           </div>
-          <div class="quick-hero-meta" aria-label="Workshop reward">
-            <span>CHF 60</span>
-            <strong>Galaxus voucher after taking part</strong>
-          </div>
-        </div>
+        </aside>
       </section>
 
-      <section class="quick-facts" aria-label="Workshop dates">
-        <article>
-          <span>Tuesday, August 11</span>
-          <h2>Zürich</h2>
-          <time datetime="2026-08-11T17:30">5:30-7:30 pm</time>
-          <p>Exact location to be confirmed.</p>
-        </article>
-        <article>
-          <span>Wednesday, August 12</span>
-          <h2>Lausanne</h2>
-          <time datetime="2026-08-12T17:30">5:30-7:30 pm</time>
-          <p>Exact location to be confirmed.</p>
-        </article>
-        <article>
-          <span>Before attending</span>
-          <h2>Atgora</h2>
-          <p>Sign up first, then complete the short questionnaire in the Swiss AI Futures course.</p>
-        </article>
-      </section>
-
-      <section class="quick-steps" aria-label="How to join">
-        <ol>
-          <li>
-            <span>01</span>
-            <strong>Sign up</strong>
-            <p>Use the workshop form and choose Zürich or Lausanne.</p>
-          </li>
-          <li>
-            <span>02</span>
-            <strong>Complete Atgora</strong>
-            <p>Install Atgora and finish the short Swiss AI Futures questionnaire.</p>
-          </li>
-          <li>
-            <span>03</span>
-            <strong>Attend</strong>
-            <p>Join one two-hour workshop and receive the CHF 60 voucher after taking part.</p>
-          </li>
-        </ol>
-      </section>
-
-      <section class="quick-prepare" id="prepare" aria-label="Prepare in Atgora">
-        <div>
-          <p class="quick-kicker">Prepare before the room</p>
-          <h2>Get Atgora and finish the questionnaire.</h2>
+      <section class="section download-section prep-section" id="download" aria-label="Prepare in Atgora">
+        <div class="download-copy" data-reveal>
+          <p class="eyebrow">Before the workshop</p>
+          <h2>Complete the Atgora preparation</h2>
           <p>
-            After signing up, open the Swiss AI Futures course in Atgora. Complete the short questionnaire before you
-            come to the workshop.
+            After signing up, scan the QR code for your phone or use the store buttons. Once Atgora is installed, open
+            the Swiss AI Futures course and complete the online preparation before the workshop. This takes about
+            30 minutes and can be completed anytime before the in-person session.
           </p>
-          <div class="quick-actions">
+        </div>
+
+        <div class="download-panel" data-reveal>
+          <div class="download-qrs" aria-label="App store QR codes">
             <a
-              class="quick-secondary"
+              class="qr-placeholder"
+              href="https://apps.apple.com/us/app/gora/id6621260183"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Open Atgora in the Apple App Store"
+            >
+              <img src="assets/images/qr/atgora-ios-qr.png" alt="QR code linking to Atgora in the Apple App Store" width="140" height="140">
+              <span>iPhone</span>
+            </a>
+            <a
+              class="qr-placeholder"
+              href="https://play.google.com/store/apps/details?id=com.mobilezorro"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Open Atgora in Google Play"
+            >
+              <img src="assets/images/qr/atgora-android-qr.png" alt="QR code linking to Atgora in Google Play" width="140" height="140">
+              <span>Android</span>
+            </a>
+          </div>
+          <div class="store-actions">
+            <a
+              class="store-button"
+              href="https://apps.apple.com/us/app/gora/id6621260183"
+              data-store="ios"
+              data-url="https://apps.apple.com/us/app/gora/id6621260183"
+            >
+              <span>iOS</span>
+              Download on the App Store
+            </a>
+            <a
+              class="store-button"
+              href="https://play.google.com/store/apps/details?id=com.mobilezorro"
+              data-store="android"
+              data-url="https://play.google.com/store/apps/details?id=com.mobilezorro"
+            >
+              <span>Android</span>
+              Get it on Google Play
+            </a>
+            <a
+              class="store-button external-resource"
               href="https://www.atgora.org/"
               target="_blank"
               rel="noopener noreferrer"
-            >Visit Atgora website</a>
+            >
+              <span>Atgora</span>
+              Official app page
+            </a>
           </div>
         </div>
-        <div class="quick-qr-grid" aria-label="Atgora download QR codes">
-          <a
-            href="https://apps.apple.com/us/app/gora/id6621260183"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Open Atgora in the Apple App Store"
-          >
-            <img src="assets/images/qr/atgora-ios-qr.png" alt="QR code linking to Atgora in the Apple App Store" width="140" height="140">
-            <span>iPhone</span>
-          </a>
-          <a
-            href="https://play.google.com/store/apps/details?id=com.mobilezorro"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Open Atgora in Google Play"
-          >
-            <img src="assets/images/qr/atgora-android-qr.png" alt="QR code linking to Atgora in Google Play" width="140" height="140">
-            <span>Android</span>
-          </a>
+
+        <section class="workshop-section" id="requirements">
+          <div class="workshop-layout">
+            <div class="section-copy" data-reveal>
+              <p class="eyebrow">Registration and workshop requirements</p>
+              <h2>How to participate and receive CHF 60</h2>
+              <p>
+                Swiss AI Futures is a citizen workshop and public discussion on the future of AI in Switzerland. The
+                goal is to hear from people with different backgrounds and perspectives. You do not need prior expertise
+                in AI to participate.
+              </p>
+              <p>
+                The study has two parts: online preparation in Atgora and one in-person workshop. The Zurich workshop
+                takes place on Tuesday, August 11, 2026, from 5:30 to 7:30 pm. The exact address will be shared before
+                the event.
+              </p>
+              <p>
+                The Zurich workshop can be carried out in English or German. Please indicate the language you feel most
+                comfortable participating in when you register. If you would prefer to participate in French, please join
+                the Lausanne workshop instead.
+              </p>
+              <p>
+                The AI-supported discussion requires audio recording and live transcription. Please register only if you
+                are comfortable with this. More information will be provided before or at the workshop.
+              </p>
+              <p>
+                It is only possible to register for one session per study. Please bring photo identification, such as an
+                ID or student card, to the in-person workshop.
+              </p>
+            </div>
+
+            <aside class="workshop-prep" data-reveal aria-label="Steps required for compensation">
+              <h3>Required steps</h3>
+              <ol>
+                <li>Officially register for the study.</li>
+                <li>Download Atgora and complete the Swiss AI Futures module before the workshop.</li>
+                <li>Arrive on time for the in-person workshop.</li>
+                <li>For Zurich, be comfortable participating in English or German.</li>
+                <li>Be comfortable with audio recording and live transcription during the AI-supported discussion.</li>
+                <li>Bring photo identification to the workshop.</li>
+              </ol>
+              <p>
+                After completing both the online preparation and the in-person workshop, you will receive CHF 60 as
+                compensation. Payment details will be collected at the end of the workshop. If you prefer not to provide
+                banking details, a voucher option may also be available.
+              </p>
+              <p>
+                Register here:
+                <a href="https://forms.gle/9kbysBanAQ4Ny3BeA" target="_blank" rel="noopener noreferrer">https://forms.gle/9kbysBanAQ4Ny3BeA</a>
+              </p>
+            </aside>
+          </div>
+        </section>
+
+      </section>
+
+      <section class="section faq-section" id="faq">
+        <div class="section-heading" data-reveal>
+          <p class="eyebrow">Q&amp;A</p>
+          <h2>Practical questions</h2>
+        </div>
+
+        <div class="faq-list">
+          <details class="faq-item" data-reveal open>
+            <summary>Who can attend?</summary>
+            <p>
+              You can take part if you live in Switzerland, are 18 or older, can use Atgora on a personal
+              smartphone, sign up for a workshop, finish the Atgora preparation before attending, and can join one
+              workshop in Zürich or Lausanne. For the Zurich workshop, you should be comfortable participating in
+              English or German.
+            </p>
+          </details>
+          <details class="faq-item" data-reveal>
+            <summary>How do I sign up?</summary>
+            <p>
+              Use the <a href="https://forms.gle/9kbysBanAQ4Ny3BeA" target="_blank" rel="noopener noreferrer">Swiss AI Futures sign-up form</a>
+              to register for a workshop. It is only possible to register for one session per study. After signing up,
+              please also complete the Atgora preparation before coming.
+            </p>
+          </details>
+          <details class="faq-item" data-reveal>
+            <summary>When and where are the workshops?</summary>
+            <p>
+              Zürich is Tuesday, August 11, 2026, from 5:30 to 7:30 pm; exact location in Zürich to be confirmed.
+              Lausanne is Wednesday, August 12, 2026, from 5:30 to 7:30 pm; exact location in Lausanne to be confirmed.
+            </p>
+          </details>
+          <details class="faq-item" data-reveal>
+            <summary>Is there an apéro afterwards?</summary>
+            <p>
+              Yes. After the workshop, there will be an optional apéro for anyone who wants to continue the
+              conversation with fellow citizens.
+            </p>
+          </details>
+          <details class="faq-item" data-reveal>
+            <summary>What will the workshop format be?</summary>
+            <p>
+              We will discuss one topic using an AI-supported deliberation tool and another topic with a human
+              moderator. If enough people on site prefer the same language, we will try to provide a moderator
+              who can moderate in that language.
+            </p>
+            <p>
+              The AI-supported discussion requires audio recording and live transcription. Please register only if you
+              are comfortable with this.
+            </p>
+          </details>
+          <details class="faq-item" data-reveal>
+            <summary>Do I need to know a lot about AI?</summary>
+            <p>No. The app includes short prompts to help participants engage with the topic.</p>
+          </details>
+          <details class="faq-item" data-reveal>
+            <summary>Why do I need to use Atgora before the workshop?</summary>
+            <p>
+              The Atgora preparation gives everyone a shared starting point and helps the research team prepare
+              the in-person discussion. It takes about 30 minutes and is required in addition to signing up.
+            </p>
+          </details>
+          <details class="faq-item" data-reveal>
+            <summary>Can I attend if I have not used Atgora yet?</summary>
+            <p>
+              Yes, but please sign up and complete the Atgora preparation first. Download Atgora, open Swiss AI
+              Futures, and finish the module before coming to Zürich or Lausanne.
+            </p>
+          </details>
+          <details class="faq-item" data-reveal>
+            <summary>Is participation compensated?</summary>
+            <p>
+              Participants who officially register, complete the Atgora preparation before the workshop, arrive on
+              time, attend one physical workshop, accept the audio recording and live transcription requirement, and
+              provide photo identification will receive CHF 60 as compensation. Payment details are collected at the end
+              of the workshop. If you prefer not to provide banking details, a voucher option may also be available.
+              Travel costs are not reimbursed.
+            </p>
+          </details>
+          <details class="faq-item" data-reveal>
+            <summary>What should I bring?</summary>
+            <p>
+              Please bring photo identification, such as an ID or student card. You should also bring the smartphone
+              you used for the Atgora preparation.
+            </p>
+          </details>
+          <details class="faq-item" data-reveal>
+            <summary>What data is collected?</summary>
+            <p>
+              The study team is responsible for the research data. The study uses contact details for communication,
+              workshop coordination, and compensation administration, plus survey responses, demographic profile
+              information, app votes, short written responses, and participation or completion information.
+              Identifying information is stored separately from coded research data.
+            </p>
+          </details>
+          <details class="faq-item" data-reveal>
+            <summary>Does the app track my location?</summary>
+            <p>No. The study does not use app geolocation or background tracking.</p>
+          </details>
+          <details class="faq-item" data-reveal>
+            <summary>How do I find the Swiss AI Futures module in Atgora?</summary>
+            <p>
+              Download or open Atgora, sign in or register if asked, open Courses, select Swiss AI Futures, and finish
+              the available preparation module before attending. The preparation takes about 30 minutes.
+            </p>
+          </details>
+          <details class="faq-item" data-reveal>
+            <summary>Why does public input matter?</summary>
+            <p>
+              AI can affect work, education, public services, and who benefits from new tools. Swiss AI Futures asks
+              people living in Switzerland to share the questions, concerns, and ideas they want decision-makers to
+              hear. The results contribute to a TA-SWISS research project and policy-facing outputs.
+            </p>
+          </details>
+          <details class="faq-item" data-reveal>
+            <summary>Who is running the study?</summary>
+            <p>
+              The study contact is Joshua C. Yang, ETH Zurich:
+              <a href="mailto:joshyang@mit.edu">joshyang@mit.edu</a>. Swiss AI Futures is part of the TA-SWISS project
+              <em>Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions</em>.
+              TA-SWISS is the main funder and Atgora is the technology partner.
+            </p>
+          </details>
+          <details class="faq-item" data-reveal>
+            <summary>Can I withdraw?</summary>
+            <p>Yes. You may withdraw at any time without giving a reason and without disadvantage.</p>
+          </details>
         </div>
       </section>
+
     </main>
+
+    <footer class="site-footer">
+      <div>
+        <img
+          class="footer-logo"
+          src="assets/images/logos/logo-warm-long.png"
+          data-logo-dark="assets/images/logos/logo-warm-long-light.png"
+          data-logo-light="assets/images/logos/logo-warm-long.png"
+          alt="Swiss AI Futures"
+          width="190"
+          height="38"
+        >
+        <strong>AI-Supported Deliberation Experiment</strong>
+        <span>Part of Transforming Competencies in the Era of Large Language Models (LLMs) and Detecting Future Directions.</span>
+        <span>Ethics status: approved without reservations. Project 26 ETHICS-116.</span>
+      </div>
+      <div class="footer-actions">
+        <div class="footer-institutions" aria-label="Institutional links">
+          <a href="https://www.ta-swiss.ch/en/ta-swiss" target="_blank" rel="noopener noreferrer">
+            <img class="footer-institution-logo ta-footer-logo" src="assets/images/logos/TA-SWISS-logo.svg" alt="TA-SWISS">
+          </a>
+        </div>
+        <a href="mailto:joshyang@mit.edu">Contact the study lead</a>
+      </div>
+    </footer>
+
   </body>
 </html>

@@ -23,7 +23,9 @@ This document contains the study facts, participant-facing copy, CTA ideas, priv
 - **Stage 1 rhythm:** Four expected app rounds over about two weeks, around 10 minutes each, with possible reminder notifications every few days
 - **Stage 1 compensation:** Not compensated
 - **Stage 2 format:** Optional/invited in-person workshops, one in Zurich on August 11, 2026 and one in Lausanne on August 12, 2026, both starting at 5:30 pm
-- **Stage 2 compensation:** Flat-rate CHF 60 voucher for invited participants who attend; travel costs are not reimbursed
+- **Stage 2 compensation:** CHF 60 compensation for registered participants who complete the Atgora preparation and attend one workshop; payment details are collected at the end, and a voucher option may also be available
+- **Workshop requirements:** Participants must register officially, complete the Atgora module before the workshop, arrive on time, bring photo identification, and be comfortable with audio recording and live transcription during the AI-supported discussion
+- **Zurich language:** The Zurich workshop can be carried out in English or German; participants who prefer French should join the Lausanne workshop instead
 - **Broader project structure:** The citizen input recruited through this page is Phase 3 of the broader project. Phase 1 reviews published work, public AI/LLM documents, policy responses, and experiments on LLM usage and skills. Phase 2 uses focus groups, future scenarios, and experiments on deskilling/upskilling. Phase 3 is co-led by Joshua C. Yang, Maud Reveilhac, and Aurelia Tamò-Larrieux, and uses app-based public deliberation and possible workshops to connect earlier findings with lived experiences, decision-making patterns, and ethical considerations.
 - **Civic impact:** Participant input will contribute to a TA-SWISS report/book and policy-facing outputs intended to inform Swiss decision-makers, including the Swiss Parliament
 - **AI role:** Statistical grouping and summarisation of participant responses; no individual profiling, personal recommendations, hidden persuasion, or automated decisions about what participants should think
@@ -84,7 +86,7 @@ See how your input will be used
 - **App rhythm:** Participants are asked to return to the app about four times, around 10 minutes each, with notifications every few days
 - **Workshops:** Two in-person workshops, one in Zurich on August 11, 2026 and one in Lausanne on August 12, 2026, both starting at 5:30 pm; engaged app participants will most likely be invited, subject to workshop capacity and availability
 - **Civic impact:** Results will contribute to a TA-SWISS report/book and policy-facing outputs intended to inform decision-makers, including the Swiss Parliament
-- **Compensation:** The app study is unpaid; invited workshop participation includes a flat-rate CHF 60 voucher. Travel costs are not reimbursed.
+- **Compensation:** The app study is unpaid; registered workshop participants receive CHF 60 after completing the online preparation and attending one workshop. Travel costs are not reimbursed.
 - **Research lead:** Joshua C. Yang, ETH Zurich, joshyang@mit.edu
 - **Data responsibility:** Study team
 
@@ -238,9 +240,9 @@ At the workshop, participants receive written instructions and complete a separa
 Participants may be assigned to one of two conditions:
 
 - **App-based condition:** Participants use their smartphones to vote on and validate solution and action statements in the Atgora app, without verbal debate.
-- **Discussion condition:** Participants take part in moderated verbal discussion. Verbal contributions are audio-recorded and transcribed for research analysis only if the participant gave explicit consent before randomisation.
+- **AI-supported discussion:** Participants take part in a structured discussion that requires audio recording and live transcription.
 
-Participants who do not consent to possible audio recording will not be randomised into a recorded discussion condition and may withdraw from Stage 2 without disadvantage. Their Stage 1 participation is unaffected.
+Participants should register for the workshop only if they are comfortable with audio recording and live transcription during the AI-supported discussion.
 
 All workshop participants complete a short post-survey.
 
@@ -289,26 +291,26 @@ Add before launch:
 
 Public copy:
 
-The app study is not compensated. Participants invited to and attending one of the physical workshops in Zurich or Lausanne will receive a flat-rate CHF 60 voucher. Travel costs are not reimbursed.
+The app study is not compensated. Registered participants who complete the Atgora preparation before the workshop, arrive on time, attend one physical workshop, accept audio recording and live transcription during the AI-supported discussion, and provide photo identification receive CHF 60 as compensation. Payment details are collected at the end of the workshop. If a participant prefers not to provide banking details, a voucher option may also be available. Travel costs are not reimbursed.
 
 Important constraints:
 
 - Compensation must be the same regardless of recruitment source.
 - Do not present Stage 1 as paid.
-- Say that participants who stay engaged throughout the app study will most likely be invited to a workshop, while making clear that invitation and compensation are not guaranteed for every app user.
+- Say clearly that compensation requires official registration, completion of the Atgora preparation, on-time workshop attendance, comfort with audio recording and live transcription, and photo identification.
 
 ## Data Collected
 
 The page should state, in accessible language, that the study may collect:
 
-- Contact details, such as name and email, for study communication, Stage 2 invitations, and voucher administration
+- Contact details, such as name and email, for study communication, Stage 2 invitations, and compensation administration
 - Baseline and post-study survey responses
 - Demographic profile information
 - In-app voting choices
 - Short written arguments submitted by participants
 - App participation and completion information needed to run the study, such as whether a participant completed a round
 - Notification-related technical information needed to send study reminders, if push notifications are used
-- Audio recordings only for Stage 2 discussion participants who explicitly consented to possible recording
+- Audio recordings and live transcripts from the AI-supported workshop discussion
 - Transcripts of recorded workshop discussion, with speaker labels and identifying details removed where possible
 
 ## Data Not Collected or Not Used
@@ -356,13 +358,13 @@ Participation is voluntary. You may withdraw at any time without giving a reason
 
 ## Audio Recording and Transcription
 
-Use this only in a Stage 2 or FAQ section, not as the first thing participants see.
+Use this in the Stage 2 or FAQ section where workshop requirements are listed.
 
-Stage 2 discussion sessions may be audio-recorded and transcribed for research analysis. This applies only if a participant has given explicit consent before workshop randomisation and is assigned to a discussion condition.
+The AI-supported workshop discussion requires audio recording and live transcription. Participants should register only if they are comfortable with this.
 
 Audio transcription uses Gladia, an AI-based speech-to-text service, under a Data Processing Agreement before data collection. Raw audio files are permanently deleted within 30 days after transcript verification. Transcripts are pseudonymised or de-identified with speaker labels, and identifying contextual details are removed where not analytically necessary.
 
-Participants who do not consent to possible audio recording will not be randomised into a recorded discussion condition and may withdraw from Stage 2 without disadvantage.
+Participants who are not comfortable with audio recording and live transcription should not register for the AI-supported workshop session.
 
 ## Risks and Support
 
@@ -416,22 +418,11 @@ Do not publish the page until final approved participant-facing wording is avail
 
 ## Suggested Page Structure
 
-1. Hero with headline, short description, and download CTA
-2. App access walkthrough: download/open Atgora, open Courses, select Swiss AI Futures, start Stage1 Questionnaire, and answer prompts
-3. Key facts strip
-4. Why your voice matters
-5. Why the study uses an app
-6. How participation works
-7. Who can participate
-8. What you will do in the app
-9. Possible workshop invitation
-10. Compensation
-11. How AI is used
-12. Privacy and data protection
-13. Voluntary participation and withdrawal
-14. Who is running the study
-15. FAQ
-16. Final download CTA
+1. Hero with workshop dates, short description, signup CTA, and CHF 60 compensation cue
+2. Atgora download area with App Store and Google Play QR codes
+3. Required steps for participating and receiving CHF 60
+4. Concise Q&A for eligibility, format, language, audio recording, compensation, data, app steps, study team, and withdrawal
+5. Footer with ethics status, TA-SWISS link, and study contact
 
 ## Why Your Voice Matters
 
@@ -539,7 +530,7 @@ The study focuses on AI in the future of work and labour markets, including ques
 
 ### Is participation paid?
 
-Stage 1 in the app is not paid. Participants invited to and attending a Stage 2 workshop receive a flat-rate CHF 60 voucher. Travel costs are not reimbursed.
+Stage 1 in the app is not paid. Participants who register, complete the Atgora preparation, arrive on time, attend a Stage 2 workshop, accept the recording and transcription requirement, and provide photo identification receive CHF 60. Payment details are collected at the end of the workshop; a voucher option may also be available. Travel costs are not reimbursed.
 
 ### Will everyone be invited to a workshop?
 
@@ -551,7 +542,7 @@ Yes, you may participate in Stage 1. However, you will not be invited to Stage 2
 
 ### What data will you collect?
 
-The study collects survey responses, app voting choices, and short arguments submitted in the app. Contact details are used for study communication, Stage 2 invitations, and voucher administration. Audio is recorded only in the Stage 2 discussion condition and only for participants who explicitly consented to possible recording.
+The study collects survey responses, app voting choices, and short arguments submitted in the app. Contact details are used for study communication, Stage 2 invitations, and compensation administration. The AI-supported workshop discussion requires audio recording and live transcription.
 
 ### Does the app track my location?
 
@@ -640,7 +631,7 @@ Confirm image permissions and branding rules before publication.
 - [ ] Stage 1 notification schedule is confirmed
 - [ ] Stage 1 expected time per round and total time commitment are confirmed
 - [x] Workshop dates and cities are confirmed: August 11, 2026 at 5:30 pm in Zurich; August 12, 2026 at 5:30 pm in Lausanne
-- [x] Workshop voucher is confirmed: flat-rate CHF 60, with no travel reimbursement
+- [x] Workshop compensation is confirmed: CHF 60, with no travel reimbursement
 - [ ] Privacy notice is reviewed by the study team
 - [ ] Data processing agreements are in place for the Atgora technology partner
 - [ ] Gladia DPA is in place before any Stage 2 recording/transcription
