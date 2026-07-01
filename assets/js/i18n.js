@@ -415,6 +415,12 @@
     document.body.dataset.lang = lang;
     document.title = t.title;
 
+    try {
+      window.localStorage.setItem("swissAiFuturesLanguage", lang);
+    } catch (_) {
+      // Language preference is helpful, but the page should work without storage.
+    }
+
     setAttr('meta[name="description"]', "content", t.metaDescription);
     setAttr('meta[property="og:title"]', "content", t.title);
     setAttr('meta[property="og:description"]', "content", t.metaDescription);

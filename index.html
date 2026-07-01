@@ -39,6 +39,33 @@
     <link rel="alternate" hreflang="fr" href="https://swissaifutures.org/fr/">
     <script>
       (() => {
+        const supported = ["en", "de", "fr"];
+        const pathLang = window.location.pathname.split("/").filter(Boolean)[0];
+        const params = new URLSearchParams(window.location.search);
+        const hasExplicitLanguage = supported.includes(pathLang) || params.has("lang");
+        const isRootPage = ["/", "/index.html", ""].includes(window.location.pathname);
+
+        if (hasExplicitLanguage || !isRootPage) return;
+
+        let savedLanguage = null;
+        try {
+          savedLanguage = window.localStorage.getItem("swissAiFuturesLanguage");
+        } catch (_) {
+          savedLanguage = null;
+        }
+
+        const browserLanguage = (navigator.languages || [navigator.language || ""])
+          .map((language) => language.toLowerCase().split("-")[0])
+          .find((language) => language === "de" || language === "fr");
+        const language = supported.includes(savedLanguage) ? savedLanguage : browserLanguage;
+
+        if (language === "de" || language === "fr") {
+          window.location.replace(`/${language}/${window.location.hash || ""}`);
+        }
+      })();
+    </script>
+    <script>
+      (() => {
         try {
           const theme = "light";
           document.documentElement.dataset.theme = theme;
@@ -75,7 +102,7 @@
 
       <div class="header-actions">
         <nav class="language-switcher" aria-label="Language">
-          <a href="/" data-lang-switch="en">EN</a>
+          <a href="/?lang=en" data-lang-switch="en">EN</a>
           <a href="/de/" data-lang-switch="de">DE</a>
           <a href="/fr/" data-lang-switch="fr">FR</a>
         </nav>
