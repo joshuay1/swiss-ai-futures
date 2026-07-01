@@ -805,6 +805,7 @@
           qrShort: "Details",
           qrBody: "More information and registration",
           qrBodyShort: "More info and registration",
+          qrImage: "assets/images/qr/swiss-ai-futures-site-qr.png",
           footerFull: "A TA-SWISS project with researchers from University of Zurich, ETH Zurich, University of Lausanne, University of St. Gallen, and LUT University.",
           footerShort: "TA-SWISS project with researchers from University of Zurich, ETH Zurich, University of Lausanne, University of St. Gallen, and LUT."
         },
@@ -832,6 +833,7 @@
           qrShort: "Details",
           qrBody: "Mehr Informationen und Anmeldung",
           qrBodyShort: "Mehr Infos und Anmeldung",
+          qrImage: "assets/images/qr/swiss-ai-futures-site-qr-de.png",
           footerFull: "Ein TA-SWISS-Projekt mit Forschenden der Universität Zürich, ETH Zürich, Universität Lausanne, Universität St. Gallen und LUT University.",
           footerShort: "TA-SWISS-Projekt mit Forschenden der Universität Zürich, ETH Zürich, Universität Lausanne, Universität St. Gallen und LUT."
         },
@@ -859,6 +861,7 @@
           qrShort: "Détails",
           qrBody: "Plus d'informations et inscription",
           qrBodyShort: "Plus d'infos et inscription",
+          qrImage: "assets/images/qr/swiss-ai-futures-site-qr-fr.png",
           footerFull: "Un projet TA-SWISS avec des chercheuses et chercheurs de l'Université de Zurich, de l'ETH Zurich, de l'Université de Lausanne, de l'Université de Saint-Gall et de LUT University.",
           footerShort: "Projet TA-SWISS avec des chercheuses et chercheurs de l'Université de Zurich, de l'ETH Zurich, de l'UNIL, de l'Université de Saint-Gall et de LUT."
         }
@@ -909,6 +912,7 @@
       });
       document.querySelectorAll(".qr-block").forEach((block) => {
         const flyer = block.closest(".flyer");
+        block.querySelector("img").src = copy.qrImage;
         block.querySelector("strong").textContent = flyer ? copy.qrFull : copy.qrShort;
         block.querySelector("span").textContent = flyer ? copy.qrBody : copy.qrBodyShort;
       });

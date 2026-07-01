@@ -34,6 +34,9 @@
     <link rel="apple-touch-icon" href="assets/images/logos/apple-touch-icon.png">
     <link rel="preload" href="assets/images/logos/logo-warm-long.png" as="image">
     <link rel="preload" href="assets/images/logos/TA-SWISS-logo.svg" as="image">
+    <link rel="alternate" hreflang="en" href="https://swissaifutures.org/">
+    <link rel="alternate" hreflang="de" href="https://swissaifutures.org/de/">
+    <link rel="alternate" hreflang="fr" href="https://swissaifutures.org/fr/">
     <script>
       (() => {
         try {
@@ -71,6 +74,11 @@
       </a>
 
       <div class="header-actions">
+        <nav class="language-switcher" aria-label="Language">
+          <a href="/" data-lang-switch="en">EN</a>
+          <a href="/de/" data-lang-switch="de">DE</a>
+          <a href="/fr/" data-lang-switch="fr">FR</a>
+        </nav>
         <a
           class="header-cta"
           href="https://forms.gle/9kbysBanAQ4Ny3BeA"
@@ -474,12 +482,12 @@
 
           <article>
             <h3>Before attending</h3>
-            <p>Finish the Atgora module first. Audio recording and live transcription are required during the workshop.</p>
+            <p>Finish the Atgora module first.</p>
           </article>
 
           <article>
             <h3>What happens there</h3>
-            <p>You will take part in a structured discussion. Part of the workshop tests an AI-supported deliberation tool, and part uses human moderation.</p>
+            <p>You will take part in a structured discussion. Part of the workshop tests an AI-supported deliberation tool, and part uses human moderation. Audio recording and live transcription are part of the workshop format.</p>
           </article>
         </div>
       </section>
@@ -523,6 +531,18 @@
             <summary>What happens after I sign up?</summary>
             <div>
               <p>You will receive confirmation after signing up. The exact workshop address will be sent by email before the event.</p>
+            </div>
+          </details>
+
+          <details class="qa-item">
+            <summary>Can I download flyers and social images?</summary>
+            <div>
+              <p>Yes. You can download public sharing materials for the Swiss AI Futures Citizen Workshops.</p>
+              <p class="qa-download-links">
+                <a href="output/swiss-ai-futures-flyer-pdfs.zip" download>Flyer PDFs</a>
+                <a href="output/swiss-ai-futures-share-images.zip" download>Flyer and social images</a>
+              </p>
+              <p>The packages include English, German, and French versions in both the funky and editorial styles.</p>
             </div>
           </details>
 
@@ -601,7 +621,7 @@
               <p>Swiss AI Futures is funded by <a href="https://www.ta-swiss.ch/en/ta-swiss" target="_blank" rel="noopener noreferrer">TA-SWISS</a> and run by a project team with researchers affiliated with several universities.</p>
               <p>Study contact: <a href="https://joshuacyang.com" target="_blank" rel="noopener noreferrer">Joshua C. Yang</a>, <a href="mailto:joyang@ethz.ch">joyang@ethz.ch</a>. Principal investigators include Prof. Maud Reveilhac and Prof. Aurelia Tamò-Larrieux.</p>
               <p>The project team includes Gerold Schneider, Simon Mayer, Martial Pasquier, Bohdan Trembovelskyi, Vlada Druta, and Nisha Yadav.</p>
-              <p>The Atgora app is provided by the @gora Foundation / Carbon Copy as a technology partner.</p>
+              <p>The <a href="https://www.atgora.org/" target="_blank" rel="noopener noreferrer">Atgora</a> app is provided by the @gora Foundation / Carbon Copy as a technology partner.</p>
               <p>ETH Zurich controls the research data. The technology partner may process app data only for implementation, security, and technical support under a project-specific agreement and data processing agreement.</p>
               <p>TA-SWISS does not receive individual participant data and has no editorial control over the research.</p>
             </div>
@@ -657,7 +677,7 @@
 
           <article>
             <h3>Technology partner</h3>
-            <p>Atgora is the technology partner and app provider for the online module.</p>
+            <p><a href="https://www.atgora.org/" target="_blank" rel="noopener noreferrer">Atgora</a> is the technology partner and app provider for the online module.</p>
           </article>
 
           <article>
@@ -807,5 +827,6 @@
         });
       })();
     </script>
+    <script src="assets/js/i18n.js"></script>
   </body>
 </html>
