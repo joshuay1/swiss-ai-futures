@@ -1,0 +1,920 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Swiss AI Futures Promo Assets</title>
+    <style>
+      @font-face {
+        font-family: "Basis Grotesque";
+        src: url("assets/fonts/BasisGrotesque-Medium.woff2") format("woff2"),
+          url("assets/fonts/BasisGrotesque-Medium.woff") format("woff");
+        font-display: swap;
+        font-style: normal;
+        font-weight: 500;
+      }
+
+      @font-face {
+        font-family: "New Cooper";
+        src: url("assets/fonts/NewCooperBeta-Regular.woff2") format("woff2"),
+          url("assets/fonts/NewCooperBeta-Regular.woff") format("woff");
+        font-display: swap;
+        font-style: normal;
+        font-weight: 400;
+      }
+
+      :root {
+        --ink: #232323;
+        --paper: #fff0dc;
+        --cream: #fff3e2;
+        --yellow: #ffda2d;
+        --mint: #d7f49a;
+        --cyan: #97e5e5;
+        --pink: #ef9cff;
+        --orange: #ff9f22;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        margin: 0;
+        background: var(--paper);
+        color: var(--ink);
+        font-family: "Basis Grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-feature-settings: "kern" 1, "liga" 1;
+        -webkit-font-smoothing: antialiased;
+        text-rendering: geometricPrecision;
+      }
+
+      body[data-asset="flyer"] .artboard:not([data-asset="flyer"]),
+      body[data-asset="social-square"] .artboard:not([data-asset="social-square"]),
+      body[data-asset="social-wide"] .artboard:not([data-asset="social-wide"]) {
+        display: none;
+      }
+
+      .artboard {
+        position: relative;
+        overflow: hidden;
+        isolation: isolate;
+        background: var(--paper);
+      }
+
+      .heatmap {
+        position: absolute;
+        z-index: -2;
+        max-width: none;
+        height: auto;
+        opacity: 0.32;
+        filter: saturate(1.1) contrast(1.04) brightness(1.01);
+        mix-blend-mode: multiply;
+      }
+
+      .artboard::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        z-index: -1;
+        pointer-events: none;
+        background:
+          radial-gradient(circle at 21% 18%, rgba(255, 240, 220, 0.9), transparent 34%),
+          linear-gradient(90deg, rgba(255, 240, 220, 0.92) 0 18%, rgba(255, 240, 220, 0.4) 48%, rgba(255, 240, 220, 0.74) 100%);
+      }
+
+      .brand {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 24px;
+      }
+
+      .brand img {
+        display: block;
+        height: auto;
+      }
+
+      .eyebrow,
+      .small-label,
+      .footer-note {
+        color: var(--ink);
+      }
+
+      .eyebrow {
+        margin: 0 0 18px;
+        font-size: 25px;
+        line-height: 1.1;
+      }
+
+      h1,
+      h2,
+      p {
+        margin: 0;
+      }
+
+      h1 {
+        letter-spacing: 0;
+        font-weight: 900;
+      }
+
+      .dates {
+        display: grid;
+        gap: 20px;
+      }
+
+      .date-row {
+        display: grid;
+        gap: 6px;
+      }
+
+      .date-row span {
+        color: var(--ink);
+      }
+
+      .date-row strong {
+        font-weight: 900;
+      }
+
+      .pill {
+        position: relative;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: max-content;
+        color: var(--ink);
+        background: transparent;
+        border: 0;
+        border-radius: 0;
+        transform: rotate(-3deg);
+        transform-origin: left center;
+        white-space: nowrap;
+      }
+
+      .pill::before {
+        content: "";
+        position: absolute;
+        left: -0.16em;
+        right: -0.16em;
+        bottom: 0.05em;
+        z-index: -1;
+        height: 0.48em;
+        background: var(--yellow);
+        transform: rotate(-2deg);
+      }
+
+      .steps {
+        margin: 0;
+        padding: 0;
+        display: grid;
+        list-style: none;
+      }
+
+      .steps li {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        align-items: start;
+      }
+
+      .steps b {
+        display: inline-grid;
+        place-items: center;
+        color: #fff;
+        background: var(--ink);
+        border-radius: 50%;
+        font-weight: 900;
+      }
+
+      .steps span {
+        display: block;
+      }
+
+      .qr-block {
+        display: flex;
+        align-items: center;
+        gap: 22px;
+      }
+
+      .qr-block img {
+        display: block;
+        background: #fff;
+      }
+
+      .qr-block strong {
+        display: block;
+        font-weight: 900;
+      }
+
+      .qr-block span {
+        display: block;
+        color: var(--ink);
+      }
+
+      .flyer {
+        width: 1240px;
+        height: 1754px;
+        padding: 66px 74px 58px;
+      }
+
+      .flyer .heatmap {
+        width: 1760px;
+        right: -520px;
+        top: 260px;
+        transform: rotate(-6deg);
+      }
+
+      .flyer .brand img:first-child {
+        width: 350px;
+      }
+
+      .flyer .brand img:last-child {
+        width: 158px;
+      }
+
+      .flyer h1 {
+        max-width: 1090px;
+        margin-top: 78px;
+        font-size: 116px;
+        line-height: 0.84;
+        text-transform: uppercase;
+      }
+
+      body[data-lang="de"] .flyer h1 {
+        font-size: 102px;
+        line-height: 0.86;
+      }
+
+      .flyer .topline {
+        margin-top: 34px;
+        display: flex;
+        align-items: center;
+        gap: 28px;
+      }
+
+      .flyer .pill {
+        min-height: 78px;
+        padding: 0;
+        font-size: 53px;
+        font-weight: 900;
+      }
+
+      .flyer .topline p {
+        max-width: 590px;
+        padding-left: 24px;
+        color: var(--ink);
+        border-left: 14px solid var(--mint);
+        font-size: 33px;
+        line-height: 1.1;
+      }
+
+      .flyer .details {
+        margin-top: 56px;
+        display: grid;
+        grid-template-columns: 0.9fr 1fr;
+        gap: 42px;
+        align-items: start;
+      }
+
+      .flyer .date-row {
+        padding: 21px 26px 23px;
+        border: 5px solid var(--ink);
+        border-radius: 30px;
+      }
+
+      .flyer .date-row:nth-child(1) {
+        background: var(--cream);
+      }
+
+      .flyer .date-row:nth-child(2) {
+        margin-top: 14px;
+        background: var(--cyan);
+      }
+
+      .flyer .date-row span {
+        font-size: 28px;
+      }
+
+      .flyer .date-row strong {
+        font-size: 78px;
+        line-height: 0.86;
+      }
+
+      .flyer .date-row p {
+        color: var(--ink);
+        font-size: 29px;
+        line-height: 1.05;
+      }
+
+      .flyer .steps {
+        gap: 18px;
+      }
+
+      .flyer .steps li {
+        gap: 22px;
+        padding: 18px 24px;
+        border: 5px solid var(--ink);
+        border-radius: 30px;
+        font-size: 31px;
+        line-height: 1.08;
+        font-weight: 900;
+      }
+
+      .flyer .steps b {
+        width: 52px;
+        height: 52px;
+        font-size: 29px;
+      }
+
+      .flyer .steps li:nth-child(1) {
+        background: var(--yellow);
+      }
+
+      .flyer .steps li:nth-child(2) {
+        background: var(--pink);
+      }
+
+      .flyer .steps li:nth-child(3) {
+        background: var(--mint);
+      }
+
+      .flyer .lower {
+        margin-top: 44px;
+        display: grid;
+        grid-template-columns: 1fr 0.72fr;
+        gap: 42px;
+        align-items: start;
+      }
+
+      .flyer .impact {
+        max-width: 680px;
+        padding-top: 10px;
+      }
+
+      .flyer .impact h2 {
+        max-width: 650px;
+        font-size: 62px;
+        line-height: 0.88;
+        font-weight: 900;
+        text-decoration: underline;
+        text-decoration-color: var(--yellow);
+        text-decoration-thickness: 0.18em;
+        text-underline-offset: -0.04em;
+      }
+
+      .flyer .impact p {
+        max-width: 610px;
+        margin-top: 16px;
+        color: var(--ink);
+        font-size: 26px;
+        line-height: 1.12;
+      }
+
+      .flyer .bottom {
+        position: absolute;
+        left: 82px;
+        right: 82px;
+        bottom: 42px;
+        display: block;
+      }
+
+      .flyer .qr-block img {
+        width: 212px;
+        height: 212px;
+        padding: 12px;
+      }
+
+      .flyer .qr-block strong {
+        font-size: 39px;
+        line-height: 0.94;
+      }
+
+      .flyer .qr-block span,
+      .flyer .footer-note {
+        font-size: 22px;
+        line-height: 1.18;
+      }
+
+      .flyer .qr-block {
+        padding-top: 12px;
+        border-top: 12px solid var(--cyan);
+      }
+
+      .social-square {
+        width: 1080px;
+        height: 1080px;
+        padding: 58px 62px;
+      }
+
+      .social-square .heatmap {
+        width: 1400px;
+        right: -500px;
+        top: 170px;
+        transform: rotate(-7deg);
+        opacity: 0.34;
+      }
+
+      .social-square .brand img {
+        width: 270px;
+      }
+
+      .social-square h1 {
+        margin-top: 82px;
+        max-width: 900px;
+        font-size: 88px;
+        line-height: 0.84;
+        text-transform: uppercase;
+      }
+
+      body[data-lang="de"] .social-square h1 {
+        max-width: 940px;
+        font-size: 78px;
+        line-height: 0.86;
+      }
+
+      .social-square .pill {
+        margin-top: 34px;
+        min-height: 62px;
+        padding: 0;
+        font-size: 45px;
+        font-weight: 900;
+      }
+
+      .social-square .dates {
+        margin-top: 46px;
+        grid-template-columns: 1fr 1fr;
+        gap: 24px;
+      }
+
+      .social-square .date-row {
+        padding: 18px 22px 20px;
+        border: 4px solid var(--ink);
+        border-radius: 24px;
+      }
+
+      .social-square .date-row:nth-child(1) {
+        background: var(--cream);
+      }
+
+      .social-square .date-row:nth-child(2) {
+        background: var(--cyan);
+      }
+
+      .social-square .date-row span {
+        font-size: 22px;
+      }
+
+      .social-square .date-row strong {
+        font-size: 66px;
+        line-height: 0.86;
+      }
+
+      .social-square .date-row p {
+        color: var(--ink);
+        font-size: 21px;
+        line-height: 1.25;
+      }
+
+      .social-square .steps {
+        margin-top: 34px;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 16px;
+      }
+
+      .social-square .steps li {
+        grid-template-columns: 36px 1fr;
+        gap: 12px;
+        min-height: 96px;
+        padding: 16px 14px;
+        color: var(--ink);
+        border: 4px solid var(--ink);
+        border-radius: 22px;
+        font-size: 18px;
+        line-height: 1.1;
+        font-weight: 900;
+      }
+
+      .social-square .steps b {
+        width: 34px;
+        height: 34px;
+        font-size: 20px;
+      }
+
+      .social-square .steps li:nth-child(1) {
+        background: var(--yellow);
+      }
+
+      .social-square .steps li:nth-child(2) {
+        background: var(--pink);
+      }
+
+      .social-square .steps li:nth-child(3) {
+        background: var(--mint);
+      }
+
+      .social-square .bottom {
+        position: absolute;
+        left: 62px;
+        right: 62px;
+        bottom: 56px;
+        display: flex;
+        justify-content: space-between;
+        align-items: end;
+        gap: 28px;
+      }
+
+      .social-square .qr-block img {
+        width: 142px;
+        height: 142px;
+        padding: 9px;
+      }
+
+      .social-square .qr-block strong {
+        font-size: 26px;
+      }
+
+      .social-square .qr-block span {
+        font-size: 19px;
+      }
+
+      .social-square .footer-note {
+        max-width: 440px;
+        padding-left: 18px;
+        border-left: 10px solid var(--yellow);
+        font-size: 19px;
+        line-height: 1.22;
+      }
+
+      .social-square .qr-block {
+        padding-top: 10px;
+        border-top: 10px solid var(--cyan);
+      }
+
+      .social-wide {
+        width: 1200px;
+        height: 630px;
+        padding: 46px 54px;
+      }
+
+      .social-wide .heatmap {
+        width: 1080px;
+        right: -230px;
+        top: -80px;
+        transform: rotate(-7deg);
+        opacity: 0.36;
+      }
+
+      .social-wide .brand img {
+        width: 230px;
+      }
+
+      .social-wide h1 {
+        margin-top: 52px;
+        max-width: 690px;
+        font-size: 73px;
+        line-height: 0.84;
+        text-transform: uppercase;
+      }
+
+      body[data-lang="de"] .social-wide h1 {
+        max-width: 720px;
+        font-size: 68px;
+        line-height: 0.86;
+      }
+
+      .social-wide .pill {
+        margin-top: 24px;
+        min-height: 48px;
+        padding: 0;
+        font-size: 34px;
+        font-weight: 900;
+      }
+
+      .social-wide .dates {
+        position: absolute;
+        left: 54px;
+        bottom: 48px;
+        grid-template-columns: auto auto;
+        gap: 22px;
+      }
+
+      .social-wide .date-row {
+        min-width: 138px;
+        padding: 12px 16px 14px;
+        border: 4px solid var(--ink);
+        border-radius: 20px;
+      }
+
+      .social-wide .date-row:nth-child(1) {
+        background: var(--cream);
+      }
+
+      .social-wide .date-row:nth-child(2) {
+        background: var(--cyan);
+      }
+
+      .social-wide .date-row span {
+        font-size: 17px;
+      }
+
+      .social-wide .date-row strong {
+        font-size: 40px;
+        line-height: 0.88;
+      }
+
+      .social-wide .date-row p {
+        color: var(--ink);
+        font-size: 17px;
+      }
+
+      .social-wide .qr-block {
+        position: absolute;
+        right: 54px;
+        bottom: 48px;
+        padding-top: 10px;
+        border-top: 10px solid var(--mint);
+      }
+
+      .social-wide .qr-block img {
+        width: 124px;
+        height: 124px;
+        padding: 8px;
+      }
+
+      .social-wide .qr-block strong {
+        font-size: 22px;
+      }
+
+      .social-wide .qr-block span {
+        font-size: 16px;
+      }
+    </style>
+  </head>
+  <body data-asset="flyer">
+    <main>
+      <section class="artboard flyer" data-asset="flyer" aria-label="Swiss AI Futures A4 flyer">
+        <img class="heatmap" src="assets/images/switzerland_pixel_heatmap_density_blocks.png" alt="">
+        <div class="brand">
+          <img src="assets/images/logos/logo-warm-long.png" alt="Swiss AI Futures">
+          <img src="assets/images/logos/TA-SWISS-logo.svg" alt="TA-SWISS">
+        </div>
+
+        <h1>Swiss AI Futures<br>Citizen Workshops</h1>
+        <div class="topline">
+          <div class="pill">Receive CHF 60</div>
+          <p>Share your view on how AI is affecting work and education in Switzerland. No AI expertise is needed.</p>
+        </div>
+
+        <div class="details">
+          <div class="dates">
+            <article class="date-row">
+              <span>Tuesday, August 11, 2026</span>
+              <strong>Zürich</strong>
+              <p>17:30-19:30.</p>
+            </article>
+            <article class="date-row">
+              <span>Wednesday, August 12, 2026</span>
+              <strong>Lausanne</strong>
+              <p>17:30-19:30.</p>
+            </article>
+          </div>
+
+          <ol class="steps" aria-label="Required steps">
+            <li><b>1</b><span>Sign up for one workshop.</span></li>
+            <li><b>2</b><span>Finish the Atgora app questionnaire on your phone.</span></li>
+            <li><b>3</b><span>Attend one workshop in Zürich or Lausanne.</span></li>
+          </ol>
+        </div>
+
+        <div class="lower">
+          <div class="impact">
+            <h2>Your input matters</h2>
+            <p>
+              The final TA-SWISS report will inform the Swiss Parliament and the national conversation around AI policy,
+              work, and education.
+            </p>
+          </div>
+          <div class="qr-block">
+            <img src="assets/images/qr/swiss-ai-futures-site-qr.png" alt="QR code for swissaifutures.org">
+            <div>
+              <strong>Scan for details</strong>
+              <span>More information and registration</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="bottom">
+          <p class="footer-note">A TA-SWISS project with researchers from University of Zurich, ETH Zurich, University of Lausanne, University of St. Gallen, and LUT University.</p>
+        </div>
+      </section>
+
+      <section class="artboard social-square" data-asset="social-square" aria-label="Swiss AI Futures square social post">
+        <img class="heatmap" src="assets/images/switzerland_pixel_heatmap_density_blocks.png" alt="">
+        <div class="brand">
+          <img src="assets/images/logos/logo-warm-long.png" alt="Swiss AI Futures">
+        </div>
+
+        <h1>Swiss AI Futures<br>Citizen Workshops</h1>
+        <div class="pill">Receive CHF 60</div>
+
+        <div class="dates">
+          <article class="date-row">
+            <span>August 11</span>
+            <strong>Zürich</strong>
+            <p>17:30-19:30</p>
+          </article>
+          <article class="date-row">
+            <span>August 12</span>
+            <strong>Lausanne</strong>
+            <p>17:30-19:30</p>
+          </article>
+        </div>
+
+        <ol class="steps" aria-label="Required steps">
+          <li><b>1</b><span>Sign up</span></li>
+          <li><b>2</b><span>Finish Atgora app questionnaire on your phone</span></li>
+          <li><b>3</b><span>Attend Zürich or Lausanne</span></li>
+        </ol>
+
+        <div class="bottom">
+          <p class="footer-note">TA-SWISS project with researchers from University of Zurich, ETH Zurich, University of Lausanne, University of St. Gallen, and LUT.</p>
+          <div class="qr-block">
+            <img src="assets/images/qr/swiss-ai-futures-site-qr.png" alt="QR code for swissaifutures.org">
+            <div>
+              <strong>Details</strong>
+              <span>More info and registration</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="artboard social-wide" data-asset="social-wide" aria-label="Swiss AI Futures wide social card">
+        <img class="heatmap" src="assets/images/switzerland_pixel_heatmap_density_blocks.png" alt="">
+        <div class="brand">
+          <img src="assets/images/logos/logo-warm-long.png" alt="Swiss AI Futures">
+        </div>
+
+        <h1>Swiss AI Futures<br>Citizen Workshops</h1>
+        <div class="pill">Receive CHF 60</div>
+
+        <div class="dates">
+          <article class="date-row">
+            <span>August 11</span>
+            <strong>Zürich</strong>
+            <p>17:30-19:30</p>
+          </article>
+          <article class="date-row">
+            <span>August 12</span>
+            <strong>Lausanne</strong>
+            <p>17:30-19:30</p>
+          </article>
+        </div>
+
+        <div class="qr-block">
+          <img src="assets/images/qr/swiss-ai-futures-site-qr.png" alt="QR code for swissaifutures.org">
+          <div>
+            <strong>Details</strong>
+            <span>More info and registration</span>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script>
+      const translations = {
+        en: {
+          title: "Swiss AI Futures<br>Citizen Workshops",
+          pill: "Receive CHF 60",
+          lead: "Share your view on how AI is affecting work and education in Switzerland. No AI expertise is needed.",
+          zurichCity: "Zürich",
+          lausanneCity: "Lausanne",
+          zurichDateLong: "Tuesday, August 11, 2026",
+          lausanneDateLong: "Wednesday, August 12, 2026",
+          zurichDateShort: "August 11",
+          lausanneDateShort: "August 12",
+          time: "17:30-19:30",
+          timeDot: "17:30-19:30.",
+          stepFull1: "Sign up for one workshop.",
+          stepFull2: "Finish the Atgora app questionnaire on your phone.",
+          stepFull3: "Attend one workshop in Zürich or Lausanne.",
+          stepShort1: "Sign up",
+          stepShort2: "Finish Atgora app questionnaire on your phone",
+          stepShort3: "Attend Zürich or Lausanne",
+          impactTitle: "Your input matters",
+          impactBody: "The final TA-SWISS report will inform the Swiss Parliament and the national conversation around AI policy, work, and education.",
+          qrFull: "Scan for details",
+          qrShort: "Details",
+          qrBody: "More information and registration",
+          qrBodyShort: "More info and registration",
+          footerFull: "A TA-SWISS project with researchers from University of Zurich, ETH Zurich, University of Lausanne, University of St. Gallen, and LUT University.",
+          footerShort: "TA-SWISS project with researchers from University of Zurich, ETH Zurich, University of Lausanne, University of St. Gallen, and LUT."
+        },
+        de: {
+          title: "Swiss AI Futures<br>Bürgerworkshops",
+          pill: "CHF 60 erhalten",
+          lead: "Teilen Sie Ihre Sicht darauf, wie KI Arbeit und Bildung in der Schweiz verändert. Es ist kein KI-Vorwissen nötig.",
+          zurichCity: "Zürich",
+          lausanneCity: "Lausanne",
+          zurichDateLong: "Dienstag, 11. August 2026",
+          lausanneDateLong: "Mittwoch, 12. August 2026",
+          zurichDateShort: "11. August",
+          lausanneDateShort: "12. August",
+          time: "17:30-19:30",
+          timeDot: "17:30-19:30.",
+          stepFull1: "Melden Sie sich für einen Workshop an.",
+          stepFull2: "Füllen Sie den Atgora-App-Fragebogen auf Ihrem Smartphone aus.",
+          stepFull3: "Besuchen Sie einen Workshop in Zürich oder Lausanne.",
+          stepShort1: "Anmelden",
+          stepShort2: "Atgora-App-Fragebogen auf dem Smartphone ausfüllen",
+          stepShort3: "Workshop in Zürich oder Lausanne besuchen",
+          impactTitle: "Ihre Stimme zählt",
+          impactBody: "Der finale TA-SWISS-Bericht informiert das Schweizer Parlament und die nationale Debatte zu KI-Politik, Arbeit und Bildung.",
+          qrFull: "Für Details scannen",
+          qrShort: "Details",
+          qrBody: "Mehr Informationen und Anmeldung",
+          qrBodyShort: "Mehr Infos und Anmeldung",
+          footerFull: "Ein TA-SWISS-Projekt mit Forschenden der Universität Zürich, ETH Zürich, Universität Lausanne, Universität St. Gallen und LUT University.",
+          footerShort: "TA-SWISS-Projekt mit Forschenden der Universität Zürich, ETH Zürich, Universität Lausanne, Universität St. Gallen und LUT."
+        },
+        fr: {
+          title: "Ateliers citoyens<br>Swiss AI Futures",
+          pill: "Recevoir CHF 60",
+          lead: "Donnez votre avis sur l'impact de l'IA sur le travail et l'éducation en Suisse. Aucune expertise en IA n'est requise.",
+          zurichCity: "Zurich",
+          lausanneCity: "Lausanne",
+          zurichDateLong: "Mardi 11 août 2026",
+          lausanneDateLong: "Mercredi 12 août 2026",
+          zurichDateShort: "11 août",
+          lausanneDateShort: "12 août",
+          time: "17:30-19:30",
+          timeDot: "17:30-19:30.",
+          stepFull1: "Inscrivez-vous à un atelier.",
+          stepFull2: "Remplissez le questionnaire Atgora sur votre téléphone.",
+          stepFull3: "Participez à un atelier à Zurich ou Lausanne.",
+          stepShort1: "S'inscrire",
+          stepShort2: "Remplir le questionnaire Atgora sur votre téléphone",
+          stepShort3: "Participer à Zurich ou Lausanne",
+          impactTitle: "Votre avis compte",
+          impactBody: "Le rapport final de TA-SWISS informera le Parlement suisse et le débat national sur la politique de l'IA, le travail et l'éducation.",
+          qrFull: "Scanner pour les détails",
+          qrShort: "Détails",
+          qrBody: "Plus d'informations et inscription",
+          qrBodyShort: "Plus d'infos et inscription",
+          footerFull: "Un projet TA-SWISS avec des chercheuses et chercheurs de l'Université de Zurich, de l'ETH Zurich, de l'Université de Lausanne, de l'Université de Saint-Gall et de LUT University.",
+          footerShort: "Projet TA-SWISS avec des chercheuses et chercheurs de l'Université de Zurich, de l'ETH Zurich, de l'UNIL, de l'Université de Saint-Gall et de LUT."
+        }
+      };
+
+      const params = new URLSearchParams(window.location.search);
+      const requestedAsset = params.get("asset");
+      if (requestedAsset) document.body.dataset.asset = requestedAsset;
+
+      const lang = translations[params.get("lang")] ? params.get("lang") : "en";
+      const copy = translations[lang];
+      document.documentElement.lang = lang;
+      document.body.dataset.lang = lang;
+
+      document.querySelectorAll("h1").forEach((node) => {
+        node.innerHTML = copy.title;
+      });
+      document.querySelectorAll(".pill").forEach((node) => {
+        node.textContent = copy.pill;
+      });
+      document.querySelectorAll(".topline p, .lead").forEach((node) => {
+        node.textContent = copy.lead;
+      });
+      document.querySelectorAll(".date-row").forEach((row) => {
+        const flyer = row.closest(".flyer");
+        const cityNode = row.querySelector("strong");
+        const isLausanne = cityNode?.textContent.toLowerCase().includes("lausanne");
+        row.querySelector("span").textContent = isLausanne
+          ? (flyer ? copy.lausanneDateLong : copy.lausanneDateShort)
+          : (flyer ? copy.zurichDateLong : copy.zurichDateShort);
+        cityNode.textContent = isLausanne ? copy.lausanneCity : copy.zurichCity;
+        row.querySelector("p").textContent = flyer ? copy.timeDot : copy.time;
+      });
+      document.querySelectorAll(".steps").forEach((list) => {
+        const flyer = list.closest(".flyer");
+        const keys = flyer
+          ? ["stepFull1", "stepFull2", "stepFull3"]
+          : ["stepShort1", "stepShort2", "stepShort3"];
+        list.querySelectorAll("span").forEach((node, index) => {
+          node.textContent = copy[keys[index]];
+        });
+      });
+      document.querySelectorAll(".impact h2").forEach((node) => {
+        node.textContent = copy.impactTitle;
+      });
+      document.querySelectorAll(".impact p").forEach((node) => {
+        node.textContent = copy.impactBody;
+      });
+      document.querySelectorAll(".qr-block").forEach((block) => {
+        const flyer = block.closest(".flyer");
+        block.querySelector("strong").textContent = flyer ? copy.qrFull : copy.qrShort;
+        block.querySelector("span").textContent = flyer ? copy.qrBody : copy.qrBodyShort;
+      });
+      document.querySelectorAll(".footer-note").forEach((node) => {
+        node.textContent = node.closest(".flyer") ? copy.footerFull : copy.footerShort;
+      });
+    </script>
+  </body>
+</html>

@@ -3648,8 +3648,8 @@ h2 {
 
 .voucher-callout strong {
   margin-top: 8px;
-  font-size: 7.2rem;
-  line-height: 0.86;
+  font-size: clamp(4.8rem, 7.8vw, 6.25rem);
+  line-height: 0.9;
   font-weight: 500;
 }
 
@@ -4086,7 +4086,7 @@ h2 {
   }
 
   .voucher-callout strong {
-    font-size: 5.8rem;
+    font-size: 5.05rem;
   }
 
   .workshop-hero-panel,
@@ -4176,7 +4176,7 @@ h2 {
   }
 
   .voucher-callout strong {
-    font-size: 4.2rem;
+    font-size: 3.85rem;
   }
 
   .voucher-callout p,
