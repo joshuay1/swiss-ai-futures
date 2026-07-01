@@ -156,6 +156,56 @@ button {
   transform-origin: left center;
 }
 
+.map-field {
+  --map-opacity: 0.055;
+  --map-x: 0px;
+  --map-y: 0px;
+  --map-scale: 1.02;
+  --map-rotate: -2deg;
+  --map-spot-x: 62%;
+  --map-spot-y: 44%;
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+  opacity: var(--map-opacity);
+  -webkit-mask-image: radial-gradient(
+    ellipse at var(--map-spot-x) var(--map-spot-y),
+    #000 0 34%,
+    rgba(0, 0, 0, 0.55) 56%,
+    transparent 84%
+  );
+  mask-image: radial-gradient(
+    ellipse at var(--map-spot-x) var(--map-spot-y),
+    #000 0 34%,
+    rgba(0, 0, 0, 0.55) 56%,
+    transparent 84%
+  );
+}
+
+.map-field img {
+  position: absolute;
+  left: calc(50% + 380px);
+  top: 50%;
+  width: min(132vw, 1760px);
+  max-width: none;
+  height: auto;
+  transform: translate3d(calc(-50% + var(--map-x)), calc(-50% + var(--map-y)), 0)
+    rotate(var(--map-rotate)) scale(var(--map-scale));
+  transform-origin: center;
+  filter: saturate(0.7) contrast(0.86) brightness(1.05);
+  mix-blend-mode: multiply;
+  will-change: transform;
+}
+
+.site-header,
+main,
+.site-footer {
+  position: relative;
+  z-index: 1;
+}
+
 .skip-link {
   position: fixed;
   left: 1rem;
@@ -3329,6 +3379,15 @@ body.quick-page {
     scroll-behavior: auto !important;
     transition-duration: 0.01ms !important;
   }
+
+  .map-field {
+    opacity: 0.055 !important;
+  }
+
+  .map-field img {
+    transform: translate3d(-50%, -50%, 0) rotate(-2deg) scale(1.02) !important;
+  }
+
 }
 
 /* Minimal landing page */
@@ -3344,6 +3403,11 @@ body {
   border-bottom: 0;
   background: transparent;
   backdrop-filter: none;
+}
+
+body > .site-header {
+  position: relative;
+  z-index: 2;
 }
 
 .brand-wordmark {
@@ -3378,6 +3442,7 @@ body {
 }
 
 .hero,
+.impact-section,
 .signup-section,
 .download-section,
 .info-section,
@@ -3395,6 +3460,11 @@ body {
 
 .hero-copy {
   max-width: 1040px;
+}
+
+.impact-section {
+  padding-top: clamp(52px, 7vw, 92px);
+  padding-bottom: clamp(72px, 8vw, 110px);
 }
 
 .eyebrow {
@@ -4027,6 +4097,15 @@ h2 {
 }
 
 @media (max-width: 720px) {
+  .map-field {
+    opacity: var(--map-opacity);
+  }
+
+  .map-field img {
+    left: 82%;
+    width: 1040px;
+  }
+
   .site-header,
   .section,
   .site-footer {
