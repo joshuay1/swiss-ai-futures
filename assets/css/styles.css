@@ -3408,9 +3408,10 @@ body {
 h1 {
   max-width: 1000px;
   margin-bottom: 34px;
-  font-size: clamp(5.2rem, 9vw, 9.4rem);
+  font-size: 7.4rem;
   line-height: 0.9;
   font-weight: 500;
+  overflow-wrap: break-word;
 }
 
 .date-callout {
@@ -3439,7 +3440,7 @@ h1 {
 
 .date-callout span {
   color: var(--muted);
-  font-size: clamp(1.25rem, 1.85vw, 1.85rem);
+  font-size: 1.35rem;
   font-weight: 500;
   text-transform: none;
 }
@@ -3447,7 +3448,7 @@ h1 {
 .date-callout strong {
   display: block;
   color: var(--ink);
-  font-size: clamp(5rem, 9vw, 8.2rem);
+  font-size: 6.6rem;
   line-height: 0.88;
   font-weight: 500;
 }
@@ -3455,7 +3456,7 @@ h1 {
 .date-callout time {
   display: block;
   color: var(--ink);
-  font-size: clamp(2.25rem, 4vw, 3.8rem);
+  font-size: 2.85rem;
   line-height: 0.98;
   font-weight: 500;
 }
@@ -3463,14 +3464,15 @@ h1 {
 .date-callout p {
   margin: 0;
   color: var(--muted);
-  font-size: clamp(1rem, 1.4vw, 1.22rem);
+  font-size: 1.12rem;
 }
 
 h2 {
   max-width: 780px;
-  font-size: clamp(4rem, 7vw, 7rem);
-  line-height: 0.9;
+  font-size: 4.25rem;
+  line-height: 0.95;
   font-weight: 500;
+  overflow-wrap: break-word;
 }
 
 .hero-text,
@@ -3478,7 +3480,7 @@ h2 {
 .download-copy p {
   max-width: 620px;
   color: var(--muted);
-  font-size: clamp(1.2rem, 1.65vw, 1.55rem);
+  font-size: 1.28rem;
   line-height: 1.35;
 }
 
@@ -3499,7 +3501,7 @@ h2 {
 
 .required-actions ol {
   padding-left: 1.55rem;
-  font-size: clamp(1.5rem, 2.25vw, 2.1rem);
+  font-size: 1.8rem;
   line-height: 1.2;
   font-weight: 500;
 }
@@ -3576,7 +3578,7 @@ h2 {
 
 .voucher-callout strong {
   margin-top: 8px;
-  font-size: clamp(5rem, 10vw, 9rem);
+  font-size: 7.2rem;
   line-height: 0.86;
   font-weight: 500;
 }
@@ -3584,7 +3586,7 @@ h2 {
 .voucher-callout p {
   max-width: 620px;
   margin-top: 28px;
-  font-size: clamp(1.2rem, 1.65vw, 1.55rem);
+  font-size: 1.28rem;
   line-height: 1.35;
 }
 
@@ -3593,6 +3595,8 @@ h2 {
   padding: 0;
   gap: 10px;
   border-top: 0;
+  font-size: 1.18rem;
+  line-height: 1.4;
   list-style: none;
 }
 
@@ -3631,8 +3635,187 @@ h2 {
   gap: clamp(28px, 4vw, 48px);
 }
 
+.atgora-guide {
+  max-width: 900px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: clamp(34px, 4.5vw, 58px);
+  align-items: start;
+}
+
+.atgora-guide-copy {
+  display: grid;
+  gap: clamp(34px, 5vw, 58px);
+}
+
+.atgora-steps {
+  max-width: 620px;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 28px;
+  counter-reset: atgora-step;
+  list-style: none;
+}
+
+.atgora-steps li {
+  display: grid;
+  grid-template-columns: 3rem minmax(0, 1fr);
+  gap: 18px;
+  align-items: start;
+  counter-increment: atgora-step;
+}
+
+.atgora-steps li::before {
+  content: counter(atgora-step);
+  color: var(--ink);
+  font-size: 2.25rem;
+  line-height: 0.95;
+  font-weight: 500;
+}
+
+.atgora-steps strong {
+  display: block;
+  grid-column: 2;
+  color: var(--ink);
+  font-size: 1.55rem;
+  line-height: 1.08;
+  font-weight: 500;
+}
+
+.atgora-steps span {
+  display: block;
+  grid-column: 2;
+  max-width: 470px;
+  margin-top: -16px;
+  color: var(--muted);
+  font-size: 1.14rem;
+  line-height: 1.38;
+}
+
 .download-qrs {
   width: min(100%, 420px);
+}
+
+.atgora-instructions {
+  max-width: 780px;
+  display: grid;
+  grid-template-columns: minmax(300px, 1fr) minmax(220px, 300px);
+  gap: clamp(30px, 4vw, 48px);
+  align-items: start;
+}
+
+.atgora-instructions,
+.atgora-instructions * {
+  min-width: 0;
+}
+
+.atgora-instructions .instruction-steps {
+  display: grid;
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.atgora-instructions .instruction-step-button {
+  width: 100%;
+  min-width: 0;
+  display: grid;
+  grid-template-columns: 2.2rem minmax(0, 1fr);
+  gap: 4px 18px;
+  padding: 18px 0;
+  color: var(--muted);
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  cursor: pointer;
+  text-align: left;
+}
+
+.atgora-instructions .instruction-step-button span {
+  grid-row: 1 / span 2;
+  color: var(--ink);
+  font-size: 1.55rem;
+  line-height: 0.95;
+  font-weight: 500;
+}
+
+.atgora-instructions .instruction-step-button strong {
+  display: block;
+  min-width: 0;
+  color: var(--ink);
+  font-size: 1.34rem;
+  line-height: 1.08;
+  font-weight: 500;
+  overflow-wrap: anywhere;
+  white-space: normal;
+}
+
+.atgora-instructions .instruction-step-button em {
+  display: block;
+  min-width: 0;
+  max-width: 390px;
+  color: var(--muted);
+  font-size: 1rem;
+  font-style: normal;
+  line-height: 1.34;
+  overflow-wrap: anywhere;
+  white-space: normal;
+}
+
+.atgora-instructions .instruction-step-button:hover,
+.atgora-instructions .instruction-step-button:focus-visible,
+.atgora-instructions .instruction-step-button.is-active {
+  color: var(--ink);
+}
+
+.atgora-instructions .instruction-step-button.is-active {
+  padding-left: 16px;
+  padding-right: 16px;
+  background: #fff;
+  box-shadow: inset 3px 0 0 var(--ink);
+}
+
+.atgora-instructions .instruction-step-button:focus-visible,
+.atgora-instructions .instruction-shot:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 4px;
+}
+
+.atgora-instructions .instruction-viewer {
+  position: sticky;
+  top: 112px;
+  display: grid;
+  justify-items: center;
+  gap: 0;
+}
+
+.instruction-panel {
+  width: 100%;
+  display: grid;
+  justify-items: center;
+  gap: 0;
+}
+
+.instruction-panel[hidden] {
+  display: none;
+}
+
+.atgora-instructions .instruction-shot {
+  width: min(100%, 300px, calc((100vh - 170px) * 1206 / 2622));
+  aspect-ratio: 1206 / 2622;
+  margin: 0;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.12);
+}
+
+.atgora-instructions .instruction-shot img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: top center;
 }
 
 .qr-placeholder {
@@ -3656,7 +3839,7 @@ h2 {
   padding: 0;
   border: 0;
   background: transparent;
-  font-size: clamp(1.1rem, 1.4vw, 1.35rem);
+  font-size: 1.18rem;
   font-weight: 500;
 }
 
@@ -3704,8 +3887,8 @@ h2 {
 .plain-list h3 {
   margin: 0 0 12px;
   color: var(--ink);
-  font-size: clamp(1.7rem, 2.6vw, 2.8rem);
-  line-height: 1.02;
+  font-size: 1.8rem;
+  line-height: 1.08;
   font-weight: 500;
 }
 
@@ -3713,8 +3896,94 @@ h2 {
   max-width: 680px;
   margin: 0;
   color: var(--muted);
-  font-size: clamp(1.08rem, 1.45vw, 1.28rem);
+  font-size: 1.14rem;
   line-height: 1.4;
+}
+
+.qa-accordion {
+  max-width: 820px;
+  display: grid;
+  gap: 0;
+}
+
+.qa-item {
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.qa-item:last-child {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.qa-item summary {
+  position: relative;
+  min-height: 76px;
+  padding: 22px 52px 22px 0;
+  display: flex;
+  align-items: center;
+  color: var(--ink);
+  cursor: pointer;
+  font-size: 1.55rem;
+  line-height: 1.08;
+  font-weight: 500;
+  list-style: none;
+}
+
+.qa-item summary::-webkit-details-marker {
+  display: none;
+}
+
+.qa-item summary::after {
+  content: "+";
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--muted);
+  font-size: 1.45rem;
+  line-height: 1;
+  font-weight: 500;
+}
+
+.qa-item[open] summary::after {
+  content: "-";
+}
+
+.qa-item div {
+  max-width: 720px;
+  padding: 0 0 30px;
+}
+
+.qa-item p {
+  max-width: 700px;
+  margin: 0;
+  color: var(--muted);
+  font-size: 1.08rem;
+  line-height: 1.42;
+}
+
+.qa-item p + p {
+  margin-top: 14px;
+}
+
+.qa-item a {
+  color: var(--ink);
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+}
+
+.team-photo {
+  width: 100%;
+  margin: clamp(6px, 2vw, 24px) 0 0;
+}
+
+.team-photo img {
+  display: block;
+  width: 100%;
+  height: clamp(280px, 34vw, 380px);
+  object-fit: cover;
+  object-position: center 72%;
+  border-radius: 8px;
+  filter: saturate(0.92) contrast(1.02);
 }
 
 .site-footer {
@@ -3728,6 +3997,26 @@ h2 {
   .signup-section,
   .download-section {
     grid-template-columns: 1fr;
+  }
+
+  h1 {
+    font-size: 6rem;
+  }
+
+  h2 {
+    font-size: 3.6rem;
+  }
+
+  .date-callout strong {
+    font-size: 5.4rem;
+  }
+
+  .date-callout time {
+    font-size: 2.45rem;
+  }
+
+  .voucher-callout strong {
+    font-size: 5.8rem;
   }
 
   .workshop-hero-panel,
@@ -3760,21 +4049,82 @@ h2 {
   }
 
   h1 {
-    font-size: clamp(3.55rem, 14.5vw, 4.55rem);
+    font-size: 3.35rem;
+    line-height: 0.92;
   }
 
   h2 {
-    font-size: clamp(3.35rem, 14vw, 4.8rem);
+    font-size: 2.55rem;
+    line-height: 0.98;
+  }
+
+  .date-callout {
+    margin: 54px 0;
+  }
+
+  .date-callout-list {
+    gap: 48px;
+  }
+
+  .date-callout span {
+    font-size: 1.08rem;
+  }
+
+  .date-callout strong {
+    font-size: 3.45rem;
+  }
+
+  .date-callout time {
+    font-size: 2rem;
+  }
+
+  .date-callout p {
+    font-size: 1rem;
   }
 
   .hero-text,
   .section-copy p,
   .download-copy p {
-    font-size: 1.16rem;
+    font-size: 1.08rem;
   }
 
   .required-actions ol {
-    font-size: 1.48rem;
+    font-size: 1.22rem;
+  }
+
+  .voucher-callout {
+    margin-top: 72px;
+  }
+
+  .voucher-callout strong {
+    font-size: 4.2rem;
+  }
+
+  .voucher-callout p,
+  .key-notes {
+    font-size: 1.08rem;
+  }
+
+  .plain-list h3 {
+    font-size: 1.45rem;
+  }
+
+  .plain-list p {
+    font-size: 1.02rem;
+  }
+
+  .qa-item summary {
+    min-height: 64px;
+    padding: 18px 42px 18px 0;
+    font-size: 1.24rem;
+  }
+
+  .qa-item div {
+    padding-bottom: 24px;
+  }
+
+  .qa-item p {
+    font-size: 1rem;
   }
 
   .hero-actions {
@@ -3791,6 +4141,83 @@ h2 {
   .download-panel {
     grid-template-columns: 1fr;
     gap: 28px;
+  }
+
+  .atgora-guide {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  .atgora-steps {
+    gap: 24px;
+  }
+
+  .atgora-steps li {
+    grid-template-columns: 2.25rem minmax(0, 1fr);
+    gap: 14px;
+  }
+
+  .atgora-steps li::before {
+    font-size: 1.7rem;
+  }
+
+  .atgora-steps strong {
+    font-size: 1.24rem;
+  }
+
+  .atgora-steps span {
+    font-size: 1rem;
+  }
+
+  .atgora-instructions {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+
+  .atgora-instructions .instruction-step-button {
+    grid-template-columns: 2rem minmax(0, 240px);
+    gap: 4px 14px;
+    padding: 16px 0;
+  }
+
+  .atgora-instructions .instruction-step-button.is-active {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .atgora-instructions .instruction-step-button span {
+    font-size: 1.32rem;
+  }
+
+  .atgora-instructions .instruction-step-button strong {
+    width: 100%;
+    max-width: 100%;
+    font-size: 1.14rem;
+    word-break: normal;
+  }
+
+  .atgora-instructions .instruction-step-button em {
+    width: 100%;
+    max-width: 240px;
+    font-size: 0.94rem;
+    word-break: normal;
+  }
+
+  .atgora-instructions .instruction-viewer {
+    position: static;
+    justify-items: center;
+  }
+
+  .atgora-instructions .instruction-shot {
+    width: min(100%, 300px);
+  }
+
+  .team-photo {
+    margin-top: 0;
+  }
+
+  .team-photo img {
+    height: min(72vw, 320px);
   }
 
   .hero-workshop-list {
