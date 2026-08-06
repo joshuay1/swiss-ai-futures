@@ -46,20 +46,19 @@ Nous allons examiner des questions plus concrètes :
 
 ## On-screen copy
 
-# Votre expérience orientera les choix suisses sur l’IA
+# Votre expérience guidera les recommandations
 
-Swiss AI Futures relie les connaissances du projet à vos expériences, priorités et jugements.
+Le projet apporte des données. Vous apportez vos priorités et votre jugement.
 
 ## Questions pour aujourd’hui
 
 * Où l’IA devrait-elle aider ?
-* Quelles décisions devraient rester humaines ?
-* Quelles garanties et formations sont nécessaires ?
-* Qui devrait être responsable ?
+* Qu’est-ce qui doit rester humain ?
+* Quelles garanties sont essentielles ?
 
 ## Comment vos contributions seront utilisées
 
-Vos échanges alimenteront le rapport final de TA-SWISS et des recommandations pour la politique et la pratique.
+Vos échanges alimenteront le rapport final de TA-SWISS.
 
 ## Presenter notes
 
@@ -87,9 +86,9 @@ Document d’information des participants, sections 7–34 et 385–414.
 
 ## On-screen copy
 
-# L’IA se diffuse tandis que la Suisse définit ses règles
+# L’usage de l’IA progresse plus vite que les règles
 
-### Responsabilité, protection des données et usages à haut risque restent à préciser.
+### Responsabilité, protection des données et usages à haut risque restent à définir.
 
 ## Dans la vie quotidienne
 
@@ -97,15 +96,15 @@ En 2025, **plus de 40 %** de la population a utilisé l’IA générative ; chez
 
 ## Au travail
 
-L’IA devient courante pour écrire, traduire, analyser et automatiser, alors que de nombreuses organisations définissent encore leurs règles.
+L’usage progresse plus vite que les règles et la formation.
 
 ## Dans les écoles
 
-L’IA est déjà présente. Les écoles doivent évaluer protection des données, responsabilité et usages sensibles selon le droit fédéral et cantonal.
+L’IA est déjà présente ; responsabilité et protection des données restent essentielles.
 
 ## Dans la politique
 
-La Suisse n’a pas de loi unique sur l’IA. La Confédération prépare des adaptations ciblées par secteur, avec un projet de consultation prévu d’ici fin 2026.
+La Suisse développe des règles sectorielles ciblées plutôt qu’une loi unique sur l’IA.
 
 ## Presenter notes
 
@@ -141,37 +140,37 @@ Educa, *Aperçu juridique de l’IA dans l’espace suisse de formation*, 28 ao�
 
 ## On-screen copy
 
-# La discussion d’aujourd’hui s’appuie sur quatre étapes précédentes
+# La discussion d’aujourd’hui s’appuie sur les travaux précédents
 
-## 1. Lire les recherches
+## 1. Revue de la littérature
 
-**Revue de la littérature**
+**Ce que l’on sait**
 
-Ce que l’on sait déjà sur l’IA au travail et dans l’éducation.
+IA au travail et dans l’éducation.
 
-## 2. Tester l’accès à l’IA
+## 2. Expérience d’apprentissage
 
-**Expérience d’apprentissage**
+**Ce que l’IA change**
 
-Comment l’accès à un LLM modifie les performances.
+Tâches comparables avec et sans LLM.
 
-## 3. Interroger les spécialistes sur les limites
+## 3. Groupes de spécialistes
 
-**Expérience du terrain**
+**Où les systèmes échouent**
 
-Où les systèmes fonctionnent — et où ils échouent.
+Pratiques, compétences, gouvernance.
 
-## 4. Cartographier les arguments publics
+## 4. Phase en ligne
 
-**Phase publique en ligne · février**
+**Priorités publiques**
 
 Priorités, garanties et questions ouvertes.
 
-## 5. Tester les arguments ensemble
+## 5. Aujourd’hui
 
-**Ateliers d’aujourd’hui**
+**Tester les recommandations**
 
-Ensemble, nous testons et améliorons des recommandations possibles.
+Discuter, contester, améliorer.
 
 ## Presenter notes
 
@@ -199,23 +198,23 @@ Projet de rapport TA-SWISS, sections 2.1, 2.5.2 et 3.1–3.2. Résultats en lign
 
 ## On-screen copy
 
-# Les contributions en ligne posent des questions — pas des réponses
+# Les contributions en ligne sont un point de départ
 
 ## Ce que vous verrez
 
-Préoccupations, garanties proposées et questions ouvertes issues de la phase en ligne de février.
+Préoccupations, garanties, questions ouvertes.
 
 ## Votre rôle aujourd’hui
 
-Testez ces arguments à partir de votre expérience. Contestez-les, affinez-les ou complétez-les.
+Contester, affiner, compléter.
 
 ## Ce que nous retenons
 
-Les raisons, les convergences et les désaccords importants.
+Raisons, convergences, désaccords.
 
 ## Presenter notes
 
-Utilisez cette diapositive pour relier la phase en ligne de février à l’atelier d’aujourd’hui.
+Utilisez cette diapositive pour relier la phase en ligne à l’atelier d’aujourd’hui.
 
 Les contributions précédentes fournissent des arguments à tester, non des conclusions que les participants devraient accepter.
 
@@ -241,27 +240,27 @@ Résultats en ligne, section 4.2, paragraphes 2–4.
 
 ## 17 h 30–17 h 52
 
-**Poser le contexte**
+**Contexte**
 
-La Suisse aujourd’hui, les données du projet, le processus et le cas du travail.
+Suisse, données et processus.
 
 ## 17 h 52–18 h 30
 
 **L’IA au travail**
 
-Activité, questionnaire papier et pause.
+Discussion, questionnaire, pause.
 
 ## 18 h 30–19 h 10
 
 **L’IA dans l’éducation**
 
-Données, cas pratique, activité et questionnaire papier.
+Données, discussion, questionnaire.
 
 ## 19 h 10–19 h 30
 
 **L’IA en Suisse**
 
-Propositions ouvertes, questionnaire final et conclusion.
+Propositions ouvertes, questionnaire final, conclusion.
 
 ## Presenter notes
 
@@ -281,11 +280,11 @@ Les questionnaires sont remplis individuellement sur papier après la validation
 
 ## On-screen copy
 
-# Deux boucles mènent de la discussion au consensus.
+# Deux boucles mènent au consensus
 
-Le processus humain saute le vote de toutes et tous dans la boucle 1.
+Le processus humain saute le vote dans la boucle 1.
 
-## Deux boucles · une décision finale
+## Discuter · tester · réviser · accepter
 
 1. Le groupe discute
 2. Une personne présente
@@ -293,14 +292,6 @@ Le processus humain saute le vote de toutes et tous dans la boucle 1.
 4. Vérifier le consensus
 5. Réviser
 6. Accepter le consensus
-
-## Processus humain
-
-Dans la boucle 1, le groupe discute et une personne présente ses propositions. Ce processus saute l’étape 3, puis passe à la boucle 2.
-
-## Processus assisté par l’IA
-
-Dans la boucle 1, le groupe discute, une personne présente ses propositions et toutes et tous votent. La boucle peut être répétée avant la boucle 2.
 
 ## Presenter notes
 
@@ -369,21 +360,19 @@ L’objectif n’est pas l’accord complet. Un résultat utile peut inclure une
 
 ## On-screen copy
 
-# L’IA accélère la production et exige plus de jugement
+# L’IA accélère la production — le jugement devient plus exigeant
 
 ## Le cas quotidien
 
-Une personne utilise l’IA pour rédiger, traduire, rechercher, coder, analyser ou gérer des tâches administratives.
+Rédiger, traduire, rechercher, coder, analyser.
 
 ## Le problème de jugement
 
-Le résultat paraît fluide, mais peut rester incomplet, trompeur, biaisé ou faux.
+Une réponse fluide peut rester fausse ou biaisée.
 
 ## L’échec de la responsabilité
 
-« Un humain décide » signifie peu si cette personne manque d’expertise, de temps ou d’autorité pour contester le système.
-
-### L’usage se diffuse plus vite que la capacité à le juger.
+Il faut du temps, de l’expertise et de l’autorité pour contester l’IA.
 
 ## Presenter notes
 
@@ -449,25 +438,23 @@ On peut soutenir une assistance volontaire tout en exigeant des protections bien
 
 ## On-screen copy
 
-# Les travailleurs attendent un soutien pendant la transition vers l’IA
-
-### La demande centrale : formation, responsabilité partagée et répartition équitable.
+# Les travailleurs veulent être accompagnés dans la transition
 
 ## La transition est déjà là
 
-**71 %** avaient déjà ressenti des effets sur le travail, les études ou la recherche d’emploi.
+**71 % :** effets sur le travail, les études ou la recherche d’emploi.
 
 ## Former les personnes dans leur emploi actuel
 
-**88 %** soutenaient une formation à l’IA sur le lieu de travail.
+**88 % :** formation à l’IA sur le lieu de travail.
 
 ## Partager la responsabilité de l’adaptation
 
-**83 %** souhaitaient que les institutions partagent cette responsabilité.
+**83 % :** les institutions doivent partager l’adaptation.
 
-## Partager les gains autant que les risques
+## Surveiller les inégalités
 
-**78 %** s’attendaient à ce que l’IA augmente les inégalités.
+**78 % :** l’IA pourrait accroître les inégalités.
 
 ## Presenter notes
 
@@ -495,19 +482,19 @@ Résultats en ligne, sections 4.2.2 et 4.2.6. Projet de rapport TA-SWISS, sectio
 
 # L’IA doit-elle gérer les travailleurs ?
 
-Un employeur propose un système d’IA pour trier les candidatures, attribuer le travail et les objectifs, puis évaluer la performance.
+Un employeur veut un système d’IA pour recruter, attribuer les tâches et évaluer les performances.
 
 ## Le bénéfice promis
 
-Des décisions plus cohérentes et efficaces.
+Des décisions plus rapides et plus cohérentes.
 
 ## Le risque
 
-Surveillance, erreurs cachées et décisions difficiles à contester.
+Surveillance, erreurs cachées, décisions difficiles à contester.
 
 ## Votre tâche
 
-1. Que devrait pouvoir faire l’employeur ?
+1. Que peut faire l’employeur ?
 2. Quelles sont les deux conditions essentielles ?
 3. Que reste-t-il à résoudre ?
 
@@ -543,14 +530,11 @@ Le droit ne répond pas entièrement à des questions telles que :
 * Deux conditions essentielles
 * Un désaccord non résolu
 
-## Pendant l’activité de 30 minutes
+## Suivre les deux boucles
 
-1. **Boucle 1 · Discussion en groupe** — Discutez ouvertement du cas.
-2. **Boucle 1 · Une personne présente les propositions** — Une personne présente les propositions du groupe.
-3. **Boucle 1 · Tout le monde vote · processus IA uniquement** — Le processus humain saute cette étape ; répétez la boucle si nécessaire.
-4. **Boucle 2 · Vérifier le consensus** — Examinez accords et désaccords restants.
-5. **Boucle 2 · Réviser** — Modifiez les propositions, puis vérifiez de nouveau.
-6. **Finale · Accepter le consensus** — Confirmez le résultat et consignez les désaccords.
+1. Discuter, partager et — dans le processus assisté par l’IA — voter.
+2. Vérifier et réviser le consensus.
+3. Accepter le résultat final.
 
 ## Presenter notes
 
@@ -628,27 +612,21 @@ Ne montrez aucun résultat tant que le vote reste ouvert.
 
 # L’accès à l’IA seul n’a pas amélioré l’apprentissage
 
-L’expérience n’a montré aucune évolution globale claire de la performance due au seul accès à un LLM.
+L’accès au LLM seul n’a produit aucun gain global clair.
 
 ## Le cas du raccourci
 
-**« Fais-le pour moi. »**
-
-C’était le comportement dominant chez les élèves : 56 % des prompts.
+**« Fais-le pour moi. » — 56 % des requêtes scolaires.**
 
 ## Le cas réflexif
 
-**« Aide-moi à questionner cela. »**
-
-La réflexion était plus fréquente à l’université : 29 % contre 21 % à l’école.
+**« Aide-moi à questionner cela. » — 29 % à l’université ; 21 % à l’école.**
 
 ## Le cas métacognitif
 
-**« Aide-moi à examiner mon raisonnement. »**
+**« Aide-moi à examiner ma pensée. » — 17 % à l’université ; 1 % à l’école.**
 
-Rare à l’école — 1 % —, ce comportement atteignait 17 % à l’université.
-
-### L’apprentissage dépend de la manière d’utiliser l’IA.
+### La manière d’utiliser l’IA compte plus que l’accès seul.
 
 ## Presenter notes
 
@@ -713,27 +691,25 @@ Elle est :
 
 ## On-screen copy
 
-# Une intégration progressive de l’IA exige de solides garanties
+# Le soutien augmente quand le jugement reste visible
 
-Le soutien augmente avec l’âge si le jugement et les preuves d’apprentissage restent visibles.
-
-### Les participants privilégient une intégration par étapes avec des garanties.
+Les participants privilégiaient une introduction progressive avec des garanties.
 
 ## Enseigner d’abord le jugement
 
-**89 %** soutenaient l’apprentissage de la vérification des erreurs et biais de l’IA.
+**89 % :** apprendre à vérifier erreurs et biais.
 
 ## Accroître l’autonomie avec l’âge
 
-Part d’IA souhaitée dans le travail noté : **14 % au primaire → 39 % dans le supérieur**.
+IA dans le travail noté : **14 % au primaire → 39 % dans le supérieur**.
 
 ## Repenser la preuve d’apprentissage
 
-**77 %** soutenaient contrôles oraux, projets appliqués, transparence et traces du processus d’apprentissage.
+**77 % :** oraux, projets, transparence, traces du processus.
 
 ## Protéger les données et la responsabilité enseignante
 
-**91 %** soutenaient la formation des enseignants ; **89 %** priorisaient les données des élèves.
+**91 % :** former les enseignants. **89 % :** protéger les données des élèves.
 
 ## Presenter notes
 
@@ -763,19 +739,19 @@ Résultats en ligne, sections 4.2.1 et 4.2.4.
 
 # Les écoles devraient-elles utiliser l’IA pour évaluer ?
 
-Un canton propose l’IA pour le tutorat, l’évaluation et l’identification des élèves ayant besoin de soutien. Les élèves peuvent aussi utiliser l’IA générative pour leurs travaux.
+Un canton propose l’IA pour le tutorat, l’évaluation et l’identification des besoins de soutien. Les élèves peuvent aussi utiliser l’IA pour leurs travaux.
 
 ## Le bénéfice promis
 
-Une aide plus individualisée pour chaque élève.
+Un soutien plus individuel.
 
 ## Le risque
 
-Retours peu fiables, dépendance, exposition des données et décisions automatisées.
+Retours peu fiables, dépendance, risques pour les données, décisions automatisées.
 
 ## Votre tâche
 
-1. Que devraient pouvoir faire les écoles ?
+1. Que peuvent faire les écoles ?
 2. Quelles sont les deux conditions essentielles ?
 3. Que reste-t-il à résoudre ?
 
@@ -814,14 +790,11 @@ Questions importantes :
 * Deux conditions essentielles
 * Un désaccord non résolu
 
-## Pendant l’activité de 30 minutes
+## Suivre les deux boucles
 
-1. **Boucle 1 · Discussion en groupe** — Discutez ouvertement du cas.
-2. **Boucle 1 · Une personne présente les propositions** — Une personne présente les propositions du groupe.
-3. **Boucle 1 · Tout le monde vote · processus IA uniquement** — Le processus humain saute cette étape ; répétez la boucle si nécessaire.
-4. **Boucle 2 · Vérifier le consensus** — Examinez accords et désaccords restants.
-5. **Boucle 2 · Réviser** — Modifiez les propositions, puis vérifiez de nouveau.
-6. **Finale · Accepter le consensus** — Confirmez le résultat et consignez les désaccords.
+1. Discuter, partager et — dans le processus assisté par l’IA — voter.
+2. Vérifier et réviser le consensus.
+3. Accepter le résultat final.
 
 ## Presenter notes
 
@@ -875,7 +848,7 @@ La fiche politique est figée avant le début du questionnaire.
 
 ## On-screen copy
 
-# La responsabilité est partagée ; la confiance va aux institutions indépendantes
+# La responsabilité est partagée ; la confiance ne l’est pas
 
 ## Développer les capacités par l’éducation
 
@@ -883,15 +856,15 @@ La fiche politique est figée avant le début du questionnaire.
 
 ## Les employeurs sont responsables mais peu crédibles
 
-**67 %** leur attribuaient une responsabilité, mais seuls **8 %** leur faisaient confiance pour les guider.
+**67 %** responsabilisaient les employeurs ; seuls **8 %** leur faisaient confiance.
 
 ## Le savoir indépendant crée la légitimité
 
-Universités et chercheurs inspiraient le plus confiance avec **77 %**, devant journalistes et société civile.
+Universités et recherche inspiraient le plus confiance avec **77 %**.
 
 ## La démocratie a besoin d’une réalité commune
 
-**96 %** craignaient que l’IA rende la vérité plus difficile à établir ; **88 %** voyaient un manque d’orientation publique.
+**96 %** craignaient que l’IA rende la vérité plus difficile à établir.
 
 ## Presenter notes
 
@@ -962,19 +935,19 @@ Aucune table n’a besoin de remplir un modèle et aucun consensus ou classement
 
 ## On-screen copy
 
-# Votre contribution alimentera TA-SWISS et le Parlement suisse
+# Vos contributions alimenteront le rapport TA-SWISS
 
 ## Rapport TA-SWISS
 
-Vos recommandations, garanties et désaccords feront partie de l’évaluation technologique du projet.
+Recommandations, garanties et désaccords feront partie de l’évaluation technologique.
 
-## Parlement suisse
+## Débat public
 
-Le rapport contribuera au débat parlementaire et public sur l’IA, le travail, l’éducation et les compétences.
+Le rapport contribuera au débat parlementaire et public sur l’IA.
 
-## Questionnaire papier final
+## Avant de partir
 
-Merci de remplir le formulaire avant de partir.
+Merci de remplir le dernier questionnaire papier.
 
 # Merci
 

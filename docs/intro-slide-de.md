@@ -46,20 +46,19 @@ Wir befassen uns mit konkreteren Fragen:
 
 ## On-screen copy
 
-# Ihre Erfahrung prägt die Schweizer KI-Politik mit
+# Ihre Erfahrung prägt die Empfehlungen
 
-Swiss AI Futures verbindet die Erkenntnisse des Projekts mit Ihren Erfahrungen, Prioritäten und Bewertungen.
+Das Projekt liefert Evidenz. Sie bringen Prioritäten und Bewertungen ein.
 
 ## Fragen für heute
 
 * Wo soll KI unterstützen?
-* Welche Entscheidungen sollen bei Menschen bleiben?
-* Welche Schutzmassnahmen und Weiterbildungen braucht es?
-* Wer soll Verantwortung tragen?
+* Was soll menschlich bleiben?
+* Welche Schutzmassnahmen sind unverzichtbar?
 
 ## So werden Ihre Beiträge genutzt
 
-Ihre Diskussion fliesst in den TA-SWISS-Schlussbericht und in Empfehlungen für Politik und Praxis ein.
+Ihre Diskussion fliesst in den TA-SWISS-Schlussbericht ein.
 
 ## Presenter notes
 
@@ -87,9 +86,9 @@ Projektunterlagen für Teilnehmende, Abschnitte 7–34 und 385–414.
 
 ## On-screen copy
 
-# KI verbreitet sich, während die Schweiz ihre Regeln gestaltet
+# KI verbreitet sich schneller als die Regeln
 
-### Verantwortung, Datenschutz und risikoreiche Anwendungen werden noch definiert.
+### Verantwortung, Datenschutz und risikoreiche Anwendungen sind noch nicht geklärt.
 
 ## Im Alltag
 
@@ -97,15 +96,15 @@ Projektunterlagen für Teilnehmende, Abschnitte 7–34 und 385–414.
 
 ## Bei der Arbeit
 
-KI wird für Schreiben, Übersetzen, Analysieren und Automatisieren alltäglich, während viele Organisationen ihre Regeln noch entwickeln.
+Die Nutzung wächst schneller als Regeln und Weiterbildung.
 
 ## In Schulen
 
-KI ist bereits präsent. Schulen müssen Datenschutz, Verantwortung und risikoreiche Anwendungen nach geltendem Bundes- und Kantonsrecht beurteilen.
+KI ist bereits da; Verantwortung und Datenschutz gelten weiterhin.
 
 ## In der Politik
 
-Die Schweiz hat kein einzelnes KI-Gesetz. Der Bund bereitet gezielte, sektorspezifische Änderungen vor; eine Vernehmlassungsvorlage ist bis Ende 2026 geplant.
+Die Schweiz entwickelt gezielte sektorspezifische Regeln statt eines einzelnen KI-Gesetzes.
 
 ## Presenter notes
 
@@ -141,37 +140,37 @@ Educa, *Rechtliche Auslegeordnung zu KI im Bildungsraum*, 28. August 2024: https
 
 ## On-screen copy
 
-# Die heutige Diskussion baut auf vier früheren Schritten auf
+# Die heutige Diskussion baut auf bisheriger Evidenz auf
 
-## 1. Wissen auswerten
+## 1. Forschungsübersicht
 
-**Forschungsübersicht**
+**Was wir wissen**
 
-Was über KI bei der Arbeit und in der Bildung bereits bekannt ist.
+KI bei Arbeit und Bildung.
 
-## 2. KI-Zugang testen
+## 2. Lernexperiment
 
-**Lernexperiment**
+**Was KI verändert**
 
-Wie der Zugang zu einem LLM die Leistung verändert.
+Vergleichbare Aufgaben mit und ohne LLM.
 
-## 3. Fachleute zu Schwachstellen befragen
+## 3. Expert:innengruppen
 
-**Erfahrungen aus der Praxis**
+**Wo Systeme scheitern**
 
-Wo Systeme funktionieren — und wo sie scheitern.
+Praxis, Kompetenzen, Governance.
 
-## 4. Öffentliche Argumente abbilden
+## 4. Online-Phase
 
-**Öffentliche Online-Phase · Februar**
+**Öffentliche Prioritäten**
 
 Prioritäten, Schutzmassnahmen und offene Fragen.
 
-## 5. Argumente gemeinsam prüfen
+## 5. Heute
 
-**Heutige Workshops**
+**Empfehlungen prüfen**
 
-Gemeinsam prüfen und verbessern wir mögliche Empfehlungen.
+Diskutieren, hinterfragen, verbessern.
 
 ## Presenter notes
 
@@ -199,23 +198,23 @@ TA-SWISS-Entwurf, Abschnitte 2.1, 2.5.2 und 3.1–3.2. Online-Erkenntnisse, Absc
 
 ## On-screen copy
 
-# Frühere Online-Beiträge liefern Fragen — keine Antworten
+# Frühere Online-Beiträge sind ein Ausgangspunkt
 
 ## Was Sie sehen werden
 
-Sorgen, vorgeschlagene Schutzmassnahmen und offene Fragen aus der Online-Phase im Februar.
+Sorgen, Schutzmassnahmen, offene Fragen.
 
 ## Ihre Rolle heute
 
-Prüfen Sie die Argumente anhand Ihrer Erfahrung. Widersprechen, präzisieren oder ergänzen Sie sie.
+Hinterfragen, präzisieren, ergänzen.
 
 ## Was wir festhalten
 
-Begründungen, Übereinstimmungen und wichtigen Dissens.
+Begründungen, Übereinstimmung, Dissens.
 
 ## Presenter notes
 
-Nutzen Sie diese Folie, um die Online-Phase im Februar mit dem heutigen Workshop zu verbinden.
+Nutzen Sie diese Folie, um die Online-Phase mit dem heutigen Workshop zu verbinden.
 
 Die früheren Beiträge liefern Argumente zum Prüfen, keine Schlussfolgerungen, die übernommen werden müssen.
 
@@ -241,27 +240,27 @@ Online-Erkenntnisse, Abschnitt 4.2, Absätze 2–4.
 
 ## 17:30–17:52
 
-**Kontext setzen**
+**Kontext**
 
-Die Schweiz heute, Projekterkenntnisse, Ablauf und Fallbeispiel Arbeit.
+Schweiz, Evidenz und Ablauf.
 
 ## 17:52–18:30
 
 **KI bei der Arbeit**
 
-Aktivität, Papierfragebogen und Pause.
+Diskussion, Fragebogen, Pause.
 
 ## 18:30–19:10
 
 **KI in der Bildung**
 
-Evidenz, Fallbeispiel, Aktivität und Papierfragebogen.
+Evidenz, Diskussion, Fragebogen.
 
 ## 19:10–19:30
 
 **KI in der Schweiz**
 
-Offene Aussagen, letzter Papierfragebogen und Abschluss.
+Offene Aussagen, letzter Fragebogen, Abschluss.
 
 ## Presenter notes
 
@@ -281,11 +280,11 @@ Die Fragebögen werden nach der gemeinsamen Prüfung jeweils selbstständig auf 
 
 ## On-screen copy
 
-# Zwei Schleifen führen von der Diskussion zum Konsens.
+# Zwei Schleifen führen zum Konsens
 
-Der menschliche Prozess überspringt in Schleife 1 die Abstimmung aller.
+Der menschliche Prozess überspringt die Abstimmung in Schleife 1.
 
-## Zwei Schleifen · eine letzte Entscheidung
+## Diskutieren · prüfen · überarbeiten · annehmen
 
 1. Gruppe diskutiert
 2. Eine Person teilt Aussagen
@@ -293,14 +292,6 @@ Der menschliche Prozess überspringt in Schleife 1 die Abstimmung aller.
 4. Konsens prüfen
 5. Überarbeiten
 6. Konsens annehmen
-
-## Menschlicher Prozess
-
-In Schleife 1 diskutiert die Gruppe und eine Person teilt ihre Aussagen. Dieser Prozess überspringt Schritt 3 und geht danach zu Schleife 2.
-
-## KI-unterstützter Prozess
-
-In Schleife 1 diskutiert die Gruppe, eine Person teilt ihre Aussagen und alle stimmen ab. Die Schleife kann vor Schleife 2 wiederholt werden.
 
 ## Presenter notes
 
@@ -369,21 +360,19 @@ Vollständige Einigkeit ist nicht das Ziel. Ein hilfreiches Ergebnis kann eine k
 
 ## On-screen copy
 
-# KI beschleunigt die Produktion und fordert mehr Urteilsvermögen
+# KI beschleunigt Ergebnisse — Urteilsvermögen wird wichtiger
 
 ## Der alltägliche Fall
 
-Eine Person nutzt KI zum Schreiben, Übersetzen, Recherchieren, Programmieren, Analysieren oder für administrative Aufgaben.
+Entwerfen, übersetzen, recherchieren, programmieren, analysieren.
 
 ## Das Beurteilungsproblem
 
-Die Ausgabe klingt überzeugend, kann aber unvollständig, irreführend, verzerrt oder falsch sein.
+Flüssige Antworten können falsch oder verzerrt sein.
 
 ## Das Verantwortungsproblem
 
-„Ein Mensch entscheidet“ bedeutet wenig, wenn diese Person nicht über Fachwissen, Zeit oder Befugnis verfügt, das System infrage zu stellen.
-
-### Die Nutzung verbreitet sich schneller als die Fähigkeit, sie zu beurteilen.
+Menschen brauchen Zeit, Fachwissen und Befugnis, um KI zu hinterfragen.
 
 ## Presenter notes
 
@@ -449,25 +438,23 @@ Menschen können freiwillige Unterstützung begrüssen und zugleich deutlich st�
 
 ## On-screen copy
 
-# Beschäftigte erwarten Unterstützung im KI-Wandel
-
-### Die zentrale Forderung: Weiterbildung, geteilte Verantwortung und faire Verteilung.
+# Beschäftigte wollen Unterstützung im KI-Wandel
 
 ## Der Wandel ist da
 
-**71 %** spürten bereits Auswirkungen auf Arbeit, Studium oder Stellensuche.
+**71 %:** Auswirkungen auf Arbeit, Studium oder Stellensuche.
 
 ## Menschen in ihrer heutigen Arbeit weiterbilden
 
-**88 %** unterstützten KI-Weiterbildung am Arbeitsplatz.
+**88 %:** KI-Weiterbildung am Arbeitsplatz.
 
 ## Verantwortung für Anpassung teilen
 
-**83 %** wollten, dass Institutionen Verantwortung für die Anpassung teilen.
+**83 %:** Institutionen sollen die Anpassung mittragen.
 
-## Gewinne und Risiken fair verteilen
+## Ungleichheit beachten
 
-**78 %** erwarteten, dass KI die Ungleichheit erhöht.
+**78 %:** KI könnte die Ungleichheit erhöhen.
 
 ## Presenter notes
 
@@ -495,15 +482,15 @@ Online-Erkenntnisse, Abschnitte 4.2.2 und 4.2.6. TA-SWISS-Entwurf, Abschnitte 2.
 
 # Soll KI Beschäftigte steuern?
 
-Ein Arbeitgeber schlägt ein KI-System vor, das Bewerbungen prüft, Arbeit und Ziele zuweist und Leistung beurteilt.
+Ein Arbeitgeber will ein KI-System für Rekrutierung, Aufgabenzuteilung und Leistungsbeurteilung.
 
 ## Der versprochene Nutzen
 
-Einheitlichere und effizientere Entscheidungen.
+Schnellere, konsistentere Entscheidungen.
 
 ## Das Risiko
 
-Überwachung, versteckte Fehler und Entscheidungen, die schwer anzufechten sind.
+Überwachung, versteckte Fehler, schwer anfechtbare Entscheidungen.
 
 ## Ihre Aufgabe
 
@@ -543,14 +530,11 @@ Das Recht beantwortet jedoch nicht alle Fragen:
 * Zwei unverzichtbare Bedingungen
 * Ein ungelöster Dissens
 
-## Während der 30-minütigen Aktivität
+## Den zwei Schleifen folgen
 
-1. **Schleife 1 · Gruppendiskussion** — Diskutieren Sie den Fall offen.
-2. **Schleife 1 · Eine Person teilt die Aussagen** — Eine Person stellt die Aussagen der Gruppe vor.
-3. **Schleife 1 · Alle stimmen ab · nur KI-unterstützt** — Im menschlichen Prozess entfällt dieser Schritt; wiederholen Sie die Schleife bei Bedarf.
-4. **Schleife 2 · Konsens prüfen** — Prüfen Sie Einigkeit und verbleibenden Dissens.
-5. **Schleife 2 · Überarbeiten** — Ändern Sie die Aussagen und prüfen Sie erneut.
-6. **Abschluss · Konsens annehmen** — Bestätigen Sie das Ergebnis und halten Sie Dissens fest.
+1. Diskutieren, teilen und — nur im KI-unterstützten Prozess — abstimmen.
+2. Konsens prüfen und überarbeiten.
+3. Das Endergebnis annehmen.
 
 ## Presenter notes
 
@@ -628,27 +612,21 @@ Zeigen Sie keine Resultate, solange die Befragung offen ist.
 
 # Der Zugang zu KI allein verbesserte das Lernen nicht
 
-Das Experiment zeigte insgesamt keine klare Leistungsveränderung allein durch LLM-Zugang.
+LLM-Zugang allein brachte insgesamt keinen klaren Leistungsgewinn.
 
 ## Der Abkürzungsfall
 
-**„Erstelle das für mich.“**
-
-Bei Schüler:innen war dies mit 56 % der Prompts das häufigste Muster.
+**„Mach das für mich.“ — 56 % der schulischen Prompts.**
 
 ## Der reflektierende Fall
 
-**„Hilf mir, das zu hinterfragen.“**
-
-Reflexion trat bei Studierenden häufiger auf: 29 % gegenüber 21 % in Schulen.
+**„Hilf mir, das zu hinterfragen.“ — 29 % an Hochschulen; 21 % in Schulen.**
 
 ## Der metakognitive Fall
 
-**„Hilf mir, mein Denken zu prüfen.“**
+**„Hilf mir, mein Denken zu prüfen.“ — 17 % an Hochschulen; 1 % in Schulen.**
 
-In Schulen war dies selten — 1 % —, an Hochschulen erreichte es 17 %.
-
-### Lernen hängt davon ab, wie KI eingesetzt wird.
+### Entscheidend ist, wie Lernende KI nutzen.
 
 ## Presenter notes
 
@@ -713,27 +691,25 @@ Sie lautet:
 
 ## On-screen copy
 
-# Schrittweiser KI-Einsatz braucht starke Schutzmassnahmen
+# Zustimmung wächst, wenn Urteilsvermögen sichtbar bleibt
 
-Die Zustimmung steigt mit dem Alter, wenn Urteilsvermögen und Lernnachweis sichtbar bleiben.
-
-### Die Teilnehmenden bevorzugen eine gestufte Einführung mit Schutzmassnahmen.
+Die Teilnehmenden bevorzugten eine schrittweise Einführung mit Schutzmassnahmen.
 
 ## Zuerst Urteilsvermögen vermitteln
 
-**89 %** unterstützten Unterricht, der KI-Ausgaben auf Fehler und Verzerrungen prüfen lehrt.
+**89 %:** Fehler und Verzerrungen prüfen lernen.
 
 ## Autonomie mit dem Alter erweitern
 
-Bevorzugter KI-Anteil bei benoteten Arbeiten: **14 % Primarstufe → 39 % Hochschule**.
+KI in benoteten Arbeiten: **14 % Primarschule → 39 % Hochschule**.
 
 ## Lernnachweise neu gestalten
 
-**77 %** unterstützten mündliche Prüfungen, Projekte, Offenlegung und Nachweise des Lernprozesses.
+**77 %:** mündliche Prüfungen, Projekte, Offenlegung, Prozessnachweise.
 
 ## Daten und Verantwortung der Lehrpersonen schützen
 
-**91 %** unterstützten Schulungen für Lehrpersonen; **89 %** priorisierten den Schutz von Schülerdaten.
+**91 %:** Lehrpersonen schulen. **89 %:** Schüler:innendaten schützen.
 
 ## Presenter notes
 
@@ -763,15 +739,15 @@ Online-Erkenntnisse, Abschnitte 4.2.1 und 4.2.4.
 
 # Sollten Schulen KI zur Beurteilung einsetzen?
 
-Ein Kanton schlägt KI für Lernunterstützung, Beurteilung und das Erkennen von Unterstützungsbedarf vor. Lernende dürfen generative KI auch für Schularbeiten nutzen.
+Ein Kanton plant KI für Tutoring, Beurteilung und das Erkennen von Unterstützungsbedarf. Lernende dürfen KI für Aufgaben nutzen.
 
 ## Der versprochene Nutzen
 
-Mehr individuelle Unterstützung für alle Lernenden.
+Mehr individuelle Unterstützung.
 
 ## Das Risiko
 
-Unzuverlässige Rückmeldungen, Abhängigkeit, offengelegte Schülerdaten und automatisierte Entscheidungen.
+Unzuverlässige Rückmeldungen, Abhängigkeit, Datenrisiken, automatisierte Entscheidungen.
 
 ## Ihre Aufgabe
 
@@ -814,14 +790,11 @@ Wichtige Fragen sind:
 * Zwei unverzichtbare Bedingungen
 * Ein ungelöster Dissens
 
-## Während der 30-minütigen Aktivität
+## Den zwei Schleifen folgen
 
-1. **Schleife 1 · Gruppendiskussion** — Diskutieren Sie den Fall offen.
-2. **Schleife 1 · Eine Person teilt die Aussagen** — Eine Person stellt die Aussagen der Gruppe vor.
-3. **Schleife 1 · Alle stimmen ab · nur KI-unterstützt** — Im menschlichen Prozess entfällt dieser Schritt; wiederholen Sie die Schleife bei Bedarf.
-4. **Schleife 2 · Konsens prüfen** — Prüfen Sie Einigkeit und verbleibenden Dissens.
-5. **Schleife 2 · Überarbeiten** — Ändern Sie die Aussagen und prüfen Sie erneut.
-6. **Abschluss · Konsens annehmen** — Bestätigen Sie das Ergebnis und halten Sie Dissens fest.
+1. Diskutieren, teilen und — nur im KI-unterstützten Prozess — abstimmen.
+2. Konsens prüfen und überarbeiten.
+3. Das Endergebnis annehmen.
 
 ## Presenter notes
 
@@ -875,23 +848,23 @@ Die Policy-Karte wird vor Beginn der Befragung nicht mehr verändert.
 
 ## On-screen copy
 
-# Verantwortung ist geteilt; Vertrauen gilt unabhängigen Institutionen
+# Verantwortung ist geteilt; Vertrauen nicht
 
 ## Kompetenzen durch Bildung aufbauen
 
-**87 %** sahen Schulen und Hochschulen in der Verantwortung für KI-Kompetenz.
+**87 %** gaben Schulen und Hochschulen Verantwortung für KI-Kompetenz.
 
 ## Arbeitgeber tragen Verantwortung, geniessen aber wenig Vertrauen
 
-**67 %** sahen Arbeitgeber in der Verantwortung; nur **8 %** vertrauten ihnen bei der Orientierung.
+**67 %** gaben Arbeitgebern Verantwortung; nur **8 %** vertrauten ihrer Orientierung.
 
 ## Unabhängiges Wissen schafft Legitimität
 
-Hochschulen und Forschende führten mit **77 %** Vertrauen; Journalismus und Zivilgesellschaft folgten.
+Hochschulen und Forschung führten beim Vertrauen mit **77 %**.
 
 ## Demokratie braucht eine gemeinsame Realität
 
-**96 %** befürchteten, KI-Inhalte könnten Wahrheit schwerer erkennbar machen; **88 %** sahen eine Orientierungslücke.
+**96 %** befürchteten, KI könnte es erschweren, Wahrheit festzustellen.
 
 ## Presenter notes
 
@@ -962,19 +935,19 @@ Keine Gruppe muss eine Vorlage ausfüllen; ein abschliessender Konsens oder eine
 
 ## On-screen copy
 
-# Ihr Beitrag fliesst in TA-SWISS und das Schweizer Parlament ein
+# Ihre Beiträge fliessen in den TA-SWISS-Bericht ein
 
 ## TA-SWISS-Bericht
 
-Ihre Empfehlungen, Schutzmassnahmen und Dissense werden Teil der Technikfolgenabschätzung.
+Empfehlungen, Schutzmassnahmen und Dissens werden Teil der Technikfolgenabschätzung.
 
-## Schweizer Parlament
+## Öffentliche Debatte
 
-Der Bericht informiert die parlamentarische und öffentliche Debatte über KI, Arbeit, Bildung und Kompetenzen.
+Der Bericht informiert die parlamentarische und öffentliche Debatte über KI.
 
-## Letzter Papierfragebogen
+## Bevor Sie gehen
 
-Bitte füllen Sie das Formular aus, bevor Sie gehen.
+Bitte füllen Sie den letzten Papierfragebogen aus.
 
 # Vielen Dank
 

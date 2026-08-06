@@ -47,20 +47,19 @@ We will consider more concrete questions:
 
 ## On-screen copy
 
-# Your experience will help shape Switzerland’s AI choices
+# Your experience will shape the recommendations
 
-Swiss AI Futures connects the project’s evidence with your experience, priorities, and judgement.
+The project brings evidence. You bring priorities and judgement.
 
 ## Questions for today
 
 * Where should AI help?
-* Which decisions should remain human?
-* What safeguards and training are needed?
-* Who should be responsible?
+* What should stay human?
+* Which safeguards are essential?
 
 ## How your input is used
 
-Your discussion will inform the final TA-SWISS report and recommendations for policy and practice.
+Your discussion informs the final TA-SWISS report.
 
 ## Presenter notes
 
@@ -88,25 +87,25 @@ Project participant brief, sections 7–34 and 385–414.
 
 ## On-screen copy
 
-# AI use is spreading while Switzerland shapes its rules
+# AI use is growing faster than the rules
 
-### Accountability, data protection, and high-stakes uses are still being defined.
+### Accountability, data protection, and high-risk uses are still being defined.
 
 ## In everyday life
 
-In 2025, **more than 40%** of people used generative AI; among 15–24 year olds, it was **about 80%**.
+In 2025, **more than 40%** used generative AI; among 15–24 year olds, **about 80%**.
 
 ## At work
 
-AI is becoming routine for writing, translation, analysis, and automation, while many organisations are still defining how it should be governed.
+Use is spreading faster than organisational rules and training.
 
 ## In schools
 
-AI is already present, but schools must assess data protection, responsibility, and high-stakes uses under existing federal and cantonal law.
+AI is already present; responsibility and data protection still apply.
 
 ## In policy
 
-Switzerland has no single AI act. The federal government is preparing targeted, sector-specific changes, with a consultation draft due by the end of 2026.
+Switzerland is developing targeted sector rules rather than one AI act.
 
 ## Presenter notes
 
@@ -142,37 +141,37 @@ Educa, *Legal overview of AI in the Swiss education area*, 28 August 2024: https
 
 ## On-screen copy
 
-# Today’s discussion builds on four earlier steps
+# Today’s discussion builds on earlier evidence
 
-## 1. Read what is known
+## 1. Research review
 
-**Research review**
+**What we know**
 
-What is already known about AI at work and in education.
+AI at work and in education.
 
-## 2. Test AI access
+## 2. Learner experiment
 
-**Learner experiment**
+**What AI changes**
 
-How access to an LLM changes performance.
+Comparable tasks with and without an LLM.
 
-## 3. Ask experts where systems fail
+## 3. Expert groups
 
-**Expert experience**
+**Where systems fail**
 
-Where systems work — and where they fail.
+Practice, skills, and governance.
 
-## 4. Map public arguments
+## 4. Online phase
 
-**Online public phase · February**
+**Public priorities**
 
-Priorities, safeguards, and open questions.
+Safeguards and open questions.
 
-## 5. Test the arguments together
+## 5. Today
 
-**Today’s workshops**
+**Test recommendations**
 
-Together, we test and improve possible recommendations.
+Discuss, challenge, improve.
 
 ## Presenter notes
 
@@ -200,23 +199,23 @@ TA-SWISS draft, sections 2.1, 2.5.2, and 3.1–3.2. Online insights, sections 4.
 
 ## On-screen copy
 
-# Treat earlier online input as questions — not answers
+# Use earlier online input as a starting point
 
 ## What you will see
 
-Concerns, proposed safeguards, and open questions from the February online phase.
+Concerns, safeguards, open questions.
 
-## Your role today
+## Your role
 
-Test them against your experience. Challenge, refine, or add to them.
+Challenge, refine, add.
 
 ## What we keep
 
-Reasons, areas of agreement, and important disagreement.
+Reasons, agreement, disagreement.
 
 ## Presenter notes
 
-Use this slide to connect the February online phase to today’s workshop.
+Use this slide to connect the online phase to today’s workshop.
 
 The earlier contributions give participants arguments to test, not conclusions they are expected to accept.
 
@@ -242,27 +241,27 @@ Online insights, sections 4.2, paragraphs 2–4.
 
 ## 17:30–17:52
 
-**Set the context**
+**Context**
 
-Switzerland today, project evidence, process, and the work case.
+Switzerland, evidence, and process.
 
 ## 17:52–18:30
 
 **AI at work**
 
-Participant activity, paper survey, and break.
+Discussion, survey, break.
 
 ## 18:30–19:10
 
 **AI in education**
 
-Evidence, case, participant activity, and paper survey.
+Evidence, discussion, survey.
 
 ## 19:10–19:30
 
 **AI in Switzerland**
 
-Open statements, final paper survey, and close.
+Open statements, final survey, close.
 
 ## Presenter notes
 
@@ -282,11 +281,11 @@ The surveys are completed independently on paper after participant validation.
 
 ## On-screen copy
 
-# Two loops turn discussion into an accepted consensus.
+# Two loops turn discussion into consensus
 
-The human process skips the all-participant vote in Loop 1.
+The human process skips the vote in Loop 1.
 
-## Two loops · one final decision
+## Discuss · test · refine · accept
 
 1. Discuss as a group
 2. Representative shares
@@ -294,14 +293,6 @@ The human process skips the all-participant vote in Loop 1.
 4. Check consensus
 5. Revise
 6. Accept consensus
-
-## Human process
-
-In Loop 1, the group discusses and a representative shares its statements. This process skips step 3, then continues to Loop 2.
-
-## AI-supported process
-
-In Loop 1, the group discusses, a representative shares its statements, and everyone votes. The group can repeat the loop before continuing to Loop 2.
 
 ## Presenter notes
 
@@ -370,21 +361,19 @@ Complete agreement is not the goal. A useful outcome can include a clear recomme
 
 ## On-screen copy
 
-# AI makes production faster and judgement more demanding
+# AI speeds up output — and raises the bar for judgement
 
 ## The everyday case
 
-A worker uses AI to draft, translate, research, code, analyse, or handle administration.
+Draft, translate, research, code, analyse.
 
 ## The judgement problem
 
-The output sounds fluent—but may still be incomplete, misleading, biased, or wrong.
+Fluent output can still be wrong or biased.
 
 ## The accountability failure
 
-“A human decides” means little when that person lacks the expertise, time, or authority to challenge the system.
-
-### Use is spreading faster than the capacity to judge it.
+People need time, expertise, and authority to challenge AI.
 
 ## Presenter notes
 
@@ -450,23 +439,21 @@ People may support voluntary assistance while demanding much stronger protection
 
 ## On-screen copy
 
-# Workers expect support during the AI transition
-
-### The core demand: training, shared responsibility, and fair distribution.
+# Workers want support through the AI transition
 
 ## The transition is here
 
-**71%** had already felt effects on work, studies, or job search.
+**71%** felt effects on work, study, or job search.
 
 ## Train people inside their current jobs
 
-**88%** supported workplace-based AI training.
+**88%** supported workplace AI training.
 
 ## Share responsibility for adaptation
 
-**83%** wanted institutions to share responsibility for adaptation.
+**83%** wanted institutions to share responsibility.
 
-## Share the gains as well as the risks
+## Watch inequality
 
 **78%** expected AI to increase inequality.
 
@@ -496,19 +483,19 @@ Online insights, sections 4.2.2 and 4.2.6. TA-SWISS draft, sections 2.2–2.3.
 
 # Should AI manage workers?
 
-An employer proposes one AI system to screen applicants, assign work and targets, and assess performance.
+An employer wants one AI system for hiring, task assignment, and performance reviews.
 
 ## The promised benefit
 
-More consistent and efficient decisions.
+Faster, more consistent decisions.
 
 ## The risk
 
-Surveillance, hidden errors, and decisions that are difficult to challenge.
+Surveillance, hidden errors, hard-to-challenge decisions.
 
 ## Your task
 
-1. What should the employer be allowed to do?
+1. What may the employer do?
 2. Which two conditions are essential?
 3. What remains unresolved?
 
@@ -544,14 +531,11 @@ The law does not fully answer questions such as:
 * Two essential conditions
 * One unresolved disagreement
 
-## During the 30-minute activity
+## Follow the two loops
 
-1. **Loop 1 · Group discussion** — Discuss the case openly.
-2. **Loop 1 · Representative shares statements** — One person presents the group’s proposed statements.
-3. **Loop 1 · Everyone votes · AI-supported only** — The human process skips this step; repeat the loop if needed.
-4. **Loop 2 · Check consensus** — Review agreement and remaining disagreement.
-5. **Loop 2 · Revise** — Update the statements, then check consensus again.
-6. **Final · Accept consensus** — Confirm the outcome and record remaining disagreement.
+1. Discuss, share, and — in the AI-supported process — vote.
+2. Check and revise consensus.
+3. Accept the final outcome.
 
 ## Presenter notes
 
@@ -629,27 +613,21 @@ Do not show results while voting remains open.
 
 # AI access alone did not improve learning
 
-The experiment found no clear overall performance change from LLM access alone.
+LLM access alone produced no clear overall gain.
 
 ## The shortcut case
 
-**“Generate this for me.”**
-
-This was the dominant pattern among school learners: 56% of prompts.
+**“Do it for me.” — 56% of school prompts.**
 
 ## The reflective case
 
-**“Help me question this.”**
-
-Reflection appeared more often among university students: 29% versus 21% in schools.
+**“Help me question this.” — 29% at university; 21% in schools.**
 
 ## The metacognitive case
 
-**“Help me examine my thinking.”**
+**“Help me examine my thinking.” — 17% at university; 1% in schools.**
 
-This was rare in schools—1%—but reached 17% at university.
-
-### Learning depends on how AI is used.
+### How students use AI matters more than access alone.
 
 ## Presenter notes
 
@@ -714,27 +692,25 @@ It is:
 
 ## On-screen copy
 
-# Participants favour gradual AI use with strong safeguards
+# Support grows when judgement stays visible
 
-Support rises with age when judgement and proof of learning remain visible.
-
-### Participants favour staged integration with safeguards.
+Participants favoured gradual use with safeguards.
 
 ## Teach judgement first
 
-**89%** supported teaching students to check AI for errors and bias.
+**89%:** teach students to check errors and bias.
 
 ## Grow autonomy with age
 
-Preferred AI use in graded work: **14% in primary → 39% in higher education**.
+AI in graded work: **14% in primary → 39% in higher education**.
 
 ## Redesign the proof of learning
 
-**77%** supported oral checks, applied projects, disclosure, and evidence of the learner’s process.
+**77%:** oral checks, projects, disclosure, process evidence.
 
 ## Protect data and teacher responsibility
 
-**91%** supported training teachers to set rules; **89%** prioritised student data protection.
+**91%:** train teachers. **89%:** protect student data.
 
 ## Presenter notes
 
@@ -764,19 +740,19 @@ Online insights, sections 4.2.1 and 4.2.4.
 
 # Should schools use AI to assess students?
 
-A canton proposes AI for tutoring, assessment, and identifying students who may need support. Students may also use generative AI for schoolwork.
+A canton proposes AI for tutoring, assessment, and identifying students needing support. Students may also use AI for assignments.
 
 ## The promised benefit
 
-More individual help for every learner.
+More individual support.
 
 ## The risk
 
-Unreliable feedback, dependency, exposed student data, and automated decisions.
+Unreliable feedback, dependency, data exposure, automated decisions.
 
 ## Your task
 
-1. What should schools be allowed to do?
+1. What may schools do?
 2. Which two conditions are essential?
 3. What remains unresolved?
 
@@ -815,14 +791,11 @@ Important questions include:
 * Two essential conditions
 * One unresolved disagreement
 
-## During the 30-minute activity
+## Follow the two loops
 
-1. **Loop 1 · Group discussion** — Discuss the case openly.
-2. **Loop 1 · Representative shares statements** — One person presents the group’s proposed statements.
-3. **Loop 1 · Everyone votes · AI-supported only** — The human process skips this step; repeat the loop if needed.
-4. **Loop 2 · Check consensus** — Review agreement and remaining disagreement.
-5. **Loop 2 · Revise** — Update the statements, then check consensus again.
-6. **Final · Accept consensus** — Confirm the outcome and record remaining disagreement.
+1. Discuss, share, and — in the AI-supported process — vote.
+2. Check and revise consensus.
+3. Accept the final outcome.
 
 ## Presenter notes
 
@@ -876,23 +849,23 @@ The policy card is frozen before the survey begins.
 
 ## On-screen copy
 
-# Responsibility is shared; trust centres on independent institutions
+# Responsibility is shared; trust is not
 
 ## Build capability through education
 
-**87%** assigned schools and universities responsibility for AI competence.
+**87%** gave schools and universities responsibility for AI skills.
 
 ## Employers have responsibility and low trust
 
-**67%** assigned employers responsibility, while **8%** trusted them for guidance.
+**67%** gave employers responsibility; only **8%** trusted their guidance.
 
 ## Independent knowledge creates legitimacy
 
-Universities and researchers led trust at **77%**; journalists and civil society followed.
+Universities and researchers led trust at **77%**.
 
 ## Democracy needs a shared reality
 
-**96%** worried AI-generated content could make truth harder to establish; **88%** saw a public-guidance gap.
+**96%** worried AI could make truth harder to establish.
 
 ## Presenter notes
 
@@ -963,19 +936,19 @@ No table needs to complete a template, and no final consensus or prioritisation 
 
 ## On-screen copy
 
-# Your input will inform TA-SWISS and Swiss Parliament
+# Your input will inform the TA-SWISS report
 
 ## TA-SWISS report
 
-Your recommendations, safeguards, and disagreements become part of the project’s technology assessment.
+Recommendations, safeguards, and disagreements enter the technology assessment.
 
-## Swiss Parliament
+## Public debate
 
-The report will help inform parliamentary and public debate about AI, work, education, and skills.
+The report will inform parliamentary and public debate about AI.
 
-## Final paper survey
+## Before you leave
 
-Please complete the paper form before you leave.
+Complete the final paper survey.
 
 # Thank you
 
