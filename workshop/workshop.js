@@ -290,7 +290,8 @@
     notesOpen: false,
     helpOpen: false,
     controlsTimeout: null,
-    pointerStartX: null
+    pointerStartX: null,
+    pointerStartY: null
   };
 
   const elements = {
@@ -746,6 +747,9 @@
       node.setAttribute("aria-hidden", active ? "false" : "true");
     });
 
+    const activeSlide = slideNodes[state.index];
+    if (activeSlide) activeSlide.scrollTop = 0;
+
     elements.root.dataset.phase = slide.phase;
     elements.phaseLabel.textContent = `${modeLabels[slide.mode]} · ${phaseLabels[slide.phase]}`;
     elements.currentSlide.textContent = String(slide.number).padStart(2, "0");
@@ -1019,15 +1023,23 @@
 
     elements.viewport.addEventListener("pointerdown", (event) => {
       state.pointerStartX = event.clientX;
+      state.pointerStartY = event.clientY;
     });
 
     elements.viewport.addEventListener("pointerup", (event) => {
-      if (state.pointerStartX === null) return;
-      const distance = event.clientX - state.pointerStartX;
+      if (state.pointerStartX === null || state.pointerStartY === null) return;
+      const distanceX = event.clientX - state.pointerStartX;
+      const distanceY = event.clientY - state.pointerStartY;
       state.pointerStartX = null;
-      if (Math.abs(distance) < 70) return;
-      if (distance < 0) next();
+      state.pointerStartY = null;
+      if (Math.abs(distanceX) < 70 || Math.abs(distanceX) <= Math.abs(distanceY) * 1.15) return;
+      if (distanceX < 0) next();
       else previous();
+    });
+
+    elements.viewport.addEventListener("pointercancel", () => {
+      state.pointerStartX = null;
+      state.pointerStartY = null;
     });
   };
 
