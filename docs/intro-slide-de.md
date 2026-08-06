@@ -46,20 +46,20 @@ Wir befassen uns mit konkreteren Fragen:
 
 ## On-screen copy
 
-# Wie KI menschliche Kompetenzen verändert
+# Ihre Erfahrung prägt die Schweizer KI-Politik mit
 
-Swiss AI Futures ist die Phase der Bürger:innenbeteiligung einer TA-SWISS-Studie zu Kompetenzen im Zeitalter grosser Sprachmodelle.
+Swiss AI Futures verbindet die Erkenntnisse des Projekts mit Ihren Erfahrungen, Prioritäten und Bewertungen.
 
-## Wir untersuchen
+## Fragen für heute
 
-* Welche Fähigkeiten KI stärkt, verändert oder schwächt
-* Was weiterhin menschliches Urteilsvermögen erfordert
-* Wer Weiterbildung, Schutz und Aufsicht sicherstellen soll
-* Wie die Schweiz diese Veränderungen gestalten soll
+* Wo soll KI unterstützen?
+* Welche Entscheidungen sollen bei Menschen bleiben?
+* Welche Schutzmassnahmen und Weiterbildungen braucht es?
+* Wer soll Verantwortung tragen?
 
-## Ihre Rolle
+## So werden Ihre Beiträge genutzt
 
-Evidenz kann Wirkungen aufzeigen. Bürger:innen müssen mitbeurteilen, welche Entscheidungen akzeptabel sind.
+Ihre Diskussion fliesst in den TA-SWISS-Schlussbericht und in Empfehlungen für Politik und Praxis ein.
 
 ## Presenter notes
 
@@ -141,37 +141,37 @@ Educa, *Rechtliche Auslegeordnung zu KI im Bildungsraum*, 28. August 2024: https
 
 ## On-screen copy
 
-# Unsere Evidenz entstand in fünf Schritten
+# Die heutige Diskussion baut auf vier früheren Schritten auf
 
 ## 1. Wissen auswerten
 
 **Forschungsübersicht**
 
-246 Studien zu Arbeit und Bildung.
+Was über KI bei der Arbeit und in der Bildung bereits bekannt ist.
 
 ## 2. KI-Zugang testen
 
 **Lernexperiment**
 
-200 Personen lösten vergleichbare Aufgaben mit und ohne LLM.
+Wie der Zugang zu einem LLM die Leistung verändert.
 
 ## 3. Fachleute zu Schwachstellen befragen
 
 **Erfahrungen aus der Praxis**
 
-Drei Fokusgruppen untersuchten Praxis, Kompetenzen und Governance.
+Wo Systeme funktionieren — und wo sie scheitern.
 
 ## 4. Öffentliche Argumente abbilden
 
-**Öffentliche Online-Phase**
+**Öffentliche Online-Phase · Februar**
 
-Teilnehmende nannten Prioritäten, Schutzmassnahmen und offene Fragen.
+Prioritäten, Schutzmassnahmen und offene Fragen.
 
 ## 5. Argumente gemeinsam prüfen
 
 **Heutige Workshops**
 
-Wir prüfen Empfehlungen in einer informierten Diskussion.
+Gemeinsam prüfen und verbessern wir mögliche Empfehlungen.
 
 ## Presenter notes
 
@@ -199,29 +199,29 @@ TA-SWISS-Entwurf, Abschnitte 2.1, 2.5.2 und 3.1–3.2. Online-Erkenntnisse, Absc
 
 ## On-screen copy
 
-# Die Online-Phase bildet Argumente einer engagierten Gruppe ab
+# Frühere Online-Beiträge liefern Fragen — keine Antworten
 
-## Was sie sichtbar macht
+## Was Sie sehen werden
 
-Wiederkehrende Sorgen, vorgeschlagene Schutzmassnahmen, konkurrierende Prioritäten und offene Fragen.
+Sorgen, vorgeschlagene Schutzmassnahmen und offene Fragen aus der Online-Phase im Februar.
 
-## Wer teilnahm
+## Ihre Rolle heute
 
-Die Teilnehmenden waren meist hochgebildet und bereits mit KI vertraut.
+Prüfen Sie die Argumente anhand Ihrer Erfahrung. Widersprechen, präzisieren oder ergänzen Sie sie.
 
-## Wie wir die Ergebnisse heute nutzen
+## Was wir festhalten
 
-Die Erkenntnisse sind ein Ausgangspunkt. Aussagen zur nationalen Meinung würden eine repräsentative Stichprobe erfordern.
+Begründungen, Übereinstimmungen und wichtigen Dissens.
 
 ## Presenter notes
 
-Dieser Kontext ist wichtig, bevor wir Ergebnisse aus der Online-Phase zeigen.
+Nutzen Sie diese Folie, um die Online-Phase im Februar mit dem heutigen Workshop zu verbinden.
 
-Die Online-Phase sollte Argumente, Prioritäten, Unsicherheiten und mögliche Übereinstimmungen sichtbar machen. Sie war nicht als repräsentative nationale Meinungsumfrage angelegt.
+Die früheren Beiträge liefern Argumente zum Prüfen, keine Schlussfolgerungen, die übernommen werden müssen.
 
-Der erste Datensatz enthält 70 Antwortzeilen. Übersprungene Fragen und Abbrüche führen jedoch dazu, dass sich die Zahl der Antworten je Frage unterscheidet.
+Laden Sie die Teilnehmenden ein, unpassende Aussagen zu hinterfragen, Fehlendes zu ergänzen und Zustimmung oder Widerspruch zu begründen.
 
-Die Befragten waren zudem überdurchschnittlich gut ausgebildet und mit KI erfahren. Wir sprechen daher von frühen Signalen aus dieser Gruppe, nicht von Schätzungen für die Schweizer Bevölkerung.
+Die Online-Phase war explorativ und nicht repräsentativ. Heute interessieren uns Begründungen, Zielkonflikte, Übereinstimmungen und wichtiger Dissens.
 
 ### Sources
 

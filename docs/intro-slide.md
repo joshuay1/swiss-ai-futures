@@ -47,20 +47,20 @@ We will consider more concrete questions:
 
 ## On-screen copy
 
-# We study how AI changes human skills
+# Your experience will help shape Switzerland’s AI choices
 
-Swiss AI Futures is the citizen-deliberation phase of a TA-SWISS study on skills in the era of large language models.
+Swiss AI Futures connects the project’s evidence with your experience, priorities, and judgement.
 
-## We are investigating
+## Questions for today
 
-* Which abilities AI strengthens, changes, or weakens
-* What should remain under human judgement
-* Who should provide training, safeguards, and oversight
-* How Switzerland should govern these changes
+* Where should AI help?
+* Which decisions should remain human?
+* What safeguards and training are needed?
+* Who should be responsible?
 
-## Your role
+## How your input is used
 
-Evidence can identify effects. Citizens must help judge the acceptable choices.
+Your discussion will inform the final TA-SWISS report and recommendations for policy and practice.
 
 ## Presenter notes
 
@@ -142,37 +142,37 @@ Educa, *Legal overview of AI in the Swiss education area*, 28 August 2024: https
 
 ## On-screen copy
 
-# We built the evidence in five steps
+# Today’s discussion builds on four earlier steps
 
 ## 1. Read what is known
 
 **Research review**
 
-246 studies across work and education.
+What is already known about AI at work and in education.
 
 ## 2. Test AI access
 
 **Learner experiment**
 
-200 people completed comparable tasks with and without an LLM.
+How access to an LLM changes performance.
 
 ## 3. Ask experts where systems fail
 
 **Expert experience**
 
-Three focus groups examined practice, competence, and governance.
+Where systems work — and where they fail.
 
 ## 4. Map public arguments
 
-**Online public phase**
+**Online public phase · February**
 
-Participants surfaced priorities, safeguards, and open questions.
+Priorities, safeguards, and open questions.
 
 ## 5. Test the arguments together
 
 **Today’s workshops**
 
-We test recommendations through informed discussion.
+Together, we test and improve possible recommendations.
 
 ## Presenter notes
 
@@ -200,29 +200,29 @@ TA-SWISS draft, sections 2.1, 2.5.2, and 3.1–3.2. Online insights, sections 4.
 
 ## On-screen copy
 
-# The online phase maps arguments from an engaged group
+# Treat earlier online input as questions — not answers
 
-## What it helps us see
+## What you will see
 
-Recurring concerns, proposed safeguards, competing priorities, and open questions.
+Concerns, proposed safeguards, and open questions from the February online phase.
 
-## Who took part
+## Your role today
 
-Participants were generally highly educated and already familiar with AI.
+Test them against your experience. Challenge, refine, or add to them.
 
-## How to use it today
+## What we keep
 
-These findings are a starting point for discussion. National opinion would require a representative sample.
+Reasons, areas of agreement, and important disagreement.
 
 ## Presenter notes
 
-This context matters before we show any survey findings.
+Use this slide to connect the February online phase to today’s workshop.
 
-The online phase was designed to discover arguments, priorities, uncertainties, and possible areas of agreement. It was not designed as a representative national opinion poll.
+The earlier contributions give participants arguments to test, not conclusions they are expected to accept.
 
-The initial data contain 70 response rows, but skipped questions and attrition mean the denominator changes across items.
+Invite participants to challenge what does not fit their experience, add what is missing, and explain why they agree or disagree.
 
-The respondents were also unusually highly educated and experienced with AI. We should therefore describe the results as early signals from this group, not as estimates of Swiss public opinion.
+The online phase was exploratory rather than representative. Today we are interested in reasoning, trade-offs, areas of agreement, and important disagreement.
 
 ### Sources
 

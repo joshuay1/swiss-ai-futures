@@ -46,20 +46,20 @@ Nous allons examiner des questions plus concrètes :
 
 ## On-screen copy
 
-# Comment l’IA transforme les compétences humaines
+# Votre expérience orientera les choix suisses sur l’IA
 
-Swiss AI Futures est la phase de délibération citoyenne d’une étude TA-SWISS sur les compétences à l’ère des grands modèles de langage.
+Swiss AI Futures relie les connaissances du projet à vos expériences, priorités et jugements.
 
-## Nous étudions
+## Questions pour aujourd’hui
 
-* Les capacités que l’IA renforce, transforme ou affaiblit
-* Ce qui doit rester sous jugement humain
-* Qui doit assurer formation, garanties et surveillance
-* Comment la Suisse doit gouverner ces transformations
+* Où l’IA devrait-elle aider ?
+* Quelles décisions devraient rester humaines ?
+* Quelles garanties et formations sont nécessaires ?
+* Qui devrait être responsable ?
 
-## Votre rôle
+## Comment vos contributions seront utilisées
 
-Les données montrent les effets. Les citoyens doivent aider à juger les choix acceptables.
+Vos échanges alimenteront le rapport final de TA-SWISS et des recommandations pour la politique et la pratique.
 
 ## Presenter notes
 
@@ -141,37 +141,37 @@ Educa, *Aperçu juridique de l’IA dans l’espace suisse de formation*, 28 ao�
 
 ## On-screen copy
 
-# Nous avons construit les connaissances en cinq étapes
+# La discussion d’aujourd’hui s’appuie sur quatre étapes précédentes
 
 ## 1. Lire les recherches
 
 **Revue de la littérature**
 
-246 études sur le travail et l’éducation.
+Ce que l’on sait déjà sur l’IA au travail et dans l’éducation.
 
 ## 2. Tester l’accès à l’IA
 
 **Expérience d’apprentissage**
 
-200 personnes ont réalisé des tâches comparables avec et sans LLM.
+Comment l’accès à un LLM modifie les performances.
 
 ## 3. Interroger les spécialistes sur les limites
 
 **Expérience du terrain**
 
-Trois groupes de discussion ont examiné pratiques, compétences et gouvernance.
+Où les systèmes fonctionnent — et où ils échouent.
 
 ## 4. Cartographier les arguments publics
 
-**Phase publique en ligne**
+**Phase publique en ligne · février**
 
-Les participants ont fait émerger priorités, garanties et questions ouvertes.
+Priorités, garanties et questions ouvertes.
 
 ## 5. Tester les arguments ensemble
 
 **Ateliers d’aujourd’hui**
 
-Nous examinons les recommandations par une discussion informée.
+Ensemble, nous testons et améliorons des recommandations possibles.
 
 ## Presenter notes
 
@@ -199,29 +199,29 @@ Projet de rapport TA-SWISS, sections 2.1, 2.5.2 et 3.1–3.2. Résultats en lign
 
 ## On-screen copy
 
-# La phase en ligne cartographie les arguments d’un groupe engagé
+# Les contributions en ligne posent des questions — pas des réponses
 
-## Ce qu’elle révèle
+## Ce que vous verrez
 
-Préoccupations récurrentes, garanties proposées, priorités concurrentes et questions ouvertes.
+Préoccupations, garanties proposées et questions ouvertes issues de la phase en ligne de février.
 
-## Qui a participé
+## Votre rôle aujourd’hui
 
-Les participants étaient généralement très diplômés et déjà familiers de l’IA.
+Testez ces arguments à partir de votre expérience. Contestez-les, affinez-les ou complétez-les.
 
-## Comment l’utiliser aujourd’hui
+## Ce que nous retenons
 
-Ces résultats ouvrent la discussion. Mesurer l’opinion nationale exigerait un échantillon représentatif.
+Les raisons, les convergences et les désaccords importants.
 
 ## Presenter notes
 
-Ce contexte est essentiel avant de présenter les résultats de la phase en ligne.
+Utilisez cette diapositive pour relier la phase en ligne de février à l’atelier d’aujourd’hui.
 
-Cette phase visait à découvrir arguments, priorités, incertitudes et possibles convergences. Elle n’a pas été conçue comme un sondage représentatif de l’opinion nationale.
+Les contributions précédentes fournissent des arguments à tester, non des conclusions que les participants devraient accepter.
 
-Les données initiales contiennent 70 lignes de réponses, mais les questions ignorées et les abandons font varier le nombre de réponses selon les items.
+Invitez-les à contester ce qui ne correspond pas à leur expérience, à ajouter ce qui manque et à expliquer leur accord ou leur désaccord.
 
-Les répondants étaient aussi particulièrement diplômés et expérimentés avec l’IA. Nous présentons donc des signaux précoces provenant de ce groupe, non des estimations pour la population suisse.
+La phase en ligne était exploratoire et non représentative. Aujourd’hui, nous nous intéressons aux raisons, aux compromis, aux convergences et aux désaccords importants.
 
 ### Sources
 
