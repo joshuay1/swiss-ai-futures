@@ -43,32 +43,23 @@
   };
 
   const session = sessions[sessionKey][language];
+  const firstRoundPhase = language === "de" ? "work" : "education";
+  const secondRoundPhase = language === "de" ? "education" : "work";
 
   const slideMeta = {
-    1: { phase: "intro", mode: "context", layout: "hero", timer: 2 },
-    2: { phase: "intro", mode: "context", layout: "project", timer: 1 },
-    3: { phase: "intro", mode: "context", layout: "partners", timer: 1, fragments: "sections" },
-    4: { phase: "intro", mode: "evidence", layout: "swiss", timer: 2, fragments: "sections" },
-    5: { phase: "intro", mode: "evidence", layout: "journey", timer: 1.5, fragments: "sections" },
-    6: { phase: "intro", mode: "evidence", layout: "sample", timer: 1.5, fragments: "sections" },
-    7: { phase: "intro", mode: "today", layout: "schedule", timer: 1, fragments: "sections" },
-    8: { phase: "intro", mode: "process", layout: "method", timer: 4, fragments: "sections" },
-    9: { phase: "intro", mode: "process", layout: "context", timer: 2 },
-    10: { phase: "work", mode: "evidence", layout: "insight", timer: 1.5, fragments: "sections" },
-    11: { phase: "work", mode: "evidence", layout: "taxonomy", timer: 1 },
-    12: { phase: "work", mode: "evidence", layout: "signals", timer: 1.5, fragments: "sections" },
-    13: { phase: "work", mode: "today", layout: "scenario", timer: 2 },
-    14: { phase: "work", mode: "today", layout: "activity", timer: 30 },
-    15: { phase: "work", mode: "today", layout: "survey", timer: 8 },
-    16: { phase: "education", mode: "evidence", layout: "comparison", timer: 1.5, fragments: "sections" },
-    17: { phase: "education", mode: "evidence", layout: "taxonomy", timer: 1 },
-    18: { phase: "education", mode: "evidence", layout: "signals", timer: 1.5, fragments: "sections" },
-    19: { phase: "education", mode: "today", layout: "scenario", timer: 2 },
-    20: { phase: "education", mode: "today", layout: "activity", timer: 30 },
-    21: { phase: "education", mode: "today", layout: "survey", timer: 4 },
-    22: { phase: "future", mode: "evidence", layout: "responsibility", timer: 2, fragments: "sections" },
-    23: { phase: "future", mode: "today", layout: "principles", timer: 11, fragments: "sections" },
-    24: { phase: "future", mode: "impact", layout: "closing", timer: 9, fragments: "sections" }
+    1: { phase: "intro", mode: "context", layout: "hero", timer: 1 },
+    2: { phase: "intro", mode: "impact", layout: "closing", timer: 3, fragments: "sections" },
+    3: { phase: "intro", mode: "today", layout: "logistics", timer: 6, fragments: "sections" },
+    4: { phase: "intro", mode: "today", layout: "schedule", timer: 2, fragments: "sections" },
+    5: { phase: "intro", mode: "process", layout: "loops", timer: 5, fragments: "sections" },
+    6: { phase: firstRoundPhase, mode: "process", layout: "focus", timer: 3, fragments: "sections" },
+    7: { phase: firstRoundPhase, mode: "today", layout: "topic", timer: 30, fragments: "sections" },
+    8: { phase: firstRoundPhase, mode: "today", layout: "survey", timer: 10 },
+    9: { phase: secondRoundPhase, mode: "process", layout: "focus", timer: 3, fragments: "sections" },
+    10: { phase: secondRoundPhase, mode: "today", layout: "topic", timer: 27, fragments: "sections" },
+    11: { phase: secondRoundPhase, mode: "today", layout: "survey", timer: 10 },
+    12: { phase: "future", mode: "today", layout: "topic", timer: 18, fragments: "sections" },
+    13: { phase: "future", mode: "impact", layout: "closing", timer: 2, fragments: "sections" }
   };
 
   const phaseLabelsByLanguage = {
@@ -1063,7 +1054,7 @@
       if (!response.ok) throw new Error(`Source request failed: ${response.status}`);
       const source = await response.text();
       state.slides = parseSlides(source);
-      if (state.slides.length !== 24) throw new Error(`Expected 24 slides, found ${state.slides.length}`);
+      if (state.slides.length !== 13) throw new Error(`Expected 13 slides, found ${state.slides.length}`);
 
       elements.track.innerHTML = state.slides.map(renderSlide).join("");
       renderOverview();
