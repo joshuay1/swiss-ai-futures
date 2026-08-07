@@ -78,11 +78,57 @@ Projektunterlagen für Teilnehmende, Abschnitte 7–34 und 385–414.
 
 ## Timing
 
-2 Minuten.
+1 Minute.
 
 ---
 
-# Slide 3. Die Schweiz heute
+# Slide 3. Wer wir sind
+
+## On-screen copy
+
+# Wer wir sind
+
+Ein hochschulübergreifendes Team mit Partnern für Beteiligung und Technologie.
+
+## Forschungsteam
+
+Forschende der ETH Zürich, der Universität Lausanne und von Partnerinstitutionen leiten die Studie.
+
+## Capin Coffee
+
+Bringt Erfahrung aus der Konzeption und Durchführung früherer Bürger:innenversammlungen ein.
+
+## TA-SWISS
+
+Finanziert das Projekt und veröffentlicht die Erkenntnisse im Technikfolgenabschätzungsbericht.
+
+## Atgora
+
+Unterstützt die Online-Beteiligung und die App für Teilnehmende.
+
+## Presenter notes
+
+Swiss AI Futures verbindet akademische Forschung, öffentliche Beteiligung, Technologie und Technikfolgenabschätzung.
+
+Zum Forschungsteam gehören Beteiligte der ETH Zürich und der Universität Lausanne sowie Forschende weiterer Schweizer Institutionen. Zu den Projektleitenden gehören Maud Reveilhac und Aurelia Tamò-Larrieux; Joshua C. Yang ist der Studienkontakt. Zum erweiterten Projektteam gehören Gerold Schneider, Simon Mayer, Martial Pasquier, Bohdan Trembovelskyi, Vlada Druta und Nisha Yadav.
+
+Capin Coffee bringt Erfahrung aus der Konzeption und Durchführung früherer Bürger:innenversammlungen ein.
+
+TA-SWISS finanziert das öffentliche Diskussionsprojekt und veröffentlicht die Erkenntnisse im Technikfolgenabschätzungsbericht.
+
+Atgora ist Technologiepartner für die Online-Beteiligung. Die Plattform wird von der @gora Foundation / Carbon Copy bereitgestellt.
+
+### Sources
+
+Projektunterlagen für Teilnehmende und öffentliche Projektseite. Rolle von Capin Coffee gemäss Angaben der Workshop-Organisation.
+
+## Timing
+
+1 Minute.
+
+---
+
+# Slide 4. Die Schweiz heute
 
 ## On-screen copy
 
@@ -136,7 +182,7 @@ Educa, *Rechtliche Auslegeordnung zu KI im Bildungsraum*, 28. August 2024: https
 
 ---
 
-# Slide 4. Weg zur Evidenz
+# Slide 5. Weg zur Evidenz
 
 ## On-screen copy
 
@@ -194,7 +240,7 @@ TA-SWISS-Entwurf, Abschnitte 2.1, 2.5.2 und 3.1–3.2. Online-Erkenntnisse, Absc
 
 ---
 
-# Slide 5. Kontext der Online-Stichprobe
+# Slide 6. Kontext der Online-Stichprobe
 
 ## On-screen copy
 
@@ -232,7 +278,7 @@ Online-Erkenntnisse, Abschnitt 4.2, Absätze 2–4.
 
 ---
 
-# Slide 6. Was wir heute tun
+# Slide 7. Was wir heute tun
 
 ## On-screen copy
 
@@ -276,7 +322,7 @@ Die Fragebögen werden nach der gemeinsamen Prüfung jeweils selbstständig auf 
 
 ---
 
-# Slide 7. Ablauf und gemeinsames Ergebnis
+# Slide 8. Ablauf und gemeinsames Ergebnis
 
 ## On-screen copy
 
@@ -331,7 +377,7 @@ Unterlagen für Teilnehmende, Abschnitte „Stage 2 Workshop“ und „How AI Is
 
 ---
 
-# Slide 8. Diskussionsprinzipien
+# Slide 9. Diskussionsprinzipien
 
 ## On-screen copy
 
@@ -356,7 +402,7 @@ Vollständige Einigkeit ist nicht das Ziel. Ein hilfreiches Ergebnis kann eine k
 
 ---
 
-# Slide 9. Erkenntnisse zum Urteilsvermögen
+# Slide 10. Erkenntnisse zum Urteilsvermögen
 
 ## On-screen copy
 
@@ -396,7 +442,7 @@ TA-SWISS-Entwurf, Abschnitte 3.2.1–3.2.3 und 3.3.1.
 
 ---
 
-# Slide 10. KI bei der Arbeit
+# Slide 11. KI bei der Arbeit
 
 ## On-screen copy
 
@@ -434,7 +480,7 @@ Menschen können freiwillige Unterstützung begrüssen und zugleich deutlich st�
 
 ---
 
-# Slide 11. Online-Erkenntnisse zur Arbeit
+# Slide 12. Online-Erkenntnisse zur Arbeit
 
 ## On-screen copy
 
@@ -476,7 +522,7 @@ Online-Erkenntnisse, Abschnitte 4.2.2 und 4.2.6. TA-SWISS-Entwurf, Abschnitte 2.
 
 ---
 
-# Slide 12. KI bei der Arbeit: politische Frage
+# Slide 13. KI bei der Arbeit: politische Frage
 
 ## On-screen copy
 
@@ -518,7 +564,7 @@ Das Recht beantwortet jedoch nicht alle Fragen:
 
 ---
 
-# Slide 13. Diskussion zu KI bei der Arbeit
+# Slide 14. Diskussion zu KI bei der Arbeit
 
 ## On-screen copy
 
@@ -574,7 +620,7 @@ Hilfreiche Fragen:
 
 ---
 
-# Slide 14. Fragebogen und Pause
+# Slide 15. Fragebogen und Pause
 
 ## On-screen copy
 
@@ -606,7 +652,7 @@ Zeigen Sie keine Resultate, solange die Befragung offen ist.
 
 ---
 
-# Slide 15. Experimentelle Erkenntnisse zum Lernen
+# Slide 16. Experimentelle Erkenntnisse zum Lernen
 
 ## On-screen copy
 
@@ -648,7 +694,7 @@ TA-SWISS-Entwurf, Abschnitte 2.5.6–2.5.9.
 
 ---
 
-# Slide 16. KI in der Bildung
+# Slide 17. KI in der Bildung
 
 ## On-screen copy
 
@@ -687,7 +733,7 @@ Sie lautet:
 
 ---
 
-# Slide 17. Online-Erkenntnisse zur Bildung
+# Slide 18. Online-Erkenntnisse zur Bildung
 
 ## On-screen copy
 
@@ -733,7 +779,7 @@ Online-Erkenntnisse, Abschnitte 4.2.1 und 4.2.4.
 
 ---
 
-# Slide 18. KI in der Bildung: politische Frage
+# Slide 19. KI in der Bildung: politische Frage
 
 ## On-screen copy
 
@@ -778,7 +824,7 @@ Wichtige Fragen sind:
 
 ---
 
-# Slide 19. Diskussion zu KI in der Bildung
+# Slide 20. Diskussion zu KI in der Bildung
 
 ## On-screen copy
 
@@ -816,7 +862,7 @@ Hilfreiche Fragen:
 
 ---
 
-# Slide 20. Bildungsfragebogen
+# Slide 21. Bildungsfragebogen
 
 ## On-screen copy
 
@@ -844,7 +890,7 @@ Die Policy-Karte wird vor Beginn der Befragung nicht mehr verändert.
 
 ---
 
-# Slide 21. Verantwortung und Vertrauen
+# Slide 22. Verantwortung und Vertrauen
 
 ## On-screen copy
 
@@ -888,7 +934,7 @@ Online-Erkenntnisse, Abschnitte 4.2.3 und 4.2.5.
 
 ---
 
-# Slide 22. Wofür soll Schweizer KI da sein?
+# Slide 23. Wofür soll Schweizer KI da sein?
 
 ## On-screen copy
 
@@ -931,19 +977,23 @@ Keine Gruppe muss eine Vorlage ausfüllen; ein abschliessender Konsens oder eine
 
 ---
 
-# Slide 23. Wie es weitergeht
+# Slide 24. Wie es weitergeht
 
 ## On-screen copy
 
-# Ihre Beiträge fliessen in den TA-SWISS-Bericht ein
+# Ihre heutigen Beiträge informieren das Schweizer Parlament
+
+## Aus diesem Workshop
+
+Ihre Empfehlungen, Schutzmassnahmen und Dissense werden zu Erkenntnissen dieses Projekts.
 
 ## TA-SWISS-Bericht
 
-Empfehlungen, Schutzmassnahmen und Dissens werden Teil der Technikfolgenabschätzung.
+Diese Erkenntnisse fliessen in den TA-SWISS-Bericht zur Technikfolgenabschätzung ein.
 
-## Öffentliche Debatte
+## Schweizer Parlament
 
-Der Bericht informiert die parlamentarische und öffentliche Debatte über KI.
+Der Bericht informiert das Schweizer Parlament und die öffentliche Debatte über KI.
 
 ## Bevor Sie gehen
 
@@ -952,6 +1002,8 @@ Bitte füllen Sie den letzten Papierfragebogen aus.
 # Vielen Dank
 
 ## Presenter notes
+
+Machen Sie die Wirkungskette deutlich: Die Erkenntnisse aus diesem Workshop werden zu Projekterkenntnissen, fliessen in den TA-SWISS-Bericht ein und informieren das Schweizer Parlament.
 
 Der Schlussbericht soll zwei Ebenen unterscheiden.
 

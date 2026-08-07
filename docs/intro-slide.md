@@ -79,11 +79,57 @@ Project participant brief, sections 7–34 and 385–414.
 
 ## Timing
 
-2 minutes.
+1 minute.
 
 ---
 
-# Slide 3. Switzerland today
+# Slide 3. Who we are
+
+## On-screen copy
+
+# Who we are
+
+A cross-university team working with participation and technology partners.
+
+## University research team
+
+Researchers from ETH Zurich, the University of Lausanne, and partner institutions lead the study.
+
+## Capin Coffee
+
+Brings experience from designing and running earlier citizen assemblies.
+
+## TA-SWISS
+
+Funds the project and will publish its findings in the technology-assessment report.
+
+## Atgora
+
+Supports the online participation process and participant app.
+
+## Presenter notes
+
+Swiss AI Futures brings together academic research, public participation, technology, and technology assessment.
+
+The research team includes collaborators affiliated with ETH Zurich and the University of Lausanne, with contributions from researchers across Swiss institutions. Principal investigators include Maud Reveilhac and Aurelia Tamò-Larrieux; Joshua C. Yang is the study contact. The wider project team includes Gerold Schneider, Simon Mayer, Martial Pasquier, Bohdan Trembovelskyi, Vlada Druta, and Nisha Yadav.
+
+Capin Coffee contributes experience from designing and running earlier citizen assemblies.
+
+TA-SWISS funds the public-discussion project and will publish the resulting findings through its technology-assessment report.
+
+Atgora is the technology partner for the online participation process. The platform is provided by the @gora Foundation / Carbon Copy.
+
+### Sources
+
+Project participant brief and public project page. Capin Coffee role supplied by the workshop organiser.
+
+## Timing
+
+1 minute.
+
+---
+
+# Slide 4. Switzerland today
 
 ## On-screen copy
 
@@ -137,7 +183,7 @@ Educa, *Legal overview of AI in the Swiss education area*, 28 August 2024: https
 
 ---
 
-# Slide 4. Evidence journey
+# Slide 5. Evidence journey
 
 ## On-screen copy
 
@@ -195,7 +241,7 @@ TA-SWISS draft, sections 2.1, 2.5.2, and 3.1–3.2. Online insights, sections 4.
 
 ---
 
-# Slide 5. Online sample context
+# Slide 6. Online sample context
 
 ## On-screen copy
 
@@ -233,7 +279,7 @@ Online insights, sections 4.2, paragraphs 2–4.
 
 ---
 
-# Slide 6. What we will do today
+# Slide 7. What we will do today
 
 ## On-screen copy
 
@@ -277,7 +323,7 @@ The surveys are completed independently on paper after participant validation.
 
 ---
 
-# Slide 7. The experiment and shared outcome
+# Slide 8. The experiment and shared outcome
 
 ## On-screen copy
 
@@ -332,7 +378,7 @@ Participant landing page brief, sections “Stage 2 Workshop” and “How AI Is
 
 ---
 
-# Slide 8. Discussion principles
+# Slide 9. Discussion principles
 
 ## On-screen copy
 
@@ -357,7 +403,7 @@ Complete agreement is not the goal. A useful outcome can include a clear recomme
 
 ---
 
-# Slide 9. Expert findings on judgement
+# Slide 10. Expert findings on judgement
 
 ## On-screen copy
 
@@ -397,7 +443,7 @@ TA-SWISS draft, sections 3.2.1–3.2.3 and 3.3.1.
 
 ---
 
-# Slide 10. AI at work
+# Slide 11. AI at work
 
 ## On-screen copy
 
@@ -435,7 +481,7 @@ People may support voluntary assistance while demanding much stronger protection
 
 ---
 
-# Slide 11. Online findings about work
+# Slide 12. Online findings about work
 
 ## On-screen copy
 
@@ -477,7 +523,7 @@ Online insights, sections 4.2.2 and 4.2.6. TA-SWISS draft, sections 2.2–2.3.
 
 ---
 
-# Slide 12. AI at work: the policy question
+# Slide 13. AI at work: the policy question
 
 ## On-screen copy
 
@@ -519,7 +565,7 @@ The law does not fully answer questions such as:
 
 ---
 
-# Slide 13. AI at work discussion
+# Slide 14. AI at work discussion
 
 ## On-screen copy
 
@@ -575,7 +621,7 @@ Useful prompts:
 
 ---
 
-# Slide 14. Work survey and break
+# Slide 15. Work survey and break
 
 ## On-screen copy
 
@@ -607,7 +653,7 @@ Do not show results while voting remains open.
 
 ---
 
-# Slide 15. Experimental findings about learning
+# Slide 16. Experimental findings about learning
 
 ## On-screen copy
 
@@ -649,7 +695,7 @@ TA-SWISS draft, sections 2.5.6–2.5.9.
 
 ---
 
-# Slide 16. AI in education
+# Slide 17. AI in education
 
 ## On-screen copy
 
@@ -688,7 +734,7 @@ It is:
 
 ---
 
-# Slide 17. Online findings about education
+# Slide 18. Online findings about education
 
 ## On-screen copy
 
@@ -734,7 +780,7 @@ Online insights, sections 4.2.1 and 4.2.4.
 
 ---
 
-# Slide 18. AI in education: the policy question
+# Slide 19. AI in education: the policy question
 
 ## On-screen copy
 
@@ -779,7 +825,7 @@ Important questions include:
 
 ---
 
-# Slide 19. AI in education discussion
+# Slide 20. AI in education discussion
 
 ## On-screen copy
 
@@ -817,7 +863,7 @@ Useful prompts:
 
 ---
 
-# Slide 20. Education survey
+# Slide 21. Education survey
 
 ## On-screen copy
 
@@ -845,7 +891,7 @@ The policy card is frozen before the survey begins.
 
 ---
 
-# Slide 21. Responsibility and trust
+# Slide 22. Responsibility and trust
 
 ## On-screen copy
 
@@ -889,7 +935,7 @@ Online insights, sections 4.2.3 and 4.2.5.
 
 ---
 
-# Slide 22. What should Swiss AI be for?
+# Slide 23. What should Swiss AI be for?
 
 ## On-screen copy
 
@@ -932,19 +978,23 @@ No table needs to complete a template, and no final consensus or prioritisation 
 
 ---
 
-# Slide 23. What happens next?
+# Slide 24. What happens next?
 
 ## On-screen copy
 
-# Your input will inform the TA-SWISS report
+# Today’s insights will inform the Swiss Parliament
+
+## From this workshop
+
+Your recommendations, safeguards, and disagreements become findings from this project.
 
 ## TA-SWISS report
 
-Recommendations, safeguards, and disagreements enter the technology assessment.
+Those findings will be included in the TA-SWISS technology-assessment report.
 
-## Public debate
+## Swiss Parliament
 
-The report will inform parliamentary and public debate about AI.
+The report will inform the Swiss Parliament and public debate about AI.
 
 ## Before you leave
 
@@ -953,6 +1003,8 @@ Complete the final paper survey.
 # Thank you
 
 ## Presenter notes
+
+Make the impact chain explicit: the insights produced in this workshop become project findings, enter the TA-SWISS report, and inform the Swiss Parliament.
 
 The final report should distinguish two layers.
 
@@ -989,14 +1041,14 @@ Final survey, next steps, and closing: 9 minutes.
 
 | Slides | Activity                                                  |    Duration |
 | ------ | --------------------------------------------------------- | ----------: |
-| 1-12   | Swiss context, project evidence, process, and work case    |      22 min |
-| 13     | AI at work discussion                                     |      30 min |
-| 14     | Paper survey and break                                    |       8 min |
-| 15-18  | AI in education evidence and scenario                     |       6 min |
-| 19     | AI in education discussion                                |      30 min |
-| 20     | Education paper survey                                    |       4 min |
-| 21-22  | Shared responsibility and open Swiss AI statements        |      11 min |
-| 23     | Final paper survey, next steps, and closing               |       9 min |
+| 1-13   | Swiss context, project evidence, process, and work case    |      22 min |
+| 14     | AI at work discussion                                     |      30 min |
+| 15     | Paper survey and break                                    |       8 min |
+| 16-19  | AI in education evidence and scenario                     |       6 min |
+| 20     | AI in education discussion                                |      30 min |
+| 21     | Education paper survey                                    |       4 min |
+| 22-23  | Shared responsibility and open Swiss AI statements        |      11 min |
+| 24     | Final paper survey, next steps, and closing               |       9 min |
 |        | **Total**                                                 | **120 min** |
 
 ---

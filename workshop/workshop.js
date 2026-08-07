@@ -46,28 +46,29 @@
 
   const slideMeta = {
     1: { phase: "intro", mode: "context", layout: "hero", timer: 2 },
-    2: { phase: "intro", mode: "context", layout: "project", timer: 2 },
-    3: { phase: "intro", mode: "evidence", layout: "swiss", timer: 2, fragments: "sections" },
-    4: { phase: "intro", mode: "evidence", layout: "journey", timer: 1.5, fragments: "sections" },
-    5: { phase: "intro", mode: "evidence", layout: "sample", timer: 1.5, fragments: "sections" },
-    6: { phase: "intro", mode: "today", layout: "schedule", timer: 1, fragments: "sections" },
-    7: { phase: "intro", mode: "process", layout: "method", timer: 4, fragments: "sections" },
-    8: { phase: "intro", mode: "process", layout: "context", timer: 2 },
-    9: { phase: "work", mode: "evidence", layout: "insight", timer: 1.5, fragments: "sections" },
-    10: { phase: "work", mode: "evidence", layout: "taxonomy", timer: 1 },
-    11: { phase: "work", mode: "evidence", layout: "signals", timer: 1.5, fragments: "sections" },
-    12: { phase: "work", mode: "today", layout: "scenario", timer: 2 },
-    13: { phase: "work", mode: "today", layout: "activity", timer: 30 },
-    14: { phase: "work", mode: "today", layout: "survey", timer: 8 },
-    15: { phase: "education", mode: "evidence", layout: "comparison", timer: 1.5, fragments: "sections" },
-    16: { phase: "education", mode: "evidence", layout: "taxonomy", timer: 1 },
-    17: { phase: "education", mode: "evidence", layout: "signals", timer: 1.5, fragments: "sections" },
-    18: { phase: "education", mode: "today", layout: "scenario", timer: 2 },
-    19: { phase: "education", mode: "today", layout: "activity", timer: 30 },
-    20: { phase: "education", mode: "today", layout: "survey", timer: 4 },
-    21: { phase: "future", mode: "evidence", layout: "responsibility", timer: 2, fragments: "sections" },
-    22: { phase: "future", mode: "today", layout: "principles", timer: 5, fragments: "sections" },
-    23: { phase: "future", mode: "impact", layout: "closing", timer: 9, fragments: "sections" }
+    2: { phase: "intro", mode: "context", layout: "project", timer: 1 },
+    3: { phase: "intro", mode: "context", layout: "partners", timer: 1, fragments: "sections" },
+    4: { phase: "intro", mode: "evidence", layout: "swiss", timer: 2, fragments: "sections" },
+    5: { phase: "intro", mode: "evidence", layout: "journey", timer: 1.5, fragments: "sections" },
+    6: { phase: "intro", mode: "evidence", layout: "sample", timer: 1.5, fragments: "sections" },
+    7: { phase: "intro", mode: "today", layout: "schedule", timer: 1, fragments: "sections" },
+    8: { phase: "intro", mode: "process", layout: "method", timer: 4, fragments: "sections" },
+    9: { phase: "intro", mode: "process", layout: "context", timer: 2 },
+    10: { phase: "work", mode: "evidence", layout: "insight", timer: 1.5, fragments: "sections" },
+    11: { phase: "work", mode: "evidence", layout: "taxonomy", timer: 1 },
+    12: { phase: "work", mode: "evidence", layout: "signals", timer: 1.5, fragments: "sections" },
+    13: { phase: "work", mode: "today", layout: "scenario", timer: 2 },
+    14: { phase: "work", mode: "today", layout: "activity", timer: 30 },
+    15: { phase: "work", mode: "today", layout: "survey", timer: 8 },
+    16: { phase: "education", mode: "evidence", layout: "comparison", timer: 1.5, fragments: "sections" },
+    17: { phase: "education", mode: "evidence", layout: "taxonomy", timer: 1 },
+    18: { phase: "education", mode: "evidence", layout: "signals", timer: 1.5, fragments: "sections" },
+    19: { phase: "education", mode: "today", layout: "scenario", timer: 2 },
+    20: { phase: "education", mode: "today", layout: "activity", timer: 30 },
+    21: { phase: "education", mode: "today", layout: "survey", timer: 4 },
+    22: { phase: "future", mode: "evidence", layout: "responsibility", timer: 2, fragments: "sections" },
+    23: { phase: "future", mode: "today", layout: "principles", timer: 11, fragments: "sections" },
+    24: { phase: "future", mode: "impact", layout: "closing", timer: 9, fragments: "sections" }
   };
 
   const phaseLabelsByLanguage = {
@@ -665,7 +666,10 @@
         <div class="slide-shell">
           <header class="slide-heading">
             <div>
-              <p class="slide-kicker">${modeLabels[slide.mode]} · ${phaseLabels[slide.phase]} · ${String(slide.number).padStart(2, "0")}</p>
+              <p class="slide-kicker">
+                <strong class="slide-theme-label">${escapeHtml(modeLabels[slide.mode])}</strong>
+                <span class="slide-context-label">${escapeHtml(phaseLabels[slide.phase])} · ${String(slide.number).padStart(2, "0")}</span>
+              </p>
               <h1 class="slide-title">${renderInline(structured.title)}</h1>
             </div>
           </header>
@@ -1059,7 +1063,7 @@
       if (!response.ok) throw new Error(`Source request failed: ${response.status}`);
       const source = await response.text();
       state.slides = parseSlides(source);
-      if (state.slides.length !== 23) throw new Error(`Expected 23 slides, found ${state.slides.length}`);
+      if (state.slides.length !== 24) throw new Error(`Expected 24 slides, found ${state.slides.length}`);
 
       elements.track.innerHTML = state.slides.map(renderSlide).join("");
       renderOverview();

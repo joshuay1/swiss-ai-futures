@@ -78,11 +78,57 @@ Document d’information des participants, sections 7–34 et 385–414.
 
 ## Timing
 
-2 minutes.
+1 minute.
 
 ---
 
-# Slide 3. La Suisse aujourd’hui
+# Slide 3. Qui sommes-nous ?
+
+## On-screen copy
+
+# Qui sommes-nous ?
+
+Une équipe interuniversitaire avec des partenaires de participation et de technologie.
+
+## Équipe de recherche
+
+Des chercheurs de l’ETH Zurich, de l’Université de Lausanne et d’institutions partenaires dirigent l’étude.
+
+## Capin Coffee
+
+Apporte son expérience de la conception et de l’organisation d’assemblées citoyennes antérieures.
+
+## TA-SWISS
+
+Finance le projet et publiera ses enseignements dans le rapport d’évaluation technologique.
+
+## Atgora
+
+Soutient la participation en ligne et l’application destinée aux participants.
+
+## Presenter notes
+
+Swiss AI Futures réunit recherche universitaire, participation publique, technologie et évaluation technologique.
+
+L’équipe de recherche comprend des partenaires affiliés à l’ETH Zurich et à l’Université de Lausanne, ainsi que des chercheurs d’autres institutions suisses. Maud Reveilhac et Aurelia Tamò-Larrieux font partie des responsables du projet ; Joshua C. Yang est le contact de l’étude. L’équipe élargie comprend Gerold Schneider, Simon Mayer, Martial Pasquier, Bohdan Trembovelskyi, Vlada Druta et Nisha Yadav.
+
+Capin Coffee apporte son expérience de la conception et de l’organisation d’assemblées citoyennes antérieures.
+
+TA-SWISS finance le projet de discussion publique et publiera ses enseignements dans le rapport d’évaluation technologique.
+
+Atgora est le partenaire technologique de la participation en ligne. La plateforme est fournie par la @gora Foundation / Carbon Copy.
+
+### Sources
+
+Document d’information des participants et page publique du projet. Rôle de Capin Coffee communiqué par l’organisation de l’atelier.
+
+## Timing
+
+1 minute.
+
+---
+
+# Slide 4. La Suisse aujourd’hui
 
 ## On-screen copy
 
@@ -136,7 +182,7 @@ Educa, *Aperçu juridique de l’IA dans l’espace suisse de formation*, 28 ao�
 
 ---
 
-# Slide 4. Parcours des connaissances
+# Slide 5. Parcours des connaissances
 
 ## On-screen copy
 
@@ -194,7 +240,7 @@ Projet de rapport TA-SWISS, sections 2.1, 2.5.2 et 3.1–3.2. Résultats en lign
 
 ---
 
-# Slide 5. Contexte de l’échantillon en ligne
+# Slide 6. Contexte de l’échantillon en ligne
 
 ## On-screen copy
 
@@ -232,7 +278,7 @@ Résultats en ligne, section 4.2, paragraphes 2–4.
 
 ---
 
-# Slide 6. Ce que nous ferons aujourd’hui
+# Slide 7. Ce que nous ferons aujourd’hui
 
 ## On-screen copy
 
@@ -276,7 +322,7 @@ Les questionnaires sont remplis individuellement sur papier après la validation
 
 ---
 
-# Slide 7. Processus et résultat commun
+# Slide 8. Processus et résultat commun
 
 ## On-screen copy
 
@@ -331,7 +377,7 @@ Document des participants, sections « Stage 2 Workshop » et « How AI Is Used 
 
 ---
 
-# Slide 8. Principes de discussion
+# Slide 9. Principes de discussion
 
 ## On-screen copy
 
@@ -356,7 +402,7 @@ L’objectif n’est pas l’accord complet. Un résultat utile peut inclure une
 
 ---
 
-# Slide 9. Résultats sur le jugement
+# Slide 10. Résultats sur le jugement
 
 ## On-screen copy
 
@@ -396,7 +442,7 @@ Projet de rapport TA-SWISS, sections 3.2.1–3.2.3 et 3.3.1.
 
 ---
 
-# Slide 10. L’IA au travail
+# Slide 11. L’IA au travail
 
 ## On-screen copy
 
@@ -434,7 +480,7 @@ On peut soutenir une assistance volontaire tout en exigeant des protections bien
 
 ---
 
-# Slide 11. Résultats en ligne sur le travail
+# Slide 12. Résultats en ligne sur le travail
 
 ## On-screen copy
 
@@ -476,7 +522,7 @@ Résultats en ligne, sections 4.2.2 et 4.2.6. Projet de rapport TA-SWISS, sectio
 
 ---
 
-# Slide 12. L’IA au travail : question politique
+# Slide 13. L’IA au travail : question politique
 
 ## On-screen copy
 
@@ -518,7 +564,7 @@ Le droit ne répond pas entièrement à des questions telles que :
 
 ---
 
-# Slide 13. Discussion sur l’IA au travail
+# Slide 14. Discussion sur l’IA au travail
 
 ## On-screen copy
 
@@ -574,7 +620,7 @@ Questions utiles :
 
 ---
 
-# Slide 14. Questionnaire sur le travail et pause
+# Slide 15. Questionnaire sur le travail et pause
 
 ## On-screen copy
 
@@ -606,7 +652,7 @@ Ne montrez aucun résultat tant que le vote reste ouvert.
 
 ---
 
-# Slide 15. Résultats expérimentaux sur l’apprentissage
+# Slide 16. Résultats expérimentaux sur l’apprentissage
 
 ## On-screen copy
 
@@ -648,7 +694,7 @@ Projet de rapport TA-SWISS, sections 2.5.6–2.5.9.
 
 ---
 
-# Slide 16. L’IA dans l’éducation
+# Slide 17. L’IA dans l’éducation
 
 ## On-screen copy
 
@@ -687,7 +733,7 @@ Elle est :
 
 ---
 
-# Slide 17. Résultats en ligne sur l’éducation
+# Slide 18. Résultats en ligne sur l’éducation
 
 ## On-screen copy
 
@@ -733,7 +779,7 @@ Résultats en ligne, sections 4.2.1 et 4.2.4.
 
 ---
 
-# Slide 18. L’IA dans l’éducation : question politique
+# Slide 19. L’IA dans l’éducation : question politique
 
 ## On-screen copy
 
@@ -778,7 +824,7 @@ Questions importantes :
 
 ---
 
-# Slide 19. Discussion sur l’IA dans l’éducation
+# Slide 20. Discussion sur l’IA dans l’éducation
 
 ## On-screen copy
 
@@ -816,7 +862,7 @@ Questions utiles :
 
 ---
 
-# Slide 20. Questionnaire sur l’éducation
+# Slide 21. Questionnaire sur l’éducation
 
 ## On-screen copy
 
@@ -844,7 +890,7 @@ La fiche politique est figée avant le début du questionnaire.
 
 ---
 
-# Slide 21. Responsabilité et confiance
+# Slide 22. Responsabilité et confiance
 
 ## On-screen copy
 
@@ -888,7 +934,7 @@ Résultats en ligne, sections 4.2.3 et 4.2.5.
 
 ---
 
-# Slide 22. À quoi l’IA suisse devrait-elle servir ?
+# Slide 23. À quoi l’IA suisse devrait-elle servir ?
 
 ## On-screen copy
 
@@ -931,19 +977,23 @@ Aucune table n’a besoin de remplir un modèle et aucun consensus ou classement
 
 ---
 
-# Slide 23. Et ensuite ?
+# Slide 24. Et ensuite ?
 
 ## On-screen copy
 
-# Vos contributions alimenteront le rapport TA-SWISS
+# Vos contributions d’aujourd’hui informeront le Parlement suisse
+
+## De cet atelier
+
+Vos recommandations, garanties et désaccords deviennent des enseignements de ce projet.
 
 ## Rapport TA-SWISS
 
-Recommandations, garanties et désaccords feront partie de l’évaluation technologique.
+Ces enseignements seront intégrés au rapport d’évaluation technologique de TA-SWISS.
 
-## Débat public
+## Parlement suisse
 
-Le rapport contribuera au débat parlementaire et public sur l’IA.
+Le rapport informera le Parlement suisse et le débat public sur l’IA.
 
 ## Avant de partir
 
@@ -952,6 +1002,8 @@ Merci de remplir le dernier questionnaire papier.
 # Merci
 
 ## Presenter notes
+
+Rendez la chaîne d’impact explicite : les enseignements de cet atelier deviennent des résultats du projet, intègrent le rapport TA-SWISS et informent le Parlement suisse.
 
 Le rapport final doit distinguer deux niveaux.
 
