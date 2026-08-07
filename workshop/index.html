@@ -9,7 +9,7 @@
     <link rel="icon" type="image/png" href="../assets/images/logos/favicon.png">
     <link rel="preload" href="../assets/fonts/BasisGrotesque-Medium.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="../assets/images/logos/logo-warm-long.png" as="image">
-    <link rel="stylesheet" href="workshop.css?v=20260807-19">
+    <link rel="stylesheet" href="workshop.css?v=20260807-21">
   </head>
   <body>
     <div class="ambient-field" aria-hidden="true">
@@ -25,7 +25,18 @@
         <div class="deck-context">
           <span id="phase-label">Welcome</span>
           <span id="session-label"></span>
-          <div class="language-switcher" id="language-switcher" aria-label="Presentation language"></div>
+          <div class="deck-tools">
+            <div class="location-switcher" id="location-switcher" aria-label="Workshop location"></div>
+            <a
+              class="moderator-guide-link"
+              id="moderator-guide-link"
+              href="moderator-guide.html"
+              target="_blank"
+              rel="noopener"
+              data-ui="moderatorGuide"
+            >Moderator guide</a>
+            <div class="language-switcher" id="language-switcher" aria-label="Presentation language"></div>
+          </div>
         </div>
       </header>
 
@@ -109,6 +120,6 @@
     <noscript>
       <p class="noscript-message">This presentation needs JavaScript enabled.</p>
     </noscript>
-    <script src="workshop.js?v=20260807-15" defer></script>
+    <script src="workshop.js?v=20260807-17" defer></script>
   </body>
 </html>

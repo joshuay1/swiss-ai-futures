@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="description" content="Preparation guide and run-of-show for Swiss AI Futures workshop moderators">
+    <meta name="theme-color" content="#f3efe6">
+    <title>Moderator Guide · Swiss AI Futures</title>
+    <link rel="icon" type="image/png" href="../assets/images/logos/favicon.png">
+    <link rel="preload" href="../assets/fonts/BasisGrotesque-Medium.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="../assets/images/logos/logo-warm-long.png" as="image">
+    <link rel="stylesheet" href="moderator-guide.css?v=20260807-6">
+  </head>
+  <body>
+    <div class="reading-progress" aria-hidden="true"><span id="reading-progress-bar"></span></div>
+    <div class="ambient-field" aria-hidden="true">
+      <span class="ambient-shape ambient-shape-a"></span>
+      <span class="ambient-shape ambient-shape-b"></span>
+    </div>
+
+    <header class="guide-header">
+      <a class="guide-brand" href="../" aria-label="Swiss AI Futures home">
+        <img src="../assets/images/logos/logo-warm-long.png" alt="Swiss AI Futures" width="252" height="50">
+      </a>
+      <nav class="guide-actions" aria-label="Moderator guide actions">
+        <div class="guide-session-switchers">
+          <div class="guide-location-switcher" id="guide-location-switcher" aria-label="Workshop location"></div>
+          <div class="guide-language-switcher" id="guide-language-switcher" aria-label="Workshop language"></div>
+        </div>
+        <a class="back-link" id="back-to-workshop" href="./">Back to workshop</a>
+        <button class="print-button" type="button" id="print-guide">Print guide</button>
+      </nav>
+    </header>
+
+    <main>
+      <section class="guide-hero" aria-labelledby="guide-title">
+        <div class="guide-hero-inner">
+          <p class="guide-kicker">Moderator preparation</p>
+          <h1 id="guide-title">Moderator guide</h1>
+          <p class="guide-intro">Prepare the room, run both deliberation formats, and protect an accurate record of common ground and disagreement.</p>
+          <div class="session-context" id="session-context" aria-label="Selected workshop session"></div>
+          <section class="print-materials" id="print-materials" aria-labelledby="print-materials-title">
+            <div class="print-materials-heading">
+              <span id="print-materials-kicker">Print materials</span>
+              <h2 id="print-materials-title">Downloads for this room</h2>
+              <p id="print-materials-copy">Consent form and questionnaire, ready to print.</p>
+            </div>
+            <div class="material-downloads" id="material-downloads"></div>
+          </section>
+        </div>
+      </section>
+
+      <div class="guide-layout">
+        <aside class="guide-sidebar" aria-label="On this page">
+          <span class="sidebar-label">On this page</span>
+          <nav id="table-of-contents"></nav>
+        </aside>
+
+        <article class="guide-content" id="guide-content" aria-live="polite">
+          <div class="loading-guide" id="loading-guide">
+            <span>Loading moderator guide</span>
+            <strong>Swiss AI Futures</strong>
+          </div>
+        </article>
+      </div>
+    </main>
+
+    <footer class="guide-footer">
+      <img src="../assets/images/logos/logo-warm.png" alt="" width="76" height="76">
+      <p>Swiss AI Futures · Moderator preparation</p>
+      <a id="footer-workshop-link" href="./">Return to workshop</a>
+    </footer>
+
+    <noscript>
+      <p class="noscript-guide">JavaScript is needed to display the moderator guide from its Markdown source.</p>
+    </noscript>
+    <script src="moderator-guide.js?v=20260807-7" defer></script>
+  </body>
+</html>

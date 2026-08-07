@@ -186,15 +186,51 @@ html[data-phase="work"] .deck-brand img {
   font-size: clamp(15px, 1.15vw, 20px);
 }
 
+.deck-tools {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 8px;
+  pointer-events: auto;
+}
+
+.moderator-guide-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 36px;
+  padding: 0 13px;
+  border: 1px solid color-mix(in srgb, var(--slide-ink) 20%, transparent);
+  color: var(--slide-ink);
+  background: color-mix(in srgb, var(--slide-bg) 76%, transparent);
+  font-size: 12px;
+  letter-spacing: 0.055em;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: border-color 160ms ease, color 160ms ease, background-color 160ms ease;
+}
+
+.moderator-guide-link::after {
+  content: "\2197";
+  margin-left: 8px;
+  font-size: 1.2em;
+}
+
+.moderator-guide-link:hover {
+  border-color: var(--accent);
+  color: var(--accent-ink);
+  background: var(--accent);
+}
+
+.location-switcher,
 .language-switcher {
   display: flex;
   gap: 3px;
-  margin-top: 8px;
   padding: 3px;
   background: var(--control-bg);
   pointer-events: auto;
 }
 
+.location-switcher button,
 .language-switcher button {
   min-width: 42px;
   min-height: 30px;
@@ -207,6 +243,17 @@ html[data-phase="work"] .deck-brand img {
   transition: color 160ms ease, background-color 160ms ease;
 }
 
+.location-switcher button {
+  min-width: 76px;
+  letter-spacing: 0.035em;
+}
+
+.location-short {
+  display: none;
+}
+
+.location-switcher button:hover,
+.location-switcher button[aria-pressed="true"],
 .language-switcher button:hover,
 .language-switcher button[aria-pressed="true"] {
   color: var(--accent-ink);
@@ -2782,7 +2829,7 @@ html[data-phase="work"] .deck-brand img {
   }
 
   .deck-brand img {
-    width: min(148px, 42vw);
+    width: min(104px, 32vw);
   }
 
   .deck-context > span,
@@ -2790,14 +2837,49 @@ html[data-phase="work"] .deck-brand img {
     display: none;
   }
 
+  .location-switcher,
   .language-switcher {
+    margin-top: 0;
+    gap: 2px;
+    padding: 2px;
+  }
+
+  .deck-tools {
+    gap: 4px;
     margin-top: 0;
   }
 
+  .moderator-guide-link {
+    justify-content: center;
+    width: 36px;
+    min-height: 40px;
+    padding: 0;
+    overflow: hidden;
+    font-size: 0;
+  }
+
+  .moderator-guide-link::after {
+    margin-left: 0;
+    font-size: 16px;
+  }
+
+  .location-switcher button,
   .language-switcher button {
-    min-width: 44px;
-    min-height: 44px;
-    padding: 0 9px;
+    min-width: 32px;
+    min-height: 40px;
+    padding: 0 7px;
+  }
+
+  .location-switcher button {
+    min-width: 32px;
+  }
+
+  .location-full {
+    display: none;
+  }
+
+  .location-short {
+    display: inline;
   }
 
   .controls-hidden .deck-controls,
@@ -3229,10 +3311,23 @@ html[data-phase="work"] .deck-brand img {
     display: none;
   }
 
+  .location-switcher,
   .language-switcher {
     margin-top: 0;
   }
 
+  .deck-tools {
+    gap: 6px;
+    margin-top: 0;
+  }
+
+  .moderator-guide-link {
+    min-height: 34px;
+    padding: 0 10px;
+    font-size: 10px;
+  }
+
+  .location-switcher button,
   .language-switcher button {
     min-width: 42px;
     min-height: 34px;

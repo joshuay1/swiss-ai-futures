@@ -152,13 +152,13 @@ Objectif, documents, boucles et résultats.
 
 ## 17:50–18:30
 
-**Tour 1 · L’IA dans l’éducation**
+**Tour 1 · L’IA au travail**
 
 Discussion animée par une personne · 30 min ; questionnaire + pause · 10 min.
 
 ## 18:30–19:10
 
-**Tour 2 · L’IA au travail**
+**Tour 2 · L’IA dans l’éducation**
 
 Discussion assistée par MURMI · 30 min ; questionnaire + pause · 10 min.
 
@@ -184,7 +184,7 @@ Formulaire d’indemnisation et remise · 5 min.
 
 L’atelier se termine à 19:30.
 
-Cette version française suit l’ordre de la salle non germanophone : l’IA dans l’éducation avec modération humaine, puis l’IA au travail avec MURMI. Le premier tour est toujours humain ; le second toujours assisté par l’IA. La discussion finale IA & Suisse est assistée par l’IA dans les deux salles.
+À Lausanne, la salle francophone discute d’abord de l’IA au travail avec modération humaine, puis de l’IA dans l’éducation avec MURMI. Le premier tour est toujours humain ; le second toujours assisté par l’IA. La discussion finale IA & Suisse est assistée par l’IA dans les deux salles.
 
 Ne comparez pas les formats avant que les participants aient terminé le questionnaire après chaque tour.
 
@@ -266,35 +266,35 @@ Swiss AI Futures Moderator Guide, sections 3 à 5.
 
 ---
 
-# Slide 8. Enseignements en ligne : éducation
+# Slide 8. Enseignements en ligne : travail
 
 ## On-screen copy
 
-# Les participants en ligne veulent une IA progressive et encadrée à l’école
+# Les participants en ligne veulent un soutien actif aux travailleurs
 
-## Apprendre à juger
+## Former dès maintenant
 
-**32 sur 36** soutiennent la vérification des erreurs et biais de l’IA.
+**30 sur 34** soutiennent une formation à l’IA dans l’emploi actuel.
 
-## Des protections claires
+## Partager la responsabilité
 
-**31 sur 36** soutiennent des règles claires ; **32 sur 36** la protection des données.
+Les employeurs doivent agir, mais inspirent peu confiance comme conseillers sur l’IA.
 
-## Introduire progressivement
+## Ne pas laisser faire le marché
 
-Le vote de suivi autorise moins d’IA au primaire et davantage aux niveaux suivants.
+**29 sur 35** rejettent une adaptation laissée au seul marché du travail.
 
 ## Presenter notes
 
 Donnez uniquement le contexte nécessaire pour commencer. Ces résultats sont des points de départ, pas des conclusions imposées.
 
-Le signal principal n’est ni « interdire l’IA » ni « utiliser l’IA partout ». Les répondants soutiennent la vérification critique, des règles claires, la protection des données, la formation des enseignants et une introduction progressive selon le niveau scolaire.
+Les participants en ligne soutiennent la formation dans l’emploi actuel et la reconversion financée par l’État. Ils refusent de laisser l’adaptation aux seules forces du marché. Ils répartissent la responsabilité entre employeurs, écoles, institutions publiques et individus, tout en faisant davantage confiance aux universités et sources indépendantes.
 
 La phase en ligne est exploratoire et non représentative. Invitez les participants à contester, préciser ou compléter ces résultats.
 
 ### Sources
 
-Online Insights, « Gradual AI Education: Critical Thinking Before Tool Use » et « Retraining educators ».
+Online Insights, « Fair distribution of AI economical benefits » et « Shared responsibility among stakeholders ».
 
 ## Timing
 
@@ -302,18 +302,18 @@ Online Insights, « Gradual AI Education: Critical Thinking Before Tool Use » e
 
 ---
 
-# Slide 9. Tour 1 · L’IA dans l’éducation
+# Slide 9. Tour 1 · L’IA au travail
 
 ## On-screen copy
 
-# Comment l’école doit-elle préparer et protéger les élèves face à l’IA ?
+# Comment préparer et protéger les travailleurs face à l’IA ?
 
 ## Quatre questions
 
-* Quelles compétences faut-il maîtriser avant d’utiliser l’IA ?
-* Quand l’IA doit-elle être autorisée — ou non ?
-* Qui doit former et soutenir les enseignants ?
-* Comment protéger les données, une évaluation équitable et la pensée autonome ?
+* Quelles compétences faut-il renforcer, préserver ou acquérir ?
+* Qui doit fournir la formation, le temps et l’argent ?
+* Où l’IA doit-elle être acceptée ou limitée au travail ?
+* Quelles protections faut-il si les emplois ou les attentes changent ?
 
 ## Presenter notes
 
@@ -331,7 +331,7 @@ Protégez les 9 dernières minutes pour la synthèse, les corrections et la conf
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, sections 3 à 6 et 10. Online Insights, résultats et questions d’atelier sur l’éducation.
+Swiss AI Futures Moderator Guide, sections 3 à 6 et 10. Online Insights, résultats et questions d’atelier sur le travail.
 
 ## Timing
 
@@ -371,35 +371,35 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ---
 
-# Slide 11. Enseignements en ligne : travail
+# Slide 11. Enseignements en ligne : éducation
 
 ## On-screen copy
 
-# Les participants en ligne veulent un soutien actif aux travailleurs
+# Les participants en ligne veulent une IA progressive et encadrée à l’école
 
-## Former dès maintenant
+## Apprendre à juger
 
-**30 sur 34** soutiennent une formation à l’IA dans l’emploi actuel.
+**32 sur 36** soutiennent la vérification des erreurs et biais de l’IA.
 
-## Partager la responsabilité
+## Des protections claires
 
-Les employeurs doivent agir, mais inspirent peu confiance comme conseillers sur l’IA.
+**31 sur 36** soutiennent des règles claires ; **32 sur 36** la protection des données.
 
-## Ne pas laisser faire le marché
+## Introduire progressivement
 
-**29 sur 35** rejettent une adaptation laissée au seul marché du travail.
+Le vote de suivi autorise moins d’IA au primaire et davantage aux niveaux suivants.
 
 ## Presenter notes
 
 Donnez uniquement le contexte nécessaire pour commencer. Ces résultats sont des points de départ, pas des conclusions imposées.
 
-Les participants en ligne soutiennent la formation dans l’emploi actuel et la reconversion financée par l’État. Ils refusent de laisser l’adaptation aux seules forces du marché. Ils répartissent la responsabilité entre employeurs, écoles, institutions publiques et individus, tout en faisant davantage confiance aux universités et sources indépendantes.
+Le signal principal n’est ni « interdire l’IA » ni « utiliser l’IA partout ». Les répondants soutiennent la vérification critique, des règles claires, la protection des données, la formation des enseignants et une introduction progressive selon le niveau scolaire.
 
 La phase en ligne est exploratoire et non représentative. Invitez les participants à contester, préciser ou compléter ces résultats.
 
 ### Sources
 
-Online Insights, « Fair distribution of AI economical benefits » et « Shared responsibility among stakeholders ».
+Online Insights, « Gradual AI Education: Critical Thinking Before Tool Use » et « Retraining educators ».
 
 ## Timing
 
@@ -407,18 +407,18 @@ Online Insights, « Fair distribution of AI economical benefits » et « Shared 
 
 ---
 
-# Slide 12. Tour 2 · L’IA au travail
+# Slide 12. Tour 2 · L’IA dans l’éducation
 
 ## On-screen copy
 
-# Comment préparer et protéger les travailleurs face à l’IA ?
+# Comment l’école doit-elle préparer et protéger les élèves face à l’IA ?
 
 ## Quatre questions
 
-* Quelles compétences faut-il renforcer, préserver ou acquérir ?
-* Qui doit fournir la formation, le temps et l’argent ?
-* Où l’IA doit-elle être acceptée ou limitée au travail ?
-* Quelles protections faut-il si les emplois ou les attentes changent ?
+* Quelles compétences faut-il maîtriser avant d’utiliser l’IA ?
+* Quand l’IA doit-elle être autorisée — ou non ?
+* Qui doit former et soutenir les enseignants ?
+* Comment protéger les données, une évaluation équitable et la pensée autonome ?
 
 ## Presenter notes
 
@@ -434,7 +434,7 @@ Présentez la synthèse MURMI en trois colonnes comme un projet. Vérifiez chaqu
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, sections 3 à 5, 7 et 10. Online Insights, résultats et questions d’atelier sur le travail.
+Swiss AI Futures Moderator Guide, sections 3 à 5, 7 et 10. Online Insights, résultats et questions d’atelier sur l’éducation.
 
 ## Timing
 
@@ -584,8 +584,8 @@ Swiss AI Futures Moderator Guide, sections 10 à 11.
 | Diapositives | Activité | Durée |
 | --- | --- | ---: |
 | 1–7 | Accueil, objectif, règles, documents, programme et boucles | 20 min |
-| 8–10 | Tour 1 : IA dans l’éducation + questionnaire et pause | 40 min |
-| 11–13 | Tour 2 : IA au travail + questionnaire et pause | 40 min |
+| 8–10 | Tour 1 : IA au travail + questionnaire et pause | 40 min |
+| 11–13 | Tour 2 : IA dans l’éducation + questionnaire et pause | 40 min |
 | 14 | IA & Suisse | 10 min |
 | 15 | Examiner le rapport généré et ses messages clés | 5 min |
 | 16 | Questionnaire final, formulaire d’indemnisation et conclusion | 5 min |
