@@ -463,6 +463,10 @@ html[data-phase="work"] .deck-brand img {
 .layout-survey .slide-shell,
 .layout-responsibility .slide-shell,
 .layout-principles .slide-shell,
+.layout-logistics .slide-shell,
+.layout-loops .slide-shell,
+.layout-focus .slide-shell,
+.layout-topic .slide-shell,
 .layout-closing .slide-shell {
   grid-template-columns: 1fr;
   align-content: center;
@@ -470,7 +474,7 @@ html[data-phase="work"] .deck-brand img {
 
 .layout-hero .slide-shell {
   align-content: end;
-  padding-bottom: clamp(10px, 2vh, 28px);
+  padding-bottom: 32px;
 }
 
 .layout-hero .slide-heading {
@@ -494,6 +498,10 @@ html[data-phase="work"] .deck-brand img {
 
 .layout-hero .slide-lead {
   gap: 0.55em;
+}
+
+.layout-hero .slide-body p + p {
+  margin-top: 0;
 }
 
 .layout-hero .slide-lead h3 {
@@ -534,6 +542,11 @@ html[data-phase="work"] .deck-brand img {
   align-items: start;
 }
 
+.layout-project .slide-section p {
+  font-size: clamp(20px, 1.45vw, 27px);
+  line-height: 1.24;
+}
+
 .layout-project .slide-section:last-child {
   color: var(--accent-ink);
   background: var(--accent);
@@ -542,6 +555,260 @@ html[data-phase="work"] .deck-brand img {
 
 .layout-project .slide-section:last-child h2,
 .layout-project .slide-section:last-child p {
+  color: inherit;
+}
+
+.layout-logistics .slide-shell,
+.layout-loops .slide-shell,
+.layout-focus .slide-shell,
+.layout-topic .slide-shell {
+  gap: 0;
+}
+
+.layout-logistics .slide-title,
+.layout-loops .slide-title,
+.layout-focus .slide-title {
+  max-width: 22ch;
+  font-size: clamp(58px, 5.6vw, 106px);
+}
+
+.layout-logistics .slide-body,
+.layout-focus .slide-body,
+.layout-topic .slide-body {
+  margin-top: clamp(30px, 4.2vh, 58px);
+}
+
+.layout-logistics .slide-body {
+  margin-top: clamp(24px, 3vh, 42px);
+}
+
+.layout-topic .slide-body {
+  margin-top: clamp(8px, 1vh, 18px);
+}
+
+.layout-loops .slide-body {
+  margin-top: clamp(6px, 0.8vh, 14px);
+}
+
+.layout-logistics .slide-sections {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(20px, 2.6vh, 32px) clamp(28px, 4vw, 70px);
+  margin-top: 0;
+}
+
+.layout-logistics .slide-section {
+  position: relative;
+  min-height: 190px;
+  padding: 60px 0 0;
+  border-top: 8px solid var(--accent);
+}
+
+.layout-logistics .slide-section:nth-child(-n + 2)::before {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  color: var(--accent);
+  font-size: clamp(25px, 2vw, 36px);
+  font-weight: 700;
+  line-height: 1;
+}
+
+.layout-logistics .slide-section:nth-child(1)::before {
+  content: "01";
+}
+
+.layout-logistics .slide-section:nth-child(2)::before {
+  content: "02";
+}
+
+.layout-logistics .slide-section h2 {
+  color: var(--accent);
+  font-size: clamp(32px, 2.8vw, 52px);
+}
+
+.layout-logistics .slide-section p {
+  max-width: 34ch;
+  color: var(--slide-ink);
+  font-size: clamp(23px, 1.75vw, 32px);
+  line-height: 1.22;
+}
+
+.layout-logistics .slide-section:last-child {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: minmax(250px, 0.55fr) minmax(0, 1.45fr);
+  gap: clamp(28px, 4vw, 70px);
+  align-items: center;
+  min-height: 0;
+  padding: clamp(22px, 2.6vw, 38px);
+  border: 0;
+  color: var(--accent-ink);
+  background: var(--accent);
+}
+
+.layout-logistics .slide-section:last-child h2,
+.layout-logistics .slide-section:last-child p {
+  max-width: none;
+  color: inherit;
+}
+
+.layout-loops .slide-sections {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(20px, 2.5vh, 34px) clamp(30px, 5vw, 84px);
+  margin-top: 0;
+}
+
+.layout-loops .slide-section {
+  position: relative;
+  padding: 42px 0 0;
+  border-top: 8px solid var(--accent);
+}
+
+.layout-loops .slide-section:nth-child(-n + 2)::before {
+  position: absolute;
+  top: 12px;
+  left: 0;
+  color: var(--accent);
+  font-size: clamp(28px, 2.3vw, 42px);
+  font-weight: 700;
+  line-height: 1;
+}
+
+.layout-loops .slide-section:nth-child(1)::before {
+  content: "01";
+}
+
+.layout-loops .slide-section:nth-child(2)::before {
+  content: "02";
+}
+
+.layout-loops .slide-section h2 {
+  max-width: 20ch;
+  color: var(--accent);
+  font-size: clamp(34px, 3vw, 56px);
+}
+
+.layout-loops .slide-section ul {
+  display: grid;
+  gap: 0.4em;
+  margin-top: 0.45em;
+  padding-left: 1em;
+  color: var(--slide-ink);
+  font-size: clamp(23px, 1.75vw, 32px);
+  line-height: 1.18;
+}
+
+.layout-loops .slide-section:last-child {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: minmax(280px, 0.58fr) minmax(0, 1.42fr);
+  gap: clamp(28px, 4vw, 70px);
+  align-items: center;
+  padding: clamp(14px, 1.4vw, 22px);
+  border: 0;
+  color: var(--accent-ink);
+  background: var(--accent);
+}
+
+.layout-loops .slide-section:last-child h2,
+.layout-loops .slide-section:last-child p {
+  color: inherit;
+}
+
+.layout-loops .slide-section:last-child p {
+  font-size: clamp(23px, 1.75vw, 32px);
+  line-height: 1.18;
+}
+
+.layout-focus .slide-sections {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: clamp(30px, 4.5vw, 78px);
+  margin-top: 0;
+}
+
+.layout-focus .slide-section {
+  padding-top: 22px;
+  border-top: 8px solid var(--accent);
+}
+
+.layout-focus .slide-section h2 {
+  color: var(--accent);
+  font-size: clamp(32px, 2.8vw, 52px);
+}
+
+.layout-focus .slide-section p {
+  margin-top: 0.65em;
+  color: var(--slide-ink);
+  font-size: clamp(24px, 1.85vw, 34px);
+  line-height: 1.18;
+}
+
+.layout-topic .slide-title {
+  max-width: 24ch;
+  color: var(--accent);
+  font-size: clamp(56px, 5.2vw, 98px);
+  line-height: 0.92;
+}
+
+.layout-topic .slide-sections {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(20px, 2.5vh, 32px) clamp(28px, 4vw, 70px);
+  margin-top: 0;
+  align-items: stretch;
+}
+
+.layout-topic .slide-section:first-child {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: minmax(280px, 0.58fr) minmax(0, 1.42fr);
+  gap: clamp(28px, 4vw, 70px);
+  align-items: start;
+  padding-top: 18px;
+  border-top: 8px solid var(--accent);
+}
+
+.layout-topic .slide-section:nth-child(2),
+.layout-topic .slide-section:last-child {
+  align-content: center;
+  padding: clamp(24px, 3vw, 44px);
+}
+
+.layout-topic .slide-section:nth-child(2) {
+  background: color-mix(in srgb, var(--accent) 15%, transparent);
+}
+
+.layout-topic .slide-section:last-child {
+  color: var(--accent-ink);
+  background: var(--accent);
+}
+
+.layout-topic .slide-section h2 {
+  color: var(--accent);
+  font-size: clamp(32px, 2.8vw, 52px);
+}
+
+.layout-topic .slide-section p,
+.layout-topic .slide-section ul {
+  color: var(--slide-ink);
+  font-size: clamp(24px, 1.85vw, 34px);
+  line-height: 1.18;
+}
+
+.layout-topic .slide-section ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(24px, 3vw, 52px);
+  margin-top: 0;
+  padding-left: 1em;
+}
+
+.layout-topic .slide-section:last-child h2,
+.layout-topic .slide-section:last-child p,
+.layout-topic .slide-section:last-child ul {
   color: inherit;
 }
 
@@ -638,7 +905,7 @@ html[data-phase="work"] .deck-brand img {
 
 .layout-swiss .slide-section p {
   margin-top: 0.52em;
-  font-size: clamp(17px, 1.2vw, 23px);
+  font-size: clamp(19px, 1.35vw, 25px);
   line-height: 1.27;
 }
 
@@ -793,6 +1060,13 @@ html[data-phase="work"] .deck-brand img {
   color: var(--accent);
 }
 
+.layout-method .slide-section:not(:first-child) p,
+.layout-method .slide-section:not(:first-child) ul,
+.layout-method .slide-section:not(:first-child) ol {
+  font-size: clamp(19px, 1.3vw, 24px);
+  line-height: 1.24;
+}
+
 .layout-method .slide-section ol {
   display: grid;
   grid-template-columns: repeat(5, minmax(0, 1fr));
@@ -880,7 +1154,7 @@ html[data-phase="work"] .deck-brand img {
 .method-loop-heading span,
 .method-ai-label,
 .method-final-label {
-  font-size: clamp(11px, 0.82vw, 15px);
+  font-size: clamp(12px, 0.9vw, 16px);
   font-weight: 800;
   letter-spacing: 0.075em;
   line-height: 1;
@@ -925,7 +1199,7 @@ html[data-phase="work"] .deck-brand img {
 .method-ai-stage strong,
 .method-final-stage strong {
   color: var(--slide-ink);
-  font-size: clamp(15px, 1.05vw, 19px);
+  font-size: clamp(18px, 1.2vw, 22px);
   font-weight: 750;
   line-height: 1.02;
 }
@@ -952,7 +1226,7 @@ html[data-phase="work"] .deck-brand img {
 
 .method-ai-label {
   color: inherit;
-  font-size: clamp(9px, 0.66vw, 12px);
+  font-size: clamp(11px, 0.75vw, 13px);
   letter-spacing: 0.055em;
 }
 
@@ -995,7 +1269,7 @@ html[data-phase="work"] .deck-brand img {
 .method-human-skip {
   margin-top: 5px;
   color: var(--slide-ink);
-  font-size: clamp(10px, 0.72vw, 13px);
+  font-size: clamp(12px, 0.82vw, 14px);
   font-weight: 750;
   line-height: 1.05;
   text-align: center;
@@ -1138,6 +1412,7 @@ html[data-phase="work"] .deck-brand img {
 }
 
 .layout-comparison .slide-title {
+  max-width: 22ch;
   font-size: clamp(50px, 5vw, 96px);
 }
 
@@ -1154,7 +1429,7 @@ html[data-phase="work"] .deck-brand img {
 }
 
 .layout-comparison .slide-section p {
-  font-size: clamp(18px, 1.35vw, 25px);
+  font-size: clamp(20px, 1.5vw, 28px);
 }
 
 .layout-comparison .slide-section strong {
@@ -1263,8 +1538,8 @@ html[data-phase="work"] .deck-brand img {
 
 .layout-schedule .slide-sections {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: clamp(24px, 3vw, 52px);
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: clamp(22px, 2.7vh, 36px) clamp(24px, 3vw, 52px);
   margin-top: 0;
   counter-reset: schedule-step;
 }
@@ -1300,6 +1575,13 @@ html[data-phase="work"] .deck-brand img {
   line-height: 1;
 }
 
+.layout-schedule .slide-section:nth-child(3)::after {
+  content: "↙";
+  top: auto;
+  right: 14px;
+  bottom: -34px;
+}
+
 .layout-schedule .slide-section h2 {
   color: var(--accent);
   font-size: clamp(22px, 1.8vw, 34px);
@@ -1316,7 +1598,7 @@ html[data-phase="work"] .deck-brand img {
 .layout-schedule .slide-section p:last-of-type {
   margin-top: 0.6em;
   color: var(--slide-muted);
-  font-size: clamp(16px, 1.12vw, 21px);
+  font-size: clamp(18px, 1.25vw, 23px);
   line-height: 1.28;
 }
 
@@ -1501,7 +1783,7 @@ html[data-phase="work"] .deck-brand img {
 }
 
 .layout-scenario .slide-lead p {
-  font-size: clamp(22px, 1.75vw, 32px);
+  font-size: clamp(24px, 1.9vw, 35px);
   line-height: 1.2;
 }
 
@@ -1547,7 +1829,7 @@ html[data-phase="work"] .deck-brand img {
   gap: clamp(16px, 2vw, 30px);
   margin: 0;
   padding-left: 1.1em;
-  font-size: clamp(18px, 1.3vw, 24px);
+  font-size: clamp(20px, 1.42vw, 26px);
   line-height: 1.18;
 }
 
@@ -1857,7 +2139,7 @@ html[data-phase="work"] .deck-brand img {
 .layout-closing .slide-section p {
   margin-top: 0.45em;
   color: var(--slide-muted);
-  font-size: clamp(17px, 1.2vw, 23px);
+  font-size: clamp(19px, 1.35vw, 25px);
   line-height: 1.28;
 }
 
@@ -2468,6 +2750,13 @@ html[data-phase="work"] .deck-brand img {
     bottom: -34px;
   }
 
+  .layout-schedule .slide-section:nth-child(4)::after {
+    content: "↙";
+    top: auto;
+    right: 0;
+    bottom: -34px;
+  }
+
   .qr-placeholder {
     width: min(32vw, 300px);
   }
@@ -2563,6 +2852,10 @@ html[data-phase="work"] .deck-brand img {
   .layout-responsibility .slide-title,
   .layout-activity .slide-title,
   .layout-schedule .slide-title,
+  .layout-logistics .slide-title,
+  .layout-loops .slide-title,
+  .layout-focus .slide-title,
+  .layout-topic .slide-title,
   .layout-survey .slide-title {
     max-width: 15ch;
     font-size: clamp(38px, 10.8vw, 54px);
@@ -2603,8 +2896,35 @@ html[data-phase="work"] .deck-brand img {
   .layout-taxonomy .slide-sections,
   .layout-activity .slide-sections,
   .layout-principles .slide-sections,
+  .layout-logistics .slide-sections,
+  .layout-loops .slide-sections,
+  .layout-focus .slide-sections,
+  .layout-topic .slide-sections,
   .layout-closing .slide-lead ul {
     grid-template-columns: 1fr;
+  }
+
+  .layout-logistics .slide-section,
+  .layout-loops .slide-section {
+    min-height: 0;
+  }
+
+  .layout-logistics .slide-section:last-child,
+  .layout-loops .slide-section:last-child {
+    grid-column: auto;
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .layout-topic .slide-section:first-child {
+    grid-column: auto;
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .layout-topic .slide-section ul {
+    grid-template-columns: 1fr;
+    gap: 0.5em;
   }
 
   .layout-partners .slide-body {
@@ -2950,6 +3270,10 @@ html[data-phase="work"] .deck-brand img {
   .layout-responsibility .slide-title,
   .layout-activity .slide-title,
   .layout-schedule .slide-title,
+  .layout-logistics .slide-title,
+  .layout-loops .slide-title,
+  .layout-focus .slide-title,
+  .layout-topic .slide-title,
   .layout-survey .slide-title {
     font-size: clamp(34px, 5.6vw, 54px);
     line-height: 0.92;
