@@ -43,8 +43,17 @@
   };
 
   const session = sessions[sessionKey][language];
-  const firstRoundPhase = language === "de" ? "work" : "education";
-  const secondRoundPhase = language === "de" ? "education" : "work";
+  const topicRotationBySession = {
+    zurich: {
+      de: ["work", "education"],
+      en: ["education", "work"]
+    },
+    lausanne: {
+      fr: ["work", "education"],
+      en: ["education", "work"]
+    }
+  };
+  const [firstRoundPhase, secondRoundPhase] = topicRotationBySession[sessionKey][language];
 
   const slideMeta = {
     1: { phase: "intro", mode: "context", layout: "hero", timer: 1 },
@@ -80,8 +89,8 @@
     },
     fr: {
       intro: "Accueil et déroulement",
-      work: "Tour 2 · L’IA au travail",
-      education: "Tour 1 · L’IA dans l’éducation",
+      work: "Tour 1 · L’IA au travail",
+      education: "Tour 2 · L’IA dans l’éducation",
       future: "Principes et prochaines étapes"
     }
   };
@@ -155,10 +164,13 @@
       showShortcuts: "Show keyboard shortcuts",
       participantActivity: "Participant activity",
       paperSurvey: "Paper survey",
+      moderatorGuide: "Moderator guide",
+      openModeratorGuide: "Open the moderator guide in a new tab",
       minutes: "minutes",
       loadError: "Presentation source could not be loaded",
       loadHelp: "Open this page through the local site server.",
-      languageLabel: "Presentation language"
+      languageLabel: "Presentation language",
+      locationLabel: "Workshop location"
     },
     de: {
       preparing: "Workshop wird vorbereitet",
@@ -192,10 +204,13 @@
       showShortcuts: "Tastenkürzel anzeigen",
       participantActivity: "Aktivität",
       paperSurvey: "Papierfragebogen",
+      moderatorGuide: "Moderationsleitfaden",
+      openModeratorGuide: "Moderationsleitfaden in einem neuen Tab öffnen",
       minutes: "Minuten",
       loadError: "Die Präsentationsquelle konnte nicht geladen werden",
       loadHelp: "Öffnen Sie diese Seite über den lokalen Webserver.",
-      languageLabel: "Präsentationssprache"
+      languageLabel: "Präsentationssprache",
+      locationLabel: "Workshop-Ort"
     },
     fr: {
       preparing: "Préparation de l’atelier",
@@ -229,10 +244,13 @@
       showShortcuts: "Afficher les raccourcis clavier",
       participantActivity: "Activité des participants",
       paperSurvey: "Questionnaire papier",
+      moderatorGuide: "Guide de facilitation",
+      openModeratorGuide: "Ouvrir le guide de facilitation dans un nouvel onglet",
       minutes: "minutes",
       loadError: "La source de la présentation n’a pas pu être chargée",
       loadHelp: "Ouvrez cette page depuis le serveur local.",
-      languageLabel: "Langue de la présentation"
+      languageLabel: "Langue de la présentation",
+      locationLabel: "Lieu de l’atelier"
     }
   };
 
@@ -242,10 +260,17 @@
     fr: { en: "Anglais", fr: "Français" }
   };
 
+  const locationNamesByLanguage = {
+    en: { zurich: "Zürich", lausanne: "Lausanne" },
+    de: { zurich: "Zürich", lausanne: "Lausanne" },
+    fr: { zurich: "Zurich", lausanne: "Lausanne" }
+  };
+
   const phaseLabels = phaseLabelsByLanguage[language];
   const modeLabels = modeLabelsByLanguage[language];
   const ui = uiStrings[language];
   const languageNames = languageNamesByLanguage[language];
+  const locationNames = locationNamesByLanguage[language];
 
   const methodFlowLabelsByLanguage = {
     en: {
@@ -310,7 +335,9 @@
     loading: document.getElementById("loading-state"),
     phaseLabel: document.getElementById("phase-label"),
     sessionLabel: document.getElementById("session-label"),
+    locationSwitcher: document.getElementById("location-switcher"),
     languageSwitcher: document.getElementById("language-switcher"),
+    moderatorGuideLink: document.getElementById("moderator-guide-link"),
     progressFill: document.getElementById("progress-fill"),
     currentSlide: document.getElementById("current-slide"),
     totalSlides: document.getElementById("total-slides"),
@@ -352,7 +379,9 @@
       if (value) node.textContent = value;
     });
 
+    elements.locationSwitcher.setAttribute("aria-label", ui.locationLabel);
     elements.languageSwitcher.setAttribute("aria-label", ui.languageLabel);
+    elements.moderatorGuideLink.setAttribute("aria-label", ui.openModeratorGuide);
     document.querySelectorAll('[data-action="previous"]').forEach((node) => node.setAttribute("aria-label", ui.back));
     document.querySelectorAll('[data-action="next"]').forEach((node) => node.setAttribute("aria-label", ui.next));
     document.querySelector('.control-actions [data-action="overview"]').setAttribute("aria-label", ui.overview);
@@ -388,9 +417,39 @@
       .join("");
   };
 
+  const renderLocationSwitcher = () => {
+    elements.locationSwitcher.innerHTML = ["zurich", "lausanne"]
+      .map((code) => `
+        <button
+          type="button"
+          data-session="${code}"
+          aria-pressed="${code === sessionKey ? "true" : "false"}"
+          aria-label="${escapeHtml(locationNames[code])}"
+          title="${escapeHtml(locationNames[code])}"
+        ><span class="location-full">${escapeHtml(locationNames[code])}</span><span class="location-short" aria-hidden="true">${code === "zurich" ? "ZH" : "LS"}</span></button>
+      `)
+      .join("");
+  };
+
+  const configureModeratorGuideLink = () => {
+    const guideUrl = new URL("moderator-guide.html", window.location.href);
+    guideUrl.searchParams.set("city", sessionKey);
+    guideUrl.searchParams.set("lang", language);
+    elements.moderatorGuideLink.href = guideUrl.toString();
+  };
+
   const switchLanguage = (nextLanguage) => {
     if (!supportedLanguages.includes(nextLanguage) || nextLanguage === language) return;
     const nextUrl = new URL(window.location.href);
+    nextUrl.searchParams.set("lang", nextLanguage);
+    window.location.assign(nextUrl.toString());
+  };
+
+  const switchSession = (nextSessionKey) => {
+    if (!sessions[nextSessionKey] || nextSessionKey === sessionKey) return;
+    const nextLanguage = language === "en" ? "en" : nextSessionKey === "zurich" ? "de" : "fr";
+    const nextUrl = new URL(window.location.href);
+    nextUrl.searchParams.set("city", nextSessionKey);
     nextUrl.searchParams.set("lang", nextLanguage);
     window.location.assign(nextUrl.toString());
   };
@@ -1013,6 +1072,9 @@
 
   const bindEvents = () => {
     document.addEventListener("click", (event) => {
+      const sessionNode = event.target.closest("[data-session]");
+      if (sessionNode) switchSession(sessionNode.dataset.session);
+
       const languageNode = event.target.closest("[data-language]");
       if (languageNode) switchLanguage(languageNode.dataset.language);
 
@@ -1062,7 +1124,9 @@
 
   const init = async () => {
     localizeInterface();
+    renderLocationSwitcher();
     renderLanguageSwitcher();
+    configureModeratorGuideLink();
     elements.sessionLabel.textContent = `${session.date} · ${session.location}`;
     try {
       const response = await fetch(SOURCE_URL, { cache: "no-store" });
