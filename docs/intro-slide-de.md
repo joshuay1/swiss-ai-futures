@@ -94,7 +94,7 @@ Ein hochschulübergreifendes Team mit Partnern für Beteiligung und Technologie.
 
 Forschende der ETH Zürich, der Universität Lausanne und von Partnerinstitutionen leiten die Studie.
 
-## Capin Coffee
+## Carbon Coffee
 
 Bringt Erfahrung aus der Konzeption und Durchführung früherer Bürger:innenversammlungen ein.
 
@@ -112,7 +112,7 @@ Swiss AI Futures verbindet akademische Forschung, öffentliche Beteiligung, Tech
 
 Zum Forschungsteam gehören Beteiligte der ETH Zürich und der Universität Lausanne sowie Forschende weiterer Schweizer Institutionen. Zu den Projektleitenden gehören Maud Reveilhac und Aurelia Tamò-Larrieux; Joshua C. Yang ist der Studienkontakt. Zum erweiterten Projektteam gehören Gerold Schneider, Simon Mayer, Martial Pasquier, Bohdan Trembovelskyi, Vlada Druta und Nisha Yadav.
 
-Capin Coffee bringt Erfahrung aus der Konzeption und Durchführung früherer Bürger:innenversammlungen ein.
+Carbon Coffee bringt Erfahrung aus der Konzeption und Durchführung früherer Bürger:innenversammlungen ein.
 
 TA-SWISS finanziert das öffentliche Diskussionsprojekt und veröffentlicht die Erkenntnisse im Technikfolgenabschätzungsbericht.
 
@@ -120,7 +120,7 @@ Atgora ist Technologiepartner für die Online-Beteiligung. Die Plattform wird vo
 
 ### Sources
 
-Projektunterlagen für Teilnehmende und öffentliche Projektseite. Rolle von Capin Coffee gemäss Angaben der Workshop-Organisation.
+Projektunterlagen für Teilnehmende und öffentliche Projektseite. Rolle von Carbon Coffee gemäss Angaben der Workshop-Organisation.
 
 ## Timing
 

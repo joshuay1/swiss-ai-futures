@@ -95,7 +95,7 @@ A cross-university team working with participation and technology partners.
 
 Researchers from ETH Zurich, the University of Lausanne, and partner institutions lead the study.
 
-## Capin Coffee
+## Carbon Coffee
 
 Brings experience from designing and running earlier citizen assemblies.
 
@@ -113,7 +113,7 @@ Swiss AI Futures brings together academic research, public participation, techno
 
 The research team includes collaborators affiliated with ETH Zurich and the University of Lausanne, with contributions from researchers across Swiss institutions. Principal investigators include Maud Reveilhac and Aurelia Tamò-Larrieux; Joshua C. Yang is the study contact. The wider project team includes Gerold Schneider, Simon Mayer, Martial Pasquier, Bohdan Trembovelskyi, Vlada Druta, and Nisha Yadav.
 
-Capin Coffee contributes experience from designing and running earlier citizen assemblies.
+Carbon Coffee contributes experience from designing and running earlier citizen assemblies.
 
 TA-SWISS funds the public-discussion project and will publish the resulting findings through its technology-assessment report.
 
@@ -121,7 +121,7 @@ Atgora is the technology partner for the online participation process. The platf
 
 ### Sources
 
-Project participant brief and public project page. Capin Coffee role supplied by the workshop organiser.
+Project participant brief and public project page. Carbon Coffee role supplied by the workshop organiser.
 
 ## Timing
 
