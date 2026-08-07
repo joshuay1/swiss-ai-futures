@@ -1,686 +1,367 @@
-# Swiss AI Futures
+# Swiss AI Futures Moderator Guide
 
-## Moderator Protocol and Run-of-Show
+**Zurich · 11 August 2026 · German + English**
 
-### Purpose of this guide
+**Lausanne · 12 August 2026 · French + English**
 
-This guide ensures that the German-speaking and English-speaking workshops follow the same deliberative process and produce comparable outputs.
+**Duration:** 2 hours
 
-Participants will discuss two topics:
+## 1. Workshop flow
 
-1. **AI at Work**
-2. **AI in Education**
+| Time | Activity |
+| --- | --- |
+| 00:00–00:20 | Welcome, consent, introduction |
+| 00:20–01:00 | Round 1 · Human-moderated topic (30 min), then questionnaire + break (10 min) |
+| 01:00–01:40 | Round 2 · AI-supported topic (30 min), then questionnaire + break (10 min) |
+| 01:40–01:50 | AI & Switzerland · AI-supported |
+| 01:50–01:55 | Review the automatically generated report and takeaways |
+| 01:55–02:00 | Final questionnaire, payment form, close |
 
-They will experience two moderation formats:
+## 2. Topic rotation
 
-* **Human moderation**
-* **AI-supported moderation using MURMI**
+| Group | Human moderation | AI-supported moderation |
+| --- | --- | --- |
+| Zurich · German | AI at Work | AI in Education |
+| Zurich · English | AI in Education | AI at Work |
+| Lausanne · French | AI at Work | AI in Education |
+| Lausanne · English | AI in Education | AI at Work |
 
-In both formats, participants follow the same basic structure:
+German in Zurich and French in Lausanne follow the same sequence. English follows the opposite topic sequence.
 
-**Loop 1: Discuss & Share**
-Generate ideas, hear from other groups, and react to what others propose.
+## 3. What are we trying to produce?
 
-**Loop 2: Find Common Ground**
-Synthesize the room's views, identify remaining disagreements, revise the summary, and confirm that it fairly represents the discussion.
+Keep the following three columns visible at the front of the room throughout the discussion.
 
----
+| Policy Recommendations | Conditions & Red Lines | Disagreements & Unresolved Issues |
+| --- | --- | --- |
+| What should be done? | Under what conditions? What must not happen? | What can we not agree on? What remains unresolved? |
 
-# 1. Workshop structure
+Participants should understand this structure before they begin discussing.
 
-## Two-hour schedule
+The first two columns mainly come from the ideas participants generate.
 
-| Time        | Duration | Activity                                          |
-| ----------- | -------: | ------------------------------------------------- |
-| 00:00-00:20 |   20 min | Welcome and introduction                          |
-| 00:20-00:50 |   30 min | Topic Round 1: Human moderation                   |
-| 00:50-01:00 |   10 min | Survey and short break                            |
-| 01:00-01:30 |   30 min | Topic Round 2: AI-supported moderation            |
-| 01:30-01:40 |   10 min | Survey and short break                            |
-| 01:40-02:00 |   20 min | AI & Switzerland closing discussion, AI-supported |
+The third column emerges as participants hear and react to other people's ideas.
 
-## Topic rotation
+The aim is not to force consensus. The final output should show both common ground and genuine disagreement.
 
-The moderation order is the same in both rooms:
+## 4. The discussion process
 
-**Round 1 = Human moderation**
-**Round 2 = AI-supported moderation**
+Each topic follows the same two loops.
 
-The topic order is reversed across the language groups.
+### Loop 1 · Diverge
 
-|                           | Round 1: Human  | Round 2: AI-supported |
-| ------------------------- | --------------- | --------------------- |
-| **German-speaking room**  | AI at Work      | AI in Education       |
-| **English-speaking room** | AI in Education | AI at Work            |
+**Discuss → Share → React → Vote**
 
-The final **AI & Switzerland** discussion is AI-supported in both rooms.
+**Goal:** Generate ideas and expose participants to different perspectives.
 
----
+#### Discuss
 
-# 2. The three outputs
+Participants talk in small groups about:
 
-## Explain these BEFORE any discussion begins
+- What should be done?
+- Under what conditions?
+- What are the red lines?
 
-For every topic, the room is working toward a final summary with **three columns**.
+Groups write their main ideas on sticky notes for the first two columns.
 
-### COLUMN 1: POLICY RECOMMENDATIONS
+#### Share
 
-**What should be done?**
+A representative from each group briefly shares their main ideas.
 
-This includes:
+Sticky notes are placed on the large board at the front.
 
-* policies;
-* actions;
-* priorities;
-* institutional changes;
-* things government, employers, schools, universities, companies, or others should do.
+#### React
 
-### COLUMN 2: CONDITIONS & RED LINES
+Participants hear what other groups think.
 
-**Under what conditions should this happen? What must not happen?**
+Use this stage to clarify ideas, add missing conditions, and identify where views differ.
 
-This includes:
+If useful, run one short additional **Discuss → Share** round. Do this only when something important remains unclear or missing.
 
-* safeguards;
-* necessary conditions;
-* limits;
-* requirements;
-* unacceptable outcomes or practices;
-* red lines that should not be crossed.
+#### Vote
 
-### COLUMN 3: DISAGREEMENTS & UNRESOLVED ISSUES
+Participants react to the ideas from across the room.
 
-**What can we not agree on? What remains unresolved?**
+- **Human moderation:** Physical voting on the ideas on the board.
+- **AI-supported moderation:** Participants see statements from across the groups and vote through MURMI using the 5-point Likert scale.
 
-This includes:
+Voting indicates support, but does not automatically mean consensus.
 
-* competing views;
-* tensions;
-* questions without a shared answer;
-* points where participants react differently to the same proposal;
-* minority views that should not disappear from the final summary.
+### Loop 2 · Converge
 
-## Important distinction
+**Synthesize → Check → Revise → Confirm**
 
-**Columns 1 and 2 come primarily from what participants propose.**
+**Goal:** Establish what the room shares and where disagreement remains.
 
-**Column 3 comes primarily from how participants react to one another.**
+Create a summary using the same three columns:
 
-Participants should therefore initially focus on proposing recommendations, conditions, and red lines.
+1. Policy Recommendations
+2. Conditions & Red Lines
+3. Disagreements & Unresolved Issues
 
-As they hear other groups' contributions, the workshop begins to reveal where genuine disagreement remains.
+#### Human moderation
 
-The goal is **not to eliminate disagreement**.
+The moderator creates the summary based on the discussion, sticky notes, reactions, and votes.
 
-The final product should show both:
+#### AI-supported moderation
 
-**Where there is common ground**
-and
-**Where important disagreement remains.**
+MURMI generates the draft summary.
 
----
+In both cases, the summary is not final until participants have checked it.
 
-# 3. Suggested introduction to participants
+Show the summary to the room and check:
 
-At the beginning of the workshop, explain:
+- Is anything important missing?
+- Is anything represented incorrectly?
+- Have we made something look consensual when it was actually contested?
+- Are important conditions or red lines missing?
+- Is there disagreement that should appear explicitly?
 
-> “Across both discussions today, we are trying to produce three things. First, what should be done. Second, under what conditions it should happen and what must not happen. Third, where we still disagree or where questions remain unresolved.
->
-> The first two will come from the ideas you develop in your groups. The third will emerge as you hear and react to what other groups think.
->
-> We do not need everybody to end up with the same opinion. Our aim is to identify the common ground accurately while also making genuine disagreements visible.”
+Revise as needed.
 
-Point physically to the three columns on the board while explaining them.
+Finish by confirming that the summary fairly represents both the common ground and remaining disagreements.
 
-Repeat the three questions briefly at the beginning of **each topic round**.
+## 5. Suggested rhythm for each 30-minute topic
 
----
+| Approx. time | What happens |
+| --- | --- |
+| 0–3 min | Introduce topic + remind participants of the three columns |
+| 3–11 min | Small-group discussion + sticky notes |
+| 11–16 min | Groups share |
+| 16–19 min | React, clarify, optional second discussion |
+| 19–21 min | Vote |
+| 21–24 min | Produce summary |
+| 24–29 min | Check and revise with participants |
+| 29–30 min | Confirm final summary |
 
-# 4. The two discussion loops
+Protect the Converge loop. If time is running short, shorten the earlier discussion rather than skipping the final synthesis and validation.
 
-Every 30-minute topic round follows the same two-loop structure.
+The 10-minute questionnaire and short break immediately follow the discussion and are included in the same round on the participant-facing agenda.
 
-# LOOP 1: DISCUSS & SHARE
+## 6. Human moderation
 
-### Purpose
+The moderator manages the full process:
 
-Surface the range of recommendations, conditions, concerns, and perspectives in the room.
-
-The basic cycle is:
-
-**Discuss → Write → Share → React → Vote**
-
-Loop 1 can contain **one full cycle plus, if needed, one short clarification cycle**.
-
----
-
-## Step 1. Introduce the topic
-
-### Approximately 3 minutes
-
-State the discussion question.
-
-Remind participants of the two things they should initially generate:
-
-**1. What should be done?**
-**2. Under what conditions, and what must not happen?**
-
-Do not ask groups to separately brainstorm the disagreement column yet.
-
-Disagreement should primarily emerge from interaction between participants and groups.
-
----
-
-## Step 2. Small-group discussion
-
-### Approximately 7 minutes
-
-Participants discuss at their tables.
-
-Moderators should encourage participants to move beyond general opinions toward concrete proposals.
-
-Useful prompts include:
-
-**For recommendations**
-
-* What should actually be done?
-* Who should do it?
-* What would you change?
-* What should Switzerland prioritize?
-
-**For conditions and red lines**
-
-* Under what conditions would you support this?
-* What safeguards would be necessary?
-* What could go wrong?
-* What should never be allowed to happen?
-
-Groups write their main contributions on sticky notes.
-
-Sticky notes should clearly belong to either:
-
-**Policy Recommendations**
-
-or
-
-**Conditions & Red Lines**
-
-Aim for a small number of clear, substantive contributions rather than many overlapping notes.
-
----
-
-## Step 3. Group representatives share
-
-### Approximately 6 minutes
-
-Ask one representative from each table to briefly present the group's main contributions.
-
-As they speak, their sticky notes are placed in the appropriate columns on the large board at the front.
-
-Keep contributions concise.
-
-The purpose is for everyone in the room to understand what the other groups are proposing.
+**Discuss → Share → Physical vote → Human synthesis → Participant revision → Confirmation**
 
 The moderator should:
 
-* clarify unclear wording;
-* ask brief follow-up questions when necessary;
-* identify obvious overlap;
-* avoid prematurely combining positions that may actually differ;
-* notice where participants react positively or negatively to another group's proposal.
+- keep discussion balanced;
+- make sure recommendations and conditions are concrete;
+- notice disagreement as it emerges;
+- avoid pushing participants toward agreement;
+- make sure minority or contested views are not lost.
 
-These reactions provide evidence for the later **Disagreements & Unresolved Issues** column.
+## 7. AI-supported moderation with MURMI
 
----
+The human moderator still facilitates the discussion. MURMI supports capture, cross-group sharing, voting, and synthesis.
 
-## Step 4. React and clarify
+### Before creating the session
 
-### Approximately 4 minutes
+Check:
 
-Allow participants to react to what they have heard.
+- **Host name:** Initials only
+- **Topic:** Correct topic
+- **Spoken language:** Matches the room
+- **Vote scale:** 5-point
+- **Common-ground mode:** Policy
 
-Ask questions such as:
+### Languages
 
-* Is anything unclear?
-* Is something important missing?
-* Do you interpret any of these proposals differently?
-* Does anyone disagree with something that has been proposed?
-* Does a recommendation need an additional condition?
+| Location | Room | MURMI language |
+| --- | --- | --- |
+| Zurich | German room | German |
+| Zurich | English room | English |
+| Lausanne | French room | French |
+| Lausanne | English room | English |
 
-If substantial new information emerges, allow a **short second Discuss → Write → Share cycle**.
+### When participants join
 
-Use this second cycle only when it adds something important.
+Everyone should use only:
 
-For consistency, a second cycle is appropriate when:
+**First initial + last initial**
 
-* an important proposal remains unclear;
-* one of the first two columns is noticeably incomplete;
-* participants identify a major missing perspective;
-* hearing the other groups substantially changes a group's position.
+Example: **Joshua Yang → JY**
 
-Do not run a second cycle simply to fill time.
+### Starting
 
----
+Once everyone has joined:
 
-# 5. Voting at the end of Loop 1
+1. Press **Record**.
+2. Make sure recording has actually started before beginning the discussion.
 
-Voting takes place after participants have heard the contributions from the other groups.
+### During the discussion
 
-The purpose of the vote is to understand the level of support for the ideas that have been generated.
+MURMI generates statements from the conversation.
 
-A vote is **not automatically evidence of consensus**.
+If an important idea has not been captured, participants can add a statement manually.
 
-Minority positions and objections may still need to appear in Column 3.
+Do this before voting so that important contributions are not excluded simply because the system missed them.
 
-## HUMAN MODERATION CONDITION
+### During convergence
 
-Participants vote on the contributions displayed physically on the board.
+Use MURMI to generate the common-ground summary.
 
-Use the same physical voting procedure for all human-moderated sessions.
+Treat this as a draft.
 
-The moderator should make clear that participants are voting **after having heard the other groups' contributions**.
+Participants should correct and revise it in exactly the same way they would correct a human-generated summary.
 
-## AI-SUPPORTED CONDITION
+## 8. Moderator roles
 
-The contributions are available through **MURMI**.
+### If there are two moderators
 
-Participants use MURMI to:
+#### Lead moderator
 
-* see what the other groups contributed;
-* respond to those contributions;
-* vote on the ideas.
+- facilitates the room;
+- moves between tables;
+- keeps time;
+- manages sharing and discussion.
 
-The moderator should allow participants enough time to actually inspect contributions from outside their own group rather than simply voting on their own group's ideas.
+#### MURMI moderator
 
----
+- manages the platform;
+- checks generated statements;
+- approves or checks statements as needed;
+- monitors voting;
+- generates and updates the summary;
+- alerts the lead moderator if something important appears to be missing.
 
-# LOOP 2: FIND COMMON GROUND
+### If there is one moderator
 
-### Purpose
+One person can manage both roles.
 
-Transform the contributions and reactions from Loop 1 into an accurate room-level summary.
+Focus primarily on participants during active discussion and check MURMI at natural transition points, especially:
 
-The basic cycle is:
+- before voting;
+- before generating the synthesis;
+- while revising the synthesis.
 
-**Synthesize → Check → Feedback → Revise → Confirm**
+## 9. Final discussion · AI & Switzerland
 
-The final synthesis must contain all three columns:
+The closing discussion is AI-supported in every group.
 
-1. **Policy Recommendations**
-2. **Conditions & Red Lines**
-3. **Disagreements & Unresolved Issues**
+Use the broader question:
 
----
+> What should Switzerland do to create a desirable AI future?
 
-# 6. Produce the first room-level synthesis
+Use the same three-column structure:
 
-### Approximately 3 minutes
-
-## HUMAN MODERATION CONDITION
-
-The moderator produces a concise synthesis based on:
-
-* the sticky notes;
-* the discussion;
-* the voting;
-* participants' reactions to one another.
-
-Organize the synthesis into the three columns.
-
-Do not simply copy the most popular sticky notes.
-
-The moderator should also identify qualifications, conflicting positions, and unresolved questions.
-
-## AI-SUPPORTED CONDITION
-
-MURMI generates a draft synthesis based on:
-
-* group contributions;
-* participant responses;
-* voting;
-* the discussion captured through the AI-supported process.
-
-The AI-generated output must also follow the same three-column structure.
-
-The AI summary is **only a draft**.
-
-It should never be presented as the definitive interpretation of the room.
-
----
-
-# 7. Check the summary with participants
-
-### Approximately 4 minutes
-
-Present the three-column synthesis to the whole room.
-
-Ask:
-
-> **“Does this fairly represent what we have discussed?”**
-
-Then explicitly check each column.
-
-### Policy Recommendations
-
-Ask:
-
-* Are these the main things we think should be done?
-* Is anything important missing?
-* Is anything stated too strongly?
-
-### Conditions & Red Lines
-
-Ask:
-
-* Have we captured the important conditions?
-* Are the necessary safeguards represented?
-* Are any important red lines missing?
-
-### Disagreements & Unresolved Issues
-
-Ask:
-
-* Have we accidentally presented something as agreement when it is actually contested?
-* Where do important differences remain?
-* Is there a minority view that needs to be represented?
-* Is there a question that we have not resolved?
-
----
-
-# 8. Revise iteratively
-
-Participants can:
-
-* challenge wording;
-* add missing ideas;
-* ask for a qualification;
-* say that a statement overstates agreement;
-* identify an important disagreement;
-* suggest alternative wording.
-
-Revise the summary accordingly.
-
-### Human condition
-
-The moderator updates the summary.
-
-### AI-supported condition
-
-Participant feedback is used to revise the MURMI-generated summary.
-
-If necessary, run another brief:
-
-**Feedback → Revision → Check**
-
-Do not spend time trying to persuade participants to remove disagreement.
-
-If a substantive disagreement cannot be resolved, **move it into Column 3**.
-
----
-
-# 9. Confirm the final common ground
-
-### Approximately 1 minute
-
-At the end of the round, ask participants to confirm:
-
-> **“Does this now fairly represent both what we share and where we still disagree?”**
-
-This is the key standard.
-
-Participants are **not being asked to personally endorse every recommendation**.
-
-They are confirming that the final summary accurately represents the room.
-
-The final result should therefore look like:
-
-| Policy Recommendations | Conditions & Red Lines                         | Disagreements & Unresolved Issues |
-| ---------------------- | ---------------------------------------------- | --------------------------------- |
-| What should be done    | Under what conditions and what must not happen | Where views still differ          |
-
----
-
-# 10. Recommended timing within each 30-minute topic
-
-| Time      | Activity                                           |
-| --------- | -------------------------------------------------- |
-| 0-3 min   | Introduce topic and remind participants of outputs |
-| 3-10 min  | Small-group discussion + sticky notes              |
-| 10-16 min | Representatives share with whole room              |
-| 16-20 min | Reactions, clarification, optional mini-cycle      |
-| 20-22 min | Vote / cross-group response                        |
-| 22-25 min | Produce three-column synthesis                     |
-| 25-29 min | Participant feedback and revision                  |
-| 29-30 min | Confirm final summary                              |
-
-### Protect Loop 2
-
-Do not allow Loop 1 to consume all 30 minutes.
-
-If time is running short:
-
-1. Skip the optional second discussion cycle.
-2. Shorten group representative presentations.
-3. Move quickly into voting.
-4. **Always protect time for synthesis, participant correction, and final confirmation.**
-
-The validated summary is one of the main outputs of the exercise.
-
----
-
-# 11. Survey and transition between rounds
-
-After each 30-minute topic:
-
-**Stop the discussion before introducing the next condition.**
-
-Participants complete the survey individually.
-
-Allow approximately **10 minutes for survey completion and a short break**.
-
-Avoid having a whole-room discussion comparing the two formats before participants complete their surveys.
-
-Once surveys are complete, bring participants back and introduce the next round.
-
----
-
-# 12. Human moderation: moderator responsibilities
-
-During the human-moderated condition, the moderator is responsible for:
-
-* keeping discussion balanced and inclusive;
-* prompting concrete recommendations;
-* prompting conditions and red lines;
-* ensuring sticky notes are understandable;
-* managing representative sharing;
-* noticing reactions and disagreement;
-* administering the physical vote;
-* synthesizing the discussion into three columns;
-* checking the synthesis with participants;
-* revising it based on participant feedback;
-* obtaining final confirmation.
-
-### Do not
-
-* use MURMI to generate or structure the synthesis;
-* hide minority positions because they received fewer votes;
-* treat the most popular proposal as automatic consensus;
-* resolve disagreement on behalf of participants;
-* introduce your own substantive opinion.
-
----
-
-# 13. AI-supported moderation: moderator responsibilities
-
-The human moderator still facilitates the discussion.
-
-MURMI supports particular parts of the process.
-
-The moderator remains responsible for:
-
-* explaining the task;
-* maintaining balanced participation;
-* asking follow-up questions;
-* helping participants formulate clear contributions;
-* making sure participants engage with contributions from other groups;
-* helping participants interpret the AI-generated synthesis;
-* actively inviting criticism of the AI output;
-* ensuring revisions reflect participant feedback;
-* confirming the final result with the room.
-
-### MURMI supports
-
-* sharing contributions across groups;
-* collecting reactions and votes;
-* structuring contributions;
-* generating a room-level synthesis;
-* revising the synthesis based on feedback.
-
-### Important
-
-Do not defend the AI-generated summary.
-
-If participants believe it is wrong, incomplete, or misleading, treat that as valuable feedback and revise it.
-
-The AI is assisting the deliberation. It does not determine the result.
-
----
-
-# 14. Final 20 minutes: AI & Switzerland
-
-The final discussion broadens the conversation beyond work and education.
-
-This section is **AI-supported in both rooms**.
-
-It is not part of the human-versus-AI moderation comparison.
-
-### Opening question
-
-A possible framing is:
-
-> **“Having discussed AI in work and education, what should Switzerland do to create a desirable AI future?”**
-
-Again, remind participants of the three outputs:
-
-1. What should Switzerland do?
-2. Under what conditions, and what are the red lines?
+1. What should be done?
+2. Under what conditions and with what red lines?
 3. Where do we still disagree?
 
-## Suggested 20-minute structure
+Run a shortened version of the same process:
 
-### 0-2 min
+**Discuss → Share/React → Vote → Synthesize → Revise → Confirm**
 
-Introduce the broader Swiss AI question.
+### Suggested rhythm for the 10-minute discussion
 
-### 2-8 min
+| Approx. time | What happens |
+| --- | --- |
+| 0–1 min | Introduce the question and three-column output |
+| 1–4 min | Table discussion |
+| 4–6 min | Share and react through MURMI |
+| 6–8 min | Generate the three-column synthesis |
+| 8–10 min | Correct and confirm the synthesis |
 
-Short table discussion.
+### Review the automatically generated report · 5 minutes
 
-Ask participants to draw on what they have learned from both previous topics.
+Show the generated report page to the room before the final questionnaire.
 
-### 8-12 min
+Use it to summarize the outcome of the workshop:
 
-Use MURMI to share contributions across the room and allow participants to react or vote.
+- the main recommendations;
+- the most important conditions and red lines;
+- the disagreements and unresolved issues that remain.
 
-### 12-16 min
+Ask participants to check:
 
-Generate an AI-supported three-column synthesis.
+- Is an important takeaway missing?
+- Is anything incorrect or too strong?
+- Does the report fairly reflect what happened today?
 
-### 16-19 min
+Correct obvious errors before moving to the final questionnaire. The purpose is to let participants see the result of their work and leave with a clear sense of what the workshop produced.
 
-Ask participants to challenge, correct, and improve the synthesis.
+## 10. Participant documents
 
-### 19-20 min
+There are three things moderators must not forget.
 
-Confirm the final summary and close the workshop.
+### Consent form
 
-The resulting output can serve as the room's broader contribution to **Swiss AI Futures**.
+Completed before the workshop discussion begins.
 
----
+### Questionnaire
 
-# 15. Non-negotiables for consistency
+Completed:
 
-Across rooms and conditions, moderators should ensure that:
+- after Topic 1;
+- after Topic 2;
+- at the end of the workshop.
 
-### 1. The three-column goal is explained before discussion begins.
+Participants should complete these individually.
 
-Participants should know from the start that the workshop is seeking:
+### Payment method form
 
-**Recommendations + Conditions/Red Lines + Disagreements**
+Completed at the end.
 
-### 2. Both topic rounds use the same two-loop structure.
+Participants either:
 
-**Loop 1: Discuss & Share**
+- confirm that they received their voucher; or
+- request payment by bank transfer and provide the necessary information.
 
-**Loop 2: Find Common Ground**
+## 11. Moderator quick check
 
-### 3. Participants hear from other groups before the final synthesis.
+### Before starting
 
-The exercise is not simply a collection of independent table discussions.
+- [ ] Consent completed
+- [ ] Three-column board visible
+- [ ] Sticky notes and voting materials ready
+- [ ] Correct topic order confirmed
 
-Interaction between perspectives is essential.
+### Before an AI-supported session
 
-### 4. The third column is taken seriously.
+- [ ] Correct topic
+- [ ] Correct language
+- [ ] Initials only
+- [ ] Likert 5-point
+- [ ] Correct common-ground mode
+- [ ] Record pressed
 
-Do not turn disagreement into artificial consensus.
+### Before voting
 
-### 5. Votes indicate support, not automatic consensus.
+- [ ] Groups have heard each other's ideas
+- [ ] MURMI statements checked
+- [ ] Missing statements can be added
 
-A low-support position may still be substantively important and belong in the disagreement column.
+### Before ending a topic
 
-### 6. Every synthesis is validated by participants.
+- [ ] Three-column summary created
+- [ ] Participants have corrected it
+- [ ] Disagreement explicitly checked
+- [ ] Final representation confirmed
+- [ ] Questionnaire completed
 
-Neither a human moderator nor MURMI has final authority over what the group thinks.
+### Before participants leave
 
-### 7. Human and AI-supported conditions differ only where intended.
+- [ ] Generated report shown
+- [ ] Main takeaways summarized
+- [ ] Participants checked the representation
+- [ ] Final questionnaire
+- [ ] Payment method form
+- [ ] Voucher confirmed or bank transfer selected
 
-The deliberative goal, topic questions, three-column output, and basic two-loop process should remain as comparable as possible.
+## 12. Remember the core structure
 
-### 8. The moderator remains neutral.
+### Diverge
 
-The moderator facilitates, clarifies, and synthesizes. They do not argue for particular policy positions.
+**Discuss → Share → React → Vote**
 
----
+### Converge
 
-# 16. Moderator checklist
+**Synthesize → Check → Revise → Confirm**
 
-## Before participants arrive
+### Final output
 
-□ Board prepared with three clearly labelled columns
-□ Sticky notes and pens available
-□ Physical voting materials ready
-□ MURMI tested and accessible
-□ Correct topic order confirmed for the language room
-□ Survey links or materials ready
-□ Timer visible to moderator
-
-## Before each topic
-
-□ State the topic
-□ Remind participants of the three outputs
-□ Explain whether this round uses human or AI-supported moderation
-□ Start Loop 1
-
-## Before ending each topic
-
-□ Participants have heard contributions from other groups
-□ Voting/reactions completed
-□ Three-column synthesis produced
-□ Participants given opportunity to challenge the synthesis
-□ Important disagreements recorded
-□ Final wording confirmed by the room
-
-## After each topic
-
-□ Stop discussion
-□ Participants complete survey individually
-□ Short break
-□ Reset board/process for next topic
-
-## Before participants leave
-
-□ Final AI & Switzerland synthesis completed
-□ Common ground confirmed
-□ Remaining disagreements recorded
-□ Final participant tasks completed
-□ Thank participants and close the workshop
+1. What should be done?
+2. Under what conditions and with what red lines?
+3. Where do we still disagree?

@@ -49,36 +49,39 @@
   const slideMeta = {
     1: { phase: "intro", mode: "context", layout: "hero", timer: 1 },
     2: { phase: "intro", mode: "impact", layout: "closing", timer: 3, fragments: "sections" },
-    3: { phase: "intro", mode: "today", layout: "logistics", timer: 6, fragments: "sections" },
-    4: { phase: "intro", mode: "today", layout: "schedule", timer: 2, fragments: "sections" },
-    5: { phase: "intro", mode: "process", layout: "loops", timer: 5, fragments: "sections" },
-    6: { phase: firstRoundPhase, mode: "process", layout: "focus", timer: 3, fragments: "sections" },
-    7: { phase: firstRoundPhase, mode: "today", layout: "topic", timer: 30, fragments: "sections" },
-    8: { phase: firstRoundPhase, mode: "today", layout: "survey", timer: 10 },
-    9: { phase: secondRoundPhase, mode: "process", layout: "focus", timer: 3, fragments: "sections" },
-    10: { phase: secondRoundPhase, mode: "today", layout: "topic", timer: 27, fragments: "sections" },
-    11: { phase: secondRoundPhase, mode: "today", layout: "survey", timer: 10 },
-    12: { phase: "future", mode: "today", layout: "topic", timer: 18, fragments: "sections" },
-    13: { phase: "future", mode: "impact", layout: "closing", timer: 2, fragments: "sections" }
+    3: { phase: "intro", mode: "process", layout: "closing", timer: 3, fragments: "sections" },
+    4: { phase: "intro", mode: "documents", layout: "logistics", timer: 6, fragments: "sections" },
+    5: { phase: "intro", mode: "schedule", layout: "schedule", timer: 2, fragments: "sections" },
+    6: { phase: "intro", mode: "process", layout: "closing", timer: 3, fragments: "sections" },
+    7: { phase: "intro", mode: "process", layout: "closing", timer: 2, fragments: "sections" },
+    8: { phase: firstRoundPhase, mode: "evidence", layout: "focus", timer: 3, fragments: "sections" },
+    9: { phase: firstRoundPhase, mode: "topic", layout: "topic", timer: 27, fragments: "sections" },
+    10: { phase: firstRoundPhase, mode: "survey", layout: "survey", timer: 10 },
+    11: { phase: secondRoundPhase, mode: "evidence", layout: "focus", timer: 3, fragments: "sections" },
+    12: { phase: secondRoundPhase, mode: "topic", layout: "topic", timer: 27, fragments: "sections" },
+    13: { phase: secondRoundPhase, mode: "survey", layout: "survey", timer: 10 },
+    14: { phase: "future", mode: "topic", layout: "topic", timer: 10, fragments: "sections" },
+    15: { phase: "future", mode: "report", layout: "closing", timer: 5, fragments: "sections" },
+    16: { phase: "future", mode: "impact", layout: "closing", timer: 5, fragments: "sections" }
   };
 
   const phaseLabelsByLanguage = {
     en: {
       intro: "Welcome and process",
-      work: "AI at work",
-      education: "AI in education",
+      work: "Round 2 · AI at work",
+      education: "Round 1 · AI in education",
       future: "Principles and next steps"
     },
     de: {
       intro: "Willkommen und Ablauf",
-      work: "KI bei der Arbeit",
-      education: "KI in der Bildung",
+      work: "Runde 1 · KI bei der Arbeit",
+      education: "Runde 2 · KI in der Bildung",
       future: "Grundsätze und nächste Schritte"
     },
     fr: {
       intro: "Accueil et déroulement",
-      work: "L’IA au travail",
-      education: "L’IA dans l’éducation",
+      work: "Tour 2 · L’IA au travail",
+      education: "Tour 1 · L’IA dans l’éducation",
       future: "Principes et prochaines étapes"
     }
   };
@@ -88,22 +91,34 @@
       context: "Project context",
       evidence: "Previous insights",
       process: "How today works",
-      today: "Today’s activity",
-      impact: "What happens next"
+      documents: "Before we begin",
+      schedule: "Today’s plan",
+      topic: "Discussion topic",
+      survey: "Survey & break",
+      impact: "What happens next",
+      report: "Today’s result"
     },
     de: {
       context: "Projektkontext",
       evidence: "Bisherige Erkenntnisse",
       process: "So läuft der Workshop",
-      today: "Heutige Aktivität",
-      impact: "Wie es weitergeht"
+      documents: "Vor dem Start",
+      schedule: "Heutiger Ablauf",
+      topic: "Diskussionsthema",
+      survey: "Fragebogen & Pause",
+      impact: "Wie es weitergeht",
+      report: "Heutiges Ergebnis"
     },
     fr: {
       context: "Contexte du projet",
       evidence: "Résultats précédents",
       process: "Déroulement de l’atelier",
-      today: "Activité du jour",
-      impact: "Et ensuite"
+      documents: "Avant de commencer",
+      schedule: "Programme du jour",
+      topic: "Sujet de discussion",
+      survey: "Questionnaire & pause",
+      impact: "Et ensuite",
+      report: "Résultat du jour"
     }
   };
 
@@ -1054,7 +1069,7 @@
       if (!response.ok) throw new Error(`Source request failed: ${response.status}`);
       const source = await response.text();
       state.slides = parseSlides(source);
-      if (state.slides.length !== 13) throw new Error(`Expected 13 slides, found ${state.slides.length}`);
+      if (state.slides.length !== 16) throw new Error(`Expected 16 slides, found ${state.slides.length}`);
 
       elements.track.innerHTML = state.slides.map(renderSlide).join("");
       renderOverview();

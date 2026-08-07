@@ -5,7 +5,7 @@ subtitle: "Perspektiven der Bevölkerung auf KI in Arbeit, Bildung und Schweizer
 date: "[Workshop-Datum]"
 location: "[Zürich]"
 format: "16:9-Präsentation mit Moderationsnotizen"
-version: "13-Folien-Deck gemäss Moderationsprotokoll"
+version: "16-Folien-Deck gemäss Moderationsprotokoll"
 -------------------------------------------
 
 # Slide 1. Swiss AI Futures
@@ -61,7 +61,7 @@ Die dreispaltigen Zusammenfassungen sind abgewogene Empfehlungen und eine Dokume
 
 ### Sources
 
-Projektunterlagen für Teilnehmende. Moderator Protocol and Run-of-Show, Abschnitte 2 und 15.
+Projektunterlagen für Teilnehmende.
 
 ## Timing
 
@@ -69,7 +69,42 @@ Projektunterlagen für Teilnehmende. Moderator Protocol and Run-of-Show, Abschni
 
 ---
 
-# Slide 3. Dokumente auf dem Tisch
+# Slide 3. Regeln der Deliberation
+
+## On-screen copy
+
+# So beraten wir gemeinsam
+
+## Zuhören und verstehen
+
+* Lassen Sie andere ausreden.
+* Fragen Sie nach, bevor Sie urteilen.
+
+## Raum teilen
+
+* Fassen Sie sich kurz.
+* Laden Sie noch nicht gehörte Stimmen ein.
+
+## Ideen prüfen — nicht Personen
+
+* Begründen Sie Ihre Sicht.
+* Widersprechen Sie respektvoll und bleiben Sie offen.
+
+## Presenter notes
+
+Stellen Sie diese Punkte als praktische Gewohnheiten für eine gute Bürger:innen-Deliberation vor, nicht als Prüfung.
+
+Alle dürfen aus eigener Erfahrung sprechen. Bitten Sie die Teilnehmenden, neugierig zuzuhören, ruhigeren Stimmen Raum zu geben und ihre Gründe zu erklären. Dissens ist wertvoll, wenn er respektvoll bleibt und sich auf Ideen richtet.
+
+Die Moderation darf eingreifen, um gleichberechtigte Beteiligung und eine konstruktive Diskussion zu sichern.
+
+## Timing
+
+3 Minuten.
+
+---
+
+# Slide 4. Dokumente auf dem Tisch
 
 ## On-screen copy
 
@@ -103,7 +138,7 @@ Das Entschädigungsformular bestätigt den Erhalt des Gutscheins über CHF 60 od
 
 ---
 
-# Slide 4. Der heutige Ablauf
+# Slide 5. Der heutige Ablauf
 
 ## On-screen copy
 
@@ -115,35 +150,35 @@ Das Entschädigungsformular bestätigt den Erhalt des Gutscheins über CHF 60 od
 
 Zweck, Dokumente, Schleifen und Ergebnisse.
 
-## 17:50–18:20
+## 17:50–18:30
 
-**Runde 1 · Menschlich**
+**Runde 1 · KI bei der Arbeit**
 
-KI bei der Arbeit.
+Menschlich moderierte Diskussion · 30 Min; Fragebogen + Pause · 10 Min.
 
-## 18:20–18:30
+## 18:30–19:10
 
-**Fragebogen + Pause**
+**Runde 2 · KI in der Bildung**
 
-Selbstständig antworten.
+MURMI-unterstützte Diskussion · 30 Min; Fragebogen + Pause · 10 Min.
 
-## 18:30–19:00
-
-**Runde 2 · MURMI**
-
-KI in der Bildung.
-
-## 19:00–19:10
-
-**Fragebogen + Pause**
-
-Selbstständig antworten.
-
-## 19:10–19:30
+## 19:10–19:20
 
 **KI & Schweiz**
 
-MURMI-unterstützte Abschlussdiskussion.
+MURMI-unterstützte Diskussion · 10 Min.
+
+## 19:20–19:25
+
+**Automatisch erstellten Bericht prüfen**
+
+Kernaussagen und Genauigkeit prüfen · 5 Min.
+
+## 19:25–19:30
+
+**Letzter Fragebogen + Abschluss**
+
+Entschädigungsformular und Abgabe · 5 Min.
 
 ## Presenter notes
 
@@ -155,7 +190,7 @@ Vergleichen Sie die Formate erst, nachdem die Teilnehmenden den Fragebogen nach 
 
 ### Sources
 
-Moderator Protocol and Run-of-Show, Abschnitt 1.
+Swiss AI Futures Moderator Guide, Abschnitte 1–2.
 
 ## Timing
 
@@ -163,75 +198,33 @@ Moderator Protocol and Run-of-Show, Abschnitt 1.
 
 ---
 
-# Slide 5. Die zwei Diskussionsschleifen
+# Slide 6. Schleife 1 · Diskutieren und teilen
 
 ## On-screen copy
 
-# Zwei Schleifen für jedes Thema
+# Schleife 1 · Diskutieren und teilen
 
-## Schleife 1 · Diskutieren & Teilen
+## Sprechen
 
-* Diskutieren → Schreiben → Teilen → Reagieren → Abstimmen
-* Vor der Abstimmung andere Gruppen hören.
+Erklären Sie, was Sie denken und warum. Hören Sie auf unterschiedliche Erfahrungen.
 
-## Schleife 2 · Gemeinsames finden
+## Schreiben
 
-* Zusammenfassen → Prüfen → Überarbeiten → Bestätigen
-* Final erst nach Ihrer Bestätigung.
+Eine Hauptidee pro Haftnotiz.
 
-## Gleiches Ziel
+## Teilen und abstimmen
 
-Runde 1 wird menschlich moderiert. Runde 2 und der Abschluss nutzen MURMI.
+Notizen anbringen, ähnliche Ideen bündeln und zeigen, welche am wichtigsten sind.
 
 ## Presenter notes
 
-Schleife 1 macht Empfehlungen, Bedingungen, Sorgen und verschiedene Perspektiven sichtbar. Gruppen diskutieren, schreiben wenige klare Haftnotizen, hören die anderen Tische, reagieren und stimmen ab.
-
-Schleife 2 erstellt eine Zusammenfassung für den ganzen Raum. Sie wird Spalte für Spalte geprüft, aufgrund des Feedbacks überarbeitet und als faire Darstellung von Gemeinsamkeiten und Dissens bestätigt.
+Schleife 1 macht Empfehlungen, Bedingungen, Sorgen und verschiedene Perspektiven sichtbar. Gruppen diskutieren, schreiben wenige klare Haftnotizen, hören die anderen Tische, reagieren und stimmen ab. Runde 1 nutzt die physische Tafel; Runde 2 nutzt MURMI für Austausch und Abstimmung zwischen den Gruppen.
 
 Eine Abstimmung zeigt Unterstützung. Sie schafft nicht automatisch Konsens.
 
 ### Sources
 
-Moderator Protocol and Run-of-Show, Abschnitte 4–9.
-
-## Timing
-
-5 Minuten.
-
----
-
-# Slide 6. Die drei Ergebnisse
-
-## On-screen copy
-
-# Jede Runde erzeugt drei Ergebnisse
-
-## 1 · Politische Empfehlungen
-
-Was soll getan werden?
-
-## 2 · Bedingungen & rote Linien
-
-Unter welchen Bedingungen? Was darf nicht passieren?
-
-## 3 · Dissens & offene Fragen
-
-Wo unterscheiden sich die Sichtweisen weiterhin?
-
-## Presenter notes
-
-Zeigen Sie physisch auf die drei Spalten an der Tafel.
-
-Spalten 1 und 2 entstehen vor allem aus den Vorschlägen der Teilnehmenden. Spalte 3 entsteht vor allem aus den Reaktionen auf andere Gruppen.
-
-Die Teilnehmenden sollen Dissens am Anfang nicht separat sammeln. Er soll durch Interaktion sichtbar werden. Das Ziel ist nicht, ihn zu beseitigen.
-
-Sagen Sie: „Wir suchen sowohl Gemeinsamkeiten als auch wichtigen verbleibenden Dissens.“
-
-### Sources
-
-Moderator Protocol and Run-of-Show, Abschnitte 2 und 3.
+Swiss AI Futures Moderator Guide, Abschnitte 3–5.
 
 ## Timing
 
@@ -239,48 +232,114 @@ Moderator Protocol and Run-of-Show, Abschnitte 2 und 3.
 
 ---
 
-# Slide 7. Runde 1 · KI bei der Arbeit
+# Slide 7. Schleife 2 · Gemeinsames Ergebnis finden
+
+## On-screen copy
+
+# Schleife 2 · Gemeinsames Ergebnis finden
+
+## Zusammenfassung erstellen
+
+Ideen in drei Spalten sortieren: **Empfehlungen · Bedingungen & rote Linien · Dissens**
+
+## Gemeinsam prüfen
+
+Falsches oder zu stark Formuliertes korrigieren. Wichtigen Dissens sichtbar lassen.
+
+## Bestätigen
+
+Sicherstellen, dass die Gruppe mit der endgültigen Formulierung leben kann.
+
+## Presenter notes
+
+Schleife 2 erstellt eine Zusammenfassung für den ganzen Raum. Prüfen Sie die drei Spalten einzeln, überarbeiten Sie die Formulierungen aufgrund des Feedbacks und bestätigen Sie, dass das Ergebnis Gemeinsamkeiten und Dissens fair wiedergibt.
+
+Konsens bedeutet nicht, dass alle jeden Satz bevorzugen. Die Zusammenfassung soll für die Gruppe genügend genau sein, während wichtiger Dissens sichtbar bleibt.
+
+### Sources
+
+Swiss AI Futures Moderator Guide, Abschnitte 3–5.
+
+## Timing
+
+2 Minuten.
+
+---
+
+# Slide 8. Online-Erkenntnisse zur Arbeit
+
+## On-screen copy
+
+# Online-Teilnehmende wollen Beschäftigte aktiv unterstützen
+
+## Jetzt schulen
+
+**30 von 34** befürworteten KI-Schulungen im aktuellen Beruf.
+
+## Verantwortung teilen
+
+Arbeitgeber sollen handeln, werden aber selten als KI-Ratgeber vertraut.
+
+## Nicht dem Markt überlassen
+
+**29 von 35** lehnten eine alleinige Anpassung durch den Arbeitsmarkt ab.
+
+## Presenter notes
+
+Geben Sie nur so viel Kontext, wie für den Einstieg nötig ist. Diese Ergebnisse sind Ausgangspunkte, keine vorgegebenen Schlussfolgerungen.
+
+Online-Teilnehmende unterstützten Schulungen im aktuellen Beruf und staatlich finanzierte Umschulung. Sie lehnten es ab, die Anpassung allein dem Markt zu überlassen. Verantwortung wurde Arbeitgebern, Schulen, öffentlichen Institutionen und Einzelpersonen zugeschrieben; das grösste Vertrauen galt Universitäten und unabhängigen Quellen.
+
+Die Online-Phase war explorativ und nicht repräsentativ. Laden Sie die Teilnehmenden ein, diese Erkenntnisse zu hinterfragen, zu präzisieren oder zu ergänzen.
+
+### Sources
+
+Online Insights, „Fair distribution of AI economical benefits“ und „Shared responsibility among stakeholders“.
+
+## Timing
+
+3 Minuten.
+
+---
+
+# Slide 9. Runde 1 · KI bei der Arbeit
 
 ## On-screen copy
 
 # Wie sollen Beschäftigte auf KI vorbereitet und geschützt werden?
 
-## Diskutieren + schreiben
+## Vier Fragen
 
-* Eine Idee pro Haftnotiz.
-* Unter Empfehlungen oder Bedingungen & rote Linien einordnen.
-
-## Teilen + reagieren
-
-Hören Sie die anderen Gruppen. Was fehlt, ist unklar oder umstritten?
-
-## Abstimmen
-
-Erst abstimmen, nachdem alle gehört wurden. Unterstützung ist nicht automatisch Konsens.
+* Welche Kompetenzen müssen gestärkt, erhalten oder neu gelernt werden?
+* Wer stellt Schulung, Zeit und Geld bereit?
+* Wo soll KI am Arbeitsplatz akzeptiert oder begrenzt werden?
+* Welcher Schutz ist nötig, wenn sich Stellen oder Erwartungen verändern?
 
 ## Presenter notes
 
 Runde 1 nutzt menschliche Moderation und eine physische Abstimmung.
 
-Nennen Sie die Frage und erinnern Sie an Spalten 1 und 2. Planen Sie etwa 7 Minuten für Tischdiskussion und Haftnotizen, 6 Minuten für die Beiträge der Gruppen, 4 Minuten für Reaktionen und Klärung sowie 2 Minuten für die Abstimmung.
+Lesen Sie die vier Leitfragen vor. Sie dienen als Orientierung und müssen nicht mechanisch abgearbeitet werden.
+
+Führen Sie von allgemeinen Meinungen zu konkreten Vorschlägen. Eine Hauptidee pro Haftnotiz; einordnen unter Politische Empfehlungen oder Bedingungen & rote Linien.
+
+Planen Sie etwa 8 Minuten für Tischdiskussion und Haftnotizen, 5 Minuten für die Beiträge der Gruppen, 3 Minuten für Reaktionen und Klärung sowie 2 Minuten für die Abstimmung.
 
 Danach erstellt die menschliche Moderation eine kurze dreispaltige Zusammenfassung aus Haftnotizen, Diskussion, Abstimmung und Reaktionen. Prüfen und überarbeiten Sie sie mit den Teilnehmenden. Fragen Sie: „Stellt dies jetzt fair dar, was wir teilen und wo wir noch uneinig sind?“
 
-Schützen Sie die letzten 8 Minuten für Zusammenfassung, Korrektur und Bestätigung.
-
-Nützliche Fragen: Wer könnte zurückbleiben? Soll Schulung während bezahlter Arbeitszeit stattfinden? Wer bezahlt? Welche Kompetenzen sollen menschlich bleiben? Welcher Schutz ist unverzichtbar?
+Schützen Sie die letzten 9 Minuten für Zusammenfassung, Korrektur und Bestätigung.
 
 ### Sources
 
-Moderator Protocol and Run-of-Show, Abschnitte 4–10 und 12.
+Swiss AI Futures Moderator Guide, Abschnitte 3–6 und 10. Online Insights, Erkenntnisse und Workshopfragen zur Arbeit.
 
 ## Timing
 
-30 Minuten.
+27 Minuten nach der 3-minütigen Einführung in die Online-Erkenntnisse.
 
 ---
 
-# Slide 8. Zusammenfassung und Fragebogen
+# Slide 10. Zusammenfassung und Fragebogen
 
 ## On-screen copy
 
@@ -304,7 +363,7 @@ Planen Sie ungefähr 10 Minuten für Fragebogen und kurze Pause.
 
 ### Sources
 
-Moderator Protocol and Run-of-Show, Abschnitte 9 und 11.
+Swiss AI Futures Moderator Guide, Abschnitt 10.
 
 ## Timing
 
@@ -312,35 +371,35 @@ Moderator Protocol and Run-of-Show, Abschnitte 9 und 11.
 
 ---
 
-# Slide 9. MURMI in Runde 2
+# Slide 11. Online-Erkenntnisse zur Bildung
 
 ## On-screen copy
 
-# MURMI unterstützt — die Teilnehmenden entscheiden
+# Online-Teilnehmende wollen KI schrittweise und begleitet einführen
 
-## Zwischen Gruppen teilen
+## Urteilsvermögen vermitteln
 
-Beiträge anderer Tische lesen, beantworten und bewerten.
+**32 von 36** unterstützten das Prüfen von KI auf Fehler und Verzerrungen.
 
-## Entwurf erstellen
+## Klare Schutzmassnahmen
 
-MURMI ordnet die Beiträge in dieselben drei Spalten.
+**31 von 36** unterstützten klare Regeln; **32 von 36** den Schutz von Schüler:innendaten.
 
-## Korrigieren und bestätigen
+## Schrittweise einführen
 
-Formulierungen hinterfragen. Fehlendes ergänzen. Der KI-Entwurf ist nie final.
+Die Folgebefragung erlaubte in der Primarschule weniger KI als auf späteren Stufen.
 
 ## Presenter notes
 
-Die menschliche Moderation erklärt weiterhin die Aufgabe, sorgt für ausgewogene Beteiligung, stellt Rückfragen und hilft bei klaren Beiträgen.
+Geben Sie nur so viel Kontext, wie für den Einstieg nötig ist. Diese Ergebnisse sind Ausgangspunkte, keine vorgegebenen Schlussfolgerungen.
 
-MURMI unterstützt das Teilen zwischen Gruppen, Reaktionen und Abstimmungen, die Strukturierung der Beiträge, den Entwurf der Zusammenfassung und ihre Überarbeitung.
+Das klarste Signal war weder „KI verbieten“ noch „KI überall einsetzen“. Unterstützt wurden kritisches Prüfen, klare Regeln, Datenschutz, Schulung von Lehrpersonen und eine schrittweise Einführung nach Bildungsstufe.
 
-Verteidigen Sie eine KI-generierte Zusammenfassung nicht. Fordern Sie Kritik aktiv ein und überarbeiten Sie alles, was falsch, unvollständig oder irreführend ist.
+Die Online-Phase war explorativ und nicht repräsentativ. Laden Sie die Teilnehmenden ein, diese Erkenntnisse zu hinterfragen, zu präzisieren oder zu ergänzen.
 
 ### Sources
 
-Moderator Protocol and Run-of-Show, Abschnitte 5–8 und 13.
+Online Insights, „Gradual AI Education: Critical Thinking Before Tool Use“ und „Retraining educators“.
 
 ## Timing
 
@@ -348,46 +407,42 @@ Moderator Protocol and Run-of-Show, Abschnitte 5–8 und 13.
 
 ---
 
-# Slide 10. Runde 2 · KI in der Bildung
+# Slide 12. Runde 2 · KI in der Bildung
 
 ## On-screen copy
 
 # Wie sollen Schulen Lernende auf KI vorbereiten und schützen?
 
-## Diskutieren + schreiben
+## Vier Fragen
 
-* Eine Idee pro Haftnotiz.
-* Unter Empfehlungen oder Bedingungen & rote Linien einordnen.
-
-## Teilen + reagieren
-
-Mit MURMI andere Gruppen hören und Fehlendes oder Umstrittenes erkennen.
-
-## Abstimmen
-
-Erst abstimmen, nachdem Beiträge ausserhalb der eigenen Gruppe geprüft wurden.
+* Welche Fähigkeiten müssen Lernende vor der KI-Nutzung beherrschen?
+* Wann soll KI erlaubt sein — und wann nicht?
+* Wer bildet und unterstützt Lehrpersonen?
+* Wie schützen wir Daten, faire Beurteilung und selbstständiges Denken?
 
 ## Presenter notes
 
-Runde 2 nutzt dieselben zwei Schleifen und dieselbe Zeitstruktur wie Runde 1. MURMI unterstützt das Teilen zwischen Gruppen, Reaktionen, Abstimmung und den Entwurf der Zusammenfassung.
+Lesen Sie die vier Leitfragen vor. Sie dienen als Orientierung und müssen nicht mechanisch abgearbeitet werden.
+
+Führen Sie von allgemeinen Meinungen zu konkreten Vorschlägen. Eine Hauptidee pro Haftnotiz; einordnen unter Politische Empfehlungen oder Bedingungen & rote Linien.
+
+Runde 2 nutzt dieselben zwei Schleifen wie Runde 1. MURMI unterstützt das Teilen zwischen Gruppen, Reaktionen, Abstimmung und den Entwurf der Zusammenfassung.
 
 Stellen Sie sicher, dass die Teilnehmenden Beiträge ausserhalb ihrer eigenen Gruppe prüfen. Eine Abstimmung zeigt Unterstützung; sie ist kein automatischer Konsens.
 
 Präsentieren Sie die MURMI-generierte dreispaltige Zusammenfassung als Entwurf. Prüfen Sie jede Spalte, überarbeiten Sie sie aufgrund des Feedbacks und holen Sie die Bestätigung des Raums ein.
 
-Nützliche Fragen: Ändert sich die Antwort mit dem Alter? Welche Fähigkeiten müssen Lernende ohne KI üben? Wofür bleiben Lehrpersonen verantwortlich? Wann sollen Lernende oder Eltern ablehnen können?
-
 ### Sources
 
-Moderator Protocol and Run-of-Show, Abschnitte 4–10 und 13.
+Swiss AI Futures Moderator Guide, Abschnitte 3–5, 7 und 10. Online Insights, Erkenntnisse und Workshopfragen zur Bildung.
 
 ## Timing
 
-27 Minuten nach der 3-minütigen MURMI-Einführung.
+27 Minuten nach der 3-minütigen Einführung in die Online-Erkenntnisse.
 
 ---
 
-# Slide 11. KI-Entwurf und Fragebogen
+# Slide 13. KI-Entwurf und Fragebogen
 
 ## On-screen copy
 
@@ -411,7 +466,7 @@ Planen Sie ungefähr 10 Minuten für Fragebogen und kurze Pause.
 
 ### Sources
 
-Moderator Protocol and Run-of-Show, Abschnitte 7–9 und 11.
+Swiss AI Futures Moderator Guide, Abschnitt 10.
 
 ## Timing
 
@@ -419,52 +474,82 @@ Moderator Protocol and Run-of-Show, Abschnitte 7–9 und 11.
 
 ---
 
-# Slide 12. KI & Schweiz
+# Slide 14. KI & Schweiz
 
 ## On-screen copy
 
 # Was soll die Schweiz für eine wünschenswerte KI-Zukunft tun?
 
-## Diskutieren
+## Vier Fragen
 
-* Was soll die Schweiz tun?
-* Unter welchen Bedingungen, und was sind die roten Linien?
-
-## MURMI nutzen
-
-Im Raum teilen, reagieren und abstimmen.
-
-## Alle drei Spalten bestätigen
-
-Empfehlungen · Bedingungen & rote Linien · Dissens
+* Was soll die Schweiz priorisieren?
+* Wer soll Verantwortung tragen?
+* Welche Bedingungen und roten Linien sind unverzichtbar?
+* Worüber sollen Bürger:innen demokratisch entscheiden können?
 
 ## Presenter notes
 
 Diese Abschlussdiskussion ist in beiden Räumen MURMI-unterstützt und gehört nicht zum Vergleich von menschlicher und KI-unterstützter Moderation.
 
-Nutzen Sie 2 Minuten für die Frage, 6 Minuten für Tischdiskussion, 4 Minuten für Teilen und Reagieren mit MURMI und 4 Minuten für die dreispaltige KI-unterstützte Zusammenfassung.
+Nutzen Sie 1 Minute für die Frage, 3 Minuten für die Tischdiskussion, 2 Minuten für Teilen und Reagieren mit MURMI und 2 Minuten für die dreispaltige KI-unterstützte Zusammenfassung.
 
-Nutzen Sie die verbleibende Zeit, um die Zusammenfassung zu hinterfragen, zu korrigieren und zu verbessern. Verschieben Sie unlösbaren substanziellen Dissens in Spalte 3.
+Nutzen Sie die letzten 2 Minuten, um die Zusammenfassung zu hinterfragen, zu korrigieren und zu bestätigen. Verschieben Sie unlösbaren substanziellen Dissens in Spalte 3.
 
 ### Sources
 
-Moderator Protocol and Run-of-Show, Abschnitt 14.
+Swiss AI Futures Moderator Guide, Abschnitte 3–5 und 9. Online Insights, demokratische Risiken und abschliessende Workshopfrage.
 
 ## Timing
 
-18 Minuten.
+10 Minuten.
 
 ---
 
-# Slide 13. Letzte Bestätigung und Dokumente
+# Slide 15. Automatisch erstellten Bericht prüfen
+
+## On-screen copy
+
+# Prüfen Sie, was wir heute erarbeitet haben
+
+## Bericht ansehen
+
+Er bündelt die heutigen Empfehlungen, Bedingungen, roten Linien und Dissenspunkte.
+
+## Kernaussagen prüfen
+
+Fehlt etwas Wichtiges? Ist etwas falsch oder zu stark formuliert?
+
+## Ergebnis bestätigen
+
+Gibt der Bericht fair wieder, was heute geschehen ist?
+
+## Presenter notes
+
+Zeigen Sie der Gruppe die automatisch erstellte Berichtsseite.
+
+Fassen Sie die wichtigsten Empfehlungen, Bedingungen und roten Linien sowie den verbleibenden Dissens zusammen. Geben Sie den Teilnehmenden kurz Zeit, den Bericht selbst zu lesen.
+
+Bitten Sie um eine schnelle Genauigkeitsprüfung. Korrigieren Sie offensichtliche Fehler oder Übertreibungen vor dem letzten Fragebogen. Die Teilnehmenden sollen das Ergebnis ihrer Arbeit sehen und mit einem klaren Bild des Workshop-Ergebnisses nach Hause gehen.
+
+### Sources
+
+Swiss AI Futures Moderator Guide, Abschnitt 9.
+
+## Timing
+
+5 Minuten.
+
+---
+
+# Slide 16. Letzter Fragebogen, Entschädigung und Abschluss
 
 ## On-screen copy
 
 # Bevor Sie gehen
 
-## Letzte Zusammenfassung bestätigen
+## Letzter Fragebogen
 
-Zeigt sie fair, was wir teilen und wo wir noch uneinig sind?
+Den letzten Abschnitt selbstständig ausfüllen.
 
 ## Entschädigungsformular
 
@@ -478,7 +563,7 @@ Einwilligungserklärung, Fragebogenheft und Entschädigungsformular.
 
 ## Presenter notes
 
-Holen Sie die letzte Bestätigung der Zusammenfassung zu KI & Schweiz ein.
+Bitten Sie die Teilnehmenden, den letzten Abschnitt des Fragebogens selbstständig auszufüllen.
 
 Bitten Sie die Teilnehmenden, das Entschädigungsformular auszufüllen und zu unterschreiben: Erhalt des Gutscheins über CHF 60 bestätigen oder Banküberweisung wählen. Sammeln Sie danach alle drei Dokumente gemäss Studienprotokoll ein.
 
@@ -486,11 +571,11 @@ Bedanken Sie sich und erinnern Sie daran, dass die Ergebnisse in den TA-SWISS-Be
 
 ### Sources
 
-Moderator Protocol and Run-of-Show, Abschnitte 9, 14 und 16.
+Swiss AI Futures Moderator Guide, Abschnitte 10–11.
 
 ## Timing
 
-2 Minuten.
+5 Minuten.
 
 ---
 
@@ -498,10 +583,10 @@ Moderator Protocol and Run-of-Show, Abschnitte 9, 14 und 16.
 
 | Folien | Aktivität | Dauer |
 | --- | --- | ---: |
-| 1–6 | Willkommen, Zweck, Dokumente, Ablauf, Schleifen und Ergebnisse | 20 Min |
-| 7 | Runde 1: KI bei der Arbeit, menschliche Moderation | 30 Min |
-| 8 | Fragebogen und kurze Pause | 10 Min |
-| 9–10 | Runde 2: KI in der Bildung, MURMI-unterstützt | 30 Min |
-| 11 | Fragebogen und kurze Pause | 10 Min |
-| 12–13 | KI & Schweiz, letzte Bestätigung, Dokumente und Abschluss | 20 Min |
+| 1–7 | Willkommen, Zweck, Gesprächsregeln, Dokumente, Ablauf und Schleifen | 20 Min |
+| 8–10 | Runde 1: KI bei der Arbeit + Fragebogen und Pause | 40 Min |
+| 11–13 | Runde 2: KI in der Bildung + Fragebogen und Pause | 40 Min |
+| 14 | KI & Schweiz | 10 Min |
+| 15 | Automatisch erstellten Bericht und Kernaussagen prüfen | 5 Min |
+| 16 | Letzter Fragebogen, Entschädigungsformular und Abschluss | 5 Min |
 | | **Gesamt** | **120 Min** |

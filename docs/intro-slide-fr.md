@@ -5,7 +5,7 @@ subtitle: "Perspectives citoyennes sur l’IA au travail, dans l’éducation et
 date: "[Date de l’atelier]"
 location: "[Lausanne]"
 format: "Présentation 16:9 avec notes de facilitation"
-version: "Présentation en 13 diapositives selon le protocole"
+version: "Présentation en 16 diapositives selon le protocole"
 -------------------------------------------
 
 # Slide 1. Swiss AI Futures
@@ -61,7 +61,7 @@ Les synthèses en trois colonnes constituent des recommandations citoyennes réf
 
 ### Sources
 
-Document d’information des participants. Moderator Protocol and Run-of-Show, sections 2 et 15.
+Document d’information des participants.
 
 ## Timing
 
@@ -69,7 +69,42 @@ Document d’information des participants. Moderator Protocol and Run-of-Show, s
 
 ---
 
-# Slide 3. Documents sur la table
+# Slide 3. Règles de délibération
+
+## On-screen copy
+
+# Comment délibérer ensemble
+
+## Écouter pour comprendre
+
+* Laissez les autres terminer.
+* Posez des questions avant de juger.
+
+## Partager la parole
+
+* Soyez bref.
+* Invitez les voix que nous n’avons pas encore entendues.
+
+## Discuter les idées, pas les personnes
+
+* Expliquez votre raisonnement.
+* Exprimez votre désaccord avec respect et restez ouvert.
+
+## Presenter notes
+
+Présentez ces points comme des habitudes pratiques pour une bonne délibération citoyenne, et non comme un test.
+
+Chacun peut parler à partir de son expérience. Demandez aux participants d’écouter avec curiosité, de faire place aux personnes plus discrètes et d’expliquer leur raisonnement. Le désaccord est utile lorsqu’il reste respectueux et porte sur les idées.
+
+La modération peut intervenir pour garantir une participation équitable et une discussion constructive.
+
+## Timing
+
+3 minutes.
+
+---
+
+# Slide 4. Documents sur la table
 
 ## On-screen copy
 
@@ -103,7 +138,7 @@ Le formulaire d’indemnisation confirme la réception du bon de CHF 60 ou deman
 
 ---
 
-# Slide 4. Programme du jour
+# Slide 5. Programme du jour
 
 ## On-screen copy
 
@@ -115,35 +150,35 @@ Le formulaire d’indemnisation confirme la réception du bon de CHF 60 ou deman
 
 Objectif, documents, boucles et résultats.
 
-## 17:50–18:20
+## 17:50–18:30
 
-**Tour 1 · Humain**
+**Tour 1 · L’IA dans l’éducation**
 
-L’IA dans l’éducation.
+Discussion animée par une personne · 30 min ; questionnaire + pause · 10 min.
 
-## 18:20–18:30
+## 18:30–19:10
 
-**Questionnaire + pause**
+**Tour 2 · L’IA au travail**
 
-Répondre individuellement.
+Discussion assistée par MURMI · 30 min ; questionnaire + pause · 10 min.
 
-## 18:30–19:00
-
-**Tour 2 · MURMI**
-
-L’IA au travail.
-
-## 19:00–19:10
-
-**Questionnaire + pause**
-
-Répondre individuellement.
-
-## 19:10–19:30
+## 19:10–19:20
 
 **IA & Suisse**
 
-Discussion finale assistée par MURMI.
+Discussion assistée par MURMI · 10 min.
+
+## 19:20–19:25
+
+**Examiner le rapport généré**
+
+Messages clés et contrôle d’exactitude · 5 min.
+
+## 19:25–19:30
+
+**Questionnaire final + conclusion**
+
+Formulaire d’indemnisation et remise · 5 min.
 
 ## Presenter notes
 
@@ -155,7 +190,7 @@ Ne comparez pas les formats avant que les participants aient terminé le questio
 
 ### Sources
 
-Moderator Protocol and Run-of-Show, section 1.
+Swiss AI Futures Moderator Guide, sections 1 à 2.
 
 ## Timing
 
@@ -163,75 +198,33 @@ Moderator Protocol and Run-of-Show, section 1.
 
 ---
 
-# Slide 5. Les deux boucles de discussion
+# Slide 6. Boucle 1 · Discuter et partager
 
 ## On-screen copy
 
-# Deux boucles pour chaque sujet
+# Boucle 1 · Discuter et partager
 
-## Boucle 1 · Discuter & Partager
+## Parler
 
-* Discuter → Écrire → Partager → Réagir → Voter
-* Écouter les autres groupes avant de voter.
+Expliquez ce que vous pensez et pourquoi. Écoutez les différentes expériences.
 
-## Boucle 2 · Trouver un terrain commun
+## Écrire
 
-* Synthétiser → Vérifier → Réviser → Confirmer
-* La synthèse devient finale après votre validation.
+Une idée principale par post-it.
 
-## Même objectif · autre soutien
+## Partager et voter
 
-Le tour 1 est humain. Le tour 2 et la discussion finale utilisent MURMI.
+Affichez les post-it, regroupez les idées proches et indiquez lesquelles comptent le plus.
 
 ## Presenter notes
 
-La boucle 1 fait émerger recommandations, conditions, préoccupations et perspectives. Les groupes discutent, écrivent quelques post-it clairs, écoutent les autres tables, réagissent et votent.
-
-La boucle 2 produit une synthèse de la salle. Elle est vérifiée colonne par colonne, révisée selon les retours, puis confirmée comme représentation fidèle des points communs et des désaccords.
+La boucle 1 fait émerger recommandations, conditions, préoccupations et perspectives. Les groupes discutent, écrivent quelques post-it clairs, écoutent les autres tables, réagissent et votent. Le premier tour utilise le tableau physique ; le second utilise MURMI pour le partage et le vote entre groupes.
 
 Un vote indique un soutien ; il ne crée pas automatiquement un consensus.
 
 ### Sources
 
-Moderator Protocol and Run-of-Show, sections 4 à 9.
-
-## Timing
-
-5 minutes.
-
----
-
-# Slide 6. Les trois résultats
-
-## On-screen copy
-
-# Chaque tour produit trois résultats
-
-## 1 · Recommandations politiques
-
-Que faut-il faire ?
-
-## 2 · Conditions & lignes rouges
-
-À quelles conditions ? Que ne doit-il pas se passer ?
-
-## 3 · Désaccords & questions ouvertes
-
-Où les points de vue diffèrent-ils encore ?
-
-## Presenter notes
-
-Montrez physiquement les trois colonnes sur le tableau.
-
-Les colonnes 1 et 2 viennent surtout des propositions. La colonne 3 vient surtout des réactions aux idées des autres groupes.
-
-Les participants ne doivent pas chercher séparément les désaccords au début. Ils doivent émerger de l’interaction. L’objectif n’est pas de les éliminer.
-
-Dites : « Nous cherchons les points communs et les désaccords importants qui demeurent. »
-
-### Sources
-
-Moderator Protocol and Run-of-Show, sections 2 et 3.
+Swiss AI Futures Moderator Guide, sections 3 à 5.
 
 ## Timing
 
@@ -239,48 +232,114 @@ Moderator Protocol and Run-of-Show, sections 2 et 3.
 
 ---
 
-# Slide 7. Tour 1 · L’IA dans l’éducation
+# Slide 7. Boucle 2 · Trouver un terrain commun
+
+## On-screen copy
+
+# Boucle 2 · Trouver un terrain commun
+
+## Construire la synthèse
+
+Classez les idées dans trois colonnes : **Recommandations · Conditions & lignes rouges · Désaccords**
+
+## Vérifier ensemble
+
+Corrigez ce qui est faux ou trop affirmatif. Gardez les désaccords importants visibles.
+
+## Confirmer
+
+Assurez-vous que le groupe peut accepter la formulation finale.
+
+## Presenter notes
+
+La boucle 2 produit une synthèse de la salle. Passez en revue les trois colonnes, révisez la formulation selon les retours, puis confirmez que le résultat représente fidèlement les points communs et les désaccords.
+
+Le consensus ne signifie pas que chacun préfère chaque phrase. La synthèse doit être assez fidèle pour être acceptée par le groupe, tout en gardant les désaccords importants visibles.
+
+### Sources
+
+Swiss AI Futures Moderator Guide, sections 3 à 5.
+
+## Timing
+
+2 minutes.
+
+---
+
+# Slide 8. Enseignements en ligne : éducation
+
+## On-screen copy
+
+# Les participants en ligne veulent une IA progressive et encadrée à l’école
+
+## Apprendre à juger
+
+**32 sur 36** soutiennent la vérification des erreurs et biais de l’IA.
+
+## Des protections claires
+
+**31 sur 36** soutiennent des règles claires ; **32 sur 36** la protection des données.
+
+## Introduire progressivement
+
+Le vote de suivi autorise moins d’IA au primaire et davantage aux niveaux suivants.
+
+## Presenter notes
+
+Donnez uniquement le contexte nécessaire pour commencer. Ces résultats sont des points de départ, pas des conclusions imposées.
+
+Le signal principal n’est ni « interdire l’IA » ni « utiliser l’IA partout ». Les répondants soutiennent la vérification critique, des règles claires, la protection des données, la formation des enseignants et une introduction progressive selon le niveau scolaire.
+
+La phase en ligne est exploratoire et non représentative. Invitez les participants à contester, préciser ou compléter ces résultats.
+
+### Sources
+
+Online Insights, « Gradual AI Education: Critical Thinking Before Tool Use » et « Retraining educators ».
+
+## Timing
+
+3 minutes.
+
+---
+
+# Slide 9. Tour 1 · L’IA dans l’éducation
 
 ## On-screen copy
 
 # Comment l’école doit-elle préparer et protéger les élèves face à l’IA ?
 
-## Discuter + écrire
+## Quatre questions
 
-* Une idée par post-it.
-* Classer sous Recommandations ou Conditions & lignes rouges.
-
-## Partager + réagir
-
-Écoutez les autres groupes. Qu’est-ce qui manque, reste flou ou contesté ?
-
-## Voter
-
-Votez après avoir entendu tout le monde. Le soutien n’est pas automatiquement un consensus.
+* Quelles compétences faut-il maîtriser avant d’utiliser l’IA ?
+* Quand l’IA doit-elle être autorisée — ou non ?
+* Qui doit former et soutenir les enseignants ?
+* Comment protéger les données, une évaluation équitable et la pensée autonome ?
 
 ## Presenter notes
 
 Le premier tour utilise une modération humaine et un vote physique.
 
-Présentez la question et rappelez les colonnes 1 et 2. Prévoyez environ 7 minutes pour la discussion et les post-it, 6 minutes pour les présentations, 4 minutes pour les réactions et clarifications, puis 2 minutes pour le vote.
+Lisez les quatre questions. Elles guident la discussion sans devenir une liste à traiter mécaniquement.
+
+Faites passer le groupe des opinions générales aux propositions concrètes. Une idée principale par post-it, sous Recommandations politiques ou Conditions & lignes rouges.
+
+Prévoyez environ 8 minutes pour la discussion et les post-it, 5 minutes pour les présentations, 3 minutes pour les réactions et clarifications, puis 2 minutes pour le vote.
 
 La facilitation humaine produit ensuite une synthèse concise en trois colonnes à partir des post-it, de la discussion, du vote et des réactions. Vérifiez-la et révisez-la avec les participants. Demandez : « Cela représente-t-il fidèlement ce que nous partageons et nos désaccords ? »
 
-Protégez les 8 dernières minutes pour la synthèse, les corrections et la confirmation.
-
-Questions utiles : Quelles capacités faut-il exercer sans IA ? De quoi les enseignants doivent-ils rester responsables ? Quelles protections sont essentielles ? Quand un élève ou un parent devrait-il pouvoir refuser ?
+Protégez les 9 dernières minutes pour la synthèse, les corrections et la confirmation.
 
 ### Sources
 
-Moderator Protocol and Run-of-Show, sections 4 à 10 et 12.
+Swiss AI Futures Moderator Guide, sections 3 à 6 et 10. Online Insights, résultats et questions d’atelier sur l’éducation.
 
 ## Timing
 
-30 minutes.
+27 minutes après les 3 minutes consacrées aux enseignements en ligne.
 
 ---
 
-# Slide 8. Synthèse et questionnaire
+# Slide 10. Synthèse et questionnaire
 
 ## On-screen copy
 
@@ -304,7 +363,7 @@ Prévoyez environ 10 minutes pour le questionnaire et la courte pause.
 
 ### Sources
 
-Moderator Protocol and Run-of-Show, sections 9 et 11.
+Swiss AI Futures Moderator Guide, section 10.
 
 ## Timing
 
@@ -312,35 +371,35 @@ Moderator Protocol and Run-of-Show, sections 9 et 11.
 
 ---
 
-# Slide 9. Le rôle de MURMI au tour 2
+# Slide 11. Enseignements en ligne : travail
 
 ## On-screen copy
 
-# MURMI assiste — les participants décident
+# Les participants en ligne veulent un soutien actif aux travailleurs
 
-## Partager entre groupes
+## Former dès maintenant
 
-Lire, commenter et évaluer les contributions des autres tables.
+**30 sur 34** soutiennent une formation à l’IA dans l’emploi actuel.
 
-## Produire un projet
+## Partager la responsabilité
 
-MURMI organise les contributions dans les mêmes trois colonnes.
+Les employeurs doivent agir, mais inspirent peu confiance comme conseillers sur l’IA.
 
-## Corriger et confirmer
+## Ne pas laisser faire le marché
 
-Contestez la formulation. Ajoutez ce qui manque. Le projet de l’IA n’est jamais final.
+**29 sur 35** rejettent une adaptation laissée au seul marché du travail.
 
 ## Presenter notes
 
-La facilitation humaine continue d’expliquer la tâche, d’équilibrer la participation, de poser des questions et d’aider à formuler des contributions claires.
+Donnez uniquement le contexte nécessaire pour commencer. Ces résultats sont des points de départ, pas des conclusions imposées.
 
-MURMI soutient le partage entre groupes, les réactions et votes, la structuration des contributions, la synthèse et sa révision.
+Les participants en ligne soutiennent la formation dans l’emploi actuel et la reconversion financée par l’État. Ils refusent de laisser l’adaptation aux seules forces du marché. Ils répartissent la responsabilité entre employeurs, écoles, institutions publiques et individus, tout en faisant davantage confiance aux universités et sources indépendantes.
 
-Ne défendez pas une synthèse générée par l’IA. Invitez activement la critique et révisez tout élément jugé faux, incomplet ou trompeur.
+La phase en ligne est exploratoire et non représentative. Invitez les participants à contester, préciser ou compléter ces résultats.
 
 ### Sources
 
-Moderator Protocol and Run-of-Show, sections 5 à 8 et 13.
+Online Insights, « Fair distribution of AI economical benefits » et « Shared responsibility among stakeholders ».
 
 ## Timing
 
@@ -348,46 +407,42 @@ Moderator Protocol and Run-of-Show, sections 5 à 8 et 13.
 
 ---
 
-# Slide 10. Tour 2 · L’IA au travail
+# Slide 12. Tour 2 · L’IA au travail
 
 ## On-screen copy
 
 # Comment préparer et protéger les travailleurs face à l’IA ?
 
-## Discuter + écrire
+## Quatre questions
 
-* Une idée par post-it.
-* Classer sous Recommandations ou Conditions & lignes rouges.
-
-## Partager + réagir
-
-Avec MURMI, écoutez les autres groupes et repérez ce qui manque ou reste contesté.
-
-## Voter
-
-Votez après avoir examiné les contributions extérieures à votre table.
+* Quelles compétences faut-il renforcer, préserver ou acquérir ?
+* Qui doit fournir la formation, le temps et l’argent ?
+* Où l’IA doit-elle être acceptée ou limitée au travail ?
+* Quelles protections faut-il si les emplois ou les attentes changent ?
 
 ## Presenter notes
 
-Le second tour suit les mêmes boucles et le même minutage. MURMI soutient le partage entre groupes, les réactions, le vote et le projet de synthèse.
+Lisez les quatre questions. Elles guident la discussion sans devenir une liste à traiter mécaniquement.
+
+Faites passer le groupe des opinions générales aux propositions concrètes. Une idée principale par post-it, sous Recommandations politiques ou Conditions & lignes rouges.
+
+Le second tour suit les mêmes boucles. MURMI soutient le partage entre groupes, les réactions, le vote et le projet de synthèse.
 
 Assurez-vous que les participants examinent des contributions extérieures à leur propre groupe. Un vote indique un soutien ; ce n’est pas une preuve automatique de consensus.
 
 Présentez la synthèse MURMI en trois colonnes comme un projet. Vérifiez chaque colonne, révisez selon les retours et obtenez la confirmation finale de la salle.
 
-Questions utiles : Qui risque d’être laissé de côté ? La formation doit-elle avoir lieu pendant le temps de travail rémunéré ? Qui paie ? Quelles compétences doivent rester humaines ? Quelles protections sont essentielles ?
-
 ### Sources
 
-Moderator Protocol and Run-of-Show, sections 4 à 10 et 13.
+Swiss AI Futures Moderator Guide, sections 3 à 5, 7 et 10. Online Insights, résultats et questions d’atelier sur le travail.
 
 ## Timing
 
-27 minutes après l’introduction de MURMI de 3 minutes.
+27 minutes après les 3 minutes consacrées aux enseignements en ligne.
 
 ---
 
-# Slide 11. Projet de l’IA et questionnaire
+# Slide 13. Projet de l’IA et questionnaire
 
 ## On-screen copy
 
@@ -411,7 +466,7 @@ Prévoyez environ 10 minutes pour le questionnaire et la courte pause.
 
 ### Sources
 
-Moderator Protocol and Run-of-Show, sections 7 à 9 et 11.
+Swiss AI Futures Moderator Guide, section 10.
 
 ## Timing
 
@@ -419,52 +474,82 @@ Moderator Protocol and Run-of-Show, sections 7 à 9 et 11.
 
 ---
 
-# Slide 12. IA & Suisse
+# Slide 14. IA & Suisse
 
 ## On-screen copy
 
 # Que doit faire la Suisse pour un avenir souhaitable avec l’IA ?
 
-## Discuter
+## Quatre questions
 
-* Que doit faire la Suisse ?
-* À quelles conditions, et quelles sont les lignes rouges ?
-
-## Utiliser MURMI
-
-Partager dans la salle, réagir et voter.
-
-## Valider les trois colonnes
-
-Recommandations · Conditions & lignes rouges · Désaccords
+* Que doit prioriser la Suisse ?
+* Qui doit assumer la responsabilité ?
+* Quelles conditions et lignes rouges sont essentielles ?
+* Sur quoi les citoyens doivent-ils pouvoir décider démocratiquement ?
 
 ## Presenter notes
 
 Cette discussion finale est assistée par MURMI dans les deux salles et ne fait pas partie de la comparaison entre modération humaine et assistée par l’IA.
 
-Utilisez 2 minutes pour la question, 6 minutes pour la discussion en table, 4 minutes pour le partage avec MURMI et 4 minutes pour la synthèse en trois colonnes.
+Utilisez 1 minute pour la question, 3 minutes pour la discussion en table, 2 minutes pour le partage avec MURMI et 2 minutes pour la synthèse en trois colonnes.
 
-Utilisez le temps restant pour contester, corriger et améliorer la synthèse. Placez tout désaccord substantiel non résolu dans la troisième colonne.
+Utilisez les 2 dernières minutes pour contester, corriger et confirmer la synthèse. Placez tout désaccord substantiel non résolu dans la troisième colonne.
 
 ### Sources
 
-Moderator Protocol and Run-of-Show, section 14.
+Swiss AI Futures Moderator Guide, sections 3 à 5 et 9. Online Insights, risques démocratiques et question finale de l’atelier.
 
 ## Timing
 
-18 minutes.
+10 minutes.
 
 ---
 
-# Slide 13. Confirmation finale et documents
+# Slide 15. Examiner le rapport généré
+
+## On-screen copy
+
+# Examinons ce que nous avons produit aujourd’hui
+
+## Regarder la page du rapport
+
+Elle rassemble les recommandations, conditions, lignes rouges et désaccords exprimés aujourd’hui.
+
+## Vérifier les messages clés
+
+Manque-t-il quelque chose d’important ? Une formulation est-elle incorrecte ou trop forte ?
+
+## Confirmer le résultat
+
+Le rapport reflète-t-il fidèlement ce qui s’est passé aujourd’hui ?
+
+## Presenter notes
+
+Montrez à la salle la page du rapport générée automatiquement.
+
+Résumez les principales recommandations, les conditions et lignes rouges importantes, ainsi que les désaccords qui subsistent. Laissez aux participants un court moment pour lire eux-mêmes le rapport.
+
+Demandez une vérification rapide de l’exactitude. Corrigez les erreurs ou exagérations évidentes avant le questionnaire final. Les participants doivent voir le résultat de leur travail et repartir avec une compréhension claire de ce que l’atelier a produit.
+
+### Sources
+
+Swiss AI Futures Moderator Guide, section 9.
+
+## Timing
+
+5 minutes.
+
+---
+
+# Slide 16. Questionnaire final, indemnisation et conclusion
 
 ## On-screen copy
 
 # Avant de partir
 
-## Confirmer la synthèse finale
+## Questionnaire final
 
-Représente-t-elle fidèlement nos points communs et nos désaccords ?
+Remplissez individuellement la dernière section.
 
 ## Formulaire d’indemnisation
 
@@ -478,7 +563,7 @@ Formulaire de consentement, cahier de questionnaire et formulaire d’indemnisat
 
 ## Presenter notes
 
-Obtenez la confirmation finale de la synthèse IA & Suisse.
+Demandez aux participants de remplir individuellement la dernière section du questionnaire.
 
 Demandez aux participants de remplir et signer le formulaire d’indemnisation : confirmer la réception du bon de CHF 60 ou choisir un virement bancaire. Recueillez ensuite les trois documents conformément au protocole de l’étude.
 
@@ -486,11 +571,11 @@ Remerciez les participants et rappelez que les résultats alimenteront le rappor
 
 ### Sources
 
-Moderator Protocol and Run-of-Show, sections 9, 14 et 16.
+Swiss AI Futures Moderator Guide, sections 10 à 11.
 
 ## Timing
 
-2 minutes.
+5 minutes.
 
 ---
 
@@ -498,10 +583,10 @@ Moderator Protocol and Run-of-Show, sections 9, 14 et 16.
 
 | Diapositives | Activité | Durée |
 | --- | --- | ---: |
-| 1–6 | Accueil, objectif, documents, programme, boucles et résultats | 20 min |
-| 7 | Tour 1 : IA dans l’éducation, modération humaine | 30 min |
-| 8 | Questionnaire et courte pause | 10 min |
-| 9–10 | Tour 2 : IA au travail, assisté par MURMI | 30 min |
-| 11 | Questionnaire et courte pause | 10 min |
-| 12–13 | IA & Suisse, confirmation finale, documents et conclusion | 20 min |
+| 1–7 | Accueil, objectif, règles, documents, programme et boucles | 20 min |
+| 8–10 | Tour 1 : IA dans l’éducation + questionnaire et pause | 40 min |
+| 11–13 | Tour 2 : IA au travail + questionnaire et pause | 40 min |
+| 14 | IA & Suisse | 10 min |
+| 15 | Examiner le rapport généré et ses messages clés | 5 min |
+| 16 | Questionnaire final, formulaire d’indemnisation et conclusion | 5 min |
 | | **Total** | **120 min** |
