@@ -9,8 +9,22 @@
   const language = supportedLanguages.includes(requestedLanguage) ? requestedLanguage : "en";
 
   const sessionDetails = {
-    zurich: ["Zurich workshop", "11 August 2026", language === "de" ? "German room" : "English room"],
-    lausanne: ["Lausanne workshop", "12 August 2026", language === "fr" ? "French room" : "English room"]
+    zurich: [
+      "Zurich workshop",
+      "11 August 2026",
+      "17:30–19:30",
+      language === "de" ? "German room" : "English room",
+      language === "de" ? "ETH Zürich HG · Raum F 26.3" : "ETH Zürich HG · room F 26.3"
+    ],
+    lausanne: [
+      "Lausanne workshop",
+      "12 August 2026",
+      "17:30–19:30",
+      language === "fr" ? "Salle francophone" : "English room",
+      language === "fr"
+        ? "Université de Lausanne · bâtiment Internef · salle 231"
+        : "Université de Lausanne · Internef building · room 231"
+    ]
   };
 
   const materialFiles = {

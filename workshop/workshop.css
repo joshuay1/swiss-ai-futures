@@ -88,6 +88,7 @@ a {
   color: inherit;
   font: inherit;
   -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
 }
 
 button {
@@ -2944,6 +2945,13 @@ html[data-phase="work"] .deck-brand img {
     line-height: 0.94;
   }
 
+  .slide-title,
+  .slide-section h2,
+  .slide-section p,
+  .slide-section li {
+    overflow-wrap: anywhere;
+  }
+
   .layout-hero .slide-title {
     font-size: clamp(54px, 15vw, 78px);
   }
@@ -3007,6 +3015,29 @@ html[data-phase="work"] .deck-brand img {
   .layout-topic .slide-section ul {
     grid-template-columns: 1fr;
     gap: 0.5em;
+  }
+
+  .slide[data-mode="murmi"] .slide-body {
+    margin-top: 20px;
+  }
+
+  .slide[data-mode="murmi"] .slide-sections {
+    gap: 16px;
+  }
+
+  .slide[data-mode="murmi"] .slide-section {
+    padding-top: 12px;
+    border-top-width: 6px;
+  }
+
+  .slide[data-mode="murmi"] .slide-section h2 {
+    font-size: clamp(25px, 7vw, 30px);
+  }
+
+  .slide[data-mode="murmi"] .slide-section p {
+    margin-top: 0.42em;
+    font-size: clamp(19px, 5.2vw, 22px);
+    line-height: 1.15;
   }
 
   .layout-partners .slide-body {

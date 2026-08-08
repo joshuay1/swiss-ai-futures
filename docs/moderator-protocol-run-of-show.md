@@ -1,8 +1,8 @@
 # Swiss AI Futures Moderator Guide
 
-**Zurich · 11 August 2026 · German + English**
+**Zurich · 11 August 2026 · German + English · ETH Zürich HG, room F 26.3**
 
-**Lausanne · 12 August 2026 · French + English**
+**Lausanne · 12 August 2026 · French + English · Université de Lausanne, Internef building, room 231**
 
 **Duration:** 2 hours
 
@@ -10,12 +10,12 @@
 
 | Time | Activity |
 | --- | --- |
-| 00:00–00:20 | Welcome, consent, introduction |
-| 00:20–01:00 | Round 1 · Human-moderated topic (30 min), then questionnaire + break (10 min) |
-| 01:00–01:40 | Round 2 · AI-supported topic (30 min), then questionnaire + break (10 min) |
-| 01:40–01:50 | AI & Switzerland · AI-supported |
-| 01:50–01:55 | Review the automatically generated report and takeaways |
-| 01:55–02:00 | Final questionnaire, payment form, close |
+| 17:30–17:50 | Welcome, consent, introduction |
+| 17:50–18:30 | Round 1 · Human-moderated topic (30 min), then questionnaire + break (10 min) |
+| 18:30–19:10 | Round 2 · AI-supported topic (30 min), then questionnaire + break (10 min) |
+| 19:10–19:20 | AI & Switzerland · AI-supported |
+| 19:20–19:25 | Review the automatically generated report and takeaways |
+| 19:25–19:30 | Final questionnaire, compensation form, close |
 
 ## 2. Topic rotation
 
@@ -38,6 +38,19 @@ Keep the following three columns visible at the front of the room throughout the
 
 Participants should understand this structure before they begin discussing.
 
+### Set up the board before participants arrive
+
+Use a large whiteboard if possible. Draw and title all three columns in advance. An A3 sheet is too small for a whole-room synthesis unless each table has its own sheet and a separate room-level board is also available.
+
+Place sticky notes and pens on every table. Keep dot stickers ready for the human-moderated vote.
+
+During the human-moderated round:
+
+1. Participants or table representatives place their sticky notes in the first two columns.
+2. While each table shares, the moderator continuously groups similar notes and writes a short label for each cluster.
+3. The moderator checks each label aloud with participants before voting.
+4. Disagreement or unresolved issues are added to the third column as they emerge.
+
 The first two columns mainly come from the ideas participants generate.
 
 The third column emerges as participants hear and react to other people's ideas.
@@ -46,7 +59,7 @@ The aim is not to force consensus. The final output should show both common grou
 
 ## 4. The discussion process
 
-Each topic follows the same two loops.
+Each 30-minute topic contains the same two consecutive loops. Loop 1 generates and tests ideas. Loop 2 immediately turns those ideas, reactions, and votes into a checked room-level summary. They are two steps in the same session, not separate sessions.
 
 ### Loop 1 · Diverge
 
@@ -62,17 +75,21 @@ Participants talk in small groups about:
 - Under what conditions?
 - What are the red lines?
 
-Groups write their main ideas on sticky notes for the first two columns.
+In the human-moderated round, groups write their main ideas on sticky notes for the first two columns. Use one idea per note.
+
+In the AI-supported round, MURMI captures short statements from the conversation. Participants may add a missing statement before voting.
 
 #### Share
 
 A representative from each group briefly shares their main ideas.
 
-Sticky notes are placed on the large board at the front.
+In the human-moderated round, participants or table representatives place the notes on the large board. The moderator clusters and labels similar notes live, while checking the grouping with participants.
+
+In the AI-supported round, the MURMI moderator checks that the captured statements are clear, distinct, and complete enough to vote on.
 
 #### React
 
-Participants hear what other groups think.
+Participants hear and react to the labelled idea clusters or MURMI statements from other groups.
 
 Use this stage to clarify ideas, add missing conditions, and identify where views differ.
 
@@ -80,12 +97,12 @@ If useful, run one short additional **Discuss → Share** round. Do this only wh
 
 #### Vote
 
-Participants react to the ideas from across the room.
+Participants indicate support for the reviewed ideas from across the room. Voting happens after sharing and clarification, and before Loop 2 begins.
 
-- **Human moderation:** Physical voting on the ideas on the board.
-- **AI-supported moderation:** Participants see statements from across the groups and vote through MURMI using the 5-point Likert scale.
+- **Human moderation:** Give each participant up to three dot votes. Participants place no more than one dot on each labelled idea cluster they support. They vote on the cluster labels, not on every raw sticky note. The moderator counts the dots and writes the total beside each cluster.
+- **AI-supported moderation:** Participants vote on the reviewed MURMI statements using the 5-point Likert scale. The MURMI moderator monitors completion and keeps the results visible for synthesis.
 
-Voting indicates support, but does not automatically mean consensus.
+Voting shows priority and strength of support. It is one input to the synthesis, not a decision rule and not automatic evidence of consensus. A highly supported idea may still need conditions, and a contested idea may belong in the disagreement column.
 
 ### Loop 2 · Converge
 
@@ -101,15 +118,17 @@ Create a summary using the same three columns:
 
 #### Human moderation
 
-The moderator creates the summary based on the discussion, sticky notes, reactions, and votes.
+The moderator creates the summary on the three-column whiteboard based on the labelled clusters, vote totals, reactions, and stated disagreements. The moderator may merge overlapping clusters, but must check any rewritten wording with participants.
 
 #### AI-supported moderation
 
-MURMI generates the draft summary.
+MURMI generates the draft three-column summary from the reviewed statements and votes.
 
 In both cases, the summary is not final until participants have checked it.
 
-Show the summary to the room and check:
+Show one column at a time and ask participants what to **keep, change, move, add, or remove**. For an AI-supported round, the MURMI moderator edits the draft live while the lead moderator gathers corrections. Re-display the revised version before confirmation.
+
+Check:
 
 - Is anything important missing?
 - Is anything represented incorrectly?
@@ -119,7 +138,7 @@ Show the summary to the room and check:
 
 Revise as needed.
 
-Finish by confirming that the summary fairly represents both the common ground and remaining disagreements.
+Finish by showing the complete revised summary and asking whether it fairly represents both the common ground and remaining disagreements. Confirmation means the record is accurate enough to stand, not that every participant personally endorses every recommendation.
 
 ## 5. Suggested rhythm for each 30-minute topic
 
@@ -127,9 +146,9 @@ Finish by confirming that the summary fairly represents both the common ground a
 | --- | --- |
 | 0–3 min | Introduce topic + remind participants of the three columns |
 | 3–11 min | Small-group discussion + sticky notes |
-| 11–16 min | Groups share |
+| 11–16 min | Groups share; participants post notes; moderator clusters and labels live |
 | 16–19 min | React, clarify, optional second discussion |
-| 19–21 min | Vote |
+| 19–21 min | Vote on labelled clusters; moderator records dot totals |
 | 21–24 min | Produce summary |
 | 24–29 min | Check and revise with participants |
 | 29–30 min | Confirm final summary |
@@ -137,6 +156,24 @@ Finish by confirming that the summary fairly represents both the common ground a
 Protect the Converge loop. If time is running short, shorten the earlier discussion rather than skipping the final synthesis and validation.
 
 The 10-minute questionnaire and short break immediately follow the discussion and are included in the same round on the participant-facing agenda.
+
+For the AI-supported round, use minutes 3–5 for the just-in-time MURMI orientation, then compress the first discussion block. Preserve a dedicated vote before generating common ground:
+
+| Approx. time | AI-supported variation |
+| --- | --- |
+| 0–3 min | Introduce the main question and three-column output |
+| 3–5 min | Explain MURMI: captured statements, 5-point vote, editable draft |
+| 5–11 min | Small-group discussion; MURMI captures statements |
+| 11–16 min | Share and review statements across groups |
+| 16–19 min | Clarify, correct, and add missing statements |
+| 19–22 min | Participants vote on reviewed MURMI statements |
+| 22–25 min | Generate the three-column draft |
+| 25–29 min | Participants say what to keep, change, move, add, or remove; MURMI moderator edits live |
+| 29–30 min | Show the revised summary and confirm the representation |
+
+### Keep the topic prompt light
+
+Start with one main question. The two optional entry points on the slide are prompts to use only if the group needs help getting started; do not read them as a checklist that must be completed.
 
 ## 6. Human moderation
 
@@ -151,6 +188,8 @@ The moderator should:
 - notice disagreement as it emerges;
 - avoid pushing participants toward agreement;
 - make sure minority or contested views are not lost.
+
+For the board, the moderator is responsible for clustering, naming clusters, recording dot-vote totals, and turning the evidence into the first three-column draft. Participants are responsible for posting notes, challenging cluster labels, voting, and correcting the draft.
 
 ## 7. AI-supported moderation with MURMI
 
@@ -172,8 +211,8 @@ Check:
 | --- | --- | --- |
 | Zurich | German room | German |
 | Zurich | English room | English |
-| Lausanne | French room | French |
-| Lausanne | English room | English |
+| Lausanne · Internef 231 | French room | French |
+| Lausanne · Internef 231 | English room | English |
 
 ### When participants join
 
@@ -204,7 +243,7 @@ Use MURMI to generate the common-ground summary.
 
 Treat this as a draft.
 
-Participants should correct and revise it in exactly the same way they would correct a human-generated summary.
+Display one column at a time. The lead moderator asks participants what to **keep, change, move, add, or remove**. The MURMI moderator makes those edits live. Then show the complete revised summary and ask the room to confirm that it fairly represents both shared views and remaining disagreement.
 
 ## 8. Moderator roles
 
@@ -259,8 +298,9 @@ Run a shortened version of the same process:
 | Approx. time | What happens |
 | --- | --- |
 | 0–1 min | Introduce the question and three-column output |
-| 1–4 min | Table discussion |
-| 4–6 min | Share and react through MURMI |
+| 1–3 min | Table discussion |
+| 3–5 min | Share, review, and correct MURMI statements |
+| 5–6 min | Vote on the reviewed statements |
 | 6–8 min | Generate the three-column synthesis |
 | 8–10 min | Correct and confirm the synthesis |
 
@@ -300,14 +340,25 @@ Completed:
 
 Participants should complete these individually.
 
-### Payment method form
+Before each questionnaire period:
 
-Completed at the end.
+1. Ask participants to stop discussing.
+2. Point to the exact booklet section or page to complete.
+3. Say: “Please fill in this section now, on your own.”
+4. Make sure everyone has a pen.
+5. Answer questions about the instructions without suggesting an answer.
+6. Ask participants to close the booklet and place it face down when finished.
 
-Participants either:
+### Compensation form
 
-- confirm that they received their voucher; or
-- request payment by bank transfer and provide the necessary information.
+Completed at the end, only by participants who also completed the online part.
+
+Eligible participants:
+
+- confirm that they received the CHF 60 voucher; and
+- sign the form.
+
+Do not announce bank transfer as a general option. If a payment exception is needed, handle it privately with the participant.
 
 ## 11. Moderator quick check
 
@@ -315,7 +366,8 @@ Participants either:
 
 - [ ] Consent completed
 - [ ] Three-column board visible
-- [ ] Sticky notes and voting materials ready
+- [ ] Three-column titles drawn before participants arrive
+- [ ] Sticky notes, pens, and dot-voting materials on the tables
 - [ ] Correct topic order confirmed
 
 ### Before an AI-supported session
@@ -330,6 +382,7 @@ Participants either:
 ### Before voting
 
 - [ ] Groups have heard each other's ideas
+- [ ] Human round: clusters labelled and checked; three dots per participant ready
 - [ ] MURMI statements checked
 - [ ] Missing statements can be added
 
@@ -347,8 +400,9 @@ Participants either:
 - [ ] Main takeaways summarized
 - [ ] Participants checked the representation
 - [ ] Final questionnaire
-- [ ] Payment method form
-- [ ] Voucher confirmed or bank transfer selected
+- [ ] Compensation form completed by eligible participants
+- [ ] Voucher receipt confirmed and signed
+- [ ] Any payment exception handled privately
 
 ## 12. Remember the core structure
 

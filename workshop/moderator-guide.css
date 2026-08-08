@@ -757,6 +757,11 @@ main,
     grid-template-columns: 1fr;
   }
 
+  .guide-sidebar,
+  .guide-content {
+    min-width: 0;
+  }
+
   .guide-sidebar {
     position: static;
     max-height: none;

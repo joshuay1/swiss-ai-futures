@@ -5,7 +5,7 @@ subtitle: "Citizen Perspectives on AI at Work, AI in Education, and AI for Swiss
 date: "[Workshop date]"
 location: "[Zurich / Lausanne]"
 format: "16:9 presentation with speaker notes"
-version: "16-slide moderator-protocol deck"
+version: "18-slide moderator-protocol deck"
 -------------------------------------------
 
 # Slide 1. Swiss AI Futures
@@ -41,7 +41,7 @@ Today participants will discuss two topics, compare human and AI-supported moder
 
 ## Today
 
-Your experience becomes recommendations, conditions, and honest disagreement.
+Your discussions today will be central to informing future debates about AI integration in Switzerland.
 
 ## TA-SWISS report
 
@@ -116,11 +116,11 @@ Read and sign it now. Your signature is required to take part.
 
 ## Survey booklet
 
-Keep it with you. Complete only the section we announce.
+Keep it with you, with a pen. Complete only the section we announce.
 
 ## Compensation form
 
-Confirm that you received the **CHF 60 voucher**, or choose a bank transfer. Sign before leaving.
+At the end, if you also completed the online part, confirm receipt of the **CHF 60 voucher** and sign.
 
 ## Presenter notes
 
@@ -128,9 +128,9 @@ Pause while participants check the three documents.
 
 Ask participants to read and sign the consent form. Answer consent questions before they sign.
 
-Explain that the survey booklet contains several sections. Participants complete only the announced section, answer independently, and keep the booklet throughout the workshop.
+Explain that the survey booklet contains several sections. Participants complete only the announced section, answer independently, and keep the booklet throughout the workshop. Make sure everyone has a pen before continuing.
 
-Explain that the compensation form confirms receipt of the CHF 60 voucher or requests a bank transfer. Do not collect the documents yet.
+Explain that the compensation form is completed at the end and only by participants who also completed the online part. Eligible participants confirm receipt of the CHF 60 voucher and sign. Handle any payment exception privately rather than presenting alternatives to the room. Do not collect the documents yet.
 
 ## Timing
 
@@ -178,7 +178,7 @@ Takeaways and accuracy check · 5 min.
 
 **Final questionnaire + close**
 
-Payment form and hand-in · 5 min.
+Eligible compensation form and hand-in · 5 min.
 
 ## Presenter notes
 
@@ -198,29 +198,33 @@ Swiss AI Futures Moderator Guide, sections 1–2.
 
 ---
 
-# Slide 6. Loop 1 · Discuss and share
+# Slide 6. Loop 1 · Build and test ideas
 
 ## On-screen copy
 
-# Loop 1 · Discuss and share
+# Loop 1 · Build and test ideas
 
-## Talk
+**Both loops happen inside the same 30-minute topic.**
 
-Explain what you think and why. Listen for different experiences.
+## Discuss
 
-## Write
+Talk in small groups. Explain what you think and why.
 
-Put one main idea on each sticky note.
+## Human round
 
-## Share and vote
+One idea per sticky note. Post it; the moderator clusters and labels similar ideas.
 
-Post the notes, group similar ideas, and show which matter most.
+## MURMI round
+
+Check the statements MURMI captures. Add anything missing, then vote on the statements.
 
 ## Presenter notes
 
-Loop 1 surfaces recommendations, conditions, concerns, and different perspectives. Groups discuss, write a small number of clear sticky notes, hear the other tables, react, and vote. Round 1 uses the physical board; Round 2 uses MURMI for cross-group sharing and voting.
+Loop 1 is the first step inside each 30-minute topic. It surfaces recommendations, conditions, concerns, and different perspectives.
 
-A vote indicates support; it does not automatically create consensus.
+In the human round, participants or table representatives place notes on the three-column whiteboard. While groups share, the moderator continuously clusters similar notes, writes a short label for each cluster, and checks that label with participants. Give each person up to three dot votes, with no more than one dot per labelled cluster. The moderator records the total beside each cluster.
+
+In the MURMI round, participants vote on reviewed statements using the 5-point scale. Voting always happens after sharing and clarification and before Loop 2. A vote shows support; it does not automatically create consensus.
 
 ### Sources
 
@@ -228,31 +232,37 @@ Swiss AI Futures Moderator Guide, sections 3–5.
 
 ## Timing
 
-3 minutes.
+2 minutes.
 
 ---
 
-# Slide 7. Loop 2 · Find common ground
+# Slide 7. Loop 2 · Build the shared summary
 
 ## On-screen copy
 
-# Loop 2 · Find common ground
+# Loop 2 · Build the shared summary
 
-## Build the summary
+**Votes guide priorities; they do not decide consensus.**
 
-Sort the ideas into three columns: **Recommendations · Conditions & Red Lines · Disagreements**
+## Draft
 
-## Check it together
+The moderator turns the clusters, votes, and reactions into three columns.
 
-Correct anything wrong or too strong. Keep meaningful disagreement visible.
+## Correct it together
+
+Say what to **keep, change, move, add, or remove**.
 
 ## Confirm
 
-Make sure the group can live with the final wording.
+Confirm that the wording fairly shows common ground and disagreement.
 
 ## Presenter notes
 
-Loop 2 creates a room-level synthesis. Review the three columns one at a time, revise the wording from participant feedback, and confirm that the result fairly represents both common ground and disagreement.
+Loop 2 follows immediately after voting in the same 30-minute topic. The vote helps identify priorities, but it does not decide what counts as consensus.
+
+For the human round, the moderator drafts the summary on the three-column whiteboard: **Recommendations · Conditions & Red Lines · Disagreements**. For the MURMI round, the system produces the first draft and the MURMI moderator edits it live.
+
+Review one column at a time. Ask what to keep, change, move, add, or remove, then show the complete revised summary before confirmation.
 
 Consensus does not mean everyone prefers every sentence. It means the summary is accurate enough for the group to accept, with important disagreement still visible.
 
@@ -266,7 +276,40 @@ Swiss AI Futures Moderator Guide, sections 3–5.
 
 ---
 
-# Slide 8. Online insights: education
+# Slide 8. The two loops at a glance
+
+## On-screen copy
+
+# From discussion to a checked room summary
+
+## The two loops at a glance
+
+1. Discuss in small groups.
+2. Share ideas across the room.
+3. Vote on reviewed ideas.
+4. Draft the three-column summary.
+5. Correct the wording together.
+6. Confirm the shared record.
+
+## Presenter notes
+
+Use this visual to recap the two loops before the first topic begins. Both loops happen within each 30-minute topic.
+
+Loop 1 moves from discussion to ideas that the whole room has heard and voted on. Loop 2 turns those ideas into a three-column summary that participants correct and confirm.
+
+Human moderation uses labelled sticky-note clusters and dot votes. MURMI uses reviewed statements and a 5-point vote. In both formats, voting guides priorities; participants still decide whether the final wording fairly represents the room.
+
+### Sources
+
+Swiss AI Futures Moderator Guide, sections 3–7.
+
+## Timing
+
+1 minute.
+
+---
+
+# Slide 9. Online insights: education
 
 ## On-screen copy
 
@@ -304,26 +347,24 @@ Online Insights, “Gradual AI Education: Critical Thinking Before Tool Use” a
 
 ---
 
-# Slide 9. Round 1 · AI in Education
+# Slide 10. Round 1 · AI in Education
 
 ## On-screen copy
 
-# How should schools prepare and protect students for AI?
+# How should schools prepare students for AI?
 
-## Four questions
+## Possible entry points
 
-* Which skills must students learn before using AI?
-* When should AI be allowed — and when not?
-* Who should train and support teachers?
-* How should data, fair assessment, and independent thinking be protected?
+* Which skills should students learn, and when should AI be used?
+* Who should support teachers, and what conditions are needed for data, assessment, and independent thinking?
 
 ## Presenter notes
 
 Round 1 uses human moderation and physical voting.
 
-Read the four prompt questions aloud. They are guides, not a checklist the group must answer mechanically.
+Start with the main question. The two entry points are optional prompts; use one only if the discussion needs help getting started. Do not present them as a checklist.
 
-Ask groups to move from general opinions to concrete proposals. Write one main idea per sticky note and place it under Policy Recommendations or Conditions & Red Lines.
+Ask groups to move from general opinions to concrete proposals. Participants write one main idea per sticky note and place it under Policy Recommendations or Conditions & Red Lines. As representatives share, continuously cluster and label similar notes with the room.
 
 Allow about 8 minutes for table discussion and sticky notes, 5 minutes for representatives to share, 3 minutes for reactions and clarification, and 2 minutes for the vote.
 
@@ -341,25 +382,25 @@ Swiss AI Futures Moderator Guide, sections 3–6 and 10. Online Insights, educat
 
 ---
 
-# Slide 10. Round 1 summary and survey
+# Slide 11. Round 1 summary and survey
 
 ## On-screen copy
 
-# Validate the summary, then take the survey
+# Complete this section now
 
-## Before the survey
+## Use the right section
 
-Does the summary fairly show what we share and where we still disagree?
+We will point to the page. Raise your hand if the instructions are unclear.
 
-## Survey + short break
+## Answer on your own
 
-Answer independently. Close the booklet, place it face down, and take a short break.
+Use a pen. When finished, close the booklet, place it face down, and take a short break.
 
 ## Presenter notes
 
 Finish validation before opening the survey. Participants confirm that the synthesis fairly represents the room; they are not personally endorsing every recommendation.
 
-Stop the discussion. Tell participants exactly which survey section to complete. Do not discuss answers, compare formats, or show results while the survey is open.
+Stop the discussion. Point to the exact section or page and say: “Please fill in this section now, on your own.” Make sure everyone has a pen. Answer questions about the instructions without suggesting an answer. Do not discuss answers, compare formats, or show results while the survey is open.
 
 Allow approximately 10 minutes for survey completion and a short break.
 
@@ -373,7 +414,7 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ---
 
-# Slide 11. Online insights: work
+# Slide 12. Online insights: work
 
 ## On-screen copy
 
@@ -385,7 +426,7 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ## Share responsibility
 
-Employers are expected to act, but are rarely trusted as AI advisers.
+**35 of 52** assigned employers responsibility, but only **4 of 52** selected them as trusted AI advisers.
 
 ## Do not leave it to the market
 
@@ -409,26 +450,60 @@ Online Insights, “Fair distribution of AI economical benefits” and “Shared
 
 ---
 
-# Slide 12. Round 2 · AI at Work
+# Slide 13. How MURMI supports this round
 
 ## On-screen copy
 
-# How should workers be prepared and protected as AI changes work?
+# MURMI in this round
 
-## Four questions
+## Check the statements
 
-* Which skills should be strengthened, preserved, or learned?
-* Who should provide training, time, and money?
-* Where should AI be accepted or limited at work?
-* What protections are needed if jobs or expectations change?
+MURMI turns the discussion into statements. Tell us if one is wrong or missing.
+
+## Vote before the summary
+
+Show your support for each reviewed statement on the 5-point scale.
+
+## Correct the draft
+
+Say what to **keep, change, move, add, or remove**. The moderator edits live.
 
 ## Presenter notes
 
-Read the four prompt questions aloud. They are guides, not a checklist the group must answer mechanically.
+Show this slide only when MURMI is about to be used. Help everyone join with initials only and confirm that recording has started.
 
-Ask groups to move from general opinions to concrete proposals. Write one main idea per sticky note and place it under Policy Recommendations or Conditions & Red Lines.
+Explain the sequence clearly: discussion first; statement review and additions; a dedicated 5-point vote; then the MURMI three-column draft. Voting happens before common ground is generated.
 
-Round 2 follows the same two loops as Round 1, with MURMI supporting cross-group sharing, reactions, voting, and the draft synthesis.
+During draft review, show one column at a time. Invite participants to say what should be kept, changed, moved, added, or removed. The MURMI moderator makes edits live, then shows the complete revised summary for room confirmation.
+
+### Sources
+
+Swiss AI Futures Moderator Guide, sections 5, 7, and 8.
+
+## Timing
+
+2 minutes, included in the 30-minute topic.
+
+---
+
+# Slide 14. Round 2 · AI at Work
+
+## On-screen copy
+
+# How should Switzerland prepare workers as AI changes work?
+
+## Possible entry points
+
+* Which skills should people strengthen, preserve, or learn?
+* Who should provide training, time, and support — and when should AI be limited?
+
+## Presenter notes
+
+Start with the main question. The two entry points are optional prompts; use one only if the discussion needs help getting started. Do not present them as a checklist.
+
+Ask groups to move from general opinions to concrete proposals. Encourage one clear idea at a time so MURMI can form usable statements. Before voting, review the statements with participants and add anything important that is missing.
+
+Round 2 follows the same two loops as Round 1, with MURMI supporting cross-group sharing, reactions, voting, and the draft synthesis. The preceding MURMI orientation is part of this 30-minute topic.
 
 Make sure participants inspect contributions from outside their own group. A vote indicates support; it is not automatic evidence of consensus.
 
@@ -440,29 +515,29 @@ Swiss AI Futures Moderator Guide, sections 3–5, 7, and 10. Online Insights, wo
 
 ## Timing
 
-27 minutes, following the 3-minute online-insights introduction.
+25 minutes, following the 3-minute online-insights introduction and 2-minute MURMI orientation.
 
 ---
 
-# Slide 13. Round 2 summary and survey
+# Slide 15. Round 2 summary and survey
 
 ## On-screen copy
 
-# Validate the AI draft, then take the survey
+# Complete this section now
 
-## Before the survey
+## Use the right section
 
-Correct anything wrong, incomplete, or too strong. Keep important disagreement visible.
+We will point to the page. Raise your hand if the instructions are unclear.
 
-## Survey + short break
+## Answer on your own
 
-Answer independently. Close the booklet, place it face down, and take a short break.
+Use a pen. When finished, close the booklet, place it face down, and take a short break.
 
 ## Presenter notes
 
 Ask whether the summary fairly represents both shared views and remaining disagreement. Revise the MURMI draft until participants confirm the representation is fair.
 
-Stop the discussion before opening the survey. Tell participants exactly which section to complete. Do not compare formats before survey completion.
+Stop the discussion before opening the survey. Point to the exact section or page and say: “Please fill in this section now, on your own.” Make sure everyone has a pen. Answer questions about the instructions without suggesting an answer. Do not compare formats before survey completion.
 
 Allow approximately 10 minutes for survey completion and a short break.
 
@@ -476,24 +551,24 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ---
 
-# Slide 14. AI & Switzerland
+# Slide 16. AI & Switzerland
 
 ## On-screen copy
 
 # What should Switzerland do for a desirable AI future?
 
-## Four questions
+## Possible entry points
 
-* What should Switzerland prioritise?
-* Who should be responsible?
-* Which conditions and red lines are essential?
-* What should citizens be able to decide democratically?
+* What should Switzerland prioritise, and who should be responsible?
+* Which conditions or red lines are essential — and where might we disagree?
 
 ## Presenter notes
 
 This closing discussion is MURMI-supported in both rooms and is not part of the human-versus-AI comparison.
 
-Use 1 minute to introduce the question, 3 minutes for table discussion, 2 minutes for MURMI sharing and reaction, and 2 minutes for the AI-supported three-column synthesis.
+Start with the main question. Use an entry point only if needed; do not treat the two prompts as a checklist.
+
+Use 1 minute to introduce the question, 2 minutes for table discussion, 2 minutes to share and correct MURMI statements, 1 minute for voting, and 2 minutes for the AI-supported three-column synthesis.
 
 Use the final 2 minutes to challenge, correct, and confirm the synthesis. Move unresolved substantive disagreement into Column 3.
 
@@ -507,7 +582,7 @@ Swiss AI Futures Moderator Guide, sections 3–5 and 9. Online Insights, democra
 
 ---
 
-# Slide 15. Review the generated report
+# Slide 17. Review the generated report
 
 ## On-screen copy
 
@@ -543,7 +618,7 @@ Swiss AI Futures Moderator Guide, section 9.
 
 ---
 
-# Slide 16. Final questionnaire, payment, and close
+# Slide 18. Final questionnaire, compensation, and close
 
 ## On-screen copy
 
@@ -555,7 +630,7 @@ Complete the final section independently.
 
 ## Compensation form
 
-Confirm the **CHF 60 voucher** or choose a bank transfer. Sign the form.
+Completed the online part? Confirm receipt of your **CHF 60 voucher** and sign.
 
 ## Hand in all three documents
 
@@ -565,9 +640,9 @@ Consent form, survey booklet, and compensation form.
 
 ## Presenter notes
 
-Ask participants to complete the final questionnaire section independently.
+Point to the final questionnaire section and ask participants to complete it independently. Make sure everyone still has a pen and answer questions about the instructions without suggesting an answer.
 
-Ask participants to complete and sign the compensation form: either confirm receipt of the CHF 60 voucher or choose a bank transfer. Collect the consent form, survey booklet, and compensation form according to the study protocol.
+Invite only participants who also completed the online part to complete and sign the compensation form confirming receipt of the CHF 60 voucher. Handle any payment exception privately rather than presenting alternatives to the room. Collect the consent form, survey booklet, and compensation form according to the study protocol.
 
 Thank participants and remind them that the results will contribute to the TA-SWISS report and inform Parliament and public debate.
 
@@ -585,10 +660,10 @@ Swiss AI Futures Moderator Guide, sections 10–11.
 
 | Slides | Activity | Duration |
 | --- | --- | ---: |
-| 1–7 | Welcome, purpose, etiquette, documents, schedule, and loops | 20 min |
-| 8–10 | Round 1: AI in Education + survey and break | 40 min |
-| 11–13 | Round 2: AI at Work + survey and break | 40 min |
-| 14 | AI & Switzerland | 10 min |
-| 15 | Review the generated report and takeaways | 5 min |
-| 16 | Final questionnaire, payment form, and close | 5 min |
+| 1–8 | Welcome, purpose, etiquette, documents, schedule, loops, and visual recap | 20 min |
+| 9–11 | Round 1: AI in Education + survey and break | 40 min |
+| 12–15 | Round 2: AI at Work + MURMI orientation + survey and break | 40 min |
+| 16 | AI & Switzerland | 10 min |
+| 17 | Review the generated report and takeaways | 5 min |
+| 18 | Final questionnaire, compensation form, and close | 5 min |
 | | **Total** | **120 min** |

@@ -6,6 +6,7 @@
   const supportedLanguages = sessionKey === "lausanne" ? ["en", "fr"] : ["en", "de"];
   const requestedLanguage = params.get("lang")?.toLowerCase();
   const language = supportedLanguages.includes(requestedLanguage) ? requestedLanguage : "en";
+  document.documentElement.lang = language;
 
   const sourceUrls = {
     en: "../docs/intro-slide.md",
@@ -61,17 +62,19 @@
     3: { phase: "intro", mode: "process", layout: "closing", timer: 3, fragments: "sections" },
     4: { phase: "intro", mode: "documents", layout: "logistics", timer: 6, fragments: "sections" },
     5: { phase: "intro", mode: "schedule", layout: "schedule", timer: 2, fragments: "sections" },
-    6: { phase: "intro", mode: "process", layout: "closing", timer: 3, fragments: "sections" },
+    6: { phase: "intro", mode: "process", layout: "closing", timer: 2, fragments: "sections" },
     7: { phase: "intro", mode: "process", layout: "closing", timer: 2, fragments: "sections" },
-    8: { phase: firstRoundPhase, mode: "evidence", layout: "focus", timer: 3, fragments: "sections" },
-    9: { phase: firstRoundPhase, mode: "topic", layout: "topic", timer: 27, fragments: "sections" },
-    10: { phase: firstRoundPhase, mode: "survey", layout: "survey", timer: 10 },
-    11: { phase: secondRoundPhase, mode: "evidence", layout: "focus", timer: 3, fragments: "sections" },
-    12: { phase: secondRoundPhase, mode: "topic", layout: "topic", timer: 27, fragments: "sections" },
-    13: { phase: secondRoundPhase, mode: "survey", layout: "survey", timer: 10 },
-    14: { phase: "future", mode: "topic", layout: "topic", timer: 10, fragments: "sections" },
-    15: { phase: "future", mode: "report", layout: "closing", timer: 5, fragments: "sections" },
-    16: { phase: "future", mode: "impact", layout: "closing", timer: 5, fragments: "sections" }
+    8: { phase: "intro", mode: "process", layout: "method", timer: 1 },
+    9: { phase: firstRoundPhase, mode: "evidence", layout: "focus", timer: 3, fragments: "sections" },
+    10: { phase: firstRoundPhase, mode: "topic", layout: "topic", timer: 27, fragments: "sections" },
+    11: { phase: firstRoundPhase, mode: "survey", layout: "survey", timer: 10 },
+    12: { phase: secondRoundPhase, mode: "evidence", layout: "focus", timer: 3, fragments: "sections" },
+    13: { phase: secondRoundPhase, mode: "murmi", layout: "focus", timer: 2, fragments: "sections" },
+    14: { phase: secondRoundPhase, mode: "topic", layout: "topic", timer: 25, fragments: "sections" },
+    15: { phase: secondRoundPhase, mode: "survey", layout: "survey", timer: 10 },
+    16: { phase: "future", mode: "topic", layout: "topic", timer: 10, fragments: "sections" },
+    17: { phase: "future", mode: "report", layout: "closing", timer: 5, fragments: "sections" },
+    18: { phase: "future", mode: "impact", layout: "closing", timer: 5, fragments: "sections" }
   };
 
   const phaseLabelsByLanguage = {
@@ -103,6 +106,7 @@
       documents: "Before we begin",
       schedule: "Today’s plan",
       topic: "Discussion topic",
+      murmi: "How MURMI works",
       survey: "Survey & break",
       impact: "What happens next",
       report: "Today’s result"
@@ -114,6 +118,7 @@
       documents: "Vor dem Start",
       schedule: "Heutiger Ablauf",
       topic: "Diskussionsthema",
+      murmi: "So funktioniert MURMI",
       survey: "Fragebogen & Pause",
       impact: "Wie es weitergeht",
       report: "Heutiges Ergebnis"
@@ -125,6 +130,7 @@
       documents: "Avant de commencer",
       schedule: "Programme du jour",
       topic: "Sujet de discussion",
+      murmi: "Fonctionnement de MURMI",
       survey: "Questionnaire & pause",
       impact: "Et ensuite",
       report: "Résultat du jour"
@@ -274,31 +280,31 @@
 
   const methodFlowLabelsByLanguage = {
     en: {
-      loopOne: "Loop 1 · Form and test statements",
-      loopTwo: "Loop 2 · Check and refine consensus",
-      repeat: "Repeat as needed",
-      aiOnly: "AI-supported only",
-      humanSkip: "Human process skips step 3",
-      final: "Final step",
-      flow: "Two feedback loops followed by consensus acceptance"
+      loopOne: "Loop 1 · Build and test ideas",
+      loopTwo: "Loop 2 · Build the shared summary",
+      repeat: "Review as needed",
+      aiOnly: "Vote",
+      humanSkip: "Human: dot votes · MURMI: 5-point scale",
+      final: "Room check",
+      flow: "Two loops turn discussion into a checked room summary"
     },
     de: {
-      loopOne: "Schleife 1 · Aussagen formulieren und testen",
-      loopTwo: "Schleife 2 · Konsens prüfen und präzisieren",
-      repeat: "Bei Bedarf wiederholen",
-      aiOnly: "Nur KI-unterstützt",
-      humanSkip: "Menschlicher Prozess überspringt Schritt 3",
-      final: "Letzter Schritt",
-      flow: "Zwei Rückkopplungsschleifen vor der Annahme des Konsenses"
+      loopOne: "Schleife 1 · Ideen bilden und prüfen",
+      loopTwo: "Schleife 2 · Gemeinsame Zusammenfassung",
+      repeat: "Bei Bedarf prüfen",
+      aiOnly: "Abstimmen",
+      humanSkip: "Menschlich: Klebepunkte · MURMI: 5-Punkte-Skala",
+      final: "Prüfung im Raum",
+      flow: "Zwei Schleifen führen von der Diskussion zur geprüften Zusammenfassung"
     },
     fr: {
-      loopOne: "Boucle 1 · Formuler et tester les propositions",
-      loopTwo: "Boucle 2 · Vérifier et affiner le consensus",
-      repeat: "Répéter si nécessaire",
-      aiOnly: "Processus IA uniquement",
-      humanSkip: "Le processus humain saute l’étape 3",
-      final: "Étape finale",
-      flow: "Deux boucles de rétroaction avant l’acceptation du consensus"
+      loopOne: "Boucle 1 · Formuler et tester les idées",
+      loopTwo: "Boucle 2 · Construire la synthèse",
+      repeat: "Vérifier si nécessaire",
+      aiOnly: "Voter",
+      humanSkip: "Humain : gommettes · MURMI : échelle à 5 points",
+      final: "Vérification en salle",
+      flow: "Deux boucles transforment la discussion en synthèse vérifiée"
     }
   };
 
@@ -1133,7 +1139,7 @@
       if (!response.ok) throw new Error(`Source request failed: ${response.status}`);
       const source = await response.text();
       state.slides = parseSlides(source);
-      if (state.slides.length !== 16) throw new Error(`Expected 16 slides, found ${state.slides.length}`);
+      if (state.slides.length !== 18) throw new Error(`Expected 18 slides, found ${state.slides.length}`);
 
       elements.track.innerHTML = state.slides.map(renderSlide).join("");
       renderOverview();

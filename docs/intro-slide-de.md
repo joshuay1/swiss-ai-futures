@@ -5,7 +5,7 @@ subtitle: "Perspektiven der Bevölkerung auf KI in Arbeit, Bildung und Schweizer
 date: "[Workshop-Datum]"
 location: "[Zürich]"
 format: "16:9-Präsentation mit Moderationsnotizen"
-version: "16-Folien-Deck gemäss Moderationsprotokoll"
+version: "18-Folien-Deck gemäss Moderationsprotokoll"
 -------------------------------------------
 
 # Slide 1. Swiss AI Futures
@@ -41,7 +41,7 @@ Heute diskutieren die Teilnehmenden zwei Themen, erleben menschliche und KI-unte
 
 ## Heute
 
-Ihre Erfahrungen werden zu Empfehlungen, Bedingungen und ehrlichem Dissens.
+Ihre heutigen Diskussionen werden eine zentrale Grundlage für künftige Debatten über die Integration von KI in der Schweiz.
 
 ## TA-SWISS-Bericht
 
@@ -116,11 +116,11 @@ Jetzt lesen und unterschreiben. Die Unterschrift ist für die Teilnahme erforder
 
 ## Fragebogenheft
 
-Behalten Sie es bei sich. Füllen Sie nur den angekündigten Abschnitt aus.
+Behalten Sie es mit einem Stift bei sich. Füllen Sie nur den angekündigten Abschnitt aus.
 
 ## Entschädigungsformular
 
-Erhalt des Gutscheins über **CHF 60** bestätigen oder Banküberweisung wählen. Vor dem Verlassen unterschreiben.
+Am Ende: Wenn Sie auch den Online-Teil abgeschlossen haben, bestätigen Sie den Erhalt des Gutscheins über **CHF 60** und unterschreiben.
 
 ## Presenter notes
 
@@ -128,9 +128,9 @@ Pausieren Sie, während die Teilnehmenden die drei Dokumente prüfen.
 
 Bitten Sie die Teilnehmenden, die Einwilligungserklärung zu lesen und zu unterschreiben. Beantworten Sie Fragen vor der Unterschrift.
 
-Erklären Sie, dass das Fragebogenheft mehrere Abschnitte enthält. Die Teilnehmenden füllen nur den angekündigten Abschnitt selbstständig aus und behalten das Heft während des ganzen Workshops.
+Erklären Sie, dass das Fragebogenheft mehrere Abschnitte enthält. Die Teilnehmenden füllen nur den angekündigten Abschnitt selbstständig aus und behalten das Heft während des ganzen Workshops. Prüfen Sie, ob alle einen Stift haben.
 
-Das Entschädigungsformular bestätigt den Erhalt des Gutscheins über CHF 60 oder wählt eine Banküberweisung. Sammeln Sie die Dokumente noch nicht ein.
+Erklären Sie, dass das Entschädigungsformular erst am Ende und nur von Teilnehmenden ausgefüllt wird, die auch den Online-Teil abgeschlossen haben. Berechtigte Teilnehmende bestätigen den Erhalt des Gutscheins über CHF 60 und unterschreiben. Behandeln Sie Ausnahmen bei der Auszahlung individuell, statt der ganzen Gruppe Alternativen anzubieten. Sammeln Sie die Dokumente noch nicht ein.
 
 ## Timing
 
@@ -178,7 +178,7 @@ Kernaussagen und Genauigkeit prüfen · 5 Min.
 
 **Letzter Fragebogen + Abschluss**
 
-Entschädigungsformular und Abgabe · 5 Min.
+Entschädigungsformular für Berechtigte und Abgabe · 5 Min.
 
 ## Presenter notes
 
@@ -198,29 +198,33 @@ Swiss AI Futures Moderator Guide, Abschnitte 1–2.
 
 ---
 
-# Slide 6. Schleife 1 · Diskutieren und teilen
+# Slide 6. Schleife 1 · Ideen bilden und prüfen
 
 ## On-screen copy
 
-# Schleife 1 · Diskutieren und teilen
+# Schleife 1 · Ideen bilden und prüfen
 
-## Sprechen
+**Beide Schleifen finden im selben 30-minütigen Thema statt.**
 
-Erklären Sie, was Sie denken und warum. Hören Sie auf unterschiedliche Erfahrungen.
+## Diskutieren
 
-## Schreiben
+In Kleingruppen besprechen. Erklären Sie, was Sie denken und warum.
 
-Eine Hauptidee pro Haftnotiz.
+## Menschliche Runde
 
-## Teilen und abstimmen
+Eine Idee pro Haftnotiz. Anbringen; die Moderation bündelt und beschriftet ähnliche Ideen.
 
-Notizen anbringen, ähnliche Ideen bündeln und zeigen, welche am wichtigsten sind.
+## MURMI-Runde
+
+Von MURMI erfasste Aussagen prüfen. Fehlendes ergänzen, dann über die Aussagen abstimmen.
 
 ## Presenter notes
 
-Schleife 1 macht Empfehlungen, Bedingungen, Sorgen und verschiedene Perspektiven sichtbar. Gruppen diskutieren, schreiben wenige klare Haftnotizen, hören die anderen Tische, reagieren und stimmen ab. Runde 1 nutzt die physische Tafel; Runde 2 nutzt MURMI für Austausch und Abstimmung zwischen den Gruppen.
+Schleife 1 ist der erste Schritt innerhalb jedes 30-minütigen Themas. Sie macht Empfehlungen, Bedingungen, Sorgen und verschiedene Perspektiven sichtbar.
 
-Eine Abstimmung zeigt Unterstützung. Sie schafft nicht automatisch Konsens.
+In der menschlichen Runde bringen Teilnehmende oder Tischvertretungen die Notizen auf der dreispaltigen Tafel an. Während die Gruppen teilen, bündelt die Moderation ähnliche Notizen fortlaufend, beschriftet jedes Bündel kurz und prüft die Bezeichnung mit den Teilnehmenden. Jede Person erhält bis zu drei Klebepunkte und setzt höchstens einen Punkt pro beschriftetem Ideenbündel. Die Moderation notiert die Summe neben dem Bündel.
+
+In der MURMI-Runde stimmen die Teilnehmenden über geprüfte Aussagen auf der 5-Punkte-Skala ab. Die Abstimmung findet nach Teilen und Klären und vor Schleife 2 statt. Sie zeigt Unterstützung, schafft aber nicht automatisch Konsens.
 
 ### Sources
 
@@ -228,31 +232,37 @@ Swiss AI Futures Moderator Guide, Abschnitte 3–5.
 
 ## Timing
 
-3 Minuten.
+2 Minuten.
 
 ---
 
-# Slide 7. Schleife 2 · Gemeinsames Ergebnis finden
+# Slide 7. Schleife 2 · Gemeinsame Zusammenfassung
 
 ## On-screen copy
 
-# Schleife 2 · Gemeinsames Ergebnis finden
+# Schleife 2 · Gemeinsame Zusammenfassung
 
-## Zusammenfassung erstellen
+**Stimmen zeigen Prioritäten; sie entscheiden nicht über Konsens.**
 
-Ideen in drei Spalten sortieren: **Empfehlungen · Bedingungen & rote Linien · Dissens**
+## Entwurf
 
-## Gemeinsam prüfen
+Die Moderation überführt Bündel, Stimmen und Reaktionen in drei Spalten.
 
-Falsches oder zu stark Formuliertes korrigieren. Wichtigen Dissens sichtbar lassen.
+## Gemeinsam korrigieren
+
+Sagen, was **bleiben, geändert, verschoben, ergänzt oder entfernt** werden soll.
 
 ## Bestätigen
 
-Sicherstellen, dass die Gruppe mit der endgültigen Formulierung leben kann.
+Bestätigen, dass die Formulierung Gemeinsamkeiten und Dissens fair wiedergibt.
 
 ## Presenter notes
 
-Schleife 2 erstellt eine Zusammenfassung für den ganzen Raum. Prüfen Sie die drei Spalten einzeln, überarbeiten Sie die Formulierungen aufgrund des Feedbacks und bestätigen Sie, dass das Ergebnis Gemeinsamkeiten und Dissens fair wiedergibt.
+Schleife 2 folgt direkt nach der Abstimmung im selben 30-minütigen Thema. Die Stimmen helfen, Prioritäten zu erkennen, entscheiden aber nicht, was als Konsens gilt.
+
+In der menschlichen Runde erstellt die Moderation den Entwurf auf der dreispaltigen Tafel: **Empfehlungen · Bedingungen & rote Linien · Dissens**. In der MURMI-Runde erzeugt das System den ersten Entwurf, den die MURMI-Moderation live bearbeitet.
+
+Prüfen Sie jede Spalte einzeln. Fragen Sie, was bleiben, geändert, verschoben, ergänzt oder entfernt werden soll, und zeigen Sie vor der Bestätigung die vollständige überarbeitete Zusammenfassung.
 
 Konsens bedeutet nicht, dass alle jeden Satz bevorzugen. Die Zusammenfassung soll für die Gruppe genügend genau sein, während wichtiger Dissens sichtbar bleibt.
 
@@ -266,7 +276,40 @@ Swiss AI Futures Moderator Guide, Abschnitte 3–5.
 
 ---
 
-# Slide 8. Online-Erkenntnisse zur Arbeit
+# Slide 8. Die zwei Schleifen im Überblick
+
+## On-screen copy
+
+# Von der Diskussion zur geprüften Zusammenfassung
+
+## Die zwei Schleifen im Überblick
+
+1. In Kleingruppen diskutieren.
+2. Ideen im Raum teilen.
+3. Über geprüfte Ideen abstimmen.
+4. Die dreispaltige Zusammenfassung entwerfen.
+5. Die Formulierungen gemeinsam korrigieren.
+6. Die gemeinsame Dokumentation bestätigen.
+
+## Presenter notes
+
+Nutzen Sie diese Grafik als Rückblick auf die zwei Schleifen, bevor das erste Thema beginnt. Beide Schleifen finden innerhalb jedes 30-minütigen Themas statt.
+
+Schleife 1 führt von der Diskussion zu Ideen, die der ganze Raum gehört und bewertet hat. Schleife 2 überführt diese Ideen in eine dreispaltige Zusammenfassung, die die Teilnehmenden korrigieren und bestätigen.
+
+In der menschlichen Moderation werden beschriftete Haftnotiz-Bündel und Klebepunkte verwendet. MURMI nutzt geprüfte Aussagen und eine 5-Punkte-Abstimmung. In beiden Formaten zeigen die Stimmen Prioritäten; die Teilnehmenden entscheiden weiterhin, ob die endgültige Formulierung den Raum fair wiedergibt.
+
+### Sources
+
+Swiss AI Futures Moderator Guide, Abschnitte 3–7.
+
+## Timing
+
+1 Minute.
+
+---
+
+# Slide 9. Online-Erkenntnisse zur Arbeit
 
 ## On-screen copy
 
@@ -278,7 +321,7 @@ Swiss AI Futures Moderator Guide, Abschnitte 3–5.
 
 ## Verantwortung teilen
 
-Arbeitgeber sollen handeln, werden aber selten als KI-Ratgeber vertraut.
+**35 von 52** wiesen Arbeitgebern Verantwortung zu; nur **4 von 52** nannten sie als vertrauenswürdige KI-Ratgeber.
 
 ## Nicht dem Markt überlassen
 
@@ -302,26 +345,24 @@ Online Insights, „Fair distribution of AI economical benefits“ und „Shared
 
 ---
 
-# Slide 9. Runde 1 · KI bei der Arbeit
+# Slide 10. Runde 1 · KI bei der Arbeit
 
 ## On-screen copy
 
-# Wie sollen Beschäftigte auf KI vorbereitet und geschützt werden?
+# Wie soll die Schweiz Beschäftigte auf KI vorbereiten?
 
-## Vier Fragen
+## Mögliche Einstiegspunkte
 
-* Welche Kompetenzen müssen gestärkt, erhalten oder neu gelernt werden?
-* Wer stellt Schulung, Zeit und Geld bereit?
-* Wo soll KI am Arbeitsplatz akzeptiert oder begrenzt werden?
-* Welcher Schutz ist nötig, wenn sich Stellen oder Erwartungen verändern?
+* Welche Kompetenzen sollen Menschen stärken, erhalten oder neu lernen?
+* Wer stellt Schulung, Zeit und Unterstützung bereit — und wann soll KI begrenzt werden?
 
 ## Presenter notes
 
 Runde 1 nutzt menschliche Moderation und eine physische Abstimmung.
 
-Lesen Sie die vier Leitfragen vor. Sie dienen als Orientierung und müssen nicht mechanisch abgearbeitet werden.
+Beginnen Sie mit der Hauptfrage. Die zwei Einstiegspunkte sind optionale Impulse; nutzen Sie höchstens einen, falls die Diskussion Unterstützung braucht. Sie sind keine Checkliste.
 
-Führen Sie von allgemeinen Meinungen zu konkreten Vorschlägen. Eine Hauptidee pro Haftnotiz; einordnen unter Politische Empfehlungen oder Bedingungen & rote Linien.
+Führen Sie von allgemeinen Meinungen zu konkreten Vorschlägen. Eine Hauptidee pro Haftnotiz; einordnen unter Politische Empfehlungen oder Bedingungen & rote Linien. Bündeln und beschriften Sie ähnliche Notizen fortlaufend, während die Gruppen ihre Ideen vorstellen.
 
 Planen Sie etwa 8 Minuten für Tischdiskussion und Haftnotizen, 5 Minuten für die Beiträge der Gruppen, 3 Minuten für Reaktionen und Klärung sowie 2 Minuten für die Abstimmung.
 
@@ -339,25 +380,25 @@ Swiss AI Futures Moderator Guide, Abschnitte 3–6 und 10. Online Insights, Erke
 
 ---
 
-# Slide 10. Zusammenfassung und Fragebogen
+# Slide 11. Zusammenfassung und Fragebogen
 
 ## On-screen copy
 
-# Zusammenfassung bestätigen, dann Fragebogen
+# Diesen Abschnitt jetzt ausfüllen
 
-## Vor dem Fragebogen
+## Richtigen Abschnitt nutzen
 
-Zeigt die Zusammenfassung fair, was wir teilen und wo wir noch uneinig sind?
+Wir zeigen die Seite. Heben Sie die Hand, wenn die Anleitung unklar ist.
 
-## Fragebogen + kurze Pause
+## Selbstständig antworten
 
-Selbstständig antworten. Heft schliessen, verdeckt hinlegen und kurz Pause machen.
+Mit Stift ausfüllen. Danach das Heft schliessen, verdeckt hinlegen und kurz Pause machen.
 
 ## Presenter notes
 
 Schliessen Sie die Validierung ab, bevor Sie den Fragebogen öffnen. Die Teilnehmenden bestätigen eine faire Darstellung des Raums; sie stimmen nicht jeder Empfehlung persönlich zu.
 
-Stoppen Sie die Diskussion. Sagen Sie genau, welcher Abschnitt auszufüllen ist. Besprechen Sie weder Antworten noch Moderationsformate, solange der Fragebogen offen ist.
+Stoppen Sie die Diskussion. Zeigen Sie den genauen Abschnitt oder die Seite und sagen Sie: „Bitte füllen Sie diesen Abschnitt jetzt selbstständig aus.“ Prüfen Sie, ob alle einen Stift haben. Beantworten Sie Fragen zur Anleitung, ohne eine Antwort nahezulegen. Besprechen Sie weder Antworten noch Moderationsformate, solange der Fragebogen offen ist.
 
 Planen Sie ungefähr 10 Minuten für Fragebogen und kurze Pause.
 
@@ -371,7 +412,7 @@ Swiss AI Futures Moderator Guide, Abschnitt 10.
 
 ---
 
-# Slide 11. Online-Erkenntnisse zur Bildung
+# Slide 12. Online-Erkenntnisse zur Bildung
 
 ## On-screen copy
 
@@ -407,26 +448,60 @@ Online Insights, „Gradual AI Education: Critical Thinking Before Tool Use“ u
 
 ---
 
-# Slide 12. Runde 2 · KI in der Bildung
+# Slide 13. So unterstützt MURMI diese Runde
 
 ## On-screen copy
 
-# Wie sollen Schulen Lernende auf KI vorbereiten und schützen?
+# MURMI in dieser Runde
 
-## Vier Fragen
+## Aussagen prüfen
 
-* Welche Fähigkeiten müssen Lernende vor der KI-Nutzung beherrschen?
-* Wann soll KI erlaubt sein — und wann nicht?
-* Wer bildet und unterstützt Lehrpersonen?
-* Wie schützen wir Daten, faire Beurteilung und selbstständiges Denken?
+MURMI macht aus der Diskussion Aussagen. Sagen Sie uns, wenn etwas falsch ist oder fehlt.
+
+## Vor der Zusammenfassung abstimmen
+
+Zeigen Sie Ihre Unterstützung für jede geprüfte Aussage auf der 5-Punkte-Skala.
+
+## Entwurf korrigieren
+
+Sagen Sie, was **bleiben, geändert, verschoben, ergänzt oder entfernt** werden soll. Die Moderation bearbeitet live.
 
 ## Presenter notes
 
-Lesen Sie die vier Leitfragen vor. Sie dienen als Orientierung und müssen nicht mechanisch abgearbeitet werden.
+Zeigen Sie diese Folie erst unmittelbar vor dem MURMI-Einsatz. Helfen Sie allen, nur mit ihren Initialen beizutreten, und prüfen Sie, ob die Aufzeichnung läuft.
 
-Führen Sie von allgemeinen Meinungen zu konkreten Vorschlägen. Eine Hauptidee pro Haftnotiz; einordnen unter Politische Empfehlungen oder Bedingungen & rote Linien.
+Erklären Sie die Reihenfolge klar: zuerst Diskussion; danach Aussagen prüfen und Fehlendes ergänzen; dann eine eigene 5-Punkte-Abstimmung; anschliessend der dreispaltige MURMI-Entwurf. Die Abstimmung findet vor der Erzeugung des gemeinsamen Ergebnisses statt.
 
-Runde 2 nutzt dieselben zwei Schleifen wie Runde 1. MURMI unterstützt das Teilen zwischen Gruppen, Reaktionen, Abstimmung und den Entwurf der Zusammenfassung.
+Zeigen Sie bei der Entwurfsprüfung jeweils eine Spalte. Fragen Sie, was bleiben, geändert, verschoben, ergänzt oder entfernt werden soll. Die MURMI-Moderation setzt die Änderungen live um und zeigt danach die vollständige überarbeitete Zusammenfassung zur Bestätigung.
+
+### Sources
+
+Swiss AI Futures Moderator Guide, Abschnitte 5, 7 und 8.
+
+## Timing
+
+2 Minuten innerhalb des 30-minütigen Themas.
+
+---
+
+# Slide 14. Runde 2 · KI in der Bildung
+
+## On-screen copy
+
+# Wie sollen Schulen Lernende auf KI vorbereiten?
+
+## Mögliche Einstiegspunkte
+
+* Welche Fähigkeiten sollen Lernende erwerben, und wann soll KI eingesetzt werden?
+* Wer unterstützt Lehrpersonen, und welche Bedingungen braucht es für Daten, Beurteilung und selbstständiges Denken?
+
+## Presenter notes
+
+Beginnen Sie mit der Hauptfrage. Die zwei Einstiegspunkte sind optionale Impulse; nutzen Sie höchstens einen, falls die Diskussion Unterstützung braucht. Sie sind keine Checkliste.
+
+Führen Sie von allgemeinen Meinungen zu konkreten Vorschlägen. Ermutigen Sie jeweils eine klare Idee, damit MURMI verständliche Aussagen bilden kann. Prüfen Sie vor der Abstimmung die Aussagen mit den Teilnehmenden und ergänzen Sie wichtige fehlende Punkte.
+
+Runde 2 nutzt dieselben zwei Schleifen wie Runde 1. MURMI unterstützt das Teilen zwischen Gruppen, Reaktionen, Abstimmung und den Entwurf der Zusammenfassung. Die vorherige MURMI-Einführung gehört zu diesem 30-minütigen Thema.
 
 Stellen Sie sicher, dass die Teilnehmenden Beiträge ausserhalb ihrer eigenen Gruppe prüfen. Eine Abstimmung zeigt Unterstützung; sie ist kein automatischer Konsens.
 
@@ -438,29 +513,29 @@ Swiss AI Futures Moderator Guide, Abschnitte 3–5, 7 und 10. Online Insights, E
 
 ## Timing
 
-27 Minuten nach der 3-minütigen Einführung in die Online-Erkenntnisse.
+25 Minuten nach der 3-minütigen Einführung in die Online-Erkenntnisse und der 2-minütigen MURMI-Einführung.
 
 ---
 
-# Slide 13. KI-Entwurf und Fragebogen
+# Slide 15. KI-Entwurf und Fragebogen
 
 ## On-screen copy
 
-# KI-Entwurf bestätigen, dann Fragebogen
+# Diesen Abschnitt jetzt ausfüllen
 
-## Vor dem Fragebogen
+## Richtigen Abschnitt nutzen
 
-Falsches, Fehlendes oder zu stark Formuliertes korrigieren. Wichtigen Dissens sichtbar halten.
+Wir zeigen die Seite. Heben Sie die Hand, wenn die Anleitung unklar ist.
 
-## Fragebogen + kurze Pause
+## Selbstständig antworten
 
-Selbstständig antworten. Heft schliessen, verdeckt hinlegen und kurz Pause machen.
+Mit Stift ausfüllen. Danach das Heft schliessen, verdeckt hinlegen und kurz Pause machen.
 
 ## Presenter notes
 
 Fragen Sie, ob die Zusammenfassung gemeinsame Sichtweisen und verbleibenden Dissens fair darstellt. Überarbeiten Sie den MURMI-Entwurf, bis die Darstellung bestätigt wird.
 
-Stoppen Sie die Diskussion vor dem Fragebogen. Sagen Sie genau, welcher Abschnitt auszufüllen ist. Vergleichen Sie die Formate erst nach dem Fragebogen.
+Stoppen Sie die Diskussion vor dem Fragebogen. Zeigen Sie den genauen Abschnitt oder die Seite und sagen Sie: „Bitte füllen Sie diesen Abschnitt jetzt selbstständig aus.“ Prüfen Sie, ob alle einen Stift haben. Beantworten Sie Fragen zur Anleitung, ohne eine Antwort nahezulegen. Vergleichen Sie die Formate erst nach dem Fragebogen.
 
 Planen Sie ungefähr 10 Minuten für Fragebogen und kurze Pause.
 
@@ -474,24 +549,24 @@ Swiss AI Futures Moderator Guide, Abschnitt 10.
 
 ---
 
-# Slide 14. KI & Schweiz
+# Slide 16. KI & Schweiz
 
 ## On-screen copy
 
 # Was soll die Schweiz für eine wünschenswerte KI-Zukunft tun?
 
-## Vier Fragen
+## Mögliche Einstiegspunkte
 
-* Was soll die Schweiz priorisieren?
-* Wer soll Verantwortung tragen?
-* Welche Bedingungen und roten Linien sind unverzichtbar?
-* Worüber sollen Bürger:innen demokratisch entscheiden können?
+* Was soll die Schweiz priorisieren, und wer soll Verantwortung tragen?
+* Welche Bedingungen oder roten Linien sind unverzichtbar — und wo könnten wir uneinig sein?
 
 ## Presenter notes
 
 Diese Abschlussdiskussion ist in beiden Räumen MURMI-unterstützt und gehört nicht zum Vergleich von menschlicher und KI-unterstützter Moderation.
 
-Nutzen Sie 1 Minute für die Frage, 3 Minuten für die Tischdiskussion, 2 Minuten für Teilen und Reagieren mit MURMI und 2 Minuten für die dreispaltige KI-unterstützte Zusammenfassung.
+Beginnen Sie mit der Hauptfrage. Nutzen Sie einen Einstiegspunkt nur bei Bedarf; behandeln Sie die zwei Impulse nicht als Checkliste.
+
+Nutzen Sie 1 Minute für die Frage, 2 Minuten für die Tischdiskussion, 2 Minuten zum Teilen und Korrigieren der MURMI-Aussagen, 1 Minute für die Abstimmung und 2 Minuten für die dreispaltige KI-unterstützte Zusammenfassung.
 
 Nutzen Sie die letzten 2 Minuten, um die Zusammenfassung zu hinterfragen, zu korrigieren und zu bestätigen. Verschieben Sie unlösbaren substanziellen Dissens in Spalte 3.
 
@@ -505,7 +580,7 @@ Swiss AI Futures Moderator Guide, Abschnitte 3–5 und 9. Online Insights, demok
 
 ---
 
-# Slide 15. Automatisch erstellten Bericht prüfen
+# Slide 17. Automatisch erstellten Bericht prüfen
 
 ## On-screen copy
 
@@ -541,7 +616,7 @@ Swiss AI Futures Moderator Guide, Abschnitt 9.
 
 ---
 
-# Slide 16. Letzter Fragebogen, Entschädigung und Abschluss
+# Slide 18. Letzter Fragebogen, Entschädigung und Abschluss
 
 ## On-screen copy
 
@@ -553,7 +628,7 @@ Den letzten Abschnitt selbstständig ausfüllen.
 
 ## Entschädigungsformular
 
-Gutschein über **CHF 60** bestätigen oder Banküberweisung wählen. Formular unterschreiben.
+Online-Teil abgeschlossen? Erhalt des Gutscheins über **CHF 60** bestätigen und unterschreiben.
 
 ## Alle drei Dokumente abgeben
 
@@ -563,9 +638,9 @@ Einwilligungserklärung, Fragebogenheft und Entschädigungsformular.
 
 ## Presenter notes
 
-Bitten Sie die Teilnehmenden, den letzten Abschnitt des Fragebogens selbstständig auszufüllen.
+Zeigen Sie den letzten Fragebogenabschnitt und bitten Sie die Teilnehmenden, ihn selbstständig auszufüllen. Prüfen Sie, ob alle noch einen Stift haben, und beantworten Sie Fragen zur Anleitung, ohne eine Antwort nahezulegen.
 
-Bitten Sie die Teilnehmenden, das Entschädigungsformular auszufüllen und zu unterschreiben: Erhalt des Gutscheins über CHF 60 bestätigen oder Banküberweisung wählen. Sammeln Sie danach alle drei Dokumente gemäss Studienprotokoll ein.
+Bitten Sie nur Teilnehmende, die auch den Online-Teil abgeschlossen haben, das Entschädigungsformular auszufüllen und den Erhalt des Gutscheins über CHF 60 mit ihrer Unterschrift zu bestätigen. Behandeln Sie Ausnahmen bei der Auszahlung individuell, statt der ganzen Gruppe Alternativen anzubieten. Sammeln Sie danach alle drei Dokumente gemäss Studienprotokoll ein.
 
 Bedanken Sie sich und erinnern Sie daran, dass die Ergebnisse in den TA-SWISS-Bericht einfliessen und Parlament sowie öffentliche Debatte informieren.
 
@@ -583,10 +658,10 @@ Swiss AI Futures Moderator Guide, Abschnitte 10–11.
 
 | Folien | Aktivität | Dauer |
 | --- | --- | ---: |
-| 1–7 | Willkommen, Zweck, Gesprächsregeln, Dokumente, Ablauf und Schleifen | 20 Min |
-| 8–10 | Runde 1: KI bei der Arbeit + Fragebogen und Pause | 40 Min |
-| 11–13 | Runde 2: KI in der Bildung + Fragebogen und Pause | 40 Min |
-| 14 | KI & Schweiz | 10 Min |
-| 15 | Automatisch erstellten Bericht und Kernaussagen prüfen | 5 Min |
-| 16 | Letzter Fragebogen, Entschädigungsformular und Abschluss | 5 Min |
+| 1–8 | Willkommen, Zweck, Gesprächsregeln, Dokumente, Ablauf, Schleifen und visueller Überblick | 20 Min |
+| 9–11 | Runde 1: KI bei der Arbeit + Fragebogen und Pause | 40 Min |
+| 12–15 | Runde 2: KI in der Bildung + MURMI-Einführung + Fragebogen und Pause | 40 Min |
+| 16 | KI & Schweiz | 10 Min |
+| 17 | Automatisch erstellten Bericht und Kernaussagen prüfen | 5 Min |
+| 18 | Letzter Fragebogen, Entschädigungsformular und Abschluss | 5 Min |
 | | **Gesamt** | **120 Min** |

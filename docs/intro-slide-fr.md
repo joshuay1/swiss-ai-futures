@@ -5,7 +5,7 @@ subtitle: "Perspectives citoyennes sur l’IA au travail, dans l’éducation et
 date: "[Date de l’atelier]"
 location: "[Lausanne]"
 format: "Présentation 16:9 avec notes de facilitation"
-version: "Présentation en 16 diapositives selon le protocole"
+version: "Présentation en 18 diapositives selon le protocole"
 -------------------------------------------
 
 # Slide 1. Swiss AI Futures
@@ -41,7 +41,7 @@ Aujourd’hui, les participants discuteront de deux sujets, expérimenteront une
 
 ## Aujourd’hui
 
-Vos expériences deviennent des recommandations, des conditions et des désaccords sincères.
+Vos discussions d’aujourd’hui joueront un rôle central dans les futurs débats sur l’intégration de l’IA en Suisse.
 
 ## Rapport TA-SWISS
 
@@ -116,11 +116,11 @@ Lisez et signez maintenant. La signature est requise pour participer.
 
 ## Cahier de questionnaire
 
-Gardez-le. Remplissez uniquement la section annoncée.
+Gardez-le avec un stylo. Remplissez uniquement la section annoncée.
 
 ## Formulaire d’indemnisation
 
-Confirmez la réception du bon de **CHF 60** ou choisissez un virement bancaire. Signez avant de partir.
+À la fin : si vous avez également terminé la partie en ligne, confirmez la réception du bon de **CHF 60** et signez.
 
 ## Presenter notes
 
@@ -128,9 +128,9 @@ Faites une pause pendant que les participants vérifient les trois documents.
 
 Demandez de lire et signer le formulaire de consentement. Répondez aux questions avant la signature.
 
-Expliquez que le cahier comporte plusieurs sections. Les participants remplissent uniquement la section annoncée, répondent individuellement et gardent le cahier pendant tout l’atelier.
+Expliquez que le cahier comporte plusieurs sections. Les participants remplissent uniquement la section annoncée, répondent individuellement et gardent le cahier pendant tout l’atelier. Vérifiez que chacun a un stylo.
 
-Le formulaire d’indemnisation confirme la réception du bon de CHF 60 ou demande un virement bancaire. Ne ramassez pas encore les documents.
+Expliquez que le formulaire d’indemnisation est rempli à la fin, uniquement par les personnes qui ont également terminé la partie en ligne. Les personnes éligibles confirment la réception du bon de CHF 60 et signent. Traitez toute exception de paiement individuellement, sans présenter d’autres options à toute la salle. Ne ramassez pas encore les documents.
 
 ## Timing
 
@@ -178,7 +178,7 @@ Messages clés et contrôle d’exactitude · 5 min.
 
 **Questionnaire final + conclusion**
 
-Formulaire d’indemnisation et remise · 5 min.
+Formulaire d’indemnisation pour les personnes éligibles et remise · 5 min.
 
 ## Presenter notes
 
@@ -198,29 +198,33 @@ Swiss AI Futures Moderator Guide, sections 1 à 2.
 
 ---
 
-# Slide 6. Boucle 1 · Discuter et partager
+# Slide 6. Boucle 1 · Formuler et tester les idées
 
 ## On-screen copy
 
-# Boucle 1 · Discuter et partager
+# Boucle 1 · Formuler et tester les idées
 
-## Parler
+**Les deux boucles ont lieu dans le même sujet de 30 minutes.**
 
-Expliquez ce que vous pensez et pourquoi. Écoutez les différentes expériences.
+## Discuter
 
-## Écrire
+Discutez en petits groupes. Expliquez ce que vous pensez et pourquoi.
 
-Une idée principale par post-it.
+## Tour avec modération humaine
 
-## Partager et voter
+Une idée par post-it. Affichez-la ; la modération regroupe et nomme les idées proches.
 
-Affichez les post-it, regroupez les idées proches et indiquez lesquelles comptent le plus.
+## Tour avec MURMI
+
+Vérifiez les propositions captées par MURMI. Ajoutez ce qui manque, puis votez sur les propositions.
 
 ## Presenter notes
 
-La boucle 1 fait émerger recommandations, conditions, préoccupations et perspectives. Les groupes discutent, écrivent quelques post-it clairs, écoutent les autres tables, réagissent et votent. Le premier tour utilise le tableau physique ; le second utilise MURMI pour le partage et le vote entre groupes.
+La boucle 1 est la première étape de chaque sujet de 30 minutes. Elle fait émerger recommandations, conditions, préoccupations et perspectives.
 
-Un vote indique un soutien ; il ne crée pas automatiquement un consensus.
+Dans le tour avec modération humaine, les participants ou représentants de table placent les post-it sur le tableau à trois colonnes. Pendant le partage, la modération regroupe en continu les notes proches, donne un titre court à chaque groupe d’idées et vérifie ce titre avec les participants. Chaque personne reçoit jusqu’à trois gommettes et place au maximum une gommette par groupe d’idées nommé. La modération inscrit le total à côté de chaque groupe.
+
+Dans le tour avec MURMI, les participants votent sur les propositions vérifiées avec l’échelle à 5 points. Le vote vient après le partage et la clarification, puis avant la boucle 2. Il indique un soutien ; il ne crée pas automatiquement un consensus.
 
 ### Sources
 
@@ -228,31 +232,37 @@ Swiss AI Futures Moderator Guide, sections 3 à 5.
 
 ## Timing
 
-3 minutes.
+2 minutes.
 
 ---
 
-# Slide 7. Boucle 2 · Trouver un terrain commun
+# Slide 7. Boucle 2 · Construire la synthèse
 
 ## On-screen copy
 
-# Boucle 2 · Trouver un terrain commun
+# Boucle 2 · Construire la synthèse
 
-## Construire la synthèse
+**Les votes indiquent les priorités ; ils ne décident pas du consensus.**
 
-Classez les idées dans trois colonnes : **Recommandations · Conditions & lignes rouges · Désaccords**
+## Projet
 
-## Vérifier ensemble
+La modération transforme groupes d’idées, votes et réactions en trois colonnes.
 
-Corrigez ce qui est faux ou trop affirmatif. Gardez les désaccords importants visibles.
+## Corriger ensemble
+
+Dites ce qu’il faut **garder, modifier, déplacer, ajouter ou supprimer**.
 
 ## Confirmer
 
-Assurez-vous que le groupe peut accepter la formulation finale.
+Confirmez que le texte représente fidèlement points communs et désaccords.
 
 ## Presenter notes
 
-La boucle 2 produit une synthèse de la salle. Passez en revue les trois colonnes, révisez la formulation selon les retours, puis confirmez que le résultat représente fidèlement les points communs et les désaccords.
+La boucle 2 suit immédiatement le vote dans le même sujet de 30 minutes. Les votes aident à repérer les priorités, mais ne décident pas à eux seuls du consensus.
+
+Dans le tour humain, la modération prépare le projet sur le tableau à trois colonnes : **Recommandations · Conditions & lignes rouges · Désaccords**. Dans le tour MURMI, le système produit le premier projet et la personne chargée de MURMI le modifie en direct.
+
+Passez en revue une colonne à la fois. Demandez ce qu’il faut garder, modifier, déplacer, ajouter ou supprimer, puis montrez la synthèse complète révisée avant sa confirmation.
 
 Le consensus ne signifie pas que chacun préfère chaque phrase. La synthèse doit être assez fidèle pour être acceptée par le groupe, tout en gardant les désaccords importants visibles.
 
@@ -266,7 +276,40 @@ Swiss AI Futures Moderator Guide, sections 3 à 5.
 
 ---
 
-# Slide 8. Enseignements en ligne : travail
+# Slide 8. Les deux boucles en un coup d’œil
+
+## On-screen copy
+
+# De la discussion à une synthèse vérifiée
+
+## Les deux boucles en un coup d’œil
+
+1. Discuter en petits groupes.
+2. Partager les idées dans la salle.
+3. Voter sur les idées vérifiées.
+4. Préparer la synthèse en trois colonnes.
+5. Corriger ensemble la formulation.
+6. Confirmer la trace commune.
+
+## Presenter notes
+
+Utilisez ce visuel pour récapituler les deux boucles avant le premier sujet. Les deux boucles ont lieu dans chaque sujet de 30 minutes.
+
+La boucle 1 va de la discussion aux idées que toute la salle a entendues et soumises au vote. La boucle 2 transforme ces idées en une synthèse à trois colonnes que les participants corrigent et confirment.
+
+La modération humaine utilise des groupes de post-it nommés et des gommettes de vote. MURMI utilise des propositions vérifiées et un vote sur une échelle à 5 points. Dans les deux formats, les votes indiquent des priorités ; les participants décident toujours si la formulation finale représente fidèlement la salle.
+
+### Sources
+
+Swiss AI Futures Moderator Guide, sections 3 à 7.
+
+## Timing
+
+1 minute.
+
+---
+
+# Slide 9. Enseignements en ligne : travail
 
 ## On-screen copy
 
@@ -278,7 +321,7 @@ Swiss AI Futures Moderator Guide, sections 3 à 5.
 
 ## Partager la responsabilité
 
-Les employeurs doivent agir, mais inspirent peu confiance comme conseillers sur l’IA.
+**35 sur 52** attribuent une responsabilité aux employeurs, mais seulement **4 sur 52** les citent comme conseillers de confiance sur l’IA.
 
 ## Ne pas laisser faire le marché
 
@@ -302,26 +345,24 @@ Online Insights, « Fair distribution of AI economical benefits » et « Shared 
 
 ---
 
-# Slide 9. Tour 1 · L’IA au travail
+# Slide 10. Tour 1 · L’IA au travail
 
 ## On-screen copy
 
-# Comment préparer et protéger les travailleurs face à l’IA ?
+# Comment la Suisse doit-elle préparer les travailleurs face à l’IA ?
 
-## Quatre questions
+## Points d’entrée possibles
 
 * Quelles compétences faut-il renforcer, préserver ou acquérir ?
-* Qui doit fournir la formation, le temps et l’argent ?
-* Où l’IA doit-elle être acceptée ou limitée au travail ?
-* Quelles protections faut-il si les emplois ou les attentes changent ?
+* Qui doit fournir la formation, le temps et le soutien — et quand faut-il limiter l’IA ?
 
 ## Presenter notes
 
 Le premier tour utilise une modération humaine et un vote physique.
 
-Lisez les quatre questions. Elles guident la discussion sans devenir une liste à traiter mécaniquement.
+Commencez par la question principale. Les deux points d’entrée sont des pistes facultatives ; n’en utilisez qu’un si le groupe a besoin d’aide pour démarrer. Ce n’est pas une liste à compléter.
 
-Faites passer le groupe des opinions générales aux propositions concrètes. Une idée principale par post-it, sous Recommandations politiques ou Conditions & lignes rouges.
+Faites passer le groupe des opinions générales aux propositions concrètes. Une idée principale par post-it, sous Recommandations politiques ou Conditions & lignes rouges. Regroupez et nommez en continu les post-it proches pendant les présentations.
 
 Prévoyez environ 8 minutes pour la discussion et les post-it, 5 minutes pour les présentations, 3 minutes pour les réactions et clarifications, puis 2 minutes pour le vote.
 
@@ -339,25 +380,25 @@ Swiss AI Futures Moderator Guide, sections 3 à 6 et 10. Online Insights, résul
 
 ---
 
-# Slide 10. Synthèse et questionnaire
+# Slide 11. Synthèse et questionnaire
 
 ## On-screen copy
 
-# Validez la synthèse, puis répondez au questionnaire
+# Remplissez cette section maintenant
 
-## Avant le questionnaire
+## Utiliser la bonne section
 
-La synthèse représente-t-elle fidèlement nos points communs et nos désaccords ?
+Nous vous montrons la page. Levez la main si les consignes ne sont pas claires.
 
-## Questionnaire + courte pause
+## Répondre individuellement
 
-Répondez individuellement. Fermez le cahier, posez-le face cachée et faites une courte pause.
+Utilisez un stylo. Ensuite, fermez le cahier, posez-le face cachée et faites une courte pause.
 
 ## Presenter notes
 
 Terminez la validation avant d’ouvrir le questionnaire. Les participants confirment une représentation fidèle de la salle ; ils n’approuvent pas personnellement chaque recommandation.
 
-Arrêtez la discussion. Indiquez exactement quelle section remplir. Ne discutez ni des réponses ni des formats pendant le questionnaire.
+Arrêtez la discussion. Montrez la section ou la page exacte et dites : « Veuillez remplir cette section maintenant, individuellement. » Vérifiez que chacun a un stylo. Répondez aux questions sur les consignes sans suggérer de réponse. Ne discutez ni des réponses ni des formats pendant le questionnaire.
 
 Prévoyez environ 10 minutes pour le questionnaire et la courte pause.
 
@@ -371,7 +412,7 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ---
 
-# Slide 11. Enseignements en ligne : éducation
+# Slide 12. Enseignements en ligne : éducation
 
 ## On-screen copy
 
@@ -407,26 +448,60 @@ Online Insights, « Gradual AI Education: Critical Thinking Before Tool Use » e
 
 ---
 
-# Slide 12. Tour 2 · L’IA dans l’éducation
+# Slide 13. Comment MURMI soutient ce tour
 
 ## On-screen copy
 
-# Comment l’école doit-elle préparer et protéger les élèves face à l’IA ?
+# MURMI pendant ce tour
 
-## Quatre questions
+## Vérifier les propositions
 
-* Quelles compétences faut-il maîtriser avant d’utiliser l’IA ?
-* Quand l’IA doit-elle être autorisée — ou non ?
-* Qui doit former et soutenir les enseignants ?
-* Comment protéger les données, une évaluation équitable et la pensée autonome ?
+MURMI transforme la discussion en propositions. Dites-nous si l’une est incorrecte ou manque.
+
+## Voter avant la synthèse
+
+Indiquez votre soutien à chaque proposition vérifiée sur l’échelle à 5 points.
+
+## Corriger le projet
+
+Dites ce qu’il faut **garder, modifier, déplacer, ajouter ou supprimer**. La modération corrige en direct.
 
 ## Presenter notes
 
-Lisez les quatre questions. Elles guident la discussion sans devenir une liste à traiter mécaniquement.
+Montrez cette diapositive uniquement juste avant d’utiliser MURMI. Aidez chacun à rejoindre la session avec ses initiales seulement et vérifiez que l’enregistrement a commencé.
 
-Faites passer le groupe des opinions générales aux propositions concrètes. Une idée principale par post-it, sous Recommandations politiques ou Conditions & lignes rouges.
+Expliquez clairement la séquence : d’abord la discussion ; ensuite la vérification des propositions et l’ajout des éléments manquants ; puis un vote dédié sur l’échelle à 5 points ; enfin le projet MURMI en trois colonnes. Le vote précède la génération du terrain commun.
 
-Le second tour suit les mêmes boucles. MURMI soutient le partage entre groupes, les réactions, le vote et le projet de synthèse.
+Lors de la vérification du projet, montrez une colonne à la fois. Demandez ce qu’il faut garder, modifier, déplacer, ajouter ou supprimer. La personne chargée de MURMI effectue les modifications en direct, puis affiche la synthèse complète révisée pour confirmation.
+
+### Sources
+
+Swiss AI Futures Moderator Guide, sections 5, 7 et 8.
+
+## Timing
+
+2 minutes incluses dans le sujet de 30 minutes.
+
+---
+
+# Slide 14. Tour 2 · L’IA dans l’éducation
+
+## On-screen copy
+
+# Comment l’école doit-elle préparer les élèves face à l’IA ?
+
+## Points d’entrée possibles
+
+* Quelles compétences faut-il acquérir, et quand faut-il utiliser l’IA ?
+* Qui doit soutenir les enseignants, et quelles conditions faut-il pour les données, l’évaluation et la pensée autonome ?
+
+## Presenter notes
+
+Commencez par la question principale. Les deux points d’entrée sont des pistes facultatives ; n’en utilisez qu’un si le groupe a besoin d’aide pour démarrer. Ce n’est pas une liste à compléter.
+
+Faites passer le groupe des opinions générales aux propositions concrètes. Encouragez une idée claire à la fois pour que MURMI puisse former des propositions utilisables. Avant le vote, vérifiez les propositions avec les participants et ajoutez tout élément important manquant.
+
+Le second tour suit les mêmes boucles. MURMI soutient le partage entre groupes, les réactions, le vote et le projet de synthèse. L’introduction à MURMI qui précède fait partie de ce sujet de 30 minutes.
 
 Assurez-vous que les participants examinent des contributions extérieures à leur propre groupe. Un vote indique un soutien ; ce n’est pas une preuve automatique de consensus.
 
@@ -438,29 +513,29 @@ Swiss AI Futures Moderator Guide, sections 3 à 5, 7 et 10. Online Insights, ré
 
 ## Timing
 
-27 minutes après les 3 minutes consacrées aux enseignements en ligne.
+25 minutes après les 3 minutes consacrées aux enseignements en ligne et les 2 minutes d’introduction à MURMI.
 
 ---
 
-# Slide 13. Projet de l’IA et questionnaire
+# Slide 15. Projet de l’IA et questionnaire
 
 ## On-screen copy
 
-# Validez le projet de l’IA, puis répondez
+# Remplissez cette section maintenant
 
-## Avant le questionnaire
+## Utiliser la bonne section
 
-Corrigez ce qui est faux, incomplet ou trop affirmatif. Gardez les désaccords importants visibles.
+Nous vous montrons la page. Levez la main si les consignes ne sont pas claires.
 
-## Questionnaire + courte pause
+## Répondre individuellement
 
-Répondez individuellement. Fermez le cahier, posez-le face cachée et faites une courte pause.
+Utilisez un stylo. Ensuite, fermez le cahier, posez-le face cachée et faites une courte pause.
 
 ## Presenter notes
 
 Demandez si la synthèse représente fidèlement les points communs et les désaccords. Révisez le projet MURMI jusqu’à confirmation.
 
-Arrêtez la discussion avant le questionnaire. Indiquez exactement quelle section remplir. Ne comparez les formats qu’après le questionnaire.
+Arrêtez la discussion avant le questionnaire. Montrez la section ou la page exacte et dites : « Veuillez remplir cette section maintenant, individuellement. » Vérifiez que chacun a un stylo. Répondez aux questions sur les consignes sans suggérer de réponse. Ne comparez les formats qu’après le questionnaire.
 
 Prévoyez environ 10 minutes pour le questionnaire et la courte pause.
 
@@ -474,24 +549,24 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ---
 
-# Slide 14. IA & Suisse
+# Slide 16. IA & Suisse
 
 ## On-screen copy
 
 # Que doit faire la Suisse pour un avenir souhaitable avec l’IA ?
 
-## Quatre questions
+## Points d’entrée possibles
 
-* Que doit prioriser la Suisse ?
-* Qui doit assumer la responsabilité ?
-* Quelles conditions et lignes rouges sont essentielles ?
-* Sur quoi les citoyens doivent-ils pouvoir décider démocratiquement ?
+* Que doit prioriser la Suisse, et qui doit assumer la responsabilité ?
+* Quelles conditions ou lignes rouges sont essentielles — et où pourrions-nous être en désaccord ?
 
 ## Presenter notes
 
 Cette discussion finale est assistée par MURMI dans les deux salles et ne fait pas partie de la comparaison entre modération humaine et assistée par l’IA.
 
-Utilisez 1 minute pour la question, 3 minutes pour la discussion en table, 2 minutes pour le partage avec MURMI et 2 minutes pour la synthèse en trois colonnes.
+Commencez par la question principale. Utilisez un point d’entrée uniquement si nécessaire ; ne traitez pas les deux pistes comme une liste à compléter.
+
+Utilisez 1 minute pour la question, 2 minutes pour la discussion en table, 2 minutes pour partager et corriger les propositions MURMI, 1 minute pour le vote et 2 minutes pour la synthèse en trois colonnes.
 
 Utilisez les 2 dernières minutes pour contester, corriger et confirmer la synthèse. Placez tout désaccord substantiel non résolu dans la troisième colonne.
 
@@ -505,7 +580,7 @@ Swiss AI Futures Moderator Guide, sections 3 à 5 et 9. Online Insights, risques
 
 ---
 
-# Slide 15. Examiner le rapport généré
+# Slide 17. Examiner le rapport généré
 
 ## On-screen copy
 
@@ -541,7 +616,7 @@ Swiss AI Futures Moderator Guide, section 9.
 
 ---
 
-# Slide 16. Questionnaire final, indemnisation et conclusion
+# Slide 18. Questionnaire final, indemnisation et conclusion
 
 ## On-screen copy
 
@@ -553,7 +628,7 @@ Remplissez individuellement la dernière section.
 
 ## Formulaire d’indemnisation
 
-Confirmez le bon de **CHF 60** ou choisissez un virement bancaire. Signez le formulaire.
+Partie en ligne terminée ? Confirmez la réception du bon de **CHF 60** et signez.
 
 ## Remettre les trois documents
 
@@ -563,9 +638,9 @@ Formulaire de consentement, cahier de questionnaire et formulaire d’indemnisat
 
 ## Presenter notes
 
-Demandez aux participants de remplir individuellement la dernière section du questionnaire.
+Montrez la dernière section du questionnaire et demandez aux participants de la remplir individuellement. Vérifiez que chacun a encore un stylo et répondez aux questions sur les consignes sans suggérer de réponse.
 
-Demandez aux participants de remplir et signer le formulaire d’indemnisation : confirmer la réception du bon de CHF 60 ou choisir un virement bancaire. Recueillez ensuite les trois documents conformément au protocole de l’étude.
+Invitez uniquement les personnes qui ont également terminé la partie en ligne à remplir et signer le formulaire d’indemnisation confirmant la réception du bon de CHF 60. Traitez toute exception de paiement individuellement, sans présenter d’autres options à toute la salle. Recueillez ensuite les trois documents conformément au protocole de l’étude.
 
 Remerciez les participants et rappelez que les résultats alimenteront le rapport TA-SWISS et informeront le Parlement ainsi que le débat public.
 
@@ -583,10 +658,10 @@ Swiss AI Futures Moderator Guide, sections 10 à 11.
 
 | Diapositives | Activité | Durée |
 | --- | --- | ---: |
-| 1–7 | Accueil, objectif, règles, documents, programme et boucles | 20 min |
-| 8–10 | Tour 1 : IA au travail + questionnaire et pause | 40 min |
-| 11–13 | Tour 2 : IA dans l’éducation + questionnaire et pause | 40 min |
-| 14 | IA & Suisse | 10 min |
-| 15 | Examiner le rapport généré et ses messages clés | 5 min |
-| 16 | Questionnaire final, formulaire d’indemnisation et conclusion | 5 min |
+| 1–8 | Accueil, objectif, règles, documents, programme, boucles et récapitulatif visuel | 20 min |
+| 9–11 | Tour 1 : IA au travail + questionnaire et pause | 40 min |
+| 12–15 | Tour 2 : IA dans l’éducation + introduction à MURMI + questionnaire et pause | 40 min |
+| 16 | IA & Suisse | 10 min |
+| 17 | Examiner le rapport généré et ses messages clés | 5 min |
+| 18 | Questionnaire final, formulaire d’indemnisation et conclusion | 5 min |
 | | **Total** | **120 min** |
