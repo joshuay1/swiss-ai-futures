@@ -280,9 +280,9 @@ Swiss AI Futures Moderator Guide, Abschnitte 3–5.
 
 ## On-screen copy
 
-# Von der Diskussion zur geprüften Zusammenfassung
+# Die zwei Schleifen im Überblick
 
-## Die zwei Schleifen im Überblick
+## Von der Diskussion zur geprüften Zusammenfassung
 
 1. In Kleingruppen diskutieren.
 2. Ideen im Raum teilen.
@@ -452,7 +452,9 @@ Online Insights, „Gradual AI Education: Critical Thinking Before Tool Use“ u
 
 ## On-screen copy
 
-# MURMI in dieser Runde
+# MURMI kennenlernen
+
+**MURMI ist ein experimentelles Projekt für KI-unterstützte Deliberation. Es entstand aus dem TA-SWISS-Projekt und wird mit Carbon Copy entwickelt, inspiriert von vTaiwans Erfahrung.**
 
 ## Aussagen prüfen
 
@@ -468,6 +470,10 @@ Sagen Sie, was **bleiben, geändert, verschoben, ergänzt oder entfernt** werden
 
 ## Presenter notes
 
+Stellen Sie MURMI kurz als experimentelles Projekt vor, das KI zur Unterstützung von Deliberation einsetzt. Erklären Sie, dass es aus dem TA-SWISS-Projekt entstand und gemeinsam mit Carbon Copy entwickelt wird, unter Einbezug der Deliberationserfahrung von vTaiwan. Das Werkzeug unterstützt den Prozess; Teilnehmende und Moderation bleiben dafür verantwortlich, die Dokumentation zu prüfen, Dissens sichtbar zu machen und die endgültige Formulierung zu bestätigen.
+
+Weisen Sie auf den Link im Bild hin. Alle können **murmi.org** besuchen und direkt kostenlos eine Sitzung starten, ohne Anmeldung oder Einrichtung.
+
 Zeigen Sie diese Folie erst unmittelbar vor dem MURMI-Einsatz. Helfen Sie allen, nur mit ihren Initialen beizutreten, und prüfen Sie, ob die Aufzeichnung läuft.
 
 Erklären Sie die Reihenfolge klar: zuerst Diskussion; danach Aussagen prüfen und Fehlendes ergänzen; dann eine eigene 5-Punkte-Abstimmung; anschliessend der dreispaltige MURMI-Entwurf. Die Abstimmung findet vor der Erzeugung des gemeinsamen Ergebnisses statt.
@@ -476,7 +482,7 @@ Zeigen Sie bei der Entwurfsprüfung jeweils eine Spalte. Fragen Sie, was bleiben
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, Abschnitte 5, 7 und 8.
+MURMI-Website, murmi.org. Swiss AI Futures Moderator Guide, Abschnitte 5, 7 und 8.
 
 ## Timing
 

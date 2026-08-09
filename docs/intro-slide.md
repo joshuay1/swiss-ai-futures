@@ -280,9 +280,9 @@ Swiss AI Futures Moderator Guide, sections 3–5.
 
 ## On-screen copy
 
-# From discussion to a checked room summary
+# The two loops at a glance
 
-## The two loops at a glance
+## From discussion to a checked room summary
 
 1. Discuss in small groups.
 2. Share ideas across the room.
@@ -454,7 +454,9 @@ Online Insights, “Fair distribution of AI economical benefits” and “Shared
 
 ## On-screen copy
 
-# MURMI in this round
+# Meet MURMI
+
+**MURMI is an experimental project testing AI support for deliberation. It grew from the TA-SWISS project and is developed with Carbon Copy, drawing on vTaiwan’s experience.**
 
 ## Check the statements
 
@@ -470,6 +472,10 @@ Say what to **keep, change, move, add, or remove**. The moderator edits live.
 
 ## Presenter notes
 
+Introduce MURMI briefly as an experimental project for using AI to support deliberation. Explain that it grew from the TA-SWISS project and is being developed with Carbon Copy while drawing on vTaiwan’s deliberation experience. It supports the process; participants and moderators remain responsible for checking the record, making disagreement visible, and confirming the final wording.
+
+Point out the link on the image. Anyone can visit **murmi.org** and start a session directly for free, with no sign-up or setup required.
+
 Show this slide only when MURMI is about to be used. Help everyone join with initials only and confirm that recording has started.
 
 Explain the sequence clearly: discussion first; statement review and additions; a dedicated 5-point vote; then the MURMI three-column draft. Voting happens before common ground is generated.
@@ -478,7 +484,7 @@ During draft review, show one column at a time. Invite participants to say what 
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, sections 5, 7, and 8.
+MURMI website, murmi.org. Swiss AI Futures Moderator Guide, sections 5, 7, and 8.
 
 ## Timing
 

@@ -69,7 +69,7 @@
     10: { phase: firstRoundPhase, mode: "topic", layout: "topic", timer: 27, fragments: "sections" },
     11: { phase: firstRoundPhase, mode: "survey", layout: "survey", timer: 10 },
     12: { phase: secondRoundPhase, mode: "evidence", layout: "focus", timer: 3, fragments: "sections" },
-    13: { phase: secondRoundPhase, mode: "murmi", layout: "focus", timer: 2, fragments: "sections" },
+    13: { phase: secondRoundPhase, mode: "murmi", layout: "murmi-intro", timer: 2 },
     14: { phase: secondRoundPhase, mode: "topic", layout: "topic", timer: 25, fragments: "sections" },
     15: { phase: secondRoundPhase, mode: "survey", layout: "survey", timer: 10 },
     16: { phase: "future", mode: "topic", layout: "topic", timer: 10, fragments: "sections" },
@@ -170,6 +170,9 @@
       showShortcuts: "Show keyboard shortcuts",
       participantActivity: "Participant activity",
       paperSurvey: "Paper survey",
+      murmiArtworkAlt: "Illustrated alpine scene with marmots in conversation",
+      murmiDirectAccess: "Anyone can start a session directly for free.",
+      murmiLinkLabel: "Open murmi.org in a new tab",
       moderatorGuide: "Moderator guide",
       openModeratorGuide: "Open the moderator guide in a new tab",
       minutes: "minutes",
@@ -210,6 +213,9 @@
       showShortcuts: "Tastenkürzel anzeigen",
       participantActivity: "Aktivität",
       paperSurvey: "Papierfragebogen",
+      murmiArtworkAlt: "Illustrierte Alpenszene mit Murmeltieren im Gespräch",
+      murmiDirectAccess: "Alle können direkt kostenlos eine Sitzung starten.",
+      murmiLinkLabel: "murmi.org in einem neuen Tab öffnen",
       moderatorGuide: "Moderationsleitfaden",
       openModeratorGuide: "Moderationsleitfaden in einem neuen Tab öffnen",
       minutes: "Minuten",
@@ -250,6 +256,9 @@
       showShortcuts: "Afficher les raccourcis clavier",
       participantActivity: "Activité des participants",
       paperSurvey: "Questionnaire papier",
+      murmiArtworkAlt: "Scène alpine illustrée avec des marmottes en conversation",
+      murmiDirectAccess: "Tout le monde peut lancer directement une session gratuitement.",
+      murmiLinkLabel: "Ouvrir murmi.org dans un nouvel onglet",
       moderatorGuide: "Guide de facilitation",
       openModeratorGuide: "Ouvrir le guide de facilitation dans un nouvel onglet",
       minutes: "minutes",
@@ -280,28 +289,31 @@
 
   const methodFlowLabelsByLanguage = {
     en: {
-      loopOne: "Loop 1 · Build and test ideas",
-      loopTwo: "Loop 2 · Build the shared summary",
-      repeat: "Review as needed",
-      aiOnly: "Vote",
+      loopOne: "Loop 1",
+      loopOneGoal: "Build and test ideas",
+      loopTwo: "Loop 2",
+      loopTwoGoal: "Build the shared summary",
+      repeat: "Review and refine as needed",
       humanSkip: "Human: dot votes · MURMI: 5-point scale",
       final: "Room check",
       flow: "Two loops turn discussion into a checked room summary"
     },
     de: {
-      loopOne: "Schleife 1 · Ideen bilden und prüfen",
-      loopTwo: "Schleife 2 · Gemeinsame Zusammenfassung",
-      repeat: "Bei Bedarf prüfen",
-      aiOnly: "Abstimmen",
+      loopOne: "Schleife 1",
+      loopOneGoal: "Ideen bilden und prüfen",
+      loopTwo: "Schleife 2",
+      loopTwoGoal: "Gemeinsame Zusammenfassung",
+      repeat: "Bei Bedarf prüfen und verfeinern",
       humanSkip: "Menschlich: Klebepunkte · MURMI: 5-Punkte-Skala",
       final: "Prüfung im Raum",
       flow: "Zwei Schleifen führen von der Diskussion zur geprüften Zusammenfassung"
     },
     fr: {
-      loopOne: "Boucle 1 · Formuler et tester les idées",
-      loopTwo: "Boucle 2 · Construire la synthèse",
-      repeat: "Vérifier si nécessaire",
-      aiOnly: "Voter",
+      loopOne: "Boucle 1",
+      loopOneGoal: "Formuler et tester les idées",
+      loopTwo: "Boucle 2",
+      loopTwoGoal: "Construire la synthèse",
+      repeat: "Vérifier et affiner si nécessaire",
       humanSkip: "Humain : gommettes · MURMI : échelle à 5 points",
       final: "Vérification en salle",
       flow: "Deux boucles transforment la discussion en synthèse vérifiée"
@@ -567,10 +579,13 @@
 
   const renderBlocks = (blocks, options = {}) => blocks.map((block) => renderBlock(block, options)).join("");
 
-  const renderMethodStage = (item, number) => `
-    <div class="method-stage" role="listitem">
+  const renderMethodStage = (item, number, options = {}) => `
+    <div class="method-stage${options.milestone ? " method-stage-milestone" : ""}" role="listitem">
       <span class="method-stage-number" aria-hidden="true">${number}</span>
-      <strong>${renderInline(item)}</strong>
+      <div class="method-stage-copy">
+        ${options.eyebrow ? `<span class="method-stage-eyebrow">${escapeHtml(options.eyebrow)}</span>` : ""}
+        <strong>${renderInline(item)}</strong>
+      </div>
     </div>
   `;
 
@@ -588,47 +603,39 @@
     const [groupDiscussion, representativeShares, everyoneVotes, checkConsensus, revise, acceptConsensus] = sequence.items;
     return `
       <section class="slide-section method-flow-section"${fragmentSections ? " data-fragment" : ""}>
-        <h2>${renderInline(section.title)}</h2>
+        <p class="method-flow-intro">${renderInline(section.title)}</p>
         <div class="method-flow" role="group" aria-label="${escapeHtml(methodFlowLabels.flow)}">
           <div class="method-loop method-loop-one" role="list">
             <div class="method-loop-heading">
               <span>${escapeHtml(methodFlowLabels.loopOne)}</span>
+              <strong>${escapeHtml(methodFlowLabels.loopOneGoal)}</strong>
             </div>
-            <div class="method-loop-one-track">
+            <div class="method-track">
               ${renderMethodStage(groupDiscussion, 1)}
               <div class="method-stage-arrow" aria-hidden="true">→</div>
               ${renderMethodStage(representativeShares, 2)}
               <div class="method-stage-arrow" aria-hidden="true">→</div>
-              <div class="method-ai-stage" role="listitem">
-                <span class="method-ai-label">${escapeHtml(methodFlowLabels.aiOnly)}</span>
-                <div class="method-ai-stage-content">
-                <span class="method-stage-number" aria-hidden="true">3</span>
-                <strong>${renderInline(everyoneVotes)}</strong>
-                </div>
-              </div>
+              ${renderMethodStage(everyoneVotes, 3, { milestone: true })}
             </div>
-            <div class="method-loop-return"><span aria-hidden="true">←</span>${escapeHtml(methodFlowLabels.repeat)}</div>
-            <div class="method-human-skip">${escapeHtml(methodFlowLabels.humanSkip)}</div>
+            <div class="method-loop-footer">
+              <span class="method-loop-return"><span aria-hidden="true">↺</span>${escapeHtml(methodFlowLabels.repeat)}</span>
+              <span class="method-format-note">${escapeHtml(methodFlowLabels.humanSkip)}</span>
+            </div>
           </div>
-          <div class="method-advance" aria-hidden="true">→</div>
           <div class="method-loop method-loop-two" role="list">
             <div class="method-loop-heading">
               <span>${escapeHtml(methodFlowLabels.loopTwo)}</span>
+              <strong>${escapeHtml(methodFlowLabels.loopTwoGoal)}</strong>
             </div>
-            <div class="method-loop-two-track">
+            <div class="method-track">
               ${renderMethodStage(checkConsensus, 4)}
               <div class="method-stage-arrow" aria-hidden="true">→</div>
               ${renderMethodStage(revise, 5)}
+              <div class="method-stage-arrow" aria-hidden="true">→</div>
+              ${renderMethodStage(acceptConsensus, 6, { milestone: true, eyebrow: methodFlowLabels.final })}
             </div>
-            <div class="method-loop-return"><span aria-hidden="true">←</span>${escapeHtml(methodFlowLabels.repeat)}</div>
-          </div>
-          <div class="method-advance" aria-hidden="true">→</div>
-          <div class="method-final" role="list">
-            <span class="method-final-label">${escapeHtml(methodFlowLabels.final)}</span>
-            <div class="method-final-stage" role="listitem">
-              <span class="method-stage-number" aria-hidden="true">6</span>
-              <strong>${renderInline(acceptConsensus)}</strong>
-              <span class="method-final-check" aria-hidden="true">✓</span>
+            <div class="method-loop-footer">
+              <span class="method-loop-return"><span aria-hidden="true">↺</span>${escapeHtml(methodFlowLabels.repeat)}</span>
             </div>
           </div>
         </div>
@@ -730,6 +737,41 @@
     const qr = structured.hasQr
       ? `<div class="qr-placeholder"${slide.layout === "closing" ? " data-fragment" : ""} role="img" aria-label="Survey QR code placeholder"><span>Survey QR<br>appears here</span></div>`
       : "";
+
+    if (slide.layout === "murmi-intro") {
+      return `
+        <article class="slide layout-murmi-intro" data-slide="${slide.number}" data-phase="${slide.phase}" data-mode="${slide.mode}" aria-hidden="true">
+          <div class="slide-stage-mark" aria-hidden="true">${String(slide.number).padStart(2, "0")}</div>
+          <div class="slide-shell">
+            <div class="murmi-intro-copy">
+              <header class="slide-heading">
+                <div>
+                  <p class="slide-kicker">
+                    <strong class="slide-theme-label">${escapeHtml(modeLabels[slide.mode])}</strong>
+                    <span class="slide-context-label">${escapeHtml(phaseLabels[slide.phase])} · ${String(slide.number).padStart(2, "0")}</span>
+                  </p>
+                  <h1 class="slide-title">${renderInline(structured.title)}</h1>
+                </div>
+              </header>
+              <div class="slide-body">
+                <div class="slide-lead">${leadHtml}</div>
+                <div class="slide-sections">${sectionsHtml}</div>
+              </div>
+            </div>
+            <figure class="murmi-intro-media">
+              <img src="../assets/images/murmi/hero-gathering.webp" alt="${escapeHtml(ui.murmiArtworkAlt)}" width="1536" height="1024">
+              <a class="murmi-intro-link" href="https://www.murmi.org/" target="_blank" rel="noopener" aria-label="${escapeHtml(ui.murmiLinkLabel)}">
+                <span>
+                  <strong>murmi.org</strong>
+                  <small>${escapeHtml(ui.murmiDirectAccess)}</small>
+                </span>
+                <span aria-hidden="true">↗</span>
+              </a>
+            </figure>
+          </div>
+        </article>
+      `;
+    }
 
     return `
       <article class="slide layout-${slide.layout}" data-slide="${slide.number}" data-phase="${slide.phase}" data-mode="${slide.mode}" aria-hidden="true">
