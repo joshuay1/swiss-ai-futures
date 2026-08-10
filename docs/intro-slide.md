@@ -69,7 +69,44 @@ Project participant brief. Swiss AI Futures Moderator Guide, sections 1–4 and 
 
 ---
 
-# Slide 3. Documents on the table
+# Slide 3. Deliberation etiquette
+
+## On-screen copy
+
+# How we deliberate together
+
+## Speak up
+
+* Anyone can propose an argument.
+* There are no silly arguments here.
+
+## Make room for every voice
+
+* We want to hear from as many people as possible.
+* Be brief and invite voices we have not heard.
+
+## Listen with curiosity
+
+* Let others finish and ask questions.
+* Challenge ideas, not people; explain your reasons.
+
+## Presenter notes
+
+Introduce these as practical habits for a good citizen deliberation, not as a test.
+
+Encourage everyone to speak. There are no silly arguments, and participants do not need specialist knowledge to contribute. Anyone may propose an argument, ask a question, or draw on personal experience.
+
+Say explicitly that the aim is to hear from as many people as possible. Ask frequent speakers to be brief and help create room for people who have not yet spoken. Disagreement is useful when it remains respectful and focused on ideas.
+
+The moderator may step in to protect equal participation and keep the discussion constructive.
+
+## Timing
+
+2 minutes.
+
+---
+
+# Slide 4. Documents on the table
 
 ## On-screen copy
 
@@ -103,7 +140,7 @@ Explain that the compensation form is completed at the end and only by participa
 
 ---
 
-# Slide 4. Today’s schedule
+# Slide 5. Today’s schedule
 
 ## On-screen copy
 
@@ -163,7 +200,7 @@ Swiss AI Futures Moderator Guide, sections 1–2.
 
 ---
 
-# Slide 5. What happens next
+# Slide 6. What happens next
 
 ## On-screen copy
 
@@ -199,7 +236,7 @@ Project participant brief and public project page.
 
 ---
 
-# Slide 6. How today’s discussion is recorded
+# Slide 7. How today’s discussion is recorded
 
 ## On-screen copy
 
@@ -237,7 +274,7 @@ Workshop Participant Information and Consent, English, 7 August 2026.
 
 ---
 
-# Slide 7. Meet Murmi
+# Slide 8. Meet Murmi
 
 ## On-screen copy
 
@@ -272,41 +309,6 @@ During draft review, show one column at a time. Invite participants to say what 
 ### Sources
 
 Murmi website, murmi.org. Swiss AI Futures Moderator Guide, sections 5, 7, and 8.
-
-## Timing
-
-2 minutes.
-
----
-
-# Slide 8. Deliberation etiquette
-
-## On-screen copy
-
-# How we deliberate together
-
-## Listen to understand
-
-* Let others finish.
-* Ask questions before judging.
-
-## Share the space
-
-* Be brief.
-* Invite voices we have not heard.
-
-## Challenge ideas, not people
-
-* Explain your reasons.
-* Disagree respectfully and stay open to changing your mind.
-
-## Presenter notes
-
-Introduce these as practical habits for a good citizen deliberation, not as a test.
-
-Everyone may speak from experience. Ask participants to listen with curiosity, make room for quieter voices, and explain the reasons behind their views. Disagreement is useful when it remains respectful and focused on ideas.
-
-The moderator may step in to protect equal participation and keep the discussion constructive.
 
 ## Timing
 
@@ -664,7 +666,7 @@ Swiss AI Futures Moderator Guide, sections 10–11.
 
 | Slides | Activity | Duration |
 | --- | --- | ---: |
-| 1–9 | Welcome, research context, documents, plan, next steps, data use, Murmi, etiquette, and two-loop overview | 20 min |
+| 1–9 | Welcome, research context, participation norms, documents, plan, next steps, data use, Murmi, and two-loop overview | 20 min |
 | 10–12 | Round 1: AI in Education + survey and break | 40 min |
 | 13–15 | Round 2: AI at Work + survey and break | 40 min |
 | 16 | AI & Switzerland | 10 min |

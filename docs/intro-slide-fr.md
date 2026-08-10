@@ -69,7 +69,44 @@ Document d’information des participants. Swiss AI Futures Moderator Guide, sec
 
 ---
 
-# Slide 3. Documents sur la table
+# Slide 3. Règles de délibération
+
+## On-screen copy
+
+# Comment délibérer ensemble
+
+## Prenez la parole
+
+* Chacun peut proposer un argument.
+* Il n’y a pas d’argument ridicule ici.
+
+## Faire place à chaque voix
+
+* Nous voulons entendre le plus de personnes possible.
+* Soyez bref et invitez les voix que nous n’avons pas encore entendues.
+
+## Écouter avec curiosité
+
+* Laissez les autres terminer et posez des questions.
+* Discutez les idées, pas les personnes ; expliquez votre raisonnement.
+
+## Presenter notes
+
+Présentez ces points comme des habitudes pratiques pour une bonne délibération citoyenne, et non comme un test.
+
+Encouragez tout le monde à prendre la parole. Il n’y a pas d’argument ridicule et aucune expertise particulière n’est nécessaire pour contribuer. Chacun peut proposer un argument, poser une question ou s’appuyer sur son expérience personnelle.
+
+Dites clairement que l’objectif est d’entendre le plus de personnes possible. Demandez aux personnes qui interviennent souvent d’être brèves et de laisser de la place à celles qui ne se sont pas encore exprimées. Le désaccord est utile lorsqu’il reste respectueux et porte sur les idées.
+
+La modération peut intervenir pour garantir une participation équitable et une discussion constructive.
+
+## Timing
+
+2 minutes.
+
+---
+
+# Slide 4. Documents sur la table
 
 ## On-screen copy
 
@@ -103,7 +140,7 @@ Expliquez que le formulaire d’indemnisation est rempli à la fin, uniquement p
 
 ---
 
-# Slide 4. Programme du jour
+# Slide 5. Programme du jour
 
 ## On-screen copy
 
@@ -163,7 +200,7 @@ Swiss AI Futures Moderator Guide, sections 1 à 2.
 
 ---
 
-# Slide 5. Ce qui se passe ensuite
+# Slide 6. Ce qui se passe ensuite
 
 ## On-screen copy
 
@@ -199,7 +236,7 @@ Document d’information des participants.
 
 ---
 
-# Slide 6. Comment la discussion est transcrite
+# Slide 7. Comment la discussion est transcrite
 
 ## On-screen copy
 
@@ -237,7 +274,7 @@ Information et consentement des personnes participantes, français, 7 août 2026
 
 ---
 
-# Slide 7. Découvrir Murmi
+# Slide 8. Découvrir Murmi
 
 ## On-screen copy
 
@@ -272,41 +309,6 @@ Lors de la vérification du projet, montrez une colonne à la fois. Demandez ce 
 ### Sources
 
 Site de Murmi, murmi.org. Swiss AI Futures Moderator Guide, sections 5, 7 et 8.
-
-## Timing
-
-2 minutes.
-
----
-
-# Slide 8. Règles de délibération
-
-## On-screen copy
-
-# Comment délibérer ensemble
-
-## Écouter pour comprendre
-
-* Laissez les autres terminer.
-* Posez des questions avant de juger.
-
-## Partager la parole
-
-* Soyez bref.
-* Invitez les voix que nous n’avons pas encore entendues.
-
-## Discuter les idées, pas les personnes
-
-* Expliquez votre raisonnement.
-* Exprimez votre désaccord avec respect et restez ouvert.
-
-## Presenter notes
-
-Présentez ces points comme des habitudes pratiques pour une bonne délibération citoyenne, et non comme un test.
-
-Chacun peut parler à partir de son expérience. Demandez aux participants d’écouter avec curiosité, de faire place aux personnes plus discrètes et d’expliquer leur raisonnement. Le désaccord est utile lorsqu’il reste respectueux et porte sur les idées.
-
-La modération peut intervenir pour garantir une participation équitable et une discussion constructive.
 
 ## Timing
 
@@ -662,7 +664,7 @@ Swiss AI Futures Moderator Guide, sections 10 à 11.
 
 | Diapositives | Activité | Durée |
 | --- | --- | ---: |
-| 1–9 | Accueil, contexte de recherche, documents, programme, suite, utilisation des données, Murmi, règles et vue d’ensemble des deux boucles | 20 min |
+| 1–9 | Accueil, contexte de recherche, règles de participation, documents, programme, suite, utilisation des données, Murmi et vue d’ensemble des deux boucles | 20 min |
 | 10–12 | Tour 1 : IA au travail + questionnaire et pause | 40 min |
 | 13–15 | Tour 2 : IA dans l’éducation + questionnaire et pause | 40 min |
 | 16 | IA & Suisse | 10 min |

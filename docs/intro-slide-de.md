@@ -69,7 +69,44 @@ Projektunterlagen für Teilnehmende. Swiss AI Futures Moderator Guide, Abschnitt
 
 ---
 
-# Slide 3. Dokumente auf dem Tisch
+# Slide 3. Regeln der Deliberation
+
+## On-screen copy
+
+# So beraten wir gemeinsam
+
+## Sprechen Sie mit
+
+* Alle können ein Argument einbringen.
+* Es gibt hier keine unsinnigen Argumente.
+
+## Raum für jede Stimme
+
+* Wir möchten möglichst viele Menschen hören.
+* Fassen Sie sich kurz und laden Sie noch nicht gehörte Stimmen ein.
+
+## Neugierig zuhören
+
+* Lassen Sie andere ausreden und fragen Sie nach.
+* Hinterfragen Sie Ideen, nicht Personen; erklären Sie Ihre Gründe.
+
+## Presenter notes
+
+Stellen Sie diese Punkte als praktische Gewohnheiten für eine gute Bürger:innen-Deliberation vor, nicht als Prüfung.
+
+Ermutigen Sie alle, sich zu äussern. Es gibt keine unsinnigen Argumente, und für einen Beitrag ist kein Fachwissen nötig. Alle dürfen ein Argument, eine Frage oder eine persönliche Erfahrung einbringen.
+
+Sagen Sie ausdrücklich, dass möglichst viele Menschen zu Wort kommen sollen. Bitten Sie häufig Sprechende, sich kurz zu fassen und Raum für Personen zu schaffen, die noch nicht gesprochen haben. Dissens ist wertvoll, wenn er respektvoll bleibt und sich auf Ideen richtet.
+
+Die Moderation darf eingreifen, um gleichberechtigte Beteiligung und eine konstruktive Diskussion zu sichern.
+
+## Timing
+
+2 Minuten.
+
+---
+
+# Slide 4. Dokumente auf dem Tisch
 
 ## On-screen copy
 
@@ -103,7 +140,7 @@ Erklären Sie, dass das Entschädigungsformular erst am Ende und nur von Teilneh
 
 ---
 
-# Slide 4. Der heutige Ablauf
+# Slide 5. Der heutige Ablauf
 
 ## On-screen copy
 
@@ -163,7 +200,7 @@ Swiss AI Futures Moderator Guide, Abschnitte 1–2.
 
 ---
 
-# Slide 5. Was danach geschieht
+# Slide 6. Was danach geschieht
 
 ## On-screen copy
 
@@ -199,7 +236,7 @@ Projektunterlagen für Teilnehmende.
 
 ---
 
-# Slide 6. Wie die heutige Diskussion aufgezeichnet wird
+# Slide 7. Wie die heutige Diskussion aufgezeichnet wird
 
 ## On-screen copy
 
@@ -237,7 +274,7 @@ Teilnehmendeninformation und Einwilligung, Deutsch, 7. August 2026.
 
 ---
 
-# Slide 7. Murmi kennenlernen
+# Slide 8. Murmi kennenlernen
 
 ## On-screen copy
 
@@ -272,41 +309,6 @@ Zeigen Sie bei der Entwurfsprüfung jeweils eine Spalte. Fragen Sie, was bleiben
 ### Sources
 
 Murmi-Website, murmi.org. Swiss AI Futures Moderator Guide, Abschnitte 5, 7 und 8.
-
-## Timing
-
-2 Minuten.
-
----
-
-# Slide 8. Regeln der Deliberation
-
-## On-screen copy
-
-# So beraten wir gemeinsam
-
-## Zuhören und verstehen
-
-* Lassen Sie andere ausreden.
-* Fragen Sie nach, bevor Sie urteilen.
-
-## Raum teilen
-
-* Fassen Sie sich kurz.
-* Laden Sie noch nicht gehörte Stimmen ein.
-
-## Ideen prüfen — nicht Personen
-
-* Begründen Sie Ihre Sicht.
-* Widersprechen Sie respektvoll und bleiben Sie offen.
-
-## Presenter notes
-
-Stellen Sie diese Punkte als praktische Gewohnheiten für eine gute Bürger:innen-Deliberation vor, nicht als Prüfung.
-
-Alle dürfen aus eigener Erfahrung sprechen. Bitten Sie die Teilnehmenden, neugierig zuzuhören, ruhigeren Stimmen Raum zu geben und ihre Gründe zu erklären. Dissens ist wertvoll, wenn er respektvoll bleibt und sich auf Ideen richtet.
-
-Die Moderation darf eingreifen, um gleichberechtigte Beteiligung und eine konstruktive Diskussion zu sichern.
 
 ## Timing
 
@@ -662,7 +664,7 @@ Swiss AI Futures Moderator Guide, Abschnitte 10–11.
 
 | Folien | Aktivität | Dauer |
 | --- | --- | ---: |
-| 1–9 | Willkommen, Forschungskontext, Dokumente, Ablauf, nächste Schritte, Datennutzung, Murmi, Gesprächsregeln und Überblick über die zwei Schleifen | 20 Min |
+| 1–9 | Willkommen, Forschungskontext, Gesprächsregeln, Dokumente, Ablauf, nächste Schritte, Datennutzung, Murmi und Überblick über die zwei Schleifen | 20 Min |
 | 10–12 | Runde 1: KI bei der Arbeit + Fragebogen und Pause | 40 Min |
 | 13–15 | Runde 2: KI in der Bildung + Fragebogen und Pause | 40 Min |
 | 16 | KI & Schweiz | 10 Min |
