@@ -467,9 +467,9 @@ Swiss AI Futures Moderator Guide, sections 3–6 and 10. Online Survey Main Find
 
 ## On-screen copy
 
-# Complete this section now
+# Paper survey: share your experience
 
-## Use the right section
+## Fill in the section we show you
 
 We will point to the page. Raise your hand if the instructions are unclear.
 
@@ -592,9 +592,9 @@ Swiss AI Futures Moderator Guide, sections 3–5, 7, and 10. Online Survey Main 
 
 ## On-screen copy
 
-# Complete this section now
+# Paper survey: share your experience
 
-## Use the right section
+## Fill in the section we show you
 
 We will point to the page. Raise your hand if the instructions are unclear.
 

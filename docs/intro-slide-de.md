@@ -465,9 +465,9 @@ Swiss AI Futures Moderator Guide, Abschnitte 3–6 und 10. Online Survey Main Fi
 
 ## On-screen copy
 
-# Diesen Abschnitt jetzt ausfüllen
+# Papierfragebogen: Teilen Sie Ihre Erfahrungen
 
-## Richtigen Abschnitt nutzen
+## Den gezeigten Abschnitt ausfüllen
 
 Wir zeigen die Seite. Heben Sie die Hand, wenn die Anleitung unklar ist.
 
@@ -592,9 +592,9 @@ Swiss AI Futures Moderator Guide, Abschnitte 3–5, 7 und 10. Online Survey Main
 
 ## On-screen copy
 
-# Diesen Abschnitt jetzt ausfüllen
+# Papierfragebogen: Teilen Sie Ihre Erfahrungen
 
-## Richtigen Abschnitt nutzen
+## Den gezeigten Abschnitt ausfüllen
 
 Wir zeigen die Seite. Heben Sie die Hand, wenn die Anleitung unklar ist.
 
