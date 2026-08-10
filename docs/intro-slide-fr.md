@@ -361,31 +361,39 @@ Swiss AI Futures Moderator Guide, sections 3 à 7.
 
 ## On-screen copy
 
-# Les participants en ligne veulent un soutien actif aux travailleurs
+# Les répondants veulent soutenir les travailleurs et limiter les décisions automatisées
 
-## Former dès maintenant
+## Former les travailleurs
 
-**30 sur 34** soutiennent une formation à l’IA dans l’emploi actuel.
+**69 %**
 
-## Partager la responsabilité
+Expriment un soutien élevé à la formation des travailleurs à l’IA. (n = 51)
 
-**35 sur 52** attribuent une responsabilité aux employeurs, mais seulement **4 sur 52** les citent comme conseillers de confiance sur l’IA.
+## Maintenir la responsabilité humaine
 
-## Ne pas laisser faire le marché
+**76 %**
 
-**29 sur 35** rejettent une adaptation laissée au seul marché du travail.
+Expriment un soutien élevé à la limitation de l’embauche, du licenciement ou de l’évaluation entièrement automatisés. (n = 54)
+
+## Agir — mais comment ?
+
+**62 %**
+
+Expriment un faible soutien au maintien de la politique actuelle et à l’adaptation par le marché. Taxe et voix des travailleurs divisent. (n = 52)
 
 ## Presenter notes
 
 Donnez uniquement le contexte nécessaire pour commencer. Ces résultats sont des points de départ, pas des conclusions imposées.
 
-Les participants en ligne soutiennent la formation dans l’emploi actuel et la reconversion financée par l’État. Ils refusent de laisser l’adaptation aux seules forces du marché. Ils répartissent la responsabilité entre employeurs, écoles, institutions publiques et individus, tout en faisant davantage confiance aux universités et sources indépendantes.
+Les participants en ligne soutiennent une action publique plutôt que d’attendre que le marché du travail s’adapte seul. La formation des travailleurs à l’IA recueille 69 % de soutien élevé ; la limitation de l’embauche, du licenciement ou de l’évaluation entièrement automatisés en recueille 76 %. Par ailleurs, 62 % expriment un faible soutien au maintien de la politique actuelle.
 
-La phase en ligne est exploratoire et non représentative. Invitez les participants à contester, préciser ou compléter ces résultats.
+La direction est plus claire que l’instrument. Une taxe sur l’IA ou l’automatisation obtient 20 % de soutien faible, 38 % moyen et 42 % élevé. La participation des travailleurs avant l’introduction de l’IA sur le lieu de travail obtient 17 % de soutien faible, 36 % moyen et 47 % élevé. Utilisez ces divergences pour ouvrir la discussion.
+
+La phase en ligne est exploratoire et non représentative. Le nombre de réponses valides varie selon les questions ; 84 % des personnes ayant indiqué leur formation possèdent au moins un bachelor. Invitez les participants à contester, préciser ou compléter ces résultats.
 
 ### Sources
 
-Online Insights, « Fair distribution of AI economical benefits » et « Shared responsibility among stakeholders ».
+Online Survey Main Findings, échantillon élargi de 81 répondants inclus, résultats 5 et 6.
 
 ## Timing
 
@@ -464,31 +472,41 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ## On-screen copy
 
-# Les participants en ligne veulent une IA progressive et encadrée à l’école
+# L’usage de l’IA est courant, mais les répondants veulent des garde-fous à l’école
 
-## Apprendre à juger
+## Utiliser souvent, vérifier
 
-**32 sur 36** soutiennent la vérification des erreurs et biais de l’IA.
+**67 %**
 
-## Des protections claires
+Utilisent l’IA tous les jours ou presque. Seuls 12 % lui font fortement confiance ; 63 % vérifient souvent ou toujours. (n = 81 ; vérification n = 79)
 
-**31 sur 36** soutiennent des règles claires ; **32 sur 36** la protection des données.
+## Des garde-fous clairs
 
-## Introduire progressivement
+**93 %**
 
-Le vote de suivi autorise moins d’IA au primaire et davantage aux niveaux suivants.
+Expriment un soutien élevé à l’apprentissage de la vérification des erreurs et biais. Données : 89 % ; règles claires : 85 %. (n = 54)
+
+## Les limites restent contestées
+
+**26 / 37 / 37 %**
+
+Soutien faible / moyen / élevé à limiter l’IA pour préserver l’apprentissage traditionnel. (n = 54)
 
 ## Presenter notes
 
 Donnez uniquement le contexte nécessaire pour commencer. Ces résultats sont des points de départ, pas des conclusions imposées.
 
-Le signal principal n’est ni « interdire l’IA » ni « utiliser l’IA partout ». Les répondants soutiennent la vérification critique, des règles claires, la protection des données, la formation des enseignants et une introduction progressive selon le niveau scolaire.
+Commencez par la tension pratique : 54 répondants sur 81 utilisent l’IA tous les jours ou presque, mais seuls 12 % font fortement confiance aux textes générés par l’IA. Parmi les 79 personnes ayant répondu à la question de vérification, 50 contrôlent souvent ou toujours une réponse avant de s’y fier.
 
-La phase en ligne est exploratoire et non représentative. Invitez les participants à contester, préciser ou compléter ces résultats.
+Les garde-fous scolaires réunissent le plus fort accord : 93 % expriment un soutien élevé à l’apprentissage de la vérification des erreurs et biais, 89 % à la protection des données des élèves, 85 % à des règles claires et 78 % à la formation des enseignants. La question la plus divisée est celle des limites à l’IA pour protéger l’apprentissage traditionnel : 26 % de soutien faible, 37 % moyen et 37 % élevé.
+
+La phase en ligne est exploratoire et non représentative. Le nombre de réponses valides varie selon les questions ; 84 % des personnes ayant indiqué leur formation possèdent au moins un bachelor.
+
+Invitez les participants à contester, préciser ou compléter ces résultats.
 
 ### Sources
 
-Online Insights, « Gradual AI Education: Critical Thinking Before Tool Use » et « Retraining educators ».
+Online Survey Main Findings, échantillon élargi de 81 répondants inclus, résultats 1, 2 et 6.
 
 ## Timing
 
@@ -580,13 +598,15 @@ Cette discussion finale est assistée par Murmi dans les deux salles et ne fait 
 
 Commencez par la question principale. Utilisez un point d’entrée uniquement si nécessaire ; ne traitez pas les deux pistes comme une liste à compléter.
 
+Si la salle a besoin d’un point de départ concret, les répondants en ligne perçoivent davantage de risques démocratiques que de bénéfices : 86 % expriment un accord élevé sur le risque de polarisation, 78 % sur la manipulation des opinions et 74 % sur la difficulté à distinguer le vrai. Pourtant, 79 % des 72 répondants soutiendraient probablement ou certainement des votations ou consultations citoyennes sur la régulation de l’IA. Dans les services publics, la position la plus fréquente est « l’IA peut soutenir, mais les humains décident » (40 sur 71 ; 56 %). Demandez ce que cela implique pour les garde-fous, la responsabilité humaine et la voix citoyenne.
+
 Utilisez 1 minute pour la question, 2 minutes pour la discussion en table, 2 minutes pour partager et corriger les propositions Murmi, 1 minute pour le vote et 2 minutes pour la synthèse en trois colonnes.
 
 Utilisez les 2 dernières minutes pour contester, corriger et confirmer la synthèse. Placez tout désaccord substantiel non résolu dans la troisième colonne.
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, sections 3 à 5 et 9. Online Insights, risques démocratiques et question finale de l’atelier.
+Swiss AI Futures Moderator Guide, sections 3 à 5 et 9. Online Survey Main Findings, échantillon élargi de 81 répondants inclus, résultats 3 et 4.
 
 ## Timing
 
