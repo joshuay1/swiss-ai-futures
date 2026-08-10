@@ -418,16 +418,28 @@ Online Survey Main Findings, erweiterte Stichprobe mit 81 eingeschlossenen Befra
 
 # Wie soll die Schweiz Beschäftigte auf KI vorbereiten?
 
-## Mögliche Einstiegspunkte
+## Allgemeine Einstiegspunkte
 
-* Wenn der Markt allein nicht reicht: Wer sorgt für Weiterbildung und menschliche Kontrolle wichtiger Entscheidungen?
-* Sollen KI-bedingte Produktivitätsgewinne besteuert oder geteilt werden — und welche Rechte brauchen Beschäftigte?
+* Welche Kompetenzen sollen Beschäftigte lernen, stärken oder erhalten?
+* Wer stellt Weiterbildung, Zeit und Unterstützung bereit?
+
+## Online-Umfrage
+
+**62 %** unterstützen es nur gering, die Anpassung allein dem Markt zu überlassen; **76 %** unterstützen stark Grenzen für vollautomatisierte Personalentscheidungen.
+
+KI-Steuer: **20 / 38 / 42 %**; Mitsprache: **17 / 36 / 47 %** — geringe / mittlere / hohe Unterstützung.
+
+### Quelle: Swiss AI Futures explorative Online-Umfrage · 81 eingeschlossene Befragte · Item n = 50–54
+
+## Spannungsfeld der Umfrage
+
+Wenn aktive Steuerung nötig ist: Wer zahlt, wer entscheidet und wie werden Produktivitätsgewinne geteilt?
 
 ## Presenter notes
 
 Runde 1 nutzt menschliche Moderation und eine physische Abstimmung.
 
-Beginnen Sie mit der Hauptfrage. Die zwei Einstiegspunkte sind optionale Impulse; nutzen Sie höchstens einen, falls die Diskussion Unterstützung braucht. Sie sind keine Checkliste.
+Beginnen Sie mit der Hauptfrage. Die allgemeinen Einstiegspunkte sind optionale Impulse, keine Checkliste. Kennzeichnen Sie die Zahlen kurz als Ergebnisse der Swiss AI Futures Online-Umfrage, bevor Sie das Spannungsfeld einführen.
 
 Die Umfrage zeigt Unterstützung für aktive Steuerung, Weiterbildung und Grenzen für automatisierte Personalentscheidungen. Uneinigkeit besteht bei einer KI-Steuer, den Mitspracherechten von Beschäftigten und der Verteilung von Produktivitätsgewinnen. Halten Sie diese Instrumente offen zur Diskussion.
 
@@ -533,14 +545,26 @@ Online Survey Main Findings, erweiterte Stichprobe mit 81 eingeschlossenen Befra
 
 # Wie sollen Schulen Lernende auf KI vorbereiten?
 
-## Mögliche Einstiegspunkte
+## Allgemeine Einstiegspunkte
 
-* Wie vermitteln Schulen KI-Kompetenzen und Schutzmassnahmen, ohne selbstständiges oder bewährtes Lernen zu schwächen?
-* Wann, wenn überhaupt, soll die KI-Nutzung begrenzt werden — und wer soll darüber entscheiden?
+* Welches KI-Wissen und welche Kompetenzen sollen Lernende erwerben?
+* Welche Unterstützung, Regeln und Schutzmassnahmen brauchen Schulen und Lehrpersonen?
+
+## Online-Umfrage
+
+**93 %** unterstützen stark, dass Lernende KI auf Fehler und Verzerrungen prüfen.
+
+Begrenzungen zum Schutz bewährter Lernformen teilen die Meinungen: **26 / 37 / 37 %** — geringe / mittlere / hohe Unterstützung.
+
+### Quelle: Swiss AI Futures explorative Online-Umfrage · 81 eingeschlossene Befragte · Item n = 54
+
+## Spannungsfeld der Umfrage
+
+Wie vermitteln Schulen KI-Kompetenzen und Schutzmassnahmen, ohne selbstständiges oder bewährtes Lernen zu schwächen?
 
 ## Presenter notes
 
-Beginnen Sie mit der Hauptfrage. Die zwei Einstiegspunkte sind optionale Impulse; nutzen Sie höchstens einen, falls die Diskussion Unterstützung braucht. Sie sind keine Checkliste.
+Beginnen Sie mit der Hauptfrage. Die allgemeinen Einstiegspunkte sind optionale Impulse, keine Checkliste. Kennzeichnen Sie die Zahlen kurz als Ergebnisse der Swiss AI Futures Online-Umfrage, bevor Sie das Spannungsfeld einführen.
 
 Die Spannung aus der Umfrage ist bewusst gesetzt: KI-Kompetenzen, Überprüfung, Datenschutz und klare Regeln finden breite Unterstützung, doch bei Begrenzungen zum Schutz bewährter Lernformen gehen die Meinungen auseinander. Nutzen Sie die Impulse, um Grenzen und Zuständigkeiten zu klären.
 
@@ -602,16 +626,28 @@ Swiss AI Futures Moderator Guide, Abschnitt 10.
 
 # Was soll die Schweiz für eine wünschenswerte KI-Zukunft tun?
 
-## Mögliche Einstiegspunkte
+## Allgemeine Einstiegspunkte
 
-* Wo muss die letzte Entscheidung bei Menschen bleiben — und wie soll die Bevölkerung KI-Regeln mitgestalten?
-* Wie soll die Schweiz Innovation mit Datenschutz, Urheberrecht, Umwelt, Sicherheit und Schutz vor Desinformation abwägen?
+* Was soll die Schweiz priorisieren, und wer trägt Verantwortung?
+* Welche roten Linien für Datenschutz, Urheberrecht, Umwelt und Sicherheit sind nötig?
+
+## Online-Umfrage
+
+Hohe Zustimmung zu Risiken: **86 %** Polarisierung, **78 %** Manipulation, **74 %** erschwerte Wahrheitsfindung.
+
+**79 % von 72** unterstützen öffentliche Abstimmungen oder Konsultationen; **56 % (40/71)** sagen: KI kann unterstützen, aber Menschen entscheiden.
+
+### Quelle: Swiss AI Futures explorative Online-Umfrage · 81 eingeschlossene Befragte · gültiges n variiert je Item
+
+## Spannungsfeld der Umfrage
+
+Wie ermöglicht die Schweiz nützliche KI und schützt zugleich menschliche Verantwortung, Vertrauen und Mitsprache?
 
 ## Presenter notes
 
 Diese Abschlussdiskussion ist in beiden Räumen Murmi-unterstützt und gehört nicht zum Vergleich von menschlicher und KI-unterstützter Moderation.
 
-Beginnen Sie mit der Hauptfrage. Nutzen Sie einen Einstiegspunkt nur bei Bedarf; behandeln Sie die zwei Impulse nicht als Checkliste.
+Beginnen Sie mit der Hauptfrage. Nutzen Sie einen allgemeinen Einstiegspunkt nur bei Bedarf; behandeln Sie die zwei Impulse nicht als Checkliste. Kennzeichnen Sie die Zahlen kurz als Ergebnisse der Swiss AI Futures Online-Umfrage, bevor Sie das Spannungsfeld einführen.
 
 Die Impulse verbinden drei Spannungen aus der Umfrage: breite Akzeptanz von KI-Unterstützung, aber nicht von unkontrollierten folgenreichen Entscheidungen; nützliche Innovation versus Vorsorge; und starke Sorge vor Manipulation bei gleichzeitiger Unterstützung öffentlicher Beteiligung an der Regulierung.
 

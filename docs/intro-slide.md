@@ -420,16 +420,28 @@ Online Survey Main Findings, expanded sample of 81 included respondents, finding
 
 # How should schools prepare students for AI?
 
-## Possible entry points
+## Generic entry points
 
-* How can schools teach AI skills and safeguards without weakening independent or traditional learning?
-* When, if ever, should AI use be limited — and who should decide?
+* What AI knowledge and skills should students learn?
+* What support, rules, and safeguards do schools and teachers need?
+
+## Online survey evidence
+
+**93%** give high support to teaching students to check AI for errors and bias.
+
+Limits to protect traditional learning split **26 / 37 / 37%** — low / middle / high support.
+
+### Source: Swiss AI Futures exploratory online survey · 81 included respondents · item n = 54
+
+## Survey tension
+
+How can schools teach AI skills and safeguards without weakening independent or traditional learning?
 
 ## Presenter notes
 
 Round 1 uses human moderation and physical voting.
 
-Start with the main question. The two entry points are optional prompts; use one only if the discussion needs help getting started. Do not present them as a checklist.
+Start with the main question. The generic entry points are optional prompts, not a checklist. Briefly identify the figures as findings from the Swiss AI Futures online survey before introducing the tension.
 
 The survey tension is deliberate: respondents strongly support AI skills, verification, data protection, and clear rules, but are divided on limiting AI to protect traditional learning. Use the prompts to explore where integration should stop and who should set the boundary.
 
@@ -533,14 +545,26 @@ Online Survey Main Findings, expanded sample of 81 included respondents, finding
 
 # How should Switzerland prepare workers as AI changes work?
 
-## Possible entry points
+## Generic entry points
 
-* If the market alone is not enough, who should provide training and keep high-stakes decisions under human control?
-* Should AI-driven productivity gains be taxed or shared — and what decision rights should workers have?
+* What skills should workers learn, strengthen, or preserve?
+* Who should provide training, time, and support?
+
+## Online survey evidence
+
+**62%** give low support to leaving adaptation to the market alone; **76%** give high support to limiting fully automated employment decisions.
+
+AI tax: **20 / 38 / 42%**; worker voice: **17 / 36 / 47%** — low / middle / high support.
+
+### Source: Swiss AI Futures exploratory online survey · 81 included respondents · item n = 50–54
+
+## Survey tension
+
+If active governance is needed, who pays, who decides, and how should productivity gains be shared?
 
 ## Presenter notes
 
-Start with the main question. The two entry points are optional prompts; use one only if the discussion needs help getting started. Do not present them as a checklist.
+Start with the main question. The generic entry points are optional prompts, not a checklist. Briefly identify the figures as findings from the Swiss AI Futures online survey before introducing the tension.
 
 The survey shows support for active governance, worker training, and limits on automated employment decisions. It does not show agreement on an AI tax, worker decision rights, or how productivity gains should be shared. Keep those mechanisms open for debate.
 
@@ -602,16 +626,28 @@ Swiss AI Futures Moderator Guide, section 10.
 
 # What should Switzerland do for a desirable AI future?
 
-## Possible entry points
+## Generic entry points
 
-* Where must accountable humans retain final control — and how should citizens shape AI regulation?
-* How should Switzerland balance innovation with privacy, copyright, environmental, safety, and misinformation risks?
+* What should Switzerland prioritise, and who should be responsible?
+* Which privacy, copyright, environmental, and safety red lines are essential?
+
+## Online survey evidence
+
+High agreement on risks: **86%** polarisation, **78%** manipulation, **74%** truth becoming harder to identify.
+
+**79% of 72** support public votes or citizen consultations; **56% (40/71)** say AI may support public services, but humans should decide.
+
+### Source: Swiss AI Futures exploratory online survey · 81 included respondents · valid n varies by item
+
+## Survey tension
+
+How can Switzerland enable useful AI while preserving accountable human control, public trust, and citizen voice?
 
 ## Presenter notes
 
 This closing discussion is Murmi-supported in both rooms and is not part of the human-versus-AI comparison.
 
-Start with the main question. Use an entry point only if needed; do not treat the two prompts as a checklist.
+Start with the main question. Use a generic entry point only if needed; do not treat the two prompts as a checklist. Briefly identify the figures as findings from the Swiss AI Futures online survey before introducing the tension.
 
 The prompts combine three survey tensions: broad acceptance of AI assistance but not unaccountable consequential decisions; useful innovation versus precaution; and strong concern about manipulation alongside support for public participation in regulation.
 
