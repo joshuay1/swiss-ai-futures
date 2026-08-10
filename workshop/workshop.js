@@ -70,9 +70,9 @@
     11: { phase: firstRoundPhase, mode: "topic", layout: "topic", timer: 27, fragments: "sections" },
     12: { phase: firstRoundPhase, mode: "survey", layout: "survey", timer: 10 },
     13: { phase: secondRoundPhase, mode: "evidence", layout: "focus", timer: 3, fragments: "sections" },
-    14: { phase: secondRoundPhase, mode: "topic", layout: "topic", timer: 27, fragments: "sections" },
+    14: { phase: secondRoundPhase, mode: "topic", layout: "topic", timer: 27, fragments: "sections", murmiLink: true },
     15: { phase: secondRoundPhase, mode: "survey", layout: "survey", timer: 10 },
-    16: { phase: "future", mode: "topic", layout: "topic", timer: 10, fragments: "sections" },
+    16: { phase: "future", mode: "topic", layout: "topic", timer: 10, fragments: "sections", murmiLink: true },
     17: { phase: "future", mode: "report", layout: "closing", timer: 5, fragments: "sections" },
     18: { phase: "future", mode: "impact", layout: "closing", timer: 5, fragments: "sections" }
   };
@@ -176,6 +176,7 @@
       murmiArtworkAlt: "Illustrated alpine scene with marmots in conversation",
       murmiDirectAccess: "Anyone can start a session directly for free.",
       murmiLinkLabel: "Open murmi.org in a new tab",
+      openMurmi: "Open Murmi",
       moderatorGuide: "Moderator guide",
       openModeratorGuide: "Open the moderator guide in a new tab",
       minutes: "minutes",
@@ -219,6 +220,7 @@
       murmiArtworkAlt: "Illustrierte Alpenszene mit Murmeltieren im Gespräch",
       murmiDirectAccess: "Alle können direkt kostenlos eine Sitzung starten.",
       murmiLinkLabel: "murmi.org in einem neuen Tab öffnen",
+      openMurmi: "Murmi öffnen",
       moderatorGuide: "Moderationsleitfaden",
       openModeratorGuide: "Moderationsleitfaden in einem neuen Tab öffnen",
       minutes: "Minuten",
@@ -262,6 +264,7 @@
       murmiArtworkAlt: "Scène alpine illustrée avec des marmottes en conversation",
       murmiDirectAccess: "Tout le monde peut lancer directement une session gratuitement.",
       murmiLinkLabel: "Ouvrir murmi.org dans un nouvel onglet",
+      openMurmi: "Ouvrir Murmi",
       moderatorGuide: "Guide de facilitation",
       openModeratorGuide: "Ouvrir le guide de facilitation dans un nouvel onglet",
       minutes: "minutes",
@@ -740,6 +743,15 @@
     const qr = structured.hasQr
       ? `<div class="qr-placeholder"${slide.layout === "closing" ? " data-fragment" : ""} role="img" aria-label="Survey QR code placeholder"><span>Survey QR<br>appears here</span></div>`
       : "";
+    const murmiLiveLink = slide.murmiLink
+      ? `<a class="murmi-live-link" href="https://www.murmi.org/" target="_blank" rel="noopener" aria-label="${escapeHtml(ui.murmiLinkLabel)}">
+          <span>
+            <strong>${escapeHtml(ui.openMurmi)}</strong>
+            <small>murmi.org</small>
+          </span>
+          <span aria-hidden="true">↗</span>
+        </a>`
+      : "";
 
     if (slide.layout === "murmi-intro") {
       return `
@@ -780,7 +792,7 @@
       <article class="slide layout-${slide.layout}" data-slide="${slide.number}" data-phase="${slide.phase}" data-mode="${slide.mode}" aria-hidden="true">
         <div class="slide-stage-mark" aria-hidden="true">${String(slide.number).padStart(2, "0")}</div>
         <div class="slide-shell">
-          <header class="slide-heading">
+          <header class="slide-heading${slide.murmiLink ? " slide-heading-with-action" : ""}">
             <div>
               <p class="slide-kicker">
                 <strong class="slide-theme-label">${escapeHtml(modeLabels[slide.mode])}</strong>
@@ -788,6 +800,7 @@
               </p>
               <h1 class="slide-title">${renderInline(structured.title)}</h1>
             </div>
+            ${murmiLiveLink}
           </header>
           <div class="slide-body">
             <div class="slide-lead">${leadHtml}</div>
