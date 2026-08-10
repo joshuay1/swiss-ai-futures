@@ -658,6 +658,10 @@ html[data-phase="work"] .deck-brand img {
   font-size: clamp(50px, 4.8vw, 86px);
 }
 
+:lang(fr) .layout-focus .slide-title {
+  font-size: clamp(48px, 4.65vw, 84px);
+}
+
 .layout-logistics .slide-body,
 .layout-focus .slide-body,
 .layout-topic .slide-body {
@@ -666,6 +670,10 @@ html[data-phase="work"] .deck-brand img {
 
 .layout-logistics .slide-body {
   margin-top: clamp(24px, 3vh, 42px);
+}
+
+.layout-focus .slide-body {
+  margin-top: clamp(22px, 2.6vh, 38px);
 }
 
 .layout-topic .slide-body {
@@ -833,6 +841,96 @@ html[data-phase="work"] .deck-brand img {
   margin-top: 0.38em;
   font-size: clamp(20px, 1.45vw, 27px);
   line-height: 1.22;
+}
+
+.layout-focus .survey-chart {
+  display: grid;
+  gap: clamp(9px, 1.2vh, 14px);
+  margin-top: clamp(14px, 1.6vh, 22px);
+}
+
+.layout-focus .survey-chart-track {
+  position: relative;
+  display: flex;
+  width: 100%;
+  height: clamp(24px, 3vh, 34px);
+  overflow: hidden;
+  background: color-mix(in srgb, var(--accent) 18%, transparent);
+}
+
+.layout-focus .survey-chart-single .survey-chart-track::after {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  border-left: 1px solid color-mix(in srgb, var(--slide-ink) 24%, transparent);
+  content: "";
+}
+
+.layout-focus .survey-chart-fill,
+.layout-focus .survey-chart-segment {
+  display: block;
+  width: var(--survey-value);
+  height: 100%;
+}
+
+.layout-focus .survey-chart-fill {
+  background: var(--accent);
+}
+
+.layout-focus .survey-chart-value {
+  color: var(--accent);
+  font-size: clamp(42px, 3.8vw, 70px);
+  line-height: 0.88;
+  letter-spacing: -0.045em;
+}
+
+.layout-focus .survey-chart-segment + .survey-chart-segment {
+  border-left: 3px solid var(--slide-bg);
+}
+
+.layout-focus .survey-chart-segment-1 {
+  background: color-mix(in srgb, var(--accent) 34%, transparent);
+}
+
+.layout-focus .survey-chart-segment-2 {
+  background: color-mix(in srgb, var(--accent) 66%, transparent);
+}
+
+.layout-focus .survey-chart-segment-3 {
+  background: var(--accent);
+}
+
+.layout-focus .survey-chart-legend {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.layout-focus .survey-chart-legend > span {
+  display: grid;
+  gap: 2px;
+}
+
+.layout-focus .survey-chart-legend strong {
+  color: var(--slide-ink);
+  font-size: clamp(19px, 1.45vw, 27px);
+  line-height: 1;
+}
+
+.layout-focus .survey-chart-legend small {
+  color: var(--slide-muted);
+  font-size: clamp(12px, 0.86vw, 16px);
+  font-weight: 650;
+  letter-spacing: 0.055em;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.layout-focus .survey-chart + p {
+  margin-top: clamp(13px, 1.5vh, 18px);
+  font-size: clamp(19px, 1.34vw, 25px);
+  line-height: 1.2;
 }
 
 .layout-murmi-intro .slide-shell {

@@ -599,6 +599,62 @@
 
   const renderBlocks = (blocks, options = {}) => blocks.map((block) => renderBlock(block, options)).join("");
 
+  const surveyScaleLabels = {
+    en: ["Low", "Middle", "High"],
+    de: ["Gering", "Mittel", "Hoch"],
+    fr: ["Faible", "Moyen", "Élevé"]
+  }[language];
+
+  const renderSurveyChart = (block) => {
+    if (block?.type !== "paragraph") return "";
+    const values = (block.text.match(/\d+/g) || []).map(Number);
+    if (!values.length || values.some((value) => value < 0 || value > 100)) return "";
+
+    if (values.length === 1) {
+      const [value] = values;
+      return `
+        <div class="survey-chart survey-chart-single" role="img" aria-label="${value}%">
+          <strong class="survey-chart-value">${value}%</strong>
+          <div class="survey-chart-track" aria-hidden="true">
+            <span class="survey-chart-fill" style="--survey-value: ${value}%"></span>
+          </div>
+        </div>
+      `;
+    }
+
+    if (values.length === 3 && values.reduce((total, value) => total + value, 0) === 100) {
+      const accessibleLabel = values
+        .map((value, index) => `${value}% ${surveyScaleLabels[index]}`)
+        .join(", ");
+      const segments = values
+        .map((value, index) => `<span class="survey-chart-segment survey-chart-segment-${index + 1}" style="--survey-value: ${value}%"></span>`)
+        .join("");
+      const legend = values
+        .map((value, index) => `
+          <span>
+            <strong>${value}%</strong>
+            <small>${escapeHtml(surveyScaleLabels[index])}</small>
+          </span>
+        `)
+        .join("");
+      return `
+        <div class="survey-chart survey-chart-split" role="img" aria-label="${escapeHtml(accessibleLabel)}">
+          <div class="survey-chart-track" aria-hidden="true">${segments}</div>
+          <div class="survey-chart-legend" aria-hidden="true">${legend}</div>
+        </div>
+      `;
+    }
+
+    return "";
+  };
+
+  const renderFocusBlocks = (blocks, options = {}) => {
+    const [metric, ...rest] = blocks;
+    const chart = renderSurveyChart(metric);
+    if (!chart) return renderBlocks(blocks, options);
+    return `${chart}${renderBlocks(rest, options)}`;
+  };
+
   const renderMethodStage = (item, number, options = {}) => `
     <div class="method-stage${options.milestone ? " method-stage-milestone" : ""}" role="listitem">
       <span class="method-stage-number" aria-hidden="true">${number}</span>
@@ -737,10 +793,13 @@
         if (slide.layout === "method" && sectionIndex === 0) {
           return renderMethodFlowSection(section, fragmentSections);
         }
+        const sectionBody = slide.layout === "focus"
+          ? renderFocusBlocks(section.blocks, { fragmentItems })
+          : renderBlocks(section.blocks, { fragmentItems });
         return `
           <section class="slide-section"${fragmentSections ? " data-fragment" : ""}>
             <h2>${renderInline(section.title)}</h2>
-            ${renderBlocks(section.blocks, { fragmentItems })}
+            ${sectionBody}
           </section>
         `;
       })
