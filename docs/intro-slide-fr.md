@@ -423,23 +423,17 @@ Online Survey Main Findings, échantillon élargi de 81 répondants inclus, rés
 * Quelles compétences les travailleurs doivent-ils acquérir, renforcer ou préserver ?
 * Qui doit fournir la formation, le temps et le soutien ?
 
-## Enquête en ligne
-
-**62 %** soutiennent peu l’adaptation par le seul marché ; **76 %** soutiennent fortement des limites aux décisions d’emploi entièrement automatisées.
-
-Taxe sur l’IA : **20 / 38 / 42 %** ; voix des travailleurs : **17 / 36 / 47 %** — soutien faible / moyen / élevé.
-
-### Source : enquête exploratoire Swiss AI Futures · 81 répondants inclus · item n = 50–54
-
-## Tension de l’enquête
+## Tension issue de l’enquête en ligne
 
 Si une gouvernance active est nécessaire, qui paie, qui décide et comment partager les gains de productivité ?
+
+### Source : enquête exploratoire Swiss AI Futures · 81 répondants inclus
 
 ## Presenter notes
 
 Le premier tour utilise une modération humaine et un vote physique.
 
-Commencez par la question principale. Les points d’entrée généraux sont des pistes facultatives, pas une liste à compléter. Présentez brièvement les chiffres comme des résultats de l’enquête en ligne Swiss AI Futures avant d’introduire la tension.
+Commencez par la question principale. Les points d’entrée généraux sont des pistes facultatives, pas une liste à compléter. Rappelez que la diapositive précédente présentait des résultats de l’enquête en ligne Swiss AI Futures, puis introduisez la tension.
 
 L’enquête montre un soutien à une gouvernance active, à la formation et aux limites imposées aux décisions d’emploi automatisées. Elle ne montre pas d’accord sur une taxe sur l’IA, les droits de participation des travailleurs ou le partage des gains de productivité. Gardez ces mécanismes ouverts au débat.
 
@@ -550,21 +544,15 @@ Online Survey Main Findings, échantillon élargi de 81 répondants inclus, rés
 * Quels savoirs et compétences en IA les élèves doivent-ils acquérir ?
 * De quels soutiens, règles et garde-fous les écoles et les enseignants ont-ils besoin ?
 
-## Enquête en ligne
-
-**93 %** soutiennent fortement l’apprentissage de la vérification des erreurs et biais de l’IA.
-
-Limiter l’IA pour protéger les apprentissages divise : **26 / 37 / 37 %** — soutien faible / moyen / élevé.
-
-### Source : enquête exploratoire Swiss AI Futures · 81 répondants inclus · item n = 54
-
-## Tension de l’enquête
+## Tension issue de l’enquête en ligne
 
 Comment enseigner les compétences et garde-fous liés à l’IA sans affaiblir l’autonomie ni les apprentissages de base ?
 
+### Source : enquête exploratoire Swiss AI Futures · 81 répondants inclus
+
 ## Presenter notes
 
-Commencez par la question principale. Les points d’entrée généraux sont des pistes facultatives, pas une liste à compléter. Présentez brièvement les chiffres comme des résultats de l’enquête en ligne Swiss AI Futures avant d’introduire la tension.
+Commencez par la question principale. Les points d’entrée généraux sont des pistes facultatives, pas une liste à compléter. Rappelez que la diapositive précédente présentait des résultats de l’enquête en ligne Swiss AI Futures, puis introduisez la tension.
 
 La tension issue de l’enquête est volontaire : compétences en IA, vérification, protection des données et règles claires sont largement soutenues, mais les avis divergent sur les limites destinées à protéger les apprentissages fondamentaux. Utilisez les pistes pour explorer les limites et les responsabilités.
 
@@ -631,23 +619,17 @@ Swiss AI Futures Moderator Guide, section 10.
 * Que doit prioriser la Suisse, et qui doit en être responsable ?
 * Quelles lignes rouges pour la vie privée, le droit d’auteur, l’environnement et la sécurité ?
 
-## Enquête en ligne
-
-Fort accord sur les risques : **86 %** polarisation, **78 %** manipulation, **74 %** vérité plus difficile à établir.
-
-**79 % sur 72** soutiennent votations ou consultations ; **56 % (40/71)** disent : l’IA peut aider, mais les humains décident.
-
-### Source : enquête exploratoire Swiss AI Futures · 81 répondants inclus · n valide variable selon l’item
-
-## Tension de l’enquête
+## Tension issue de l’enquête en ligne
 
 Comment permettre une IA utile tout en préservant la responsabilité humaine, la confiance et la voix citoyenne ?
+
+### Source : enquête exploratoire Swiss AI Futures · 81 répondants inclus
 
 ## Presenter notes
 
 Cette discussion finale est assistée par Murmi dans les deux salles et ne fait pas partie de la comparaison entre modération humaine et assistée par l’IA.
 
-Commencez par la question principale. Utilisez un point d’entrée général uniquement si nécessaire ; ne traitez pas les deux pistes comme une liste à compléter. Présentez brièvement les chiffres comme des résultats de l’enquête en ligne Swiss AI Futures avant d’introduire la tension.
+Commencez par la question principale. Utilisez un point d’entrée général uniquement si nécessaire ; ne traitez pas les deux pistes comme une liste à compléter. Présentez la tension comme un résultat de l’enquête en ligne Swiss AI Futures.
 
 Les pistes combinent trois tensions de l’enquête : une large acceptation de l’assistance par l’IA, mais pas des décisions lourdes de conséquences sans responsabilité humaine ; innovation utile contre précaution ; et forte inquiétude face à la manipulation, malgré le soutien à la participation publique à la régulation.
 
