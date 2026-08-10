@@ -21,6 +21,16 @@ version: "Présentation en 18 diapositives selon le protocole"
 [Date]
 [Lieu]
 
+## Équipe de recherche
+
+[**Joshua C. Yang**](https://joshuacyang.com/) · ETH Zurich
+
+**Maud Reveilhac** · LUT
+
+**Aurelia Tamò-Larrieux** · USG
+
+**Phillip Widmar** · Carbon Copy
+
 ## Presenter notes
 
 Souhaitez la bienvenue aux participants et remerciez-les de leur présence.

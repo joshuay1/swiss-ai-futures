@@ -21,6 +21,16 @@ version: "18-Folien-Deck gemäss Moderationsprotokoll"
 [Datum]
 [Ort]
 
+## Forschungsteam
+
+[**Joshua C. Yang**](https://joshuacyang.com/) · ETH Zurich
+
+**Maud Reveilhac** · LUT
+
+**Aurelia Tamò-Larrieux** · USG
+
+**Phillip Widmar** · Carbon Copy
+
 ## Presenter notes
 
 Begrüssen Sie alle Teilnehmenden und bedanken Sie sich für ihr Kommen.

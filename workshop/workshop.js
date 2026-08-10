@@ -9,9 +9,9 @@
   document.documentElement.lang = language;
 
   const sourceUrls = {
-    en: "../docs/intro-slide.md?v=20260810-10",
-    de: "../docs/intro-slide-de.md?v=20260810-10",
-    fr: "../docs/intro-slide-fr.md?v=20260810-10"
+    en: "../docs/intro-slide.md?v=20260810-11",
+    de: "../docs/intro-slide-de.md?v=20260810-11",
+    fr: "../docs/intro-slide-fr.md?v=20260810-11"
   };
 
   const SOURCE_URL = sourceUrls[language];
@@ -390,6 +390,10 @@
 
   const renderInline = (value) => {
     let html = escapeHtml(value);
+    html = html.replace(
+      /\[([^\]]+)\]\((https:\/\/[^)\s]+)\)/g,
+      '<a href="$2" target="_blank" rel="noopener">$1</a>'
+    );
     html = html.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
     html = html.replace(/\*(.+?)\*/g, "<em>$1</em>");
     html = html.replace(/`(.+?)`/g, "<code>$1</code>");

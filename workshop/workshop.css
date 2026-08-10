@@ -562,6 +562,40 @@ html[data-phase="work"] .deck-brand img {
   font-size: 0.58em;
 }
 
+.layout-hero .slide-sections {
+  margin-top: clamp(18px, 2.4vh, 30px);
+}
+
+.layout-hero .slide-section {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.42em clamp(20px, 2vw, 34px);
+}
+
+.layout-hero .slide-section h2 {
+  grid-column: 1 / -1;
+  color: var(--accent);
+  font-size: clamp(14px, 0.95vw, 18px);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.layout-hero .slide-section p {
+  color: var(--slide-muted);
+  font-size: clamp(16px, 1.15vw, 21px);
+  line-height: 1.2;
+}
+
+.layout-hero .slide-section p + p {
+  margin-top: 0;
+}
+
+.layout-hero .slide-section a {
+  color: var(--slide-ink);
+  text-decoration-color: var(--accent);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.16em;
+}
+
 .layout-statement .slide-title {
   max-width: 9ch;
 }
@@ -3116,6 +3150,11 @@ html[data-phase="work"] .deck-brand img {
   .layout-survey .slide-shell,
   .layout-closing .slide-shell {
     grid-template-columns: 1fr;
+  }
+
+  .layout-hero .slide-section {
+    grid-template-columns: 1fr;
+    gap: 0.3em;
   }
 
   .layout-murmi-intro .slide-shell {

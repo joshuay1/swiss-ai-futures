@@ -21,6 +21,16 @@ version: "18-slide moderator-protocol deck"
 [Date]
 [Location]
 
+## Research team
+
+[**Joshua C. Yang**](https://joshuacyang.com/) · ETH Zurich
+
+**Maud Reveilhac** · LUT
+
+**Aurelia Tamò-Larrieux** · USG
+
+**Phillip Widmar** · Carbon Copy
+
 ## Presenter notes
 
 Welcome everyone and thank them for coming.
