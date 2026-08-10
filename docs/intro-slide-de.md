@@ -18,7 +18,8 @@ version: "18-Folien-Deck gemäss Moderationsprotokoll"
 
 **Bürger:innen-Workshop**
 
-[Datum]
+**[Datum] · [Zeit]**
+
 [Ort]
 
 ## Forschungsteam

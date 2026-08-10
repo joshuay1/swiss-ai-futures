@@ -18,7 +18,8 @@ version: "18-slide moderator-protocol deck"
 
 **Citizen workshop**
 
-[Date]
+**[Date] · [Time]**
+
 [Location]
 
 ## Research team

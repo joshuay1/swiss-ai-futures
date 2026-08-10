@@ -18,7 +18,8 @@ version: "Présentation en 18 diapositives selon le protocole"
 
 **Atelier citoyen**
 
-[Date]
+**[Date] · [Heure]**
+
 [Lieu]
 
 ## Équipe de recherche

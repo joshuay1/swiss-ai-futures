@@ -9,9 +9,9 @@
   document.documentElement.lang = language;
 
   const sourceUrls = {
-    en: "../docs/intro-slide.md?v=20260810-11",
-    de: "../docs/intro-slide-de.md?v=20260810-11",
-    fr: "../docs/intro-slide-fr.md?v=20260810-11"
+    en: "../docs/intro-slide.md?v=20260810-14",
+    de: "../docs/intro-slide-de.md?v=20260810-14",
+    fr: "../docs/intro-slide-fr.md?v=20260810-14"
   };
 
   const SOURCE_URL = sourceUrls[language];
@@ -20,25 +20,29 @@
     zurich: {
       en: {
         city: "Zürich",
-        date: "Tuesday, 11 August 2026",
-        location: "ETH Zürich HG, room F 26.3"
+        date: "Tuesday, August 11",
+        time: "5:30–7:30 pm",
+        location: "ETH Zürich HG, room F 26.3."
       },
       de: {
         city: "Zürich",
-        date: "Dienstag, 11. August 2026",
-        location: "ETH Zürich HG, Raum F 26.3"
+        date: "Dienstag, 11. August",
+        time: "17:30–19:30 Uhr",
+        location: "ETH Zürich HG, Raum F 26.3."
       }
     },
     lausanne: {
       en: {
         city: "Lausanne",
-        date: "Wednesday, 12 August 2026",
-        location: "Université de Lausanne, Internef building, room 231"
+        date: "Wednesday, August 12",
+        time: "5:30–7:30 pm",
+        location: "Université de Lausanne, Internef building, room 231."
       },
       fr: {
         city: "Lausanne",
-        date: "mercredi 12 août 2026",
-        location: "Université de Lausanne, bâtiment Internef, salle 231"
+        date: "mercredi 12 août",
+        time: "17 h 30–19 h 30",
+        location: "Université de Lausanne, bâtiment Internef, salle 231."
       }
     }
   };
@@ -485,7 +489,13 @@
   const replaceSessionTokens = (value) =>
     value
       .replaceAll("[Date]", session.date)
+      .replaceAll("[Time]", session.time)
       .replaceAll("[Location]", session.location)
+      .replaceAll("[Datum]", session.date)
+      .replaceAll("[Zeit]", session.time)
+      .replaceAll("[Ort]", session.location)
+      .replaceAll("[Heure]", session.time)
+      .replaceAll("[Lieu]", session.location)
       .replaceAll("[Zurich / Lausanne]", session.city);
 
   const parseBlocks = (source) => {
@@ -1195,7 +1205,7 @@
     renderLocationSwitcher();
     renderLanguageSwitcher();
     configureModeratorGuideLink();
-    elements.sessionLabel.textContent = `${session.date} · ${session.location}`;
+    elements.sessionLabel.textContent = `${session.date} · ${session.time} · ${session.location}`;
     try {
       const response = await fetch(SOURCE_URL, { cache: "no-store" });
       if (!response.ok) throw new Error(`Source request failed: ${response.status}`);
