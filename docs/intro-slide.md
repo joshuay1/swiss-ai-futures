@@ -252,11 +252,11 @@ The microphone sends speech directly for AI transcription. No audio file is crea
 
 ## Anonymous by default
 
-The coded transcript uses participant codes, not names. Statements added in Murmi may carry the initials you enter.
+The coded transcript uses participant codes, not names; Murmi statements may show initials. Full transcripts are not published, and identified quotes need separate written permission.
 
-## Quotes need separate permission
+## Documentation photos
 
-Full transcripts are not published. With separate written permission, a quotation may use your name or a short profile — occupation, age, and canton. Without it, the quotation remains anonymous.
+With your permission, we may take a few photos to document the procedure. You may opt out; every face will be blurred before any online publication.
 
 ## Presenter notes
 
@@ -269,6 +269,8 @@ The microphone is only an input for live transcription. Speech is sent live to O
 The retained research record is a coded transcript. Identifying information is stored separately, and full transcripts are not published. Murmi statements may display the initials participants enter; do not expand those initials into a name.
 
 The current one-page consent form authorizes anonymised or paraphrased quotations. It does not yet include an optional name or profile-attribution choice. Do not attach a name, occupation, age, canton, or other profile information to a quotation unless a separate explicit written opt-in has been added to the approved consent process.
+
+Do not take photos unless photography is covered by the approved participant information and consent process. Before taking a photo, announce it and give participants a clear chance to opt out or move out of frame. Avoid capturing name tags, completed forms, or screens containing participant information. Blur every face before any photo is published online.
 
 ### Sources
 

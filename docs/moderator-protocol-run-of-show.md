@@ -338,8 +338,9 @@ Explain the recording and quotation choices before participants sign:
 - pass the microphone from speaker to speaker: participants signal, wait for the microphone, speak while holding it, and then pass it on so turns are clear and each contribution reaches the transcript;
 - speech is sent live for AI transcription, and no audio file is created or retained;
 - the research record is a coded transcript, and full transcripts are not published;
-- Murmi statements may show the initials participants enter; never expand those initials into a name; and
-- the current one-page consent permits anonymised or paraphrased quotations only. Do not attach a name, occupation, age, canton, or other profile information to a quotation unless a separate explicit written opt-in has been added to the approved consent process.
+- Murmi statements may show the initials participants enter; never expand those initials into a name;
+- the current one-page consent permits anonymised or paraphrased quotations only. Do not attach a name, occupation, age, canton, or other profile information to a quotation unless a separate explicit written opt-in has been added to the approved consent process; and
+- photography is optional: do not take photos unless it is covered by the approved participant information and consent process; announce each photo, allow participants to opt out or move out of frame, avoid names and completed forms, and blur every face before any online publication.
 
 ### Questionnaire
 

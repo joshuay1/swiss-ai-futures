@@ -252,11 +252,11 @@ Das Mikrofon leitet die Sprache direkt zur KI-Transkription weiter. Es wird kein
 
 ## Standardmässig anonym
 
-Das codierte Transkript verwendet Teilnehmendencodes statt Namen. In Murmi hinzugefügte Aussagen können mit den eingegebenen Initialen erscheinen.
+Das codierte Transkript verwendet Teilnehmendencodes statt Namen; Murmi-Aussagen können Initialen zeigen. Volltranskripte werden nicht veröffentlicht; identifizierende Zitate benötigen eine separate schriftliche Zustimmung.
 
-## Zitate nur mit separater Zustimmung
+## Fotos zur Dokumentation
 
-Volltranskripte werden nicht veröffentlicht. Mit separater schriftlicher Zustimmung kann ein Zitat mit Ihrem Namen oder einem Kurzprofil — Beruf, Alter und Kanton — erscheinen. Ohne diese Zustimmung bleibt es anonym.
+Mit Ihrer Zustimmung können wir einige Fotos machen, um den Ablauf zu dokumentieren. Sie können ablehnen; vor jeder Online-Veröffentlichung werden alle Gesichter unkenntlich gemacht.
 
 ## Presenter notes
 
@@ -269,6 +269,8 @@ Das Mikrofon dient ausschliesslich als Eingang für die Live-Transkription. Die 
 Als Forschungsdatensatz bleibt ein codiertes Transkript. Identifizierende Angaben werden getrennt gespeichert, und Volltranskripte werden nicht veröffentlicht. Murmi-Aussagen können die von den Teilnehmenden eingegebenen Initialen anzeigen; lösen Sie diese Initialen nicht zu einem Namen auf.
 
 Die aktuelle einseitige Einwilligung erlaubt anonymisierte oder sinngemässe Zitate. Sie enthält noch keine optionale Wahl für die Zuordnung eines Namens oder Kurzprofils. Verknüpfen Sie ein Zitat nur dann mit Name, Beruf, Alter, Kanton oder anderen Profildaten, wenn eine separate ausdrückliche schriftliche Zustimmung in den genehmigten Einwilligungsprozess aufgenommen wurde.
+
+Machen Sie keine Fotos, solange die Fotografie nicht durch die genehmigte Teilnehmendeninformation und den Einwilligungsprozess abgedeckt ist. Kündigen Sie jedes Foto vorher an und geben Sie den Teilnehmenden eine klare Möglichkeit, abzulehnen oder den Bildbereich zu verlassen. Erfassen Sie keine Namensschilder, ausgefüllten Formulare oder Bildschirme mit Teilnehmendeninformationen. Machen Sie vor jeder Online-Veröffentlichung alle Gesichter unkenntlich.
 
 ### Sources
 

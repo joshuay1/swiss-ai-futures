@@ -252,11 +252,11 @@ Le microphone transmet directement la parole pour la transcription par IA. Aucun
 
 ## Anonyme par défaut
 
-La transcription codée utilise des codes de participation, pas des noms. Les propositions ajoutées dans Murmi peuvent porter les initiales saisies.
+La transcription codée utilise des codes, pas des noms ; les propositions Murmi peuvent afficher des initiales. Les transcriptions complètes ne sont pas publiées ; toute citation identifiable nécessite une autorisation écrite séparée.
 
-## Citation seulement avec une autorisation séparée
+## Photos de documentation
 
-Les transcriptions complètes ne sont pas publiées. Avec une autorisation écrite séparée, une citation peut être associée à votre nom ou à un bref profil — profession, âge et canton. Sans cette autorisation, elle reste anonyme.
+Avec votre accord, nous pouvons prendre quelques photos pour documenter le déroulement. Vous pouvez refuser ; tous les visages seront floutés avant toute publication en ligne.
 
 ## Presenter notes
 
@@ -269,6 +269,8 @@ Le microphone sert uniquement d’entrée pour la transcription en direct. La pa
 Le dossier de recherche conservé est une transcription codée. Les informations d’identification sont stockées séparément, et les transcriptions complètes ne sont pas publiées. Les propositions Murmi peuvent afficher les initiales saisies par les participants ; ne transformez pas ces initiales en nom.
 
 Le formulaire de consentement actuel d’une page autorise les citations anonymisées ou reformulées. Il ne contient pas encore de choix facultatif pour attribuer un nom ou un bref profil. N’associez une citation au nom, à la profession, à l’âge, au canton ou à d’autres informations de profil que si une autorisation écrite distincte et explicite a été ajoutée au processus de consentement approuvé.
+
+Ne prenez aucune photo tant que la photographie n’est pas couverte par l’information approuvée des participants et le processus de consentement. Annoncez chaque photo à l’avance et donnez aux participants une possibilité claire de refuser ou de sortir du cadre. Évitez de photographier les badges nominatifs, les formulaires remplis ou les écrans contenant des informations sur les participants. Floutez tous les visages avant toute publication en ligne.
 
 ### Sources
 
