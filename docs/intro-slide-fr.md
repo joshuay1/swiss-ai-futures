@@ -465,21 +465,21 @@ Swiss AI Futures Moderator Guide, sections 3 à 6 et 10. Online Survey Main Find
 
 ## On-screen copy
 
-# Questionnaire papier : partagez votre expérience
+# Questionnaire papier
 
-## Remplir la section indiquée
+## Réfléchir au processus
 
-Nous vous montrons la page. Levez la main si les consignes ne sont pas claires.
+Qu’est-ce qui a bien fonctionné ? Qu’est-ce qui a été difficile ?
 
-## Répondre individuellement
+## Partager votre expérience
 
-Utilisez un stylo. Ensuite, fermez le cahier, posez-le face cachée et faites une courte pause.
+Répondez sincèrement selon votre propre point de vue.
 
 ## Presenter notes
 
 Terminez la validation avant d’ouvrir le questionnaire. Les participants confirment une représentation fidèle de la salle ; ils n’approuvent pas personnellement chaque recommandation.
 
-Arrêtez la discussion. Montrez la section ou la page exacte et dites : « Veuillez remplir cette section maintenant, individuellement. » Vérifiez que chacun a un stylo. Répondez aux questions sur les consignes sans suggérer de réponse. Ne discutez ni des réponses ni des formats pendant le questionnaire.
+Arrêtez la discussion avant le questionnaire papier. Indiquez la page à remplir et dites : « Prenez un moment pour réfléchir au processus et répondez à partir de votre propre expérience. » Vérifiez que chacun a un stylo. Répondez aux questions sur les consignes sans suggérer de réponse. Ne discutez ni des réponses ni des formats pendant le questionnaire.
 
 Prévoyez environ 10 minutes pour le questionnaire et la courte pause.
 
@@ -592,21 +592,21 @@ Swiss AI Futures Moderator Guide, sections 3 à 5, 7 et 10. Online Survey Main F
 
 ## On-screen copy
 
-# Questionnaire papier : partagez votre expérience
+# Questionnaire papier
 
-## Remplir la section indiquée
+## Réfléchir au processus
 
-Nous vous montrons la page. Levez la main si les consignes ne sont pas claires.
+Qu’est-ce qui a bien fonctionné ? Qu’est-ce qui a été difficile ?
 
-## Répondre individuellement
+## Partager votre expérience
 
-Utilisez un stylo. Ensuite, fermez le cahier, posez-le face cachée et faites une courte pause.
+Répondez sincèrement selon votre propre point de vue.
 
 ## Presenter notes
 
 Demandez si la synthèse représente fidèlement les points communs et les désaccords. Révisez le projet Murmi jusqu’à confirmation.
 
-Arrêtez la discussion avant le questionnaire. Montrez la section ou la page exacte et dites : « Veuillez remplir cette section maintenant, individuellement. » Vérifiez que chacun a un stylo. Répondez aux questions sur les consignes sans suggérer de réponse. Ne comparez les formats qu’après le questionnaire.
+Arrêtez la discussion avant le questionnaire papier. Indiquez la page à remplir et dites : « Prenez un moment pour réfléchir au processus et répondez à partir de votre propre expérience. » Vérifiez que chacun a un stylo. Répondez aux questions sur les consignes sans suggérer de réponse. Ne comparez les formats qu’après le questionnaire.
 
 Prévoyez environ 10 minutes pour le questionnaire et la courte pause.
 

@@ -465,21 +465,21 @@ Swiss AI Futures Moderator Guide, Abschnitte 3–6 und 10. Online Survey Main Fi
 
 ## On-screen copy
 
-# Papierfragebogen: Teilen Sie Ihre Erfahrungen
+# Papierfragebogen
 
-## Den gezeigten Abschnitt ausfüllen
+## Über den Prozess nachdenken
 
-Wir zeigen die Seite. Heben Sie die Hand, wenn die Anleitung unklar ist.
+Was hat gut funktioniert? Was war schwierig?
 
-## Selbstständig antworten
+## Erfahrungen teilen
 
-Mit Stift ausfüllen. Danach das Heft schliessen, verdeckt hinlegen und kurz Pause machen.
+Antworten Sie ehrlich aus Ihrer eigenen Perspektive.
 
 ## Presenter notes
 
 Schliessen Sie die Validierung ab, bevor Sie den Fragebogen öffnen. Die Teilnehmenden bestätigen eine faire Darstellung des Raums; sie stimmen nicht jeder Empfehlung persönlich zu.
 
-Stoppen Sie die Diskussion. Zeigen Sie den genauen Abschnitt oder die Seite und sagen Sie: „Bitte füllen Sie diesen Abschnitt jetzt selbstständig aus.“ Prüfen Sie, ob alle einen Stift haben. Beantworten Sie Fragen zur Anleitung, ohne eine Antwort nahezulegen. Besprechen Sie weder Antworten noch Moderationsformate, solange der Fragebogen offen ist.
+Stoppen Sie die Diskussion vor dem Papierfragebogen. Nennen Sie die auszufüllende Seite und sagen Sie: „Nehmen Sie sich einen Moment, um über den Prozess nachzudenken, und antworten Sie aus Ihrer eigenen Erfahrung.“ Prüfen Sie, ob alle einen Stift haben. Beantworten Sie Fragen zur Anleitung, ohne eine Antwort nahezulegen. Besprechen Sie weder Antworten noch Moderationsformate, solange der Fragebogen offen ist.
 
 Planen Sie ungefähr 10 Minuten für Fragebogen und kurze Pause.
 
@@ -592,21 +592,21 @@ Swiss AI Futures Moderator Guide, Abschnitte 3–5, 7 und 10. Online Survey Main
 
 ## On-screen copy
 
-# Papierfragebogen: Teilen Sie Ihre Erfahrungen
+# Papierfragebogen
 
-## Den gezeigten Abschnitt ausfüllen
+## Über den Prozess nachdenken
 
-Wir zeigen die Seite. Heben Sie die Hand, wenn die Anleitung unklar ist.
+Was hat gut funktioniert? Was war schwierig?
 
-## Selbstständig antworten
+## Erfahrungen teilen
 
-Mit Stift ausfüllen. Danach das Heft schliessen, verdeckt hinlegen und kurz Pause machen.
+Antworten Sie ehrlich aus Ihrer eigenen Perspektive.
 
 ## Presenter notes
 
 Fragen Sie, ob die Zusammenfassung gemeinsame Sichtweisen und verbleibenden Dissens fair darstellt. Überarbeiten Sie den Murmi-Entwurf, bis die Darstellung bestätigt wird.
 
-Stoppen Sie die Diskussion vor dem Fragebogen. Zeigen Sie den genauen Abschnitt oder die Seite und sagen Sie: „Bitte füllen Sie diesen Abschnitt jetzt selbstständig aus.“ Prüfen Sie, ob alle einen Stift haben. Beantworten Sie Fragen zur Anleitung, ohne eine Antwort nahezulegen. Vergleichen Sie die Formate erst nach dem Fragebogen.
+Stoppen Sie die Diskussion vor dem Papierfragebogen. Nennen Sie die auszufüllende Seite und sagen Sie: „Nehmen Sie sich einen Moment, um über den Prozess nachzudenken, und antworten Sie aus Ihrer eigenen Erfahrung.“ Prüfen Sie, ob alle einen Stift haben. Beantworten Sie Fragen zur Anleitung, ohne eine Antwort nahezulegen. Vergleichen Sie die Formate erst nach dem Fragebogen.
 
 Planen Sie ungefähr 10 Minuten für Fragebogen und kurze Pause.
 

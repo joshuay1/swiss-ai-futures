@@ -467,21 +467,21 @@ Swiss AI Futures Moderator Guide, sections 3–6 and 10. Online Survey Main Find
 
 ## On-screen copy
 
-# Paper survey: share your experience
+# Paper survey
 
-## Fill in the section we show you
+## Reflect on the process
 
-We will point to the page. Raise your hand if the instructions are unclear.
+What worked well? What felt difficult?
 
-## Answer on your own
+## Share your experience
 
-Use a pen. When finished, close the booklet, place it face down, and take a short break.
+Answer honestly from your own perspective.
 
 ## Presenter notes
 
 Finish validation before opening the survey. Participants confirm that the synthesis fairly represents the room; they are not personally endorsing every recommendation.
 
-Stop the discussion. Point to the exact section or page and say: “Please fill in this section now, on your own.” Make sure everyone has a pen. Answer questions about the instructions without suggesting an answer. Do not discuss answers, compare formats, or show results while the survey is open.
+Stop the discussion before opening the paper survey. Tell participants which page to complete and say: “Please take a moment to reflect on the process and answer from your own experience.” Make sure everyone has a pen. Answer questions about the instructions without suggesting an answer. Do not discuss answers, compare formats, or show results while the survey is open.
 
 Allow approximately 10 minutes for survey completion and a short break.
 
@@ -592,21 +592,21 @@ Swiss AI Futures Moderator Guide, sections 3–5, 7, and 10. Online Survey Main 
 
 ## On-screen copy
 
-# Paper survey: share your experience
+# Paper survey
 
-## Fill in the section we show you
+## Reflect on the process
 
-We will point to the page. Raise your hand if the instructions are unclear.
+What worked well? What felt difficult?
 
-## Answer on your own
+## Share your experience
 
-Use a pen. When finished, close the booklet, place it face down, and take a short break.
+Answer honestly from your own perspective.
 
 ## Presenter notes
 
 Ask whether the summary fairly represents both shared views and remaining disagreement. Revise the Murmi draft until participants confirm the representation is fair.
 
-Stop the discussion before opening the survey. Point to the exact section or page and say: “Please fill in this section now, on your own.” Make sure everyone has a pen. Answer questions about the instructions without suggesting an answer. Do not compare formats before survey completion.
+Stop the discussion before opening the paper survey. Tell participants which page to complete and say: “Please take a moment to reflect on the process and answer from your own experience.” Make sure everyone has a pen. Answer questions about the instructions without suggesting an answer. Do not compare formats before survey completion.
 
 Allow approximately 10 minutes for survey completion and a short break.
 
