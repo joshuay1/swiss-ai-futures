@@ -5,7 +5,7 @@ subtitle: "Perspectives citoyennes sur l’IA au travail, dans l’éducation et
 date: "[Date de l’atelier]"
 location: "[Lausanne]"
 format: "Présentation 16:9 avec notes de facilitation"
-version: "Présentation en 18 diapositives selon le protocole"
+version: "Présentation en 16 diapositives selon le protocole"
 -------------------------------------------
 
 # Slide 1. Swiss AI Futures
@@ -69,7 +69,49 @@ Document d’information des participants.
 
 ---
 
-# Slide 3. Règles de délibération
+# Slide 3. Découvrir Murmi
+
+## On-screen copy
+
+# Découvrir Murmi
+
+**Murmi est un projet expérimental de délibération assistée par l’IA. Il est né du projet TA-SWISS et est développé avec Carbon Copy, inspiré par l’expérience de vTaiwan.**
+
+## Vérifier les propositions
+
+Murmi transforme la discussion en propositions. Dites-nous si l’une est incorrecte ou manque.
+
+## Voter avant la synthèse
+
+Indiquez votre soutien à chaque proposition vérifiée sur l’échelle à 5 points.
+
+## Corriger le projet
+
+Dites ce qu’il faut **garder, modifier, déplacer, ajouter ou supprimer**. La modération corrige en direct.
+
+## Presenter notes
+
+Présentez brièvement Murmi comme un projet expérimental qui utilise l’IA pour soutenir la délibération. Expliquez qu’il est né du projet TA-SWISS et qu’il est développé avec Carbon Copy en s’appuyant sur l’expérience de délibération de vTaiwan. L’outil soutient le processus ; les participants et la modération restent responsables de vérifier la trace, de rendre les désaccords visibles et de confirmer la formulation finale.
+
+Montrez le lien sur l’image. Tout le monde peut visiter **murmi.org** et lancer directement une session gratuitement, sans inscription ni configuration.
+
+Montrez cette diapositive pendant l’introduction afin que les participants découvrent Murmi avant l’explication des deux boucles. Il s’agit seulement d’une présentation ; les participants rejoindront la session en direct juste avant le second tour.
+
+Expliquez clairement la séquence : d’abord la discussion ; ensuite la vérification des propositions et l’ajout des éléments manquants ; puis un vote dédié sur l’échelle à 5 points ; enfin le projet Murmi en trois colonnes. Le vote précède la génération du terrain commun.
+
+Lors de la vérification du projet, montrez une colonne à la fois. Demandez ce qu’il faut garder, modifier, déplacer, ajouter ou supprimer. La personne chargée de Murmi effectue les modifications en direct, puis affiche la synthèse complète révisée pour confirmation.
+
+### Sources
+
+Site de Murmi, murmi.org. Swiss AI Futures Moderator Guide, sections 5, 7 et 8.
+
+## Timing
+
+2 minutes.
+
+---
+
+# Slide 4. Règles de délibération
 
 ## On-screen copy
 
@@ -104,7 +146,7 @@ La modération peut intervenir pour garantir une participation équitable et une
 
 ---
 
-# Slide 4. Documents sur la table
+# Slide 5. Documents sur la table
 
 ## On-screen copy
 
@@ -138,7 +180,7 @@ Expliquez que le formulaire d’indemnisation est rempli à la fin, uniquement p
 
 ---
 
-# Slide 5. Programme du jour
+# Slide 6. Programme du jour
 
 ## On-screen copy
 
@@ -198,85 +240,7 @@ Swiss AI Futures Moderator Guide, sections 1 à 2.
 
 ---
 
-# Slide 6. Boucle 1 · Formuler et tester les idées
-
-## On-screen copy
-
-# Boucle 1 · Formuler et tester les idées
-
-**Les deux boucles ont lieu dans le même sujet de 30 minutes.**
-
-## Discuter
-
-Discutez en petits groupes. Expliquez ce que vous pensez et pourquoi.
-
-## Tour avec modération humaine
-
-Une idée par post-it. Affichez-la ; la modération regroupe et nomme les idées proches.
-
-## Tour avec Murmi
-
-Vérifiez les propositions captées par Murmi. Ajoutez ce qui manque, puis votez sur les propositions.
-
-## Presenter notes
-
-La boucle 1 est la première étape de chaque sujet de 30 minutes. Elle fait émerger recommandations, conditions, préoccupations et perspectives.
-
-Dans le tour avec modération humaine, les participants ou représentants de table placent les post-it sur le tableau à trois colonnes. Pendant le partage, la modération regroupe en continu les notes proches, donne un titre court à chaque groupe d’idées et vérifie ce titre avec les participants. Chaque personne reçoit jusqu’à trois gommettes et place au maximum une gommette par groupe d’idées nommé. La modération inscrit le total à côté de chaque groupe.
-
-Dans le tour avec Murmi, les participants votent sur les propositions vérifiées avec l’échelle à 5 points. Le vote vient après le partage et la clarification, puis avant la boucle 2. Il indique un soutien ; il ne crée pas automatiquement un consensus.
-
-### Sources
-
-Swiss AI Futures Moderator Guide, sections 3 à 5.
-
-## Timing
-
-2 minutes.
-
----
-
-# Slide 7. Boucle 2 · Construire la synthèse
-
-## On-screen copy
-
-# Boucle 2 · Construire la synthèse
-
-**Les votes indiquent les priorités ; ils ne décident pas du consensus.**
-
-## Projet
-
-La modération transforme groupes d’idées, votes et réactions en trois colonnes.
-
-## Corriger ensemble
-
-Dites ce qu’il faut **garder, modifier, déplacer, ajouter ou supprimer**.
-
-## Confirmer
-
-Confirmez que le texte représente fidèlement points communs et désaccords.
-
-## Presenter notes
-
-La boucle 2 suit immédiatement le vote dans le même sujet de 30 minutes. Les votes aident à repérer les priorités, mais ne décident pas à eux seuls du consensus.
-
-Dans le tour humain, la modération prépare le projet sur le tableau à trois colonnes : **Recommandations · Conditions & lignes rouges · Désaccords**. Dans le tour Murmi, le système produit le premier projet et la personne chargée de Murmi le modifie en direct.
-
-Passez en revue une colonne à la fois. Demandez ce qu’il faut garder, modifier, déplacer, ajouter ou supprimer, puis montrez la synthèse complète révisée avant sa confirmation.
-
-Le consensus ne signifie pas que chacun préfère chaque phrase. La synthèse doit être assez fidèle pour être acceptée par le groupe, tout en gardant les désaccords importants visibles.
-
-### Sources
-
-Swiss AI Futures Moderator Guide, sections 3 à 5.
-
-## Timing
-
-2 minutes.
-
----
-
-# Slide 8. Les deux boucles en un coup d’œil
+# Slide 7. Les deux boucles en un coup d’œil
 
 ## On-screen copy
 
@@ -305,11 +269,11 @@ Swiss AI Futures Moderator Guide, sections 3 à 7.
 
 ## Timing
 
-1 minute.
+3 minutes.
 
 ---
 
-# Slide 9. Enseignements en ligne : travail
+# Slide 8. Enseignements en ligne : travail
 
 ## On-screen copy
 
@@ -345,7 +309,7 @@ Online Insights, « Fair distribution of AI economical benefits » et « Shared 
 
 ---
 
-# Slide 10. Tour 1 · L’IA au travail
+# Slide 9. Tour 1 · L’IA au travail
 
 ## On-screen copy
 
@@ -380,7 +344,7 @@ Swiss AI Futures Moderator Guide, sections 3 à 6 et 10. Online Insights, résul
 
 ---
 
-# Slide 11. Synthèse et questionnaire
+# Slide 10. Synthèse et questionnaire
 
 ## On-screen copy
 
@@ -412,7 +376,7 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ---
 
-# Slide 12. Enseignements en ligne : éducation
+# Slide 11. Enseignements en ligne : éducation
 
 ## On-screen copy
 
@@ -448,49 +412,7 @@ Online Insights, « Gradual AI Education: Critical Thinking Before Tool Use » e
 
 ---
 
-# Slide 13. Comment Murmi soutient ce tour
-
-## On-screen copy
-
-# Découvrir Murmi
-
-**Murmi est un projet expérimental de délibération assistée par l’IA. Il est né du projet TA-SWISS et est développé avec Carbon Copy, inspiré par l’expérience de vTaiwan.**
-
-## Vérifier les propositions
-
-Murmi transforme la discussion en propositions. Dites-nous si l’une est incorrecte ou manque.
-
-## Voter avant la synthèse
-
-Indiquez votre soutien à chaque proposition vérifiée sur l’échelle à 5 points.
-
-## Corriger le projet
-
-Dites ce qu’il faut **garder, modifier, déplacer, ajouter ou supprimer**. La modération corrige en direct.
-
-## Presenter notes
-
-Présentez brièvement Murmi comme un projet expérimental qui utilise l’IA pour soutenir la délibération. Expliquez qu’il est né du projet TA-SWISS et qu’il est développé avec Carbon Copy en s’appuyant sur l’expérience de délibération de vTaiwan. L’outil soutient le processus ; les participants et la modération restent responsables de vérifier la trace, de rendre les désaccords visibles et de confirmer la formulation finale.
-
-Montrez le lien sur l’image. Tout le monde peut visiter **murmi.org** et lancer directement une session gratuitement, sans inscription ni configuration.
-
-Montrez cette diapositive uniquement juste avant d’utiliser Murmi. Aidez chacun à rejoindre la session avec ses initiales seulement et vérifiez que l’enregistrement a commencé.
-
-Expliquez clairement la séquence : d’abord la discussion ; ensuite la vérification des propositions et l’ajout des éléments manquants ; puis un vote dédié sur l’échelle à 5 points ; enfin le projet Murmi en trois colonnes. Le vote précède la génération du terrain commun.
-
-Lors de la vérification du projet, montrez une colonne à la fois. Demandez ce qu’il faut garder, modifier, déplacer, ajouter ou supprimer. La personne chargée de Murmi effectue les modifications en direct, puis affiche la synthèse complète révisée pour confirmation.
-
-### Sources
-
-Site de Murmi, murmi.org. Swiss AI Futures Moderator Guide, sections 5, 7 et 8.
-
-## Timing
-
-2 minutes incluses dans le sujet de 30 minutes.
-
----
-
-# Slide 14. Tour 2 · L’IA dans l’éducation
+# Slide 12. Tour 2 · L’IA dans l’éducation
 
 ## On-screen copy
 
@@ -505,9 +427,11 @@ Site de Murmi, murmi.org. Swiss AI Futures Moderator Guide, sections 5, 7 et 8.
 
 Commencez par la question principale. Les deux points d’entrée sont des pistes facultatives ; n’en utilisez qu’un si le groupe a besoin d’aide pour démarrer. Ce n’est pas une liste à compléter.
 
+Avant la discussion, aidez chacun à rejoindre Murmi avec ses initiales seulement et vérifiez que l’enregistrement a commencé. Rappelez brièvement que les propositions seront vérifiées avant le vote et que le projet final sera corrigé collectivement.
+
 Faites passer le groupe des opinions générales aux propositions concrètes. Encouragez une idée claire à la fois pour que Murmi puisse former des propositions utilisables. Avant le vote, vérifiez les propositions avec les participants et ajoutez tout élément important manquant.
 
-Le second tour suit les mêmes boucles. Murmi soutient le partage entre groupes, les réactions, le vote et le projet de synthèse. L’introduction à Murmi qui précède fait partie de ce sujet de 30 minutes.
+Le second tour suit les mêmes boucles. Murmi soutient le partage entre groupes, les réactions, le vote et le projet de synthèse. Murmi a été présenté pendant l’introduction ; ce tour met le processus en pratique.
 
 Assurez-vous que les participants examinent des contributions extérieures à leur propre groupe. Un vote indique un soutien ; ce n’est pas une preuve automatique de consensus.
 
@@ -519,11 +443,11 @@ Swiss AI Futures Moderator Guide, sections 3 à 5, 7 et 10. Online Insights, ré
 
 ## Timing
 
-25 minutes après les 3 minutes consacrées aux enseignements en ligne et les 2 minutes d’introduction à Murmi.
+27 minutes après les 3 minutes consacrées aux enseignements en ligne.
 
 ---
 
-# Slide 15. Projet de l’IA et questionnaire
+# Slide 13. Projet de l’IA et questionnaire
 
 ## On-screen copy
 
@@ -555,7 +479,7 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ---
 
-# Slide 16. IA & Suisse
+# Slide 14. IA & Suisse
 
 ## On-screen copy
 
@@ -586,7 +510,7 @@ Swiss AI Futures Moderator Guide, sections 3 à 5 et 9. Online Insights, risques
 
 ---
 
-# Slide 17. Examiner le rapport généré
+# Slide 15. Examiner le rapport généré
 
 ## On-screen copy
 
@@ -622,7 +546,7 @@ Swiss AI Futures Moderator Guide, section 9.
 
 ---
 
-# Slide 18. Questionnaire final, indemnisation et conclusion
+# Slide 16. Questionnaire final, indemnisation et conclusion
 
 ## On-screen copy
 
@@ -664,10 +588,10 @@ Swiss AI Futures Moderator Guide, sections 10 à 11.
 
 | Diapositives | Activité | Durée |
 | --- | --- | ---: |
-| 1–8 | Accueil, objectif, règles, documents, programme, boucles et récapitulatif visuel | 20 min |
-| 9–11 | Tour 1 : IA au travail + questionnaire et pause | 40 min |
-| 12–15 | Tour 2 : IA dans l’éducation + introduction à Murmi + questionnaire et pause | 40 min |
-| 16 | IA & Suisse | 10 min |
-| 17 | Examiner le rapport généré et ses messages clés | 5 min |
-| 18 | Questionnaire final, formulaire d’indemnisation et conclusion | 5 min |
+| 1–7 | Accueil, objectif, présentation de Murmi, règles, documents, programme et vue d’ensemble des deux boucles | 20 min |
+| 8–10 | Tour 1 : IA au travail + questionnaire et pause | 40 min |
+| 11–13 | Tour 2 : IA dans l’éducation + questionnaire et pause | 40 min |
+| 14 | IA & Suisse | 10 min |
+| 15 | Examiner le rapport généré et ses messages clés | 5 min |
+| 16 | Questionnaire final, formulaire d’indemnisation et conclusion | 5 min |
 | | **Total** | **120 min** |

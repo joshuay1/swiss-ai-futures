@@ -5,7 +5,7 @@ subtitle: "Citizen Perspectives on AI at Work, AI in Education, and AI for Swiss
 date: "[Workshop date]"
 location: "[Zurich / Lausanne]"
 format: "16:9 presentation with speaker notes"
-version: "18-slide moderator-protocol deck"
+version: "16-slide moderator-protocol deck"
 -------------------------------------------
 
 # Slide 1. Swiss AI Futures
@@ -69,7 +69,49 @@ Project participant brief and public project page.
 
 ---
 
-# Slide 3. Deliberation etiquette
+# Slide 3. Meet Murmi
+
+## On-screen copy
+
+# Meet Murmi
+
+**Murmi is an experimental project testing AI support for deliberation. It grew from the TA-SWISS project and is developed with Carbon Copy, drawing on vTaiwan’s experience.**
+
+## Check the statements
+
+Murmi turns the discussion into statements. Tell us if one is wrong or missing.
+
+## Vote before the summary
+
+Show your support for each reviewed statement on the 5-point scale.
+
+## Correct the draft
+
+Say what to **keep, change, move, add, or remove**. The moderator edits live.
+
+## Presenter notes
+
+Introduce Murmi briefly as an experimental project for using AI to support deliberation. Explain that it grew from the TA-SWISS project and is being developed with Carbon Copy while drawing on vTaiwan’s deliberation experience. It supports the process; participants and moderators remain responsible for checking the record, making disagreement visible, and confirming the final wording.
+
+Point out the link on the image. Anyone can visit **murmi.org** and start a session directly for free, with no sign-up or setup required.
+
+Show this slide in the opening section so participants understand what Murmi is before you explain the two-loop process. This is an orientation only; participants join the live session immediately before Round 2.
+
+Explain the sequence clearly: discussion first; statement review and additions; a dedicated 5-point vote; then the Murmi three-column draft. Voting happens before common ground is generated.
+
+During draft review, show one column at a time. Invite participants to say what should be kept, changed, moved, added, or removed. The Murmi moderator makes edits live, then shows the complete revised summary for room confirmation.
+
+### Sources
+
+Murmi website, murmi.org. Swiss AI Futures Moderator Guide, sections 5, 7, and 8.
+
+## Timing
+
+2 minutes.
+
+---
+
+# Slide 4. Deliberation etiquette
 
 ## On-screen copy
 
@@ -104,7 +146,7 @@ The moderator may step in to protect equal participation and keep the discussion
 
 ---
 
-# Slide 4. Documents on the table
+# Slide 5. Documents on the table
 
 ## On-screen copy
 
@@ -138,7 +180,7 @@ Explain that the compensation form is completed at the end and only by participa
 
 ---
 
-# Slide 5. Today’s schedule
+# Slide 6. Today’s schedule
 
 ## On-screen copy
 
@@ -198,85 +240,7 @@ Swiss AI Futures Moderator Guide, sections 1–2.
 
 ---
 
-# Slide 6. Loop 1 · Build and test ideas
-
-## On-screen copy
-
-# Loop 1 · Build and test ideas
-
-**Both loops happen inside the same 30-minute topic.**
-
-## Discuss
-
-Talk in small groups. Explain what you think and why.
-
-## Human round
-
-One idea per sticky note. Post it; the moderator clusters and labels similar ideas.
-
-## Murmi round
-
-Check the statements Murmi captures. Add anything missing, then vote on the statements.
-
-## Presenter notes
-
-Loop 1 is the first step inside each 30-minute topic. It surfaces recommendations, conditions, concerns, and different perspectives.
-
-In the human round, participants or table representatives place notes on the three-column whiteboard. While groups share, the moderator continuously clusters similar notes, writes a short label for each cluster, and checks that label with participants. Give each person up to three dot votes, with no more than one dot per labelled cluster. The moderator records the total beside each cluster.
-
-In the Murmi round, participants vote on reviewed statements using the 5-point scale. Voting always happens after sharing and clarification and before Loop 2. A vote shows support; it does not automatically create consensus.
-
-### Sources
-
-Swiss AI Futures Moderator Guide, sections 3–5.
-
-## Timing
-
-2 minutes.
-
----
-
-# Slide 7. Loop 2 · Build the shared summary
-
-## On-screen copy
-
-# Loop 2 · Build the shared summary
-
-**Votes guide priorities; they do not decide consensus.**
-
-## Draft
-
-The moderator turns the clusters, votes, and reactions into three columns.
-
-## Correct it together
-
-Say what to **keep, change, move, add, or remove**.
-
-## Confirm
-
-Confirm that the wording fairly shows common ground and disagreement.
-
-## Presenter notes
-
-Loop 2 follows immediately after voting in the same 30-minute topic. The vote helps identify priorities, but it does not decide what counts as consensus.
-
-For the human round, the moderator drafts the summary on the three-column whiteboard: **Recommendations · Conditions & Red Lines · Disagreements**. For the Murmi round, the system produces the first draft and the Murmi moderator edits it live.
-
-Review one column at a time. Ask what to keep, change, move, add, or remove, then show the complete revised summary before confirmation.
-
-Consensus does not mean everyone prefers every sentence. It means the summary is accurate enough for the group to accept, with important disagreement still visible.
-
-### Sources
-
-Swiss AI Futures Moderator Guide, sections 3–5.
-
-## Timing
-
-2 minutes.
-
----
-
-# Slide 8. The two loops at a glance
+# Slide 7. The two loops at a glance
 
 ## On-screen copy
 
@@ -305,11 +269,11 @@ Swiss AI Futures Moderator Guide, sections 3–7.
 
 ## Timing
 
-1 minute.
+3 minutes.
 
 ---
 
-# Slide 9. Online insights: education
+# Slide 8. Online insights: education
 
 ## On-screen copy
 
@@ -347,7 +311,7 @@ Online Insights, “Gradual AI Education: Critical Thinking Before Tool Use” a
 
 ---
 
-# Slide 10. Round 1 · AI in Education
+# Slide 9. Round 1 · AI in Education
 
 ## On-screen copy
 
@@ -382,7 +346,7 @@ Swiss AI Futures Moderator Guide, sections 3–6 and 10. Online Insights, educat
 
 ---
 
-# Slide 11. Round 1 summary and survey
+# Slide 10. Round 1 summary and survey
 
 ## On-screen copy
 
@@ -414,7 +378,7 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ---
 
-# Slide 12. Online insights: work
+# Slide 11. Online insights: work
 
 ## On-screen copy
 
@@ -450,49 +414,7 @@ Online Insights, “Fair distribution of AI economical benefits” and “Shared
 
 ---
 
-# Slide 13. How Murmi supports this round
-
-## On-screen copy
-
-# Meet Murmi
-
-**Murmi is an experimental project testing AI support for deliberation. It grew from the TA-SWISS project and is developed with Carbon Copy, drawing on vTaiwan’s experience.**
-
-## Check the statements
-
-Murmi turns the discussion into statements. Tell us if one is wrong or missing.
-
-## Vote before the summary
-
-Show your support for each reviewed statement on the 5-point scale.
-
-## Correct the draft
-
-Say what to **keep, change, move, add, or remove**. The moderator edits live.
-
-## Presenter notes
-
-Introduce Murmi briefly as an experimental project for using AI to support deliberation. Explain that it grew from the TA-SWISS project and is being developed with Carbon Copy while drawing on vTaiwan’s deliberation experience. It supports the process; participants and moderators remain responsible for checking the record, making disagreement visible, and confirming the final wording.
-
-Point out the link on the image. Anyone can visit **murmi.org** and start a session directly for free, with no sign-up or setup required.
-
-Show this slide only when Murmi is about to be used. Help everyone join with initials only and confirm that recording has started.
-
-Explain the sequence clearly: discussion first; statement review and additions; a dedicated 5-point vote; then the Murmi three-column draft. Voting happens before common ground is generated.
-
-During draft review, show one column at a time. Invite participants to say what should be kept, changed, moved, added, or removed. The Murmi moderator makes edits live, then shows the complete revised summary for room confirmation.
-
-### Sources
-
-Murmi website, murmi.org. Swiss AI Futures Moderator Guide, sections 5, 7, and 8.
-
-## Timing
-
-2 minutes, included in the 30-minute topic.
-
----
-
-# Slide 14. Round 2 · AI at Work
+# Slide 12. Round 2 · AI at Work
 
 ## On-screen copy
 
@@ -507,9 +429,11 @@ Murmi website, murmi.org. Swiss AI Futures Moderator Guide, sections 5, 7, and 8
 
 Start with the main question. The two entry points are optional prompts; use one only if the discussion needs help getting started. Do not present them as a checklist.
 
+Before discussion begins, help everyone join Murmi with initials only and confirm that recording has started. Briefly remind the room that they will review statements before voting and correct the final draft.
+
 Ask groups to move from general opinions to concrete proposals. Encourage one clear idea at a time so Murmi can form usable statements. Before voting, review the statements with participants and add anything important that is missing.
 
-Round 2 follows the same two loops as Round 1, with Murmi supporting cross-group sharing, reactions, voting, and the draft synthesis. The preceding Murmi orientation is part of this 30-minute topic.
+Round 2 follows the same two loops as Round 1, with Murmi supporting cross-group sharing, reactions, voting, and the draft synthesis. Murmi was introduced during the opening; this round puts that process into practice.
 
 Make sure participants inspect contributions from outside their own group. A vote indicates support; it is not automatic evidence of consensus.
 
@@ -521,11 +445,11 @@ Swiss AI Futures Moderator Guide, sections 3–5, 7, and 10. Online Insights, wo
 
 ## Timing
 
-25 minutes, following the 3-minute online-insights introduction and 2-minute Murmi orientation.
+27 minutes, following the 3-minute online-insights introduction.
 
 ---
 
-# Slide 15. Round 2 summary and survey
+# Slide 13. Round 2 summary and survey
 
 ## On-screen copy
 
@@ -557,7 +481,7 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ---
 
-# Slide 16. AI & Switzerland
+# Slide 14. AI & Switzerland
 
 ## On-screen copy
 
@@ -588,7 +512,7 @@ Swiss AI Futures Moderator Guide, sections 3–5 and 9. Online Insights, democra
 
 ---
 
-# Slide 17. Review the generated report
+# Slide 15. Review the generated report
 
 ## On-screen copy
 
@@ -624,7 +548,7 @@ Swiss AI Futures Moderator Guide, section 9.
 
 ---
 
-# Slide 18. Final questionnaire, compensation, and close
+# Slide 16. Final questionnaire, compensation, and close
 
 ## On-screen copy
 
@@ -666,10 +590,10 @@ Swiss AI Futures Moderator Guide, sections 10–11.
 
 | Slides | Activity | Duration |
 | --- | --- | ---: |
-| 1–8 | Welcome, purpose, etiquette, documents, schedule, loops, and visual recap | 20 min |
-| 9–11 | Round 1: AI in Education + survey and break | 40 min |
-| 12–15 | Round 2: AI at Work + Murmi orientation + survey and break | 40 min |
-| 16 | AI & Switzerland | 10 min |
-| 17 | Review the generated report and takeaways | 5 min |
-| 18 | Final questionnaire, compensation form, and close | 5 min |
+| 1–7 | Welcome, purpose, Murmi introduction, etiquette, documents, schedule, and two-loop overview | 20 min |
+| 8–10 | Round 1: AI in Education + survey and break | 40 min |
+| 11–13 | Round 2: AI at Work + survey and break | 40 min |
+| 14 | AI & Switzerland | 10 min |
+| 15 | Review the generated report and takeaways | 5 min |
+| 16 | Final questionnaire, compensation form, and close | 5 min |
 | | **Total** | **120 min** |
