@@ -2199,6 +2199,11 @@ html[data-phase="work"] .deck-brand img {
   counter-reset: impact-step;
 }
 
+.layout-closing[data-slide="2"] .slide-sections {
+  gap: clamp(42px, 5vh, 60px);
+  margin-top: clamp(28px, 3.5vh, 44px);
+}
+
 .layout-closing .slide-section {
   position: relative;
   padding-left: 24px;
@@ -2233,7 +2238,7 @@ html[data-phase="work"] .deck-brand img {
   line-height: 1;
 }
 
-.layout-closing .slide-section:nth-child(-n + 2)::after {
+.layout-closing .slide-section:not(:last-child):nth-child(-n + 2)::after {
   content: "↓";
   position: absolute;
   left: 15px;
@@ -2241,6 +2246,10 @@ html[data-phase="work"] .deck-brand img {
   color: var(--accent);
   font-size: 28px;
   line-height: 1;
+}
+
+.layout-closing[data-slide="2"] .slide-section:not(:last-child)::after {
+  bottom: calc(-1 * clamp(28px, 3.2vh, 38px));
 }
 
 .layout-closing .slide-section:nth-child(4) {
