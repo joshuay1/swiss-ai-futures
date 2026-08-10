@@ -160,13 +160,13 @@ Human-facilitated discussion · 30 min; survey + break · 10 min.
 
 **Round 2 · AI at Work**
 
-MURMI-supported discussion · 30 min; survey + break · 10 min.
+Murmi-supported discussion · 30 min; survey + break · 10 min.
 
 ## 19:10–19:20
 
 **AI & Switzerland**
 
-MURMI-supported discussion · 10 min.
+Murmi-supported discussion · 10 min.
 
 ## 19:20–19:25
 
@@ -184,7 +184,7 @@ Eligible compensation form and hand-in · 5 min.
 
 The workshop finishes at 19:30.
 
-The English-speaking room discusses AI in Education with human moderation first, then AI at Work with MURMI support. Round 1 is always human-moderated. Round 2 is always AI-supported. The final AI & Switzerland discussion is AI-supported in both rooms.
+The English-speaking room discusses AI in Education with human moderation first, then AI at Work with Murmi support. Round 1 is always human-moderated. Round 2 is always AI-supported. The final AI & Switzerland discussion is AI-supported in both rooms.
 
 Do not invite comparison of the formats until participants have completed the survey after each round.
 
@@ -214,9 +214,9 @@ Talk in small groups. Explain what you think and why.
 
 One idea per sticky note. Post it; the moderator clusters and labels similar ideas.
 
-## MURMI round
+## Murmi round
 
-Check the statements MURMI captures. Add anything missing, then vote on the statements.
+Check the statements Murmi captures. Add anything missing, then vote on the statements.
 
 ## Presenter notes
 
@@ -224,7 +224,7 @@ Loop 1 is the first step inside each 30-minute topic. It surfaces recommendation
 
 In the human round, participants or table representatives place notes on the three-column whiteboard. While groups share, the moderator continuously clusters similar notes, writes a short label for each cluster, and checks that label with participants. Give each person up to three dot votes, with no more than one dot per labelled cluster. The moderator records the total beside each cluster.
 
-In the MURMI round, participants vote on reviewed statements using the 5-point scale. Voting always happens after sharing and clarification and before Loop 2. A vote shows support; it does not automatically create consensus.
+In the Murmi round, participants vote on reviewed statements using the 5-point scale. Voting always happens after sharing and clarification and before Loop 2. A vote shows support; it does not automatically create consensus.
 
 ### Sources
 
@@ -260,7 +260,7 @@ Confirm that the wording fairly shows common ground and disagreement.
 
 Loop 2 follows immediately after voting in the same 30-minute topic. The vote helps identify priorities, but it does not decide what counts as consensus.
 
-For the human round, the moderator drafts the summary on the three-column whiteboard: **Recommendations · Conditions & Red Lines · Disagreements**. For the MURMI round, the system produces the first draft and the MURMI moderator edits it live.
+For the human round, the moderator drafts the summary on the three-column whiteboard: **Recommendations · Conditions & Red Lines · Disagreements**. For the Murmi round, the system produces the first draft and the Murmi moderator edits it live.
 
 Review one column at a time. Ask what to keep, change, move, add, or remove, then show the complete revised summary before confirmation.
 
@@ -297,7 +297,7 @@ Use this visual to recap the two loops before the first topic begins. Both loops
 
 Loop 1 moves from discussion to ideas that the whole room has heard and voted on. Loop 2 turns those ideas into a three-column summary that participants correct and confirm.
 
-Human moderation uses labelled sticky-note clusters and dot votes. MURMI uses reviewed statements and a 5-point vote. In both formats, voting guides priorities; participants still decide whether the final wording fairly represents the room.
+Human moderation uses labelled sticky-note clusters and dot votes. Murmi uses reviewed statements and a 5-point vote. In both formats, voting guides priorities; participants still decide whether the final wording fairly represents the room.
 
 ### Sources
 
@@ -450,17 +450,17 @@ Online Insights, “Fair distribution of AI economical benefits” and “Shared
 
 ---
 
-# Slide 13. How MURMI supports this round
+# Slide 13. How Murmi supports this round
 
 ## On-screen copy
 
-# Meet MURMI
+# Meet Murmi
 
-**MURMI is an experimental project testing AI support for deliberation. It grew from the TA-SWISS project and is developed with Carbon Copy, drawing on vTaiwan’s experience.**
+**Murmi is an experimental project testing AI support for deliberation. It grew from the TA-SWISS project and is developed with Carbon Copy, drawing on vTaiwan’s experience.**
 
 ## Check the statements
 
-MURMI turns the discussion into statements. Tell us if one is wrong or missing.
+Murmi turns the discussion into statements. Tell us if one is wrong or missing.
 
 ## Vote before the summary
 
@@ -472,19 +472,19 @@ Say what to **keep, change, move, add, or remove**. The moderator edits live.
 
 ## Presenter notes
 
-Introduce MURMI briefly as an experimental project for using AI to support deliberation. Explain that it grew from the TA-SWISS project and is being developed with Carbon Copy while drawing on vTaiwan’s deliberation experience. It supports the process; participants and moderators remain responsible for checking the record, making disagreement visible, and confirming the final wording.
+Introduce Murmi briefly as an experimental project for using AI to support deliberation. Explain that it grew from the TA-SWISS project and is being developed with Carbon Copy while drawing on vTaiwan’s deliberation experience. It supports the process; participants and moderators remain responsible for checking the record, making disagreement visible, and confirming the final wording.
 
 Point out the link on the image. Anyone can visit **murmi.org** and start a session directly for free, with no sign-up or setup required.
 
-Show this slide only when MURMI is about to be used. Help everyone join with initials only and confirm that recording has started.
+Show this slide only when Murmi is about to be used. Help everyone join with initials only and confirm that recording has started.
 
-Explain the sequence clearly: discussion first; statement review and additions; a dedicated 5-point vote; then the MURMI three-column draft. Voting happens before common ground is generated.
+Explain the sequence clearly: discussion first; statement review and additions; a dedicated 5-point vote; then the Murmi three-column draft. Voting happens before common ground is generated.
 
-During draft review, show one column at a time. Invite participants to say what should be kept, changed, moved, added, or removed. The MURMI moderator makes edits live, then shows the complete revised summary for room confirmation.
+During draft review, show one column at a time. Invite participants to say what should be kept, changed, moved, added, or removed. The Murmi moderator makes edits live, then shows the complete revised summary for room confirmation.
 
 ### Sources
 
-MURMI website, murmi.org. Swiss AI Futures Moderator Guide, sections 5, 7, and 8.
+Murmi website, murmi.org. Swiss AI Futures Moderator Guide, sections 5, 7, and 8.
 
 ## Timing
 
@@ -507,13 +507,13 @@ MURMI website, murmi.org. Swiss AI Futures Moderator Guide, sections 5, 7, and 8
 
 Start with the main question. The two entry points are optional prompts; use one only if the discussion needs help getting started. Do not present them as a checklist.
 
-Ask groups to move from general opinions to concrete proposals. Encourage one clear idea at a time so MURMI can form usable statements. Before voting, review the statements with participants and add anything important that is missing.
+Ask groups to move from general opinions to concrete proposals. Encourage one clear idea at a time so Murmi can form usable statements. Before voting, review the statements with participants and add anything important that is missing.
 
-Round 2 follows the same two loops as Round 1, with MURMI supporting cross-group sharing, reactions, voting, and the draft synthesis. The preceding MURMI orientation is part of this 30-minute topic.
+Round 2 follows the same two loops as Round 1, with Murmi supporting cross-group sharing, reactions, voting, and the draft synthesis. The preceding Murmi orientation is part of this 30-minute topic.
 
 Make sure participants inspect contributions from outside their own group. A vote indicates support; it is not automatic evidence of consensus.
 
-Present the MURMI-generated three-column synthesis as a draft. Check each column, revise it from participant feedback, and obtain final confirmation from the room.
+Present the Murmi-generated three-column synthesis as a draft. Check each column, revise it from participant feedback, and obtain final confirmation from the room.
 
 ### Sources
 
@@ -521,7 +521,7 @@ Swiss AI Futures Moderator Guide, sections 3–5, 7, and 10. Online Insights, wo
 
 ## Timing
 
-25 minutes, following the 3-minute online-insights introduction and 2-minute MURMI orientation.
+25 minutes, following the 3-minute online-insights introduction and 2-minute Murmi orientation.
 
 ---
 
@@ -541,7 +541,7 @@ Use a pen. When finished, close the booklet, place it face down, and take a shor
 
 ## Presenter notes
 
-Ask whether the summary fairly represents both shared views and remaining disagreement. Revise the MURMI draft until participants confirm the representation is fair.
+Ask whether the summary fairly represents both shared views and remaining disagreement. Revise the Murmi draft until participants confirm the representation is fair.
 
 Stop the discussion before opening the survey. Point to the exact section or page and say: “Please fill in this section now, on your own.” Make sure everyone has a pen. Answer questions about the instructions without suggesting an answer. Do not compare formats before survey completion.
 
@@ -570,11 +570,11 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ## Presenter notes
 
-This closing discussion is MURMI-supported in both rooms and is not part of the human-versus-AI comparison.
+This closing discussion is Murmi-supported in both rooms and is not part of the human-versus-AI comparison.
 
 Start with the main question. Use an entry point only if needed; do not treat the two prompts as a checklist.
 
-Use 1 minute to introduce the question, 2 minutes for table discussion, 2 minutes to share and correct MURMI statements, 1 minute for voting, and 2 minutes for the AI-supported three-column synthesis.
+Use 1 minute to introduce the question, 2 minutes for table discussion, 2 minutes to share and correct Murmi statements, 1 minute for voting, and 2 minutes for the AI-supported three-column synthesis.
 
 Use the final 2 minutes to challenge, correct, and confirm the synthesis. Move unresolved substantive disagreement into Column 3.
 
@@ -668,7 +668,7 @@ Swiss AI Futures Moderator Guide, sections 10–11.
 | --- | --- | ---: |
 | 1–8 | Welcome, purpose, etiquette, documents, schedule, loops, and visual recap | 20 min |
 | 9–11 | Round 1: AI in Education + survey and break | 40 min |
-| 12–15 | Round 2: AI at Work + MURMI orientation + survey and break | 40 min |
+| 12–15 | Round 2: AI at Work + Murmi orientation + survey and break | 40 min |
 | 16 | AI & Switzerland | 10 min |
 | 17 | Review the generated report and takeaways | 5 min |
 | 18 | Final questionnaire, compensation form, and close | 5 min |

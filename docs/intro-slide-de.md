@@ -160,13 +160,13 @@ Menschlich moderierte Diskussion · 30 Min; Fragebogen + Pause · 10 Min.
 
 **Runde 2 · KI in der Bildung**
 
-MURMI-unterstützte Diskussion · 30 Min; Fragebogen + Pause · 10 Min.
+Murmi-unterstützte Diskussion · 30 Min; Fragebogen + Pause · 10 Min.
 
 ## 19:10–19:20
 
 **KI & Schweiz**
 
-MURMI-unterstützte Diskussion · 10 Min.
+Murmi-unterstützte Diskussion · 10 Min.
 
 ## 19:20–19:25
 
@@ -184,7 +184,7 @@ Entschädigungsformular für Berechtigte und Abgabe · 5 Min.
 
 Der Workshop endet um 19:30 Uhr.
 
-Der deutschsprachige Raum diskutiert zuerst KI bei der Arbeit mit menschlicher Moderation und danach KI in der Bildung mit MURMI-Unterstützung. Runde 1 ist immer menschlich moderiert. Runde 2 ist immer KI-unterstützt. Die abschliessende Diskussion zu KI & Schweiz ist in beiden Räumen KI-unterstützt.
+Der deutschsprachige Raum diskutiert zuerst KI bei der Arbeit mit menschlicher Moderation und danach KI in der Bildung mit Murmi-Unterstützung. Runde 1 ist immer menschlich moderiert. Runde 2 ist immer KI-unterstützt. Die abschliessende Diskussion zu KI & Schweiz ist in beiden Räumen KI-unterstützt.
 
 Vergleichen Sie die Formate erst, nachdem die Teilnehmenden den Fragebogen nach jeder Runde ausgefüllt haben.
 
@@ -214,9 +214,9 @@ In Kleingruppen besprechen. Erklären Sie, was Sie denken und warum.
 
 Eine Idee pro Haftnotiz. Anbringen; die Moderation bündelt und beschriftet ähnliche Ideen.
 
-## MURMI-Runde
+## Murmi-Runde
 
-Von MURMI erfasste Aussagen prüfen. Fehlendes ergänzen, dann über die Aussagen abstimmen.
+Von Murmi erfasste Aussagen prüfen. Fehlendes ergänzen, dann über die Aussagen abstimmen.
 
 ## Presenter notes
 
@@ -224,7 +224,7 @@ Schleife 1 ist der erste Schritt innerhalb jedes 30-minütigen Themas. Sie macht
 
 In der menschlichen Runde bringen Teilnehmende oder Tischvertretungen die Notizen auf der dreispaltigen Tafel an. Während die Gruppen teilen, bündelt die Moderation ähnliche Notizen fortlaufend, beschriftet jedes Bündel kurz und prüft die Bezeichnung mit den Teilnehmenden. Jede Person erhält bis zu drei Klebepunkte und setzt höchstens einen Punkt pro beschriftetem Ideenbündel. Die Moderation notiert die Summe neben dem Bündel.
 
-In der MURMI-Runde stimmen die Teilnehmenden über geprüfte Aussagen auf der 5-Punkte-Skala ab. Die Abstimmung findet nach Teilen und Klären und vor Schleife 2 statt. Sie zeigt Unterstützung, schafft aber nicht automatisch Konsens.
+In der Murmi-Runde stimmen die Teilnehmenden über geprüfte Aussagen auf der 5-Punkte-Skala ab. Die Abstimmung findet nach Teilen und Klären und vor Schleife 2 statt. Sie zeigt Unterstützung, schafft aber nicht automatisch Konsens.
 
 ### Sources
 
@@ -260,7 +260,7 @@ Bestätigen, dass die Formulierung Gemeinsamkeiten und Dissens fair wiedergibt.
 
 Schleife 2 folgt direkt nach der Abstimmung im selben 30-minütigen Thema. Die Stimmen helfen, Prioritäten zu erkennen, entscheiden aber nicht, was als Konsens gilt.
 
-In der menschlichen Runde erstellt die Moderation den Entwurf auf der dreispaltigen Tafel: **Empfehlungen · Bedingungen & rote Linien · Dissens**. In der MURMI-Runde erzeugt das System den ersten Entwurf, den die MURMI-Moderation live bearbeitet.
+In der menschlichen Runde erstellt die Moderation den Entwurf auf der dreispaltigen Tafel: **Empfehlungen · Bedingungen & rote Linien · Dissens**. In der Murmi-Runde erzeugt das System den ersten Entwurf, den die Murmi-Moderation live bearbeitet.
 
 Prüfen Sie jede Spalte einzeln. Fragen Sie, was bleiben, geändert, verschoben, ergänzt oder entfernt werden soll, und zeigen Sie vor der Bestätigung die vollständige überarbeitete Zusammenfassung.
 
@@ -297,7 +297,7 @@ Nutzen Sie diese Grafik als Rückblick auf die zwei Schleifen, bevor das erste T
 
 Schleife 1 führt von der Diskussion zu Ideen, die der ganze Raum gehört und bewertet hat. Schleife 2 überführt diese Ideen in eine dreispaltige Zusammenfassung, die die Teilnehmenden korrigieren und bestätigen.
 
-In der menschlichen Moderation werden beschriftete Haftnotiz-Bündel und Klebepunkte verwendet. MURMI nutzt geprüfte Aussagen und eine 5-Punkte-Abstimmung. In beiden Formaten zeigen die Stimmen Prioritäten; die Teilnehmenden entscheiden weiterhin, ob die endgültige Formulierung den Raum fair wiedergibt.
+In der menschlichen Moderation werden beschriftete Haftnotiz-Bündel und Klebepunkte verwendet. Murmi nutzt geprüfte Aussagen und eine 5-Punkte-Abstimmung. In beiden Formaten zeigen die Stimmen Prioritäten; die Teilnehmenden entscheiden weiterhin, ob die endgültige Formulierung den Raum fair wiedergibt.
 
 ### Sources
 
@@ -448,17 +448,17 @@ Online Insights, „Gradual AI Education: Critical Thinking Before Tool Use“ u
 
 ---
 
-# Slide 13. So unterstützt MURMI diese Runde
+# Slide 13. So unterstützt Murmi diese Runde
 
 ## On-screen copy
 
-# MURMI kennenlernen
+# Murmi kennenlernen
 
-**MURMI ist ein experimentelles Projekt für KI-unterstützte Deliberation. Es entstand aus dem TA-SWISS-Projekt und wird mit Carbon Copy entwickelt, inspiriert von vTaiwans Erfahrung.**
+**Murmi ist ein experimentelles Projekt für KI-unterstützte Deliberation. Es entstand aus dem TA-SWISS-Projekt und wird mit Carbon Copy entwickelt, inspiriert von vTaiwans Erfahrung.**
 
 ## Aussagen prüfen
 
-MURMI macht aus der Diskussion Aussagen. Sagen Sie uns, wenn etwas falsch ist oder fehlt.
+Murmi macht aus der Diskussion Aussagen. Sagen Sie uns, wenn etwas falsch ist oder fehlt.
 
 ## Vor der Zusammenfassung abstimmen
 
@@ -470,19 +470,19 @@ Sagen Sie, was **bleiben, geändert, verschoben, ergänzt oder entfernt** werden
 
 ## Presenter notes
 
-Stellen Sie MURMI kurz als experimentelles Projekt vor, das KI zur Unterstützung von Deliberation einsetzt. Erklären Sie, dass es aus dem TA-SWISS-Projekt entstand und gemeinsam mit Carbon Copy entwickelt wird, unter Einbezug der Deliberationserfahrung von vTaiwan. Das Werkzeug unterstützt den Prozess; Teilnehmende und Moderation bleiben dafür verantwortlich, die Dokumentation zu prüfen, Dissens sichtbar zu machen und die endgültige Formulierung zu bestätigen.
+Stellen Sie Murmi kurz als experimentelles Projekt vor, das KI zur Unterstützung von Deliberation einsetzt. Erklären Sie, dass es aus dem TA-SWISS-Projekt entstand und gemeinsam mit Carbon Copy entwickelt wird, unter Einbezug der Deliberationserfahrung von vTaiwan. Das Werkzeug unterstützt den Prozess; Teilnehmende und Moderation bleiben dafür verantwortlich, die Dokumentation zu prüfen, Dissens sichtbar zu machen und die endgültige Formulierung zu bestätigen.
 
 Weisen Sie auf den Link im Bild hin. Alle können **murmi.org** besuchen und direkt kostenlos eine Sitzung starten, ohne Anmeldung oder Einrichtung.
 
-Zeigen Sie diese Folie erst unmittelbar vor dem MURMI-Einsatz. Helfen Sie allen, nur mit ihren Initialen beizutreten, und prüfen Sie, ob die Aufzeichnung läuft.
+Zeigen Sie diese Folie erst unmittelbar vor dem Murmi-Einsatz. Helfen Sie allen, nur mit ihren Initialen beizutreten, und prüfen Sie, ob die Aufzeichnung läuft.
 
-Erklären Sie die Reihenfolge klar: zuerst Diskussion; danach Aussagen prüfen und Fehlendes ergänzen; dann eine eigene 5-Punkte-Abstimmung; anschliessend der dreispaltige MURMI-Entwurf. Die Abstimmung findet vor der Erzeugung des gemeinsamen Ergebnisses statt.
+Erklären Sie die Reihenfolge klar: zuerst Diskussion; danach Aussagen prüfen und Fehlendes ergänzen; dann eine eigene 5-Punkte-Abstimmung; anschliessend der dreispaltige Murmi-Entwurf. Die Abstimmung findet vor der Erzeugung des gemeinsamen Ergebnisses statt.
 
-Zeigen Sie bei der Entwurfsprüfung jeweils eine Spalte. Fragen Sie, was bleiben, geändert, verschoben, ergänzt oder entfernt werden soll. Die MURMI-Moderation setzt die Änderungen live um und zeigt danach die vollständige überarbeitete Zusammenfassung zur Bestätigung.
+Zeigen Sie bei der Entwurfsprüfung jeweils eine Spalte. Fragen Sie, was bleiben, geändert, verschoben, ergänzt oder entfernt werden soll. Die Murmi-Moderation setzt die Änderungen live um und zeigt danach die vollständige überarbeitete Zusammenfassung zur Bestätigung.
 
 ### Sources
 
-MURMI-Website, murmi.org. Swiss AI Futures Moderator Guide, Abschnitte 5, 7 und 8.
+Murmi-Website, murmi.org. Swiss AI Futures Moderator Guide, Abschnitte 5, 7 und 8.
 
 ## Timing
 
@@ -505,13 +505,13 @@ MURMI-Website, murmi.org. Swiss AI Futures Moderator Guide, Abschnitte 5, 7 und 
 
 Beginnen Sie mit der Hauptfrage. Die zwei Einstiegspunkte sind optionale Impulse; nutzen Sie höchstens einen, falls die Diskussion Unterstützung braucht. Sie sind keine Checkliste.
 
-Führen Sie von allgemeinen Meinungen zu konkreten Vorschlägen. Ermutigen Sie jeweils eine klare Idee, damit MURMI verständliche Aussagen bilden kann. Prüfen Sie vor der Abstimmung die Aussagen mit den Teilnehmenden und ergänzen Sie wichtige fehlende Punkte.
+Führen Sie von allgemeinen Meinungen zu konkreten Vorschlägen. Ermutigen Sie jeweils eine klare Idee, damit Murmi verständliche Aussagen bilden kann. Prüfen Sie vor der Abstimmung die Aussagen mit den Teilnehmenden und ergänzen Sie wichtige fehlende Punkte.
 
-Runde 2 nutzt dieselben zwei Schleifen wie Runde 1. MURMI unterstützt das Teilen zwischen Gruppen, Reaktionen, Abstimmung und den Entwurf der Zusammenfassung. Die vorherige MURMI-Einführung gehört zu diesem 30-minütigen Thema.
+Runde 2 nutzt dieselben zwei Schleifen wie Runde 1. Murmi unterstützt das Teilen zwischen Gruppen, Reaktionen, Abstimmung und den Entwurf der Zusammenfassung. Die vorherige Murmi-Einführung gehört zu diesem 30-minütigen Thema.
 
 Stellen Sie sicher, dass die Teilnehmenden Beiträge ausserhalb ihrer eigenen Gruppe prüfen. Eine Abstimmung zeigt Unterstützung; sie ist kein automatischer Konsens.
 
-Präsentieren Sie die MURMI-generierte dreispaltige Zusammenfassung als Entwurf. Prüfen Sie jede Spalte, überarbeiten Sie sie aufgrund des Feedbacks und holen Sie die Bestätigung des Raums ein.
+Präsentieren Sie die Murmi-generierte dreispaltige Zusammenfassung als Entwurf. Prüfen Sie jede Spalte, überarbeiten Sie sie aufgrund des Feedbacks und holen Sie die Bestätigung des Raums ein.
 
 ### Sources
 
@@ -519,7 +519,7 @@ Swiss AI Futures Moderator Guide, Abschnitte 3–5, 7 und 10. Online Insights, E
 
 ## Timing
 
-25 Minuten nach der 3-minütigen Einführung in die Online-Erkenntnisse und der 2-minütigen MURMI-Einführung.
+25 Minuten nach der 3-minütigen Einführung in die Online-Erkenntnisse und der 2-minütigen Murmi-Einführung.
 
 ---
 
@@ -539,7 +539,7 @@ Mit Stift ausfüllen. Danach das Heft schliessen, verdeckt hinlegen und kurz Pau
 
 ## Presenter notes
 
-Fragen Sie, ob die Zusammenfassung gemeinsame Sichtweisen und verbleibenden Dissens fair darstellt. Überarbeiten Sie den MURMI-Entwurf, bis die Darstellung bestätigt wird.
+Fragen Sie, ob die Zusammenfassung gemeinsame Sichtweisen und verbleibenden Dissens fair darstellt. Überarbeiten Sie den Murmi-Entwurf, bis die Darstellung bestätigt wird.
 
 Stoppen Sie die Diskussion vor dem Fragebogen. Zeigen Sie den genauen Abschnitt oder die Seite und sagen Sie: „Bitte füllen Sie diesen Abschnitt jetzt selbstständig aus.“ Prüfen Sie, ob alle einen Stift haben. Beantworten Sie Fragen zur Anleitung, ohne eine Antwort nahezulegen. Vergleichen Sie die Formate erst nach dem Fragebogen.
 
@@ -568,11 +568,11 @@ Swiss AI Futures Moderator Guide, Abschnitt 10.
 
 ## Presenter notes
 
-Diese Abschlussdiskussion ist in beiden Räumen MURMI-unterstützt und gehört nicht zum Vergleich von menschlicher und KI-unterstützter Moderation.
+Diese Abschlussdiskussion ist in beiden Räumen Murmi-unterstützt und gehört nicht zum Vergleich von menschlicher und KI-unterstützter Moderation.
 
 Beginnen Sie mit der Hauptfrage. Nutzen Sie einen Einstiegspunkt nur bei Bedarf; behandeln Sie die zwei Impulse nicht als Checkliste.
 
-Nutzen Sie 1 Minute für die Frage, 2 Minuten für die Tischdiskussion, 2 Minuten zum Teilen und Korrigieren der MURMI-Aussagen, 1 Minute für die Abstimmung und 2 Minuten für die dreispaltige KI-unterstützte Zusammenfassung.
+Nutzen Sie 1 Minute für die Frage, 2 Minuten für die Tischdiskussion, 2 Minuten zum Teilen und Korrigieren der Murmi-Aussagen, 1 Minute für die Abstimmung und 2 Minuten für die dreispaltige KI-unterstützte Zusammenfassung.
 
 Nutzen Sie die letzten 2 Minuten, um die Zusammenfassung zu hinterfragen, zu korrigieren und zu bestätigen. Verschieben Sie unlösbaren substanziellen Dissens in Spalte 3.
 
@@ -666,7 +666,7 @@ Swiss AI Futures Moderator Guide, Abschnitte 10–11.
 | --- | --- | ---: |
 | 1–8 | Willkommen, Zweck, Gesprächsregeln, Dokumente, Ablauf, Schleifen und visueller Überblick | 20 Min |
 | 9–11 | Runde 1: KI bei der Arbeit + Fragebogen und Pause | 40 Min |
-| 12–15 | Runde 2: KI in der Bildung + MURMI-Einführung + Fragebogen und Pause | 40 Min |
+| 12–15 | Runde 2: KI in der Bildung + Murmi-Einführung + Fragebogen und Pause | 40 Min |
 | 16 | KI & Schweiz | 10 Min |
 | 17 | Automatisch erstellten Bericht und Kernaussagen prüfen | 5 Min |
 | 18 | Letzter Fragebogen, Entschädigungsformular und Abschluss | 5 Min |

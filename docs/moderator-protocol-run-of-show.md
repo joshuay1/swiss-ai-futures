@@ -77,7 +77,7 @@ Participants talk in small groups about:
 
 In the human-moderated round, groups write their main ideas on sticky notes for the first two columns. Use one idea per note.
 
-In the AI-supported round, MURMI captures short statements from the conversation. Participants may add a missing statement before voting.
+In the AI-supported round, Murmi captures short statements from the conversation. Participants may add a missing statement before voting.
 
 #### Share
 
@@ -85,11 +85,11 @@ A representative from each group briefly shares their main ideas.
 
 In the human-moderated round, participants or table representatives place the notes on the large board. The moderator clusters and labels similar notes live, while checking the grouping with participants.
 
-In the AI-supported round, the MURMI moderator checks that the captured statements are clear, distinct, and complete enough to vote on.
+In the AI-supported round, the Murmi moderator checks that the captured statements are clear, distinct, and complete enough to vote on.
 
 #### React
 
-Participants hear and react to the labelled idea clusters or MURMI statements from other groups.
+Participants hear and react to the labelled idea clusters or Murmi statements from other groups.
 
 Use this stage to clarify ideas, add missing conditions, and identify where views differ.
 
@@ -100,7 +100,7 @@ If useful, run one short additional **Discuss → Share** round. Do this only wh
 Participants indicate support for the reviewed ideas from across the room. Voting happens after sharing and clarification, and before Loop 2 begins.
 
 - **Human moderation:** Give each participant up to three dot votes. Participants place no more than one dot on each labelled idea cluster they support. They vote on the cluster labels, not on every raw sticky note. The moderator counts the dots and writes the total beside each cluster.
-- **AI-supported moderation:** Participants vote on the reviewed MURMI statements using the 5-point Likert scale. The MURMI moderator monitors completion and keeps the results visible for synthesis.
+- **AI-supported moderation:** Participants vote on the reviewed Murmi statements using the 5-point Likert scale. The Murmi moderator monitors completion and keeps the results visible for synthesis.
 
 Voting shows priority and strength of support. It is one input to the synthesis, not a decision rule and not automatic evidence of consensus. A highly supported idea may still need conditions, and a contested idea may belong in the disagreement column.
 
@@ -122,11 +122,11 @@ The moderator creates the summary on the three-column whiteboard based on the la
 
 #### AI-supported moderation
 
-MURMI generates the draft three-column summary from the reviewed statements and votes.
+Murmi generates the draft three-column summary from the reviewed statements and votes.
 
 In both cases, the summary is not final until participants have checked it.
 
-Show one column at a time and ask participants what to **keep, change, move, add, or remove**. For an AI-supported round, the MURMI moderator edits the draft live while the lead moderator gathers corrections. Re-display the revised version before confirmation.
+Show one column at a time and ask participants what to **keep, change, move, add, or remove**. For an AI-supported round, the Murmi moderator edits the draft live while the lead moderator gathers corrections. Re-display the revised version before confirmation.
 
 Check:
 
@@ -157,18 +157,18 @@ Protect the Converge loop. If time is running short, shorten the earlier discuss
 
 The 10-minute questionnaire and short break immediately follow the discussion and are included in the same round on the participant-facing agenda.
 
-For the AI-supported round, use minutes 3–5 for the just-in-time MURMI orientation, then compress the first discussion block. Preserve a dedicated vote before generating common ground:
+For the AI-supported round, use minutes 3–5 for the just-in-time Murmi orientation, then compress the first discussion block. Preserve a dedicated vote before generating common ground:
 
 | Approx. time | AI-supported variation |
 | --- | --- |
 | 0–3 min | Introduce the main question and three-column output |
-| 3–5 min | Explain MURMI: captured statements, 5-point vote, editable draft |
-| 5–11 min | Small-group discussion; MURMI captures statements |
+| 3–5 min | Explain Murmi: captured statements, 5-point vote, editable draft |
+| 5–11 min | Small-group discussion; Murmi captures statements |
 | 11–16 min | Share and review statements across groups |
 | 16–19 min | Clarify, correct, and add missing statements |
-| 19–22 min | Participants vote on reviewed MURMI statements |
+| 19–22 min | Participants vote on reviewed Murmi statements |
 | 22–25 min | Generate the three-column draft |
-| 25–29 min | Participants say what to keep, change, move, add, or remove; MURMI moderator edits live |
+| 25–29 min | Participants say what to keep, change, move, add, or remove; Murmi moderator edits live |
 | 29–30 min | Show the revised summary and confirm the representation |
 
 ### Keep the topic prompt light
@@ -191,11 +191,11 @@ The moderator should:
 
 For the board, the moderator is responsible for clustering, naming clusters, recording dot-vote totals, and turning the evidence into the first three-column draft. Participants are responsible for posting notes, challenging cluster labels, voting, and correcting the draft.
 
-## 7. AI-supported moderation with MURMI
+## 7. AI-supported moderation with Murmi
 
-The human moderator still facilitates the discussion. MURMI supports capture, cross-group sharing, voting, and synthesis.
+The human moderator still facilitates the discussion. Murmi supports capture, cross-group sharing, voting, and synthesis.
 
-MURMI is an experimental project exploring how AI can support—not replace—deliberation. It grew from this TA-SWISS project, is being developed with Carbon Copy, and draws on vTaiwan’s experience with deliberation.
+Murmi is an experimental project exploring how AI can support—not replace—deliberation. It grew from this TA-SWISS project, is being developed with Carbon Copy, and draws on vTaiwan’s experience with deliberation.
 
 ### Before creating the session
 
@@ -209,7 +209,7 @@ Check:
 
 ### Languages
 
-| Location | Room | MURMI language |
+| Location | Room | Murmi language |
 | --- | --- | --- |
 | Zurich | German room | German |
 | Zurich | English room | English |
@@ -233,7 +233,7 @@ Once everyone has joined:
 
 ### During the discussion
 
-MURMI generates statements from the conversation.
+Murmi generates statements from the conversation.
 
 If an important idea has not been captured, participants can add a statement manually.
 
@@ -241,11 +241,11 @@ Do this before voting so that important contributions are not excluded simply be
 
 ### During convergence
 
-Use MURMI to generate the common-ground summary.
+Use Murmi to generate the common-ground summary.
 
 Treat this as a draft.
 
-Display one column at a time. The lead moderator asks participants what to **keep, change, move, add, or remove**. The MURMI moderator makes those edits live. Then show the complete revised summary and ask the room to confirm that it fairly represents both shared views and remaining disagreement.
+Display one column at a time. The lead moderator asks participants what to **keep, change, move, add, or remove**. The Murmi moderator makes those edits live. Then show the complete revised summary and ask the room to confirm that it fairly represents both shared views and remaining disagreement.
 
 ## 8. Moderator roles
 
@@ -258,7 +258,7 @@ Display one column at a time. The lead moderator asks participants what to **kee
 - keeps time;
 - manages sharing and discussion.
 
-#### MURMI moderator
+#### Murmi moderator
 
 - manages the platform;
 - checks generated statements;
@@ -271,7 +271,7 @@ Display one column at a time. The lead moderator asks participants what to **kee
 
 One person can manage both roles.
 
-Focus primarily on participants during active discussion and check MURMI at natural transition points, especially:
+Focus primarily on participants during active discussion and check Murmi at natural transition points, especially:
 
 - before voting;
 - before generating the synthesis;
@@ -301,7 +301,7 @@ Run a shortened version of the same process:
 | --- | --- |
 | 0–1 min | Introduce the question and three-column output |
 | 1–3 min | Table discussion |
-| 3–5 min | Share, review, and correct MURMI statements |
+| 3–5 min | Share, review, and correct Murmi statements |
 | 5–6 min | Vote on the reviewed statements |
 | 6–8 min | Generate the three-column synthesis |
 | 8–10 min | Correct and confirm the synthesis |
@@ -385,7 +385,7 @@ Do not announce bank transfer as a general option. If a payment exception is nee
 
 - [ ] Groups have heard each other's ideas
 - [ ] Human round: clusters labelled and checked; three dots per participant ready
-- [ ] MURMI statements checked
+- [ ] Murmi statements checked
 - [ ] Missing statements can be added
 
 ### Before ending a topic

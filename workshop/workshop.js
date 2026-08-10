@@ -106,7 +106,7 @@
       documents: "Before we begin",
       schedule: "Today’s plan",
       topic: "Discussion topic",
-      murmi: "How MURMI works",
+      murmi: "How Murmi works",
       survey: "Survey & break",
       impact: "What happens next",
       report: "Today’s result"
@@ -118,7 +118,7 @@
       documents: "Vor dem Start",
       schedule: "Heutiger Ablauf",
       topic: "Diskussionsthema",
-      murmi: "So funktioniert MURMI",
+      murmi: "So funktioniert Murmi",
       survey: "Fragebogen & Pause",
       impact: "Wie es weitergeht",
       report: "Heutiges Ergebnis"
@@ -130,7 +130,7 @@
       documents: "Avant de commencer",
       schedule: "Programme du jour",
       topic: "Sujet de discussion",
-      murmi: "Fonctionnement de MURMI",
+      murmi: "Fonctionnement de Murmi",
       survey: "Questionnaire & pause",
       impact: "Et ensuite",
       report: "Résultat du jour"
@@ -294,7 +294,7 @@
       loopTwo: "Loop 2",
       loopTwoGoal: "Build the shared summary",
       repeat: "Review and refine as needed",
-      humanSkip: "Human: dot votes · MURMI: 5-point scale",
+      humanSkip: "Human: dot votes · Murmi: 5-point scale",
       final: "Room check",
       flow: "Two loops turn discussion into a checked room summary"
     },
@@ -304,7 +304,7 @@
       loopTwo: "Schleife 2",
       loopTwoGoal: "Gemeinsame Zusammenfassung",
       repeat: "Bei Bedarf prüfen und verfeinern",
-      humanSkip: "Menschlich: Klebepunkte · MURMI: 5-Punkte-Skala",
+      humanSkip: "Menschlich: Klebepunkte · Murmi: 5-Punkte-Skala",
       final: "Prüfung im Raum",
       flow: "Zwei Schleifen führen von der Diskussion zur geprüften Zusammenfassung"
     },
@@ -314,7 +314,7 @@
       loopTwo: "Boucle 2",
       loopTwoGoal: "Construire la synthèse",
       repeat: "Vérifier et affiner si nécessaire",
-      humanSkip: "Humain : gommettes · MURMI : échelle à 5 points",
+      humanSkip: "Humain : gommettes · Murmi : échelle à 5 points",
       final: "Vérification en salle",
       flow: "Deux boucles transforment la discussion en synthèse vérifiée"
     }
