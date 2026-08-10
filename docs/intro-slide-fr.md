@@ -5,7 +5,7 @@ subtitle: "Perspectives citoyennes sur l’IA au travail, dans l’éducation et
 date: "[Date de l’atelier]"
 location: "[Lausanne]"
 format: "Présentation 16:9 avec notes de facilitation"
-version: "Présentation en 17 diapositives selon le protocole"
+version: "Présentation en 18 diapositives selon le protocole"
 -------------------------------------------
 
 # Slide 1. Swiss AI Futures
@@ -33,7 +33,43 @@ Aujourd’hui, les participants discuteront de deux sujets, expérimenteront une
 
 ---
 
-# Slide 2. Documents sur la table
+# Slide 2. Contexte et objectifs de la recherche
+
+## On-screen copy
+
+# Deux objectifs aujourd’hui
+
+**Swiss AI Futures est un projet de recherche soutenu par TA-SWISS. Nous avons développé Murmi pour tester la délibération assistée par l’IA.**
+
+## Recueillir les contributions citoyennes
+
+Explorer comment les personnes en Suisse envisagent le rôle de l’IA dans le travail et l’éducation.
+
+## Tester l’approche
+
+Voir si l’IA peut aider à transformer une discussion de groupe en contribution publique utile. Un tour utilise Murmi ; l’autre est animé par une personne.
+
+## Presenter notes
+
+Présentez clairement les deux objectifs avant les documents et le programme.
+
+Premièrement, l’atelier recueille des contributions citoyennes réfléchies sur l’IA au travail et dans l’éducation. Elles alimenteront la recherche et le rapport TA-SWISS plus larges.
+
+Deuxièmement, l’étude teste l’approche de délibération assistée par l’IA de l’équipe de recherche et l’outil Murmi développé à cette fin. Chaque salle participe à un tour avec modération humaine et à un tour assisté par Murmi. La comparaison examine si l’IA peut soutenir la captation, le partage, le vote et la synthèse sans retirer le contrôle aux participants.
+
+Murmi ne remplace pas la modération et ne décide pas ce que pense le groupe. Dans les deux tours, les participants vérifient la trace, corrigent la formulation et confirment la synthèse finale.
+
+### Sources
+
+Document d’information des participants. Swiss AI Futures Moderator Guide, sections 1 à 4 et 7.
+
+## Timing
+
+3 minutes.
+
+---
+
+# Slide 3. Documents sur la table
 
 ## On-screen copy
 
@@ -63,11 +99,11 @@ Expliquez que le formulaire d’indemnisation est rempli à la fin, uniquement p
 
 ## Timing
 
-5 minutes.
+4 minutes.
 
 ---
 
-# Slide 3. Programme du jour
+# Slide 4. Programme du jour
 
 ## On-screen copy
 
@@ -77,7 +113,7 @@ Expliquez que le formulaire d’indemnisation est rempli à la fin, uniquement p
 
 **Accueil et processus**
 
-Documents, objectif, utilisation des données, Murmi et processus en deux boucles.
+Contexte, documents, utilisation des données, Murmi et processus en deux boucles.
 
 ## 17:50–18:30
 
@@ -127,7 +163,7 @@ Swiss AI Futures Moderator Guide, sections 1 à 2.
 
 ---
 
-# Slide 4. Ce qui se passe ensuite
+# Slide 5. Ce qui se passe ensuite
 
 ## On-screen copy
 
@@ -163,7 +199,7 @@ Document d’information des participants.
 
 ---
 
-# Slide 5. Comment la discussion est transcrite
+# Slide 6. Comment la discussion est transcrite
 
 ## On-screen copy
 
@@ -197,11 +233,11 @@ Information et consentement des personnes participantes, français, 7 août 2026
 
 ## Timing
 
-3 minutes.
+2 minutes.
 
 ---
 
-# Slide 6. Découvrir Murmi
+# Slide 7. Découvrir Murmi
 
 ## On-screen copy
 
@@ -243,7 +279,7 @@ Site de Murmi, murmi.org. Swiss AI Futures Moderator Guide, sections 5, 7 et 8.
 
 ---
 
-# Slide 7. Règles de délibération
+# Slide 8. Règles de délibération
 
 ## On-screen copy
 
@@ -278,7 +314,7 @@ La modération peut intervenir pour garantir une participation équitable et une
 
 ---
 
-# Slide 8. Les deux boucles en un coup d’œil
+# Slide 9. Les deux boucles en un coup d’œil
 
 ## On-screen copy
 
@@ -307,11 +343,11 @@ Swiss AI Futures Moderator Guide, sections 3 à 7.
 
 ## Timing
 
-3 minutes.
+2 minutes.
 
 ---
 
-# Slide 9. Enseignements en ligne : travail
+# Slide 10. Enseignements en ligne : travail
 
 ## On-screen copy
 
@@ -347,7 +383,7 @@ Online Insights, « Fair distribution of AI economical benefits » et « Shared 
 
 ---
 
-# Slide 10. Tour 1 · L’IA au travail
+# Slide 11. Tour 1 · L’IA au travail
 
 ## On-screen copy
 
@@ -382,7 +418,7 @@ Swiss AI Futures Moderator Guide, sections 3 à 6 et 10. Online Insights, résul
 
 ---
 
-# Slide 11. Synthèse et questionnaire
+# Slide 12. Synthèse et questionnaire
 
 ## On-screen copy
 
@@ -414,7 +450,7 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ---
 
-# Slide 12. Enseignements en ligne : éducation
+# Slide 13. Enseignements en ligne : éducation
 
 ## On-screen copy
 
@@ -450,7 +486,7 @@ Online Insights, « Gradual AI Education: Critical Thinking Before Tool Use » e
 
 ---
 
-# Slide 13. Tour 2 · L’IA dans l’éducation
+# Slide 14. Tour 2 · L’IA dans l’éducation
 
 ## On-screen copy
 
@@ -485,7 +521,7 @@ Swiss AI Futures Moderator Guide, sections 3 à 5, 7 et 10. Online Insights, ré
 
 ---
 
-# Slide 14. Projet de l’IA et questionnaire
+# Slide 15. Projet de l’IA et questionnaire
 
 ## On-screen copy
 
@@ -517,7 +553,7 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ---
 
-# Slide 15. IA & Suisse
+# Slide 16. IA & Suisse
 
 ## On-screen copy
 
@@ -548,7 +584,7 @@ Swiss AI Futures Moderator Guide, sections 3 à 5 et 9. Online Insights, risques
 
 ---
 
-# Slide 16. Examiner le rapport généré
+# Slide 17. Examiner le rapport généré
 
 ## On-screen copy
 
@@ -584,7 +620,7 @@ Swiss AI Futures Moderator Guide, section 9.
 
 ---
 
-# Slide 17. Questionnaire final, indemnisation et conclusion
+# Slide 18. Questionnaire final, indemnisation et conclusion
 
 ## On-screen copy
 
@@ -626,10 +662,10 @@ Swiss AI Futures Moderator Guide, sections 10 à 11.
 
 | Diapositives | Activité | Durée |
 | --- | --- | ---: |
-| 1–8 | Accueil, documents, programme, suite, utilisation des données, Murmi, règles et vue d’ensemble des deux boucles | 20 min |
-| 9–11 | Tour 1 : IA au travail + questionnaire et pause | 40 min |
-| 12–14 | Tour 2 : IA dans l’éducation + questionnaire et pause | 40 min |
-| 15 | IA & Suisse | 10 min |
-| 16 | Examiner le rapport généré et ses messages clés | 5 min |
-| 17 | Questionnaire final, formulaire d’indemnisation et conclusion | 5 min |
+| 1–9 | Accueil, contexte de recherche, documents, programme, suite, utilisation des données, Murmi, règles et vue d’ensemble des deux boucles | 20 min |
+| 10–12 | Tour 1 : IA au travail + questionnaire et pause | 40 min |
+| 13–15 | Tour 2 : IA dans l’éducation + questionnaire et pause | 40 min |
+| 16 | IA & Suisse | 10 min |
+| 17 | Examiner le rapport généré et ses messages clés | 5 min |
+| 18 | Questionnaire final, formulaire d’indemnisation et conclusion | 5 min |
 | | **Total** | **120 min** |

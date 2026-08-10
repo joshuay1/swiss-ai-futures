@@ -58,22 +58,23 @@
 
   const slideMeta = {
     1: { phase: "intro", mode: "context", layout: "hero", timer: 1 },
-    2: { phase: "intro", mode: "documents", layout: "logistics", timer: 5, fragments: "sections" },
-    3: { phase: "intro", mode: "schedule", layout: "schedule", timer: 2, fragments: "sections" },
-    4: { phase: "intro", mode: "impact", layout: "closing", timer: 2, fragments: "sections" },
-    5: { phase: "intro", mode: "privacy", layout: "closing", timer: 3, fragments: "sections" },
-    6: { phase: "intro", mode: "murmi", layout: "murmi-intro", timer: 2 },
-    7: { phase: "intro", mode: "process", layout: "closing", timer: 2, fragments: "sections" },
-    8: { phase: "intro", mode: "process", layout: "method", timer: 3 },
-    9: { phase: firstRoundPhase, mode: "evidence", layout: "focus", timer: 3, fragments: "sections" },
-    10: { phase: firstRoundPhase, mode: "topic", layout: "topic", timer: 27, fragments: "sections" },
-    11: { phase: firstRoundPhase, mode: "survey", layout: "survey", timer: 10 },
-    12: { phase: secondRoundPhase, mode: "evidence", layout: "focus", timer: 3, fragments: "sections" },
-    13: { phase: secondRoundPhase, mode: "topic", layout: "topic", timer: 27, fragments: "sections" },
-    14: { phase: secondRoundPhase, mode: "survey", layout: "survey", timer: 10 },
-    15: { phase: "future", mode: "topic", layout: "topic", timer: 10, fragments: "sections" },
-    16: { phase: "future", mode: "report", layout: "closing", timer: 5, fragments: "sections" },
-    17: { phase: "future", mode: "impact", layout: "closing", timer: 5, fragments: "sections" }
+    2: { phase: "intro", mode: "context", layout: "closing", timer: 3, fragments: "sections" },
+    3: { phase: "intro", mode: "documents", layout: "logistics", timer: 4, fragments: "sections" },
+    4: { phase: "intro", mode: "schedule", layout: "schedule", timer: 2, fragments: "sections" },
+    5: { phase: "intro", mode: "impact", layout: "closing", timer: 2, fragments: "sections" },
+    6: { phase: "intro", mode: "privacy", layout: "closing", timer: 2, fragments: "sections" },
+    7: { phase: "intro", mode: "murmi", layout: "murmi-intro", timer: 2 },
+    8: { phase: "intro", mode: "process", layout: "closing", timer: 2, fragments: "sections" },
+    9: { phase: "intro", mode: "process", layout: "method", timer: 2 },
+    10: { phase: firstRoundPhase, mode: "evidence", layout: "focus", timer: 3, fragments: "sections" },
+    11: { phase: firstRoundPhase, mode: "topic", layout: "topic", timer: 27, fragments: "sections" },
+    12: { phase: firstRoundPhase, mode: "survey", layout: "survey", timer: 10 },
+    13: { phase: secondRoundPhase, mode: "evidence", layout: "focus", timer: 3, fragments: "sections" },
+    14: { phase: secondRoundPhase, mode: "topic", layout: "topic", timer: 27, fragments: "sections" },
+    15: { phase: secondRoundPhase, mode: "survey", layout: "survey", timer: 10 },
+    16: { phase: "future", mode: "topic", layout: "topic", timer: 10, fragments: "sections" },
+    17: { phase: "future", mode: "report", layout: "closing", timer: 5, fragments: "sections" },
+    18: { phase: "future", mode: "impact", layout: "closing", timer: 5, fragments: "sections" }
   };
 
   const phaseLabelsByLanguage = {
@@ -1183,7 +1184,7 @@
       if (!response.ok) throw new Error(`Source request failed: ${response.status}`);
       const source = await response.text();
       state.slides = parseSlides(source);
-      if (state.slides.length !== 17) throw new Error(`Expected 17 slides, found ${state.slides.length}`);
+      if (state.slides.length !== 18) throw new Error(`Expected 18 slides, found ${state.slides.length}`);
 
       elements.track.innerHTML = state.slides.map(renderSlide).join("");
       renderOverview();

@@ -5,7 +5,7 @@ subtitle: "Perspektiven der Bevölkerung auf KI in Arbeit, Bildung und Schweizer
 date: "[Workshop-Datum]"
 location: "[Zürich]"
 format: "16:9-Präsentation mit Moderationsnotizen"
-version: "17-Folien-Deck gemäss Moderationsprotokoll"
+version: "18-Folien-Deck gemäss Moderationsprotokoll"
 -------------------------------------------
 
 # Slide 1. Swiss AI Futures
@@ -33,7 +33,43 @@ Heute diskutieren die Teilnehmenden zwei Themen, erleben menschliche und KI-unte
 
 ---
 
-# Slide 2. Dokumente auf dem Tisch
+# Slide 2. Forschungskontext und Ziele
+
+## On-screen copy
+
+# Zwei Ziele für heute
+
+**Swiss AI Futures ist ein von TA-SWISS unterstütztes Forschungsprojekt. Für die Studie haben wir Murmi entwickelt, um KI-unterstützte Deliberation zu testen.**
+
+## Beiträge aus der Bevölkerung
+
+Erkunden, wie Menschen in der Schweiz die Rolle von KI in Arbeit und Bildung beurteilen.
+
+## Den Ansatz testen
+
+Prüfen, ob KI Gruppendiskussionen in nützliche öffentliche Beiträge überführen kann. Eine Runde nutzt Murmi; eine wird menschlich moderiert.
+
+## Presenter notes
+
+Machen Sie beide Ziele deutlich, bevor Sie Dokumente oder Ablauf vorstellen.
+
+Erstens sammelt der Workshop abgewogene Beiträge aus der Bevölkerung zu KI bei der Arbeit und KI in der Bildung. Diese Beiträge fliessen in die breitere TA-SWISS-Forschung und den Bericht ein.
+
+Zweitens testet die Studie den KI-unterstützten Deliberationsansatz des Forschungsteams und das dafür entwickelte Werkzeug Murmi. Jeder Raum erlebt eine menschlich moderierte und eine Murmi-unterstützte Runde. Der Vergleich prüft, ob KI Erfassung, Austausch, Abstimmung und Synthese unterstützen kann, ohne den Teilnehmenden die Kontrolle zu nehmen.
+
+Murmi ersetzt die Moderation nicht und entscheidet nicht, was die Gruppe denkt. In beiden Runden prüfen die Teilnehmenden die Dokumentation, korrigieren die Formulierung und bestätigen die abschliessende Zusammenfassung.
+
+### Sources
+
+Projektunterlagen für Teilnehmende. Swiss AI Futures Moderator Guide, Abschnitte 1–4 und 7.
+
+## Timing
+
+3 Minuten.
+
+---
+
+# Slide 3. Dokumente auf dem Tisch
 
 ## On-screen copy
 
@@ -63,11 +99,11 @@ Erklären Sie, dass das Entschädigungsformular erst am Ende und nur von Teilneh
 
 ## Timing
 
-5 Minuten.
+4 Minuten.
 
 ---
 
-# Slide 3. Der heutige Ablauf
+# Slide 4. Der heutige Ablauf
 
 ## On-screen copy
 
@@ -77,7 +113,7 @@ Erklären Sie, dass das Entschädigungsformular erst am Ende und nur von Teilneh
 
 **Willkommen und Ablauf**
 
-Dokumente, Zweck, Datennutzung, Murmi und der Prozess mit zwei Schleifen.
+Kontext, Dokumente, Datennutzung, Murmi und der Prozess mit zwei Schleifen.
 
 ## 17:50–18:30
 
@@ -127,7 +163,7 @@ Swiss AI Futures Moderator Guide, Abschnitte 1–2.
 
 ---
 
-# Slide 4. Was danach geschieht
+# Slide 5. Was danach geschieht
 
 ## On-screen copy
 
@@ -163,7 +199,7 @@ Projektunterlagen für Teilnehmende.
 
 ---
 
-# Slide 5. Wie die heutige Diskussion aufgezeichnet wird
+# Slide 6. Wie die heutige Diskussion aufgezeichnet wird
 
 ## On-screen copy
 
@@ -197,11 +233,11 @@ Teilnehmendeninformation und Einwilligung, Deutsch, 7. August 2026.
 
 ## Timing
 
-3 Minuten.
+2 Minuten.
 
 ---
 
-# Slide 6. Murmi kennenlernen
+# Slide 7. Murmi kennenlernen
 
 ## On-screen copy
 
@@ -243,7 +279,7 @@ Murmi-Website, murmi.org. Swiss AI Futures Moderator Guide, Abschnitte 5, 7 und 
 
 ---
 
-# Slide 7. Regeln der Deliberation
+# Slide 8. Regeln der Deliberation
 
 ## On-screen copy
 
@@ -278,7 +314,7 @@ Die Moderation darf eingreifen, um gleichberechtigte Beteiligung und eine konstr
 
 ---
 
-# Slide 8. Die zwei Schleifen im Überblick
+# Slide 9. Die zwei Schleifen im Überblick
 
 ## On-screen copy
 
@@ -307,11 +343,11 @@ Swiss AI Futures Moderator Guide, Abschnitte 3–7.
 
 ## Timing
 
-3 Minuten.
+2 Minuten.
 
 ---
 
-# Slide 9. Online-Erkenntnisse zur Arbeit
+# Slide 10. Online-Erkenntnisse zur Arbeit
 
 ## On-screen copy
 
@@ -347,7 +383,7 @@ Online Insights, „Fair distribution of AI economical benefits“ und „Shared
 
 ---
 
-# Slide 10. Runde 1 · KI bei der Arbeit
+# Slide 11. Runde 1 · KI bei der Arbeit
 
 ## On-screen copy
 
@@ -382,7 +418,7 @@ Swiss AI Futures Moderator Guide, Abschnitte 3–6 und 10. Online Insights, Erke
 
 ---
 
-# Slide 11. Zusammenfassung und Fragebogen
+# Slide 12. Zusammenfassung und Fragebogen
 
 ## On-screen copy
 
@@ -414,7 +450,7 @@ Swiss AI Futures Moderator Guide, Abschnitt 10.
 
 ---
 
-# Slide 12. Online-Erkenntnisse zur Bildung
+# Slide 13. Online-Erkenntnisse zur Bildung
 
 ## On-screen copy
 
@@ -450,7 +486,7 @@ Online Insights, „Gradual AI Education: Critical Thinking Before Tool Use“ u
 
 ---
 
-# Slide 13. Runde 2 · KI in der Bildung
+# Slide 14. Runde 2 · KI in der Bildung
 
 ## On-screen copy
 
@@ -485,7 +521,7 @@ Swiss AI Futures Moderator Guide, Abschnitte 3–5, 7 und 10. Online Insights, E
 
 ---
 
-# Slide 14. KI-Entwurf und Fragebogen
+# Slide 15. KI-Entwurf und Fragebogen
 
 ## On-screen copy
 
@@ -517,7 +553,7 @@ Swiss AI Futures Moderator Guide, Abschnitt 10.
 
 ---
 
-# Slide 15. KI & Schweiz
+# Slide 16. KI & Schweiz
 
 ## On-screen copy
 
@@ -548,7 +584,7 @@ Swiss AI Futures Moderator Guide, Abschnitte 3–5 und 9. Online Insights, demok
 
 ---
 
-# Slide 16. Automatisch erstellten Bericht prüfen
+# Slide 17. Automatisch erstellten Bericht prüfen
 
 ## On-screen copy
 
@@ -584,7 +620,7 @@ Swiss AI Futures Moderator Guide, Abschnitt 9.
 
 ---
 
-# Slide 17. Letzter Fragebogen, Entschädigung und Abschluss
+# Slide 18. Letzter Fragebogen, Entschädigung und Abschluss
 
 ## On-screen copy
 
@@ -626,10 +662,10 @@ Swiss AI Futures Moderator Guide, Abschnitte 10–11.
 
 | Folien | Aktivität | Dauer |
 | --- | --- | ---: |
-| 1–8 | Willkommen, Dokumente, Ablauf, nächste Schritte, Datennutzung, Murmi, Gesprächsregeln und Überblick über die zwei Schleifen | 20 Min |
-| 9–11 | Runde 1: KI bei der Arbeit + Fragebogen und Pause | 40 Min |
-| 12–14 | Runde 2: KI in der Bildung + Fragebogen und Pause | 40 Min |
-| 15 | KI & Schweiz | 10 Min |
-| 16 | Automatisch erstellten Bericht und Kernaussagen prüfen | 5 Min |
-| 17 | Letzter Fragebogen, Entschädigungsformular und Abschluss | 5 Min |
+| 1–9 | Willkommen, Forschungskontext, Dokumente, Ablauf, nächste Schritte, Datennutzung, Murmi, Gesprächsregeln und Überblick über die zwei Schleifen | 20 Min |
+| 10–12 | Runde 1: KI bei der Arbeit + Fragebogen und Pause | 40 Min |
+| 13–15 | Runde 2: KI in der Bildung + Fragebogen und Pause | 40 Min |
+| 16 | KI & Schweiz | 10 Min |
+| 17 | Automatisch erstellten Bericht und Kernaussagen prüfen | 5 Min |
+| 18 | Letzter Fragebogen, Entschädigungsformular und Abschluss | 5 Min |
 | | **Gesamt** | **120 Min** |

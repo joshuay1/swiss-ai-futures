@@ -5,7 +5,7 @@ subtitle: "Citizen Perspectives on AI at Work, AI in Education, and AI for Swiss
 date: "[Workshop date]"
 location: "[Zurich / Lausanne]"
 format: "16:9 presentation with speaker notes"
-version: "17-slide moderator-protocol deck"
+version: "18-slide moderator-protocol deck"
 -------------------------------------------
 
 # Slide 1. Swiss AI Futures
@@ -33,7 +33,43 @@ Today participants will discuss two topics, compare human and AI-supported moder
 
 ---
 
-# Slide 2. Documents on the table
+# Slide 2. Research context and goals
+
+## On-screen copy
+
+# Two goals for today
+
+**Swiss AI Futures is a research project supported by TA-SWISS. We developed Murmi to test AI-supported deliberation.**
+
+## Gather citizen input
+
+Explore how people in Switzerland think AI should shape work and education.
+
+## Test the approach
+
+See whether AI can help turn group discussion into useful public input. One round uses Murmi; one uses a human moderator.
+
+## Presenter notes
+
+Make both goals explicit before introducing the documents or agenda.
+
+First, the workshop gathers considered citizen input about AI at work and AI in education. These contributions will feed into the wider TA-SWISS research and report.
+
+Second, the study tests the research team’s AI-supported deliberation approach and the Murmi tool developed for it. Every room experiences one human-moderated round and one Murmi-supported round. The comparison asks whether AI can support capture, sharing, voting, and synthesis without taking control away from participants.
+
+Murmi does not replace the moderator or decide what the group thinks. In both rounds, participants review the record, correct the wording, and confirm the final summary.
+
+### Sources
+
+Project participant brief. Swiss AI Futures Moderator Guide, sections 1–4 and 7.
+
+## Timing
+
+3 minutes.
+
+---
+
+# Slide 3. Documents on the table
 
 ## On-screen copy
 
@@ -63,11 +99,11 @@ Explain that the compensation form is completed at the end and only by participa
 
 ## Timing
 
-5 minutes.
+4 minutes.
 
 ---
 
-# Slide 3. Today’s schedule
+# Slide 4. Today’s schedule
 
 ## On-screen copy
 
@@ -77,7 +113,7 @@ Explain that the compensation form is completed at the end and only by participa
 
 **Welcome and process**
 
-Documents, purpose, data use, Murmi, and the two-loop process.
+Context, documents, data use, Murmi, and the two-loop process.
 
 ## 17:50–18:30
 
@@ -127,7 +163,7 @@ Swiss AI Futures Moderator Guide, sections 1–2.
 
 ---
 
-# Slide 4. What happens next
+# Slide 5. What happens next
 
 ## On-screen copy
 
@@ -163,7 +199,7 @@ Project participant brief and public project page.
 
 ---
 
-# Slide 5. How today’s discussion is recorded
+# Slide 6. How today’s discussion is recorded
 
 ## On-screen copy
 
@@ -197,11 +233,11 @@ Workshop Participant Information and Consent, English, 7 August 2026.
 
 ## Timing
 
-3 minutes.
+2 minutes.
 
 ---
 
-# Slide 6. Meet Murmi
+# Slide 7. Meet Murmi
 
 ## On-screen copy
 
@@ -243,7 +279,7 @@ Murmi website, murmi.org. Swiss AI Futures Moderator Guide, sections 5, 7, and 8
 
 ---
 
-# Slide 7. Deliberation etiquette
+# Slide 8. Deliberation etiquette
 
 ## On-screen copy
 
@@ -278,7 +314,7 @@ The moderator may step in to protect equal participation and keep the discussion
 
 ---
 
-# Slide 8. The two loops at a glance
+# Slide 9. The two loops at a glance
 
 ## On-screen copy
 
@@ -307,11 +343,11 @@ Swiss AI Futures Moderator Guide, sections 3–7.
 
 ## Timing
 
-3 minutes.
+2 minutes.
 
 ---
 
-# Slide 9. Online insights: education
+# Slide 10. Online insights: education
 
 ## On-screen copy
 
@@ -349,7 +385,7 @@ Online Insights, “Gradual AI Education: Critical Thinking Before Tool Use” a
 
 ---
 
-# Slide 10. Round 1 · AI in Education
+# Slide 11. Round 1 · AI in Education
 
 ## On-screen copy
 
@@ -384,7 +420,7 @@ Swiss AI Futures Moderator Guide, sections 3–6 and 10. Online Insights, educat
 
 ---
 
-# Slide 11. Round 1 summary and survey
+# Slide 12. Round 1 summary and survey
 
 ## On-screen copy
 
@@ -416,7 +452,7 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ---
 
-# Slide 12. Online insights: work
+# Slide 13. Online insights: work
 
 ## On-screen copy
 
@@ -452,7 +488,7 @@ Online Insights, “Fair distribution of AI economical benefits” and “Shared
 
 ---
 
-# Slide 13. Round 2 · AI at Work
+# Slide 14. Round 2 · AI at Work
 
 ## On-screen copy
 
@@ -487,7 +523,7 @@ Swiss AI Futures Moderator Guide, sections 3–5, 7, and 10. Online Insights, wo
 
 ---
 
-# Slide 14. Round 2 summary and survey
+# Slide 15. Round 2 summary and survey
 
 ## On-screen copy
 
@@ -519,7 +555,7 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ---
 
-# Slide 15. AI & Switzerland
+# Slide 16. AI & Switzerland
 
 ## On-screen copy
 
@@ -550,7 +586,7 @@ Swiss AI Futures Moderator Guide, sections 3–5 and 9. Online Insights, democra
 
 ---
 
-# Slide 16. Review the generated report
+# Slide 17. Review the generated report
 
 ## On-screen copy
 
@@ -586,7 +622,7 @@ Swiss AI Futures Moderator Guide, section 9.
 
 ---
 
-# Slide 17. Final questionnaire, compensation, and close
+# Slide 18. Final questionnaire, compensation, and close
 
 ## On-screen copy
 
@@ -628,10 +664,10 @@ Swiss AI Futures Moderator Guide, sections 10–11.
 
 | Slides | Activity | Duration |
 | --- | --- | ---: |
-| 1–8 | Welcome, documents, plan, next steps, data use, Murmi, etiquette, and two-loop overview | 20 min |
-| 9–11 | Round 1: AI in Education + survey and break | 40 min |
-| 12–14 | Round 2: AI at Work + survey and break | 40 min |
-| 15 | AI & Switzerland | 10 min |
-| 16 | Review the generated report and takeaways | 5 min |
-| 17 | Final questionnaire, compensation form, and close | 5 min |
+| 1–9 | Welcome, research context, documents, plan, next steps, data use, Murmi, etiquette, and two-loop overview | 20 min |
+| 10–12 | Round 1: AI in Education + survey and break | 40 min |
+| 13–15 | Round 2: AI at Work + survey and break | 40 min |
+| 16 | AI & Switzerland | 10 min |
+| 17 | Review the generated report and takeaways | 5 min |
+| 18 | Final questionnaire, compensation form, and close | 5 min |
 | | **Total** | **120 min** |
