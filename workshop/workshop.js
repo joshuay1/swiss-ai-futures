@@ -9,9 +9,9 @@
   document.documentElement.lang = language;
 
   const sourceUrls = {
-    en: "../docs/intro-slide.md?v=20260810-14",
-    de: "../docs/intro-slide-de.md?v=20260810-14",
-    fr: "../docs/intro-slide-fr.md?v=20260810-14"
+    en: "../docs/intro-slide.md?v=20260810-15",
+    de: "../docs/intro-slide-de.md?v=20260810-15",
+    fr: "../docs/intro-slide-fr.md?v=20260810-15"
   };
 
   const SOURCE_URL = sourceUrls[language];

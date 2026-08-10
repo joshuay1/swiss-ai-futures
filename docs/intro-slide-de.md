@@ -420,14 +420,16 @@ Online Survey Main Findings, erweiterte Stichprobe mit 81 eingeschlossenen Befra
 
 ## Mögliche Einstiegspunkte
 
-* Welche Kompetenzen sollen Menschen stärken, erhalten oder neu lernen?
-* Wer stellt Schulung, Zeit und Unterstützung bereit — und wann soll KI begrenzt werden?
+* Wenn der Markt allein nicht reicht: Wer sorgt für Weiterbildung und menschliche Kontrolle wichtiger Entscheidungen?
+* Sollen KI-bedingte Produktivitätsgewinne besteuert oder geteilt werden — und welche Rechte brauchen Beschäftigte?
 
 ## Presenter notes
 
 Runde 1 nutzt menschliche Moderation und eine physische Abstimmung.
 
 Beginnen Sie mit der Hauptfrage. Die zwei Einstiegspunkte sind optionale Impulse; nutzen Sie höchstens einen, falls die Diskussion Unterstützung braucht. Sie sind keine Checkliste.
+
+Die Umfrage zeigt Unterstützung für aktive Steuerung, Weiterbildung und Grenzen für automatisierte Personalentscheidungen. Uneinigkeit besteht bei einer KI-Steuer, den Mitspracherechten von Beschäftigten und der Verteilung von Produktivitätsgewinnen. Halten Sie diese Instrumente offen zur Diskussion.
 
 Führen Sie von allgemeinen Meinungen zu konkreten Vorschlägen. Eine Hauptidee pro Haftnotiz; einordnen unter Politische Empfehlungen oder Bedingungen & rote Linien. Bündeln und beschriften Sie ähnliche Notizen fortlaufend, während die Gruppen ihre Ideen vorstellen.
 
@@ -439,7 +441,7 @@ Schützen Sie die letzten 9 Minuten für Zusammenfassung, Korrektur und Bestäti
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, Abschnitte 3–6 und 10. Online Insights, Erkenntnisse und Workshopfragen zur Arbeit.
+Swiss AI Futures Moderator Guide, Abschnitte 3–6 und 10. Online Survey Main Findings, erweiterte Stichprobe mit 81 eingeschlossenen Befragten, Ergebnisse 5 und 6.
 
 ## Timing
 
@@ -533,12 +535,14 @@ Online Survey Main Findings, erweiterte Stichprobe mit 81 eingeschlossenen Befra
 
 ## Mögliche Einstiegspunkte
 
-* Welche Fähigkeiten sollen Lernende erwerben, und wann soll KI eingesetzt werden?
-* Wer unterstützt Lehrpersonen, und welche Bedingungen braucht es für Daten, Beurteilung und selbstständiges Denken?
+* Wie vermitteln Schulen KI-Kompetenzen und Schutzmassnahmen, ohne selbstständiges oder bewährtes Lernen zu schwächen?
+* Wann, wenn überhaupt, soll die KI-Nutzung begrenzt werden — und wer soll darüber entscheiden?
 
 ## Presenter notes
 
 Beginnen Sie mit der Hauptfrage. Die zwei Einstiegspunkte sind optionale Impulse; nutzen Sie höchstens einen, falls die Diskussion Unterstützung braucht. Sie sind keine Checkliste.
+
+Die Spannung aus der Umfrage ist bewusst gesetzt: KI-Kompetenzen, Überprüfung, Datenschutz und klare Regeln finden breite Unterstützung, doch bei Begrenzungen zum Schutz bewährter Lernformen gehen die Meinungen auseinander. Nutzen Sie die Impulse, um Grenzen und Zuständigkeiten zu klären.
 
 Helfen Sie vor Beginn der Diskussion allen, Murmi nur mit ihren Initialen beizutreten, und prüfen Sie, ob die Aufzeichnung läuft. Erinnern Sie kurz daran, dass die Aussagen vor der Abstimmung geprüft und der abschliessende Entwurf gemeinsam korrigiert werden.
 
@@ -552,7 +556,7 @@ Präsentieren Sie die Murmi-generierte dreispaltige Zusammenfassung als Entwurf.
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, Abschnitte 3–5, 7 und 10. Online Insights, Erkenntnisse und Workshopfragen zur Bildung.
+Swiss AI Futures Moderator Guide, Abschnitte 3–5, 7 und 10. Online Survey Main Findings, erweiterte Stichprobe mit 81 eingeschlossenen Befragten, Ergebnisse 2 und 6.
 
 ## Timing
 
@@ -600,14 +604,16 @@ Swiss AI Futures Moderator Guide, Abschnitt 10.
 
 ## Mögliche Einstiegspunkte
 
-* Was soll die Schweiz priorisieren, und wer soll Verantwortung tragen?
-* Welche Bedingungen oder roten Linien sind unverzichtbar — und wo könnten wir uneinig sein?
+* Wo muss die letzte Entscheidung bei Menschen bleiben — und wie soll die Bevölkerung KI-Regeln mitgestalten?
+* Wie soll die Schweiz Innovation mit Datenschutz, Urheberrecht, Umwelt, Sicherheit und Schutz vor Desinformation abwägen?
 
 ## Presenter notes
 
 Diese Abschlussdiskussion ist in beiden Räumen Murmi-unterstützt und gehört nicht zum Vergleich von menschlicher und KI-unterstützter Moderation.
 
 Beginnen Sie mit der Hauptfrage. Nutzen Sie einen Einstiegspunkt nur bei Bedarf; behandeln Sie die zwei Impulse nicht als Checkliste.
+
+Die Impulse verbinden drei Spannungen aus der Umfrage: breite Akzeptanz von KI-Unterstützung, aber nicht von unkontrollierten folgenreichen Entscheidungen; nützliche Innovation versus Vorsorge; und starke Sorge vor Manipulation bei gleichzeitiger Unterstützung öffentlicher Beteiligung an der Regulierung.
 
 Falls der Raum einen konkreten Impuls braucht: Online-Befragte sahen stärkere demokratische Risiken als Vorteile. 86 % stimmten stark zu, dass KI-Inhalte Polarisierung verstärken können, 78 % nannten die Manipulation von Meinungen und 74 % eine erschwerte Wahrheitsfindung. Gleichzeitig würden 79 % von 72 Befragten öffentliche Abstimmungen oder Bürger:innen-Konsultationen zur KI-Regulierung wahrscheinlich oder sicher unterstützen. Für öffentliche Dienste war „KI kann unterstützen, aber Menschen entscheiden“ die häufigste Position (40 von 71; 56 %). Fragen Sie nach Schutzmassnahmen, menschlicher Verantwortung und Mitsprache.
 
@@ -617,7 +623,7 @@ Nutzen Sie die letzten 2 Minuten, um die Zusammenfassung zu hinterfragen, zu kor
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, Abschnitte 3–5 und 9. Online Survey Main Findings, erweiterte Stichprobe mit 81 eingeschlossenen Befragten, Ergebnisse 3 und 4.
+Swiss AI Futures Moderator Guide, Abschnitte 3–5 und 9. Online Survey Main Findings, erweiterte Stichprobe mit 81 eingeschlossenen Befragten, Ergebnisse 3, 4 und 6.
 
 ## Timing
 

@@ -422,14 +422,16 @@ Online Survey Main Findings, expanded sample of 81 included respondents, finding
 
 ## Possible entry points
 
-* Which skills should students learn, and when should AI be used?
-* Who should support teachers, and what conditions are needed for data, assessment, and independent thinking?
+* How can schools teach AI skills and safeguards without weakening independent or traditional learning?
+* When, if ever, should AI use be limited — and who should decide?
 
 ## Presenter notes
 
 Round 1 uses human moderation and physical voting.
 
 Start with the main question. The two entry points are optional prompts; use one only if the discussion needs help getting started. Do not present them as a checklist.
+
+The survey tension is deliberate: respondents strongly support AI skills, verification, data protection, and clear rules, but are divided on limiting AI to protect traditional learning. Use the prompts to explore where integration should stop and who should set the boundary.
 
 Ask groups to move from general opinions to concrete proposals. Participants write one main idea per sticky note and place it under Policy Recommendations or Conditions & Red Lines. As representatives share, continuously cluster and label similar notes with the room.
 
@@ -441,7 +443,7 @@ Protect the final 9 minutes for synthesis, participant correction, and confirmat
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, sections 3–6 and 10. Online Insights, education findings and workshop questions.
+Swiss AI Futures Moderator Guide, sections 3–6 and 10. Online Survey Main Findings, expanded sample of 81 included respondents, findings 2 and 6.
 
 ## Timing
 
@@ -533,12 +535,14 @@ Online Survey Main Findings, expanded sample of 81 included respondents, finding
 
 ## Possible entry points
 
-* Which skills should people strengthen, preserve, or learn?
-* Who should provide training, time, and support — and when should AI be limited?
+* If the market alone is not enough, who should provide training and keep high-stakes decisions under human control?
+* Should AI-driven productivity gains be taxed or shared — and what decision rights should workers have?
 
 ## Presenter notes
 
 Start with the main question. The two entry points are optional prompts; use one only if the discussion needs help getting started. Do not present them as a checklist.
+
+The survey shows support for active governance, worker training, and limits on automated employment decisions. It does not show agreement on an AI tax, worker decision rights, or how productivity gains should be shared. Keep those mechanisms open for debate.
 
 Before discussion begins, help everyone join Murmi with initials only and confirm that recording has started. Briefly remind the room that they will review statements before voting and correct the final draft.
 
@@ -552,7 +556,7 @@ Present the Murmi-generated three-column synthesis as a draft. Check each column
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, sections 3–5, 7, and 10. Online Insights, work findings and workshop questions.
+Swiss AI Futures Moderator Guide, sections 3–5, 7, and 10. Online Survey Main Findings, expanded sample of 81 included respondents, findings 5 and 6.
 
 ## Timing
 
@@ -600,14 +604,16 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ## Possible entry points
 
-* What should Switzerland prioritise, and who should be responsible?
-* Which conditions or red lines are essential — and where might we disagree?
+* Where must accountable humans retain final control — and how should citizens shape AI regulation?
+* How should Switzerland balance innovation with privacy, copyright, environmental, safety, and misinformation risks?
 
 ## Presenter notes
 
 This closing discussion is Murmi-supported in both rooms and is not part of the human-versus-AI comparison.
 
 Start with the main question. Use an entry point only if needed; do not treat the two prompts as a checklist.
+
+The prompts combine three survey tensions: broad acceptance of AI assistance but not unaccountable consequential decisions; useful innovation versus precaution; and strong concern about manipulation alongside support for public participation in regulation.
 
 If the room needs a concrete prompt, online respondents saw stronger democratic risks than benefits: 86% gave high agreement that AI content may increase polarisation, 78% that AI can manipulate opinions, and 74% that truth may become harder to identify. Yet 79% of 72 respondents would probably or definitely support public votes or citizen consultations on AI regulation. In public services, the most common position was “AI can support, but humans decide” (40 of 71; 56%). Ask what this implies for safeguards, human responsibility, and citizen voice.
 
@@ -617,7 +623,7 @@ Use the final 2 minutes to challenge, correct, and confirm the synthesis. Move u
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, sections 3–5 and 9. Online Survey Main Findings, expanded sample of 81 included respondents, findings 3 and 4.
+Swiss AI Futures Moderator Guide, sections 3–5 and 9. Online Survey Main Findings, expanded sample of 81 included respondents, findings 3, 4, and 6.
 
 ## Timing
 

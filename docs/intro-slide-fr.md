@@ -420,14 +420,16 @@ Online Survey Main Findings, échantillon élargi de 81 répondants inclus, rés
 
 ## Points d’entrée possibles
 
-* Quelles compétences faut-il renforcer, préserver ou acquérir ?
-* Qui doit fournir la formation, le temps et le soutien — et quand faut-il limiter l’IA ?
+* Si le marché ne suffit pas, qui doit assurer la formation et le contrôle humain des décisions lourdes de conséquences ?
+* Faut-il taxer ou partager les gains de productivité de l’IA — et quels droits pour les travailleurs ?
 
 ## Presenter notes
 
 Le premier tour utilise une modération humaine et un vote physique.
 
 Commencez par la question principale. Les deux points d’entrée sont des pistes facultatives ; n’en utilisez qu’un si le groupe a besoin d’aide pour démarrer. Ce n’est pas une liste à compléter.
+
+L’enquête montre un soutien à une gouvernance active, à la formation et aux limites imposées aux décisions d’emploi automatisées. Elle ne montre pas d’accord sur une taxe sur l’IA, les droits de participation des travailleurs ou le partage des gains de productivité. Gardez ces mécanismes ouverts au débat.
 
 Faites passer le groupe des opinions générales aux propositions concrètes. Une idée principale par post-it, sous Recommandations politiques ou Conditions & lignes rouges. Regroupez et nommez en continu les post-it proches pendant les présentations.
 
@@ -439,7 +441,7 @@ Protégez les 9 dernières minutes pour la synthèse, les corrections et la conf
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, sections 3 à 6 et 10. Online Insights, résultats et questions d’atelier sur le travail.
+Swiss AI Futures Moderator Guide, sections 3 à 6 et 10. Online Survey Main Findings, échantillon élargi de 81 répondants inclus, résultats 5 et 6.
 
 ## Timing
 
@@ -533,12 +535,14 @@ Online Survey Main Findings, échantillon élargi de 81 répondants inclus, rés
 
 ## Points d’entrée possibles
 
-* Quelles compétences faut-il acquérir, et quand faut-il utiliser l’IA ?
-* Qui doit soutenir les enseignants, et quelles conditions faut-il pour les données, l’évaluation et la pensée autonome ?
+* Comment enseigner les compétences et garde-fous liés à l’IA sans affaiblir l’autonomie ni les apprentissages de base ?
+* Quand, le cas échéant, faut-il limiter l’usage de l’IA — et qui doit en décider ?
 
 ## Presenter notes
 
 Commencez par la question principale. Les deux points d’entrée sont des pistes facultatives ; n’en utilisez qu’un si le groupe a besoin d’aide pour démarrer. Ce n’est pas une liste à compléter.
+
+La tension issue de l’enquête est volontaire : compétences en IA, vérification, protection des données et règles claires sont largement soutenues, mais les avis divergent sur les limites destinées à protéger les apprentissages fondamentaux. Utilisez les pistes pour explorer les limites et les responsabilités.
 
 Avant la discussion, aidez chacun à rejoindre Murmi avec ses initiales seulement et vérifiez que l’enregistrement a commencé. Rappelez brièvement que les propositions seront vérifiées avant le vote et que le projet final sera corrigé collectivement.
 
@@ -552,7 +556,7 @@ Présentez la synthèse Murmi en trois colonnes comme un projet. Vérifiez chaqu
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, sections 3 à 5, 7 et 10. Online Insights, résultats et questions d’atelier sur l’éducation.
+Swiss AI Futures Moderator Guide, sections 3 à 5, 7 et 10. Online Survey Main Findings, échantillon élargi de 81 répondants inclus, résultats 2 et 6.
 
 ## Timing
 
@@ -600,14 +604,16 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ## Points d’entrée possibles
 
-* Que doit prioriser la Suisse, et qui doit assumer la responsabilité ?
-* Quelles conditions ou lignes rouges sont essentielles — et où pourrions-nous être en désaccord ?
+* Où la décision finale doit-elle rester humaine — et comment associer la population à la régulation de l’IA ?
+* Comment concilier innovation, vie privée, droit d’auteur, environnement, sécurité et lutte contre la désinformation ?
 
 ## Presenter notes
 
 Cette discussion finale est assistée par Murmi dans les deux salles et ne fait pas partie de la comparaison entre modération humaine et assistée par l’IA.
 
 Commencez par la question principale. Utilisez un point d’entrée uniquement si nécessaire ; ne traitez pas les deux pistes comme une liste à compléter.
+
+Les pistes combinent trois tensions de l’enquête : une large acceptation de l’assistance par l’IA, mais pas des décisions lourdes de conséquences sans responsabilité humaine ; innovation utile contre précaution ; et forte inquiétude face à la manipulation, malgré le soutien à la participation publique à la régulation.
 
 Si la salle a besoin d’un point de départ concret, les répondants en ligne perçoivent davantage de risques démocratiques que de bénéfices : 86 % expriment un accord élevé sur le risque de polarisation, 78 % sur la manipulation des opinions et 74 % sur la difficulté à distinguer le vrai. Pourtant, 79 % des 72 répondants soutiendraient probablement ou certainement des votations ou consultations citoyennes sur la régulation de l’IA. Dans les services publics, la position la plus fréquente est « l’IA peut soutenir, mais les humains décident » (40 sur 71 ; 56 %). Demandez ce que cela implique pour les garde-fous, la responsabilité humaine et la voix citoyenne.
 
@@ -617,7 +623,7 @@ Utilisez les 2 dernières minutes pour contester, corriger et confirmer la synth
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, sections 3 à 5 et 9. Online Survey Main Findings, échantillon élargi de 81 répondants inclus, résultats 3 et 4.
+Swiss AI Futures Moderator Guide, sections 3 à 5 et 9. Online Survey Main Findings, échantillon élargi de 81 répondants inclus, résultats 3, 4 et 6.
 
 ## Timing
 
