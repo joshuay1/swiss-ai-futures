@@ -5,7 +5,7 @@ subtitle: "Perspectives citoyennes sur l’IA au travail, dans l’éducation et
 date: "[Date de l’atelier]"
 location: "[Lausanne]"
 format: "Présentation 16:9 avec notes de facilitation"
-version: "Présentation en 16 diapositives selon le protocole"
+version: "Présentation en 17 diapositives selon le protocole"
 -------------------------------------------
 
 # Slide 1. Swiss AI Futures
@@ -33,120 +33,7 @@ Aujourd’hui, les participants discuteront de deux sujets, expérimenteront une
 
 ---
 
-# Slide 2. Pourquoi cette journée compte
-
-## On-screen copy
-
-# Des contributions citoyennes au rapport TA-SWISS destiné au Parlement suisse
-
-## Aujourd’hui
-
-Vos discussions d’aujourd’hui joueront un rôle central dans les futurs débats sur l’intégration de l’IA en Suisse.
-
-## Rapport TA-SWISS
-
-Le projet transforme les résultats en conclusions pour son rapport d’évaluation technologique.
-
-## Parlement suisse
-
-Le rapport informera le Parlement et le débat public sur l’IA.
-
-## Presenter notes
-
-Expliquez l’objectif avant le fonctionnement de l’atelier.
-
-Swiss AI Futures est la phase de délibération citoyenne d’un projet de recherche plus large sur l’IA, les compétences, l’éducation et le travail. Des chercheurs de l’ETH Zurich, de l’Université de Lausanne et d’institutions partenaires travaillent avec Carbon Copy et TA-SWISS.
-
-Les synthèses en trois colonnes constituent des recommandations citoyennes réfléchies et une trace des désaccords. Elles ne sont pas présentées comme statistiquement représentatives de toute la population suisse.
-
-### Sources
-
-Document d’information des participants.
-
-## Timing
-
-3 minutes.
-
----
-
-# Slide 3. Découvrir Murmi
-
-## On-screen copy
-
-# Découvrir Murmi
-
-**Murmi est un projet expérimental de délibération assistée par l’IA. Il est né du projet TA-SWISS et est développé avec Carbon Copy, inspiré par l’expérience de vTaiwan.**
-
-## Vérifier les propositions
-
-Murmi transforme la discussion en propositions. Dites-nous si l’une est incorrecte ou manque.
-
-## Voter avant la synthèse
-
-Indiquez votre soutien à chaque proposition vérifiée sur l’échelle à 5 points.
-
-## Corriger le projet
-
-Dites ce qu’il faut **garder, modifier, déplacer, ajouter ou supprimer**. La modération corrige en direct.
-
-## Presenter notes
-
-Présentez brièvement Murmi comme un projet expérimental qui utilise l’IA pour soutenir la délibération. Expliquez qu’il est né du projet TA-SWISS et qu’il est développé avec Carbon Copy en s’appuyant sur l’expérience de délibération de vTaiwan. L’outil soutient le processus ; les participants et la modération restent responsables de vérifier la trace, de rendre les désaccords visibles et de confirmer la formulation finale.
-
-Montrez le lien sur l’image. Tout le monde peut visiter **murmi.org** et lancer directement une session gratuitement, sans inscription ni configuration.
-
-Montrez cette diapositive pendant l’introduction afin que les participants découvrent Murmi avant l’explication des deux boucles. Il s’agit seulement d’une présentation ; les participants rejoindront la session en direct juste avant le second tour.
-
-Expliquez clairement la séquence : d’abord la discussion ; ensuite la vérification des propositions et l’ajout des éléments manquants ; puis un vote dédié sur l’échelle à 5 points ; enfin le projet Murmi en trois colonnes. Le vote précède la génération du terrain commun.
-
-Lors de la vérification du projet, montrez une colonne à la fois. Demandez ce qu’il faut garder, modifier, déplacer, ajouter ou supprimer. La personne chargée de Murmi effectue les modifications en direct, puis affiche la synthèse complète révisée pour confirmation.
-
-### Sources
-
-Site de Murmi, murmi.org. Swiss AI Futures Moderator Guide, sections 5, 7 et 8.
-
-## Timing
-
-2 minutes.
-
----
-
-# Slide 4. Règles de délibération
-
-## On-screen copy
-
-# Comment délibérer ensemble
-
-## Écouter pour comprendre
-
-* Laissez les autres terminer.
-* Posez des questions avant de juger.
-
-## Partager la parole
-
-* Soyez bref.
-* Invitez les voix que nous n’avons pas encore entendues.
-
-## Discuter les idées, pas les personnes
-
-* Expliquez votre raisonnement.
-* Exprimez votre désaccord avec respect et restez ouvert.
-
-## Presenter notes
-
-Présentez ces points comme des habitudes pratiques pour une bonne délibération citoyenne, et non comme un test.
-
-Chacun peut parler à partir de son expérience. Demandez aux participants d’écouter avec curiosité, de faire place aux personnes plus discrètes et d’expliquer leur raisonnement. Le désaccord est utile lorsqu’il reste respectueux et porte sur les idées.
-
-La modération peut intervenir pour garantir une participation équitable et une discussion constructive.
-
-## Timing
-
-3 minutes.
-
----
-
-# Slide 5. Documents sur la table
+# Slide 2. Documents sur la table
 
 ## On-screen copy
 
@@ -176,11 +63,11 @@ Expliquez que le formulaire d’indemnisation est rempli à la fin, uniquement p
 
 ## Timing
 
-6 minutes.
+5 minutes.
 
 ---
 
-# Slide 6. Programme du jour
+# Slide 3. Programme du jour
 
 ## On-screen copy
 
@@ -190,7 +77,7 @@ Expliquez que le formulaire d’indemnisation est rempli à la fin, uniquement p
 
 **Accueil et processus**
 
-Objectif, documents, boucles et résultats.
+Documents, objectif, utilisation des données, Murmi et processus en deux boucles.
 
 ## 17:50–18:30
 
@@ -240,7 +127,158 @@ Swiss AI Futures Moderator Guide, sections 1 à 2.
 
 ---
 
-# Slide 7. Les deux boucles en un coup d’œil
+# Slide 4. Ce qui se passe ensuite
+
+## On-screen copy
+
+# Des contributions citoyennes au rapport TA-SWISS destiné au Parlement suisse
+
+## Aujourd’hui
+
+Vos discussions d’aujourd’hui joueront un rôle central dans les futurs débats sur l’intégration de l’IA en Suisse.
+
+## Rapport TA-SWISS
+
+Le projet transforme les résultats en conclusions pour son rapport d’évaluation technologique.
+
+## Parlement suisse
+
+Le rapport informera le Parlement et le débat public sur l’IA.
+
+## Presenter notes
+
+Expliquez l’objectif avant le fonctionnement de l’atelier.
+
+Swiss AI Futures est la phase de délibération citoyenne d’un projet de recherche plus large sur l’IA, les compétences, l’éducation et le travail. Des chercheurs de l’ETH Zurich, de l’Université de Lausanne et d’institutions partenaires travaillent avec Carbon Copy et TA-SWISS.
+
+Les synthèses en trois colonnes constituent des recommandations citoyennes réfléchies et une trace des désaccords. Elles ne sont pas présentées comme statistiquement représentatives de toute la population suisse.
+
+### Sources
+
+Document d’information des participants.
+
+## Timing
+
+2 minutes.
+
+---
+
+# Slide 5. Comment la discussion est transcrite
+
+## On-screen copy
+
+# Vos paroles, votre choix
+
+## Transcription par IA — aucun fichier audio
+
+À la table assistée par l’IA, un microphone commun envoie directement la parole pour transcription par IA. Aucun fichier audio n’est créé ni conservé.
+
+## Anonyme par défaut
+
+La transcription codée utilise des codes de participation, pas des noms. Les propositions ajoutées dans Murmi peuvent porter les initiales saisies.
+
+## Citation seulement avec une autorisation séparée
+
+Les transcriptions complètes ne sont pas publiées. Avec une autorisation écrite séparée, une citation peut être associée à votre nom ou à un bref profil — profession, âge et canton. Sans cette autorisation, elle reste anonyme.
+
+## Presenter notes
+
+Expliquez ceci avant toute discussion.
+
+Seules les tables assistées par l’IA utilisent le microphone contrôlé par l’équipe de recherche. La parole est envoyée en direct à OpenAI Whisper pour transcription ; aucun fichier audio n’est créé ni conservé. Aux tables avec modération humaine, il n’y a ni microphone, ni captation audio, ni transcription automatisée, ni traitement OpenAI.
+
+Le dossier de recherche conservé est une transcription codée. Les informations d’identification sont stockées séparément, et les transcriptions complètes ne sont pas publiées. Les propositions Murmi peuvent afficher les initiales saisies par les participants ; ne transformez pas ces initiales en nom.
+
+Le formulaire de consentement actuel d’une page autorise les citations anonymisées ou reformulées. Il ne contient pas encore de choix facultatif pour attribuer un nom ou un bref profil. N’associez une citation au nom, à la profession, à l’âge, au canton ou à d’autres informations de profil que si une autorisation écrite distincte et explicite a été ajoutée au processus de consentement approuvé.
+
+### Sources
+
+Information et consentement des personnes participantes, français, 7 août 2026.
+
+## Timing
+
+3 minutes.
+
+---
+
+# Slide 6. Découvrir Murmi
+
+## On-screen copy
+
+# Découvrir Murmi
+
+**Murmi est un projet expérimental de délibération assistée par l’IA. Il est né du projet TA-SWISS et est développé avec Carbon Copy, inspiré par l’expérience de vTaiwan.**
+
+## Vérifier les propositions
+
+Murmi transforme la discussion en propositions. Dites-nous si l’une est incorrecte ou manque.
+
+## Voter avant la synthèse
+
+Indiquez votre soutien à chaque proposition vérifiée sur l’échelle à 5 points.
+
+## Corriger le projet
+
+Dites ce qu’il faut **garder, modifier, déplacer, ajouter ou supprimer**. La modération corrige en direct.
+
+## Presenter notes
+
+Présentez brièvement Murmi comme un projet expérimental qui utilise l’IA pour soutenir la délibération. Expliquez qu’il est né du projet TA-SWISS et qu’il est développé avec Carbon Copy en s’appuyant sur l’expérience de délibération de vTaiwan. L’outil soutient le processus ; les participants et la modération restent responsables de vérifier la trace, de rendre les désaccords visibles et de confirmer la formulation finale.
+
+Montrez le lien sur l’image. Tout le monde peut visiter **murmi.org** et lancer directement une session gratuitement, sans inscription ni configuration.
+
+Montrez cette diapositive pendant l’introduction afin que les participants découvrent Murmi avant l’explication des deux boucles. Il s’agit seulement d’une présentation ; les participants rejoindront la session en direct juste avant le second tour.
+
+Expliquez clairement la séquence : d’abord la discussion ; ensuite la vérification des propositions et l’ajout des éléments manquants ; puis un vote dédié sur l’échelle à 5 points ; enfin le projet Murmi en trois colonnes. Le vote précède la génération du terrain commun.
+
+Lors de la vérification du projet, montrez une colonne à la fois. Demandez ce qu’il faut garder, modifier, déplacer, ajouter ou supprimer. La personne chargée de Murmi effectue les modifications en direct, puis affiche la synthèse complète révisée pour confirmation.
+
+### Sources
+
+Site de Murmi, murmi.org. Swiss AI Futures Moderator Guide, sections 5, 7 et 8.
+
+## Timing
+
+2 minutes.
+
+---
+
+# Slide 7. Règles de délibération
+
+## On-screen copy
+
+# Comment délibérer ensemble
+
+## Écouter pour comprendre
+
+* Laissez les autres terminer.
+* Posez des questions avant de juger.
+
+## Partager la parole
+
+* Soyez bref.
+* Invitez les voix que nous n’avons pas encore entendues.
+
+## Discuter les idées, pas les personnes
+
+* Expliquez votre raisonnement.
+* Exprimez votre désaccord avec respect et restez ouvert.
+
+## Presenter notes
+
+Présentez ces points comme des habitudes pratiques pour une bonne délibération citoyenne, et non comme un test.
+
+Chacun peut parler à partir de son expérience. Demandez aux participants d’écouter avec curiosité, de faire place aux personnes plus discrètes et d’expliquer leur raisonnement. Le désaccord est utile lorsqu’il reste respectueux et porte sur les idées.
+
+La modération peut intervenir pour garantir une participation équitable et une discussion constructive.
+
+## Timing
+
+2 minutes.
+
+---
+
+# Slide 8. Les deux boucles en un coup d’œil
 
 ## On-screen copy
 
@@ -273,7 +311,7 @@ Swiss AI Futures Moderator Guide, sections 3 à 7.
 
 ---
 
-# Slide 8. Enseignements en ligne : travail
+# Slide 9. Enseignements en ligne : travail
 
 ## On-screen copy
 
@@ -309,7 +347,7 @@ Online Insights, « Fair distribution of AI economical benefits » et « Shared 
 
 ---
 
-# Slide 9. Tour 1 · L’IA au travail
+# Slide 10. Tour 1 · L’IA au travail
 
 ## On-screen copy
 
@@ -344,7 +382,7 @@ Swiss AI Futures Moderator Guide, sections 3 à 6 et 10. Online Insights, résul
 
 ---
 
-# Slide 10. Synthèse et questionnaire
+# Slide 11. Synthèse et questionnaire
 
 ## On-screen copy
 
@@ -376,7 +414,7 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ---
 
-# Slide 11. Enseignements en ligne : éducation
+# Slide 12. Enseignements en ligne : éducation
 
 ## On-screen copy
 
@@ -412,7 +450,7 @@ Online Insights, « Gradual AI Education: Critical Thinking Before Tool Use » e
 
 ---
 
-# Slide 12. Tour 2 · L’IA dans l’éducation
+# Slide 13. Tour 2 · L’IA dans l’éducation
 
 ## On-screen copy
 
@@ -447,7 +485,7 @@ Swiss AI Futures Moderator Guide, sections 3 à 5, 7 et 10. Online Insights, ré
 
 ---
 
-# Slide 13. Projet de l’IA et questionnaire
+# Slide 14. Projet de l’IA et questionnaire
 
 ## On-screen copy
 
@@ -479,7 +517,7 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ---
 
-# Slide 14. IA & Suisse
+# Slide 15. IA & Suisse
 
 ## On-screen copy
 
@@ -510,7 +548,7 @@ Swiss AI Futures Moderator Guide, sections 3 à 5 et 9. Online Insights, risques
 
 ---
 
-# Slide 15. Examiner le rapport généré
+# Slide 16. Examiner le rapport généré
 
 ## On-screen copy
 
@@ -546,7 +584,7 @@ Swiss AI Futures Moderator Guide, section 9.
 
 ---
 
-# Slide 16. Questionnaire final, indemnisation et conclusion
+# Slide 17. Questionnaire final, indemnisation et conclusion
 
 ## On-screen copy
 
@@ -588,10 +626,10 @@ Swiss AI Futures Moderator Guide, sections 10 à 11.
 
 | Diapositives | Activité | Durée |
 | --- | --- | ---: |
-| 1–7 | Accueil, objectif, présentation de Murmi, règles, documents, programme et vue d’ensemble des deux boucles | 20 min |
-| 8–10 | Tour 1 : IA au travail + questionnaire et pause | 40 min |
-| 11–13 | Tour 2 : IA dans l’éducation + questionnaire et pause | 40 min |
-| 14 | IA & Suisse | 10 min |
-| 15 | Examiner le rapport généré et ses messages clés | 5 min |
-| 16 | Questionnaire final, formulaire d’indemnisation et conclusion | 5 min |
+| 1–8 | Accueil, documents, programme, suite, utilisation des données, Murmi, règles et vue d’ensemble des deux boucles | 20 min |
+| 9–11 | Tour 1 : IA au travail + questionnaire et pause | 40 min |
+| 12–14 | Tour 2 : IA dans l’éducation + questionnaire et pause | 40 min |
+| 15 | IA & Suisse | 10 min |
+| 16 | Examiner le rapport généré et ses messages clés | 5 min |
+| 17 | Questionnaire final, formulaire d’indemnisation et conclusion | 5 min |
 | | **Total** | **120 min** |

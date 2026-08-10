@@ -58,21 +58,22 @@
 
   const slideMeta = {
     1: { phase: "intro", mode: "context", layout: "hero", timer: 1 },
-    2: { phase: "intro", mode: "impact", layout: "closing", timer: 3, fragments: "sections" },
-    3: { phase: "intro", mode: "murmi", layout: "murmi-intro", timer: 2 },
-    4: { phase: "intro", mode: "process", layout: "closing", timer: 3, fragments: "sections" },
-    5: { phase: "intro", mode: "documents", layout: "logistics", timer: 6, fragments: "sections" },
-    6: { phase: "intro", mode: "schedule", layout: "schedule", timer: 2, fragments: "sections" },
-    7: { phase: "intro", mode: "process", layout: "method", timer: 3 },
-    8: { phase: firstRoundPhase, mode: "evidence", layout: "focus", timer: 3, fragments: "sections" },
-    9: { phase: firstRoundPhase, mode: "topic", layout: "topic", timer: 27, fragments: "sections" },
-    10: { phase: firstRoundPhase, mode: "survey", layout: "survey", timer: 10 },
-    11: { phase: secondRoundPhase, mode: "evidence", layout: "focus", timer: 3, fragments: "sections" },
-    12: { phase: secondRoundPhase, mode: "topic", layout: "topic", timer: 27, fragments: "sections" },
-    13: { phase: secondRoundPhase, mode: "survey", layout: "survey", timer: 10 },
-    14: { phase: "future", mode: "topic", layout: "topic", timer: 10, fragments: "sections" },
-    15: { phase: "future", mode: "report", layout: "closing", timer: 5, fragments: "sections" },
-    16: { phase: "future", mode: "impact", layout: "closing", timer: 5, fragments: "sections" }
+    2: { phase: "intro", mode: "documents", layout: "logistics", timer: 5, fragments: "sections" },
+    3: { phase: "intro", mode: "schedule", layout: "schedule", timer: 2, fragments: "sections" },
+    4: { phase: "intro", mode: "impact", layout: "closing", timer: 2, fragments: "sections" },
+    5: { phase: "intro", mode: "privacy", layout: "closing", timer: 3, fragments: "sections" },
+    6: { phase: "intro", mode: "murmi", layout: "murmi-intro", timer: 2 },
+    7: { phase: "intro", mode: "process", layout: "closing", timer: 2, fragments: "sections" },
+    8: { phase: "intro", mode: "process", layout: "method", timer: 3 },
+    9: { phase: firstRoundPhase, mode: "evidence", layout: "focus", timer: 3, fragments: "sections" },
+    10: { phase: firstRoundPhase, mode: "topic", layout: "topic", timer: 27, fragments: "sections" },
+    11: { phase: firstRoundPhase, mode: "survey", layout: "survey", timer: 10 },
+    12: { phase: secondRoundPhase, mode: "evidence", layout: "focus", timer: 3, fragments: "sections" },
+    13: { phase: secondRoundPhase, mode: "topic", layout: "topic", timer: 27, fragments: "sections" },
+    14: { phase: secondRoundPhase, mode: "survey", layout: "survey", timer: 10 },
+    15: { phase: "future", mode: "topic", layout: "topic", timer: 10, fragments: "sections" },
+    16: { phase: "future", mode: "report", layout: "closing", timer: 5, fragments: "sections" },
+    17: { phase: "future", mode: "impact", layout: "closing", timer: 5, fragments: "sections" }
   };
 
   const phaseLabelsByLanguage = {
@@ -105,6 +106,7 @@
       schedule: "Today’s plan",
       topic: "Discussion topic",
       murmi: "How Murmi works",
+      privacy: "How your words are used",
       survey: "Survey & break",
       impact: "What happens next",
       report: "Today’s result"
@@ -117,6 +119,7 @@
       schedule: "Heutiger Ablauf",
       topic: "Diskussionsthema",
       murmi: "So funktioniert Murmi",
+      privacy: "Wie Ihre Worte verwendet werden",
       survey: "Fragebogen & Pause",
       impact: "Wie es weitergeht",
       report: "Heutiges Ergebnis"
@@ -129,6 +132,7 @@
       schedule: "Programme du jour",
       topic: "Sujet de discussion",
       murmi: "Fonctionnement de Murmi",
+      privacy: "Comment vos paroles sont utilisées",
       survey: "Questionnaire & pause",
       impact: "Et ensuite",
       report: "Résultat du jour"
@@ -1179,7 +1183,7 @@
       if (!response.ok) throw new Error(`Source request failed: ${response.status}`);
       const source = await response.text();
       state.slides = parseSlides(source);
-      if (state.slides.length !== 16) throw new Error(`Expected 16 slides, found ${state.slides.length}`);
+      if (state.slides.length !== 17) throw new Error(`Expected 17 slides, found ${state.slides.length}`);
 
       elements.track.innerHTML = state.slides.map(renderSlide).join("");
       renderOverview();

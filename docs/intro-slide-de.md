@@ -5,7 +5,7 @@ subtitle: "Perspektiven der Bevölkerung auf KI in Arbeit, Bildung und Schweizer
 date: "[Workshop-Datum]"
 location: "[Zürich]"
 format: "16:9-Präsentation mit Moderationsnotizen"
-version: "16-Folien-Deck gemäss Moderationsprotokoll"
+version: "17-Folien-Deck gemäss Moderationsprotokoll"
 -------------------------------------------
 
 # Slide 1. Swiss AI Futures
@@ -33,120 +33,7 @@ Heute diskutieren die Teilnehmenden zwei Themen, erleben menschliche und KI-unte
 
 ---
 
-# Slide 2. Warum der heutige Tag wichtig ist
-
-## On-screen copy
-
-# Von Bürger:innen-Beiträgen zum TA-SWISS-Bericht für das Schweizer Parlament
-
-## Heute
-
-Ihre heutigen Diskussionen werden eine zentrale Grundlage für künftige Debatten über die Integration von KI in der Schweiz.
-
-## TA-SWISS-Bericht
-
-Die Ergebnisse fliessen in den Technologiefolgenabschätzungsbericht ein.
-
-## Schweizer Parlament
-
-Der Bericht informiert Parlament und öffentliche Debatte über KI.
-
-## Presenter notes
-
-Erklären Sie den Zweck, bevor Sie den Ablauf vorstellen.
-
-Swiss AI Futures ist die Bürger:innen-Deliberationsphase eines grösseren Forschungsprojekts zu KI, Kompetenzen, Bildung und Arbeit. Forschende der ETH Zürich, der Universität Lausanne und von Partnerinstitutionen arbeiten mit Carbon Copy und TA-SWISS zusammen.
-
-Die dreispaltigen Zusammenfassungen sind abgewogene Empfehlungen und eine Dokumentation von Dissens. Sie werden nicht als statistisch repräsentativ für die gesamte Schweizer Bevölkerung dargestellt.
-
-### Sources
-
-Projektunterlagen für Teilnehmende.
-
-## Timing
-
-3 Minuten.
-
----
-
-# Slide 3. Murmi kennenlernen
-
-## On-screen copy
-
-# Murmi kennenlernen
-
-**Murmi ist ein experimentelles Projekt für KI-unterstützte Deliberation. Es entstand aus dem TA-SWISS-Projekt und wird mit Carbon Copy entwickelt, inspiriert von vTaiwans Erfahrung.**
-
-## Aussagen prüfen
-
-Murmi macht aus der Diskussion Aussagen. Sagen Sie uns, wenn etwas falsch ist oder fehlt.
-
-## Vor der Zusammenfassung abstimmen
-
-Zeigen Sie Ihre Unterstützung für jede geprüfte Aussage auf der 5-Punkte-Skala.
-
-## Entwurf korrigieren
-
-Sagen Sie, was **bleiben, geändert, verschoben, ergänzt oder entfernt** werden soll. Die Moderation bearbeitet live.
-
-## Presenter notes
-
-Stellen Sie Murmi kurz als experimentelles Projekt vor, das KI zur Unterstützung von Deliberation einsetzt. Erklären Sie, dass es aus dem TA-SWISS-Projekt entstand und gemeinsam mit Carbon Copy entwickelt wird, unter Einbezug der Deliberationserfahrung von vTaiwan. Das Werkzeug unterstützt den Prozess; Teilnehmende und Moderation bleiben dafür verantwortlich, die Dokumentation zu prüfen, Dissens sichtbar zu machen und die endgültige Formulierung zu bestätigen.
-
-Weisen Sie auf den Link im Bild hin. Alle können **murmi.org** besuchen und direkt kostenlos eine Sitzung starten, ohne Anmeldung oder Einrichtung.
-
-Zeigen Sie diese Folie im Einstieg, damit die Teilnehmenden Murmi kennen, bevor Sie die zwei Schleifen erklären. Dies ist nur eine Einführung; der Beitritt zur Live-Sitzung erfolgt unmittelbar vor Runde 2.
-
-Erklären Sie die Reihenfolge klar: zuerst Diskussion; danach Aussagen prüfen und Fehlendes ergänzen; dann eine eigene 5-Punkte-Abstimmung; anschliessend der dreispaltige Murmi-Entwurf. Die Abstimmung findet vor der Erzeugung des gemeinsamen Ergebnisses statt.
-
-Zeigen Sie bei der Entwurfsprüfung jeweils eine Spalte. Fragen Sie, was bleiben, geändert, verschoben, ergänzt oder entfernt werden soll. Die Murmi-Moderation setzt die Änderungen live um und zeigt danach die vollständige überarbeitete Zusammenfassung zur Bestätigung.
-
-### Sources
-
-Murmi-Website, murmi.org. Swiss AI Futures Moderator Guide, Abschnitte 5, 7 und 8.
-
-## Timing
-
-2 Minuten.
-
----
-
-# Slide 4. Regeln der Deliberation
-
-## On-screen copy
-
-# So beraten wir gemeinsam
-
-## Zuhören und verstehen
-
-* Lassen Sie andere ausreden.
-* Fragen Sie nach, bevor Sie urteilen.
-
-## Raum teilen
-
-* Fassen Sie sich kurz.
-* Laden Sie noch nicht gehörte Stimmen ein.
-
-## Ideen prüfen — nicht Personen
-
-* Begründen Sie Ihre Sicht.
-* Widersprechen Sie respektvoll und bleiben Sie offen.
-
-## Presenter notes
-
-Stellen Sie diese Punkte als praktische Gewohnheiten für eine gute Bürger:innen-Deliberation vor, nicht als Prüfung.
-
-Alle dürfen aus eigener Erfahrung sprechen. Bitten Sie die Teilnehmenden, neugierig zuzuhören, ruhigeren Stimmen Raum zu geben und ihre Gründe zu erklären. Dissens ist wertvoll, wenn er respektvoll bleibt und sich auf Ideen richtet.
-
-Die Moderation darf eingreifen, um gleichberechtigte Beteiligung und eine konstruktive Diskussion zu sichern.
-
-## Timing
-
-3 Minuten.
-
----
-
-# Slide 5. Dokumente auf dem Tisch
+# Slide 2. Dokumente auf dem Tisch
 
 ## On-screen copy
 
@@ -176,11 +63,11 @@ Erklären Sie, dass das Entschädigungsformular erst am Ende und nur von Teilneh
 
 ## Timing
 
-6 Minuten.
+5 Minuten.
 
 ---
 
-# Slide 6. Der heutige Ablauf
+# Slide 3. Der heutige Ablauf
 
 ## On-screen copy
 
@@ -190,7 +77,7 @@ Erklären Sie, dass das Entschädigungsformular erst am Ende und nur von Teilneh
 
 **Willkommen und Ablauf**
 
-Zweck, Dokumente, Schleifen und Ergebnisse.
+Dokumente, Zweck, Datennutzung, Murmi und der Prozess mit zwei Schleifen.
 
 ## 17:50–18:30
 
@@ -240,7 +127,158 @@ Swiss AI Futures Moderator Guide, Abschnitte 1–2.
 
 ---
 
-# Slide 7. Die zwei Schleifen im Überblick
+# Slide 4. Was danach geschieht
+
+## On-screen copy
+
+# Von Bürger:innen-Beiträgen zum TA-SWISS-Bericht für das Schweizer Parlament
+
+## Heute
+
+Ihre heutigen Diskussionen werden eine zentrale Grundlage für künftige Debatten über die Integration von KI in der Schweiz.
+
+## TA-SWISS-Bericht
+
+Die Ergebnisse fliessen in den Technologiefolgenabschätzungsbericht ein.
+
+## Schweizer Parlament
+
+Der Bericht informiert Parlament und öffentliche Debatte über KI.
+
+## Presenter notes
+
+Erklären Sie den Zweck, bevor Sie den Ablauf vorstellen.
+
+Swiss AI Futures ist die Bürger:innen-Deliberationsphase eines grösseren Forschungsprojekts zu KI, Kompetenzen, Bildung und Arbeit. Forschende der ETH Zürich, der Universität Lausanne und von Partnerinstitutionen arbeiten mit Carbon Copy und TA-SWISS zusammen.
+
+Die dreispaltigen Zusammenfassungen sind abgewogene Empfehlungen und eine Dokumentation von Dissens. Sie werden nicht als statistisch repräsentativ für die gesamte Schweizer Bevölkerung dargestellt.
+
+### Sources
+
+Projektunterlagen für Teilnehmende.
+
+## Timing
+
+2 Minuten.
+
+---
+
+# Slide 5. Wie die heutige Diskussion aufgezeichnet wird
+
+## On-screen copy
+
+# Ihre Worte, Ihre Wahl
+
+## KI-Transkription — keine Audiodatei
+
+Am KI-unterstützten Tisch sendet ein gemeinsames Mikrofon die Sprache direkt zur KI-Transkription. Es wird keine Audiodatei erstellt oder gespeichert.
+
+## Standardmässig anonym
+
+Das codierte Transkript verwendet Teilnehmendencodes statt Namen. In Murmi hinzugefügte Aussagen können mit den eingegebenen Initialen erscheinen.
+
+## Zitate nur mit separater Zustimmung
+
+Volltranskripte werden nicht veröffentlicht. Mit separater schriftlicher Zustimmung kann ein Zitat mit Ihrem Namen oder einem Kurzprofil — Beruf, Alter und Kanton — erscheinen. Ohne diese Zustimmung bleibt es anonym.
+
+## Presenter notes
+
+Erklären Sie dies, bevor die Diskussion beginnt.
+
+Nur KI-unterstützte Tische nutzen das vom Forschungsteam kontrollierte Mikrofon. Die Sprache wird live zur Transkription an OpenAI Whisper gesendet; es wird keine Audiodatei erstellt oder gespeichert. An menschlich moderierten Tischen gibt es kein Mikrofon, keine Audioerfassung, keine automatische Transkription und keine OpenAI-Verarbeitung.
+
+Als Forschungsdatensatz bleibt ein codiertes Transkript. Identifizierende Angaben werden getrennt gespeichert, und Volltranskripte werden nicht veröffentlicht. Murmi-Aussagen können die von den Teilnehmenden eingegebenen Initialen anzeigen; lösen Sie diese Initialen nicht zu einem Namen auf.
+
+Die aktuelle einseitige Einwilligung erlaubt anonymisierte oder sinngemässe Zitate. Sie enthält noch keine optionale Wahl für die Zuordnung eines Namens oder Kurzprofils. Verknüpfen Sie ein Zitat nur dann mit Name, Beruf, Alter, Kanton oder anderen Profildaten, wenn eine separate ausdrückliche schriftliche Zustimmung in den genehmigten Einwilligungsprozess aufgenommen wurde.
+
+### Sources
+
+Teilnehmendeninformation und Einwilligung, Deutsch, 7. August 2026.
+
+## Timing
+
+3 Minuten.
+
+---
+
+# Slide 6. Murmi kennenlernen
+
+## On-screen copy
+
+# Murmi kennenlernen
+
+**Murmi ist ein experimentelles Projekt für KI-unterstützte Deliberation. Es entstand aus dem TA-SWISS-Projekt und wird mit Carbon Copy entwickelt, inspiriert von vTaiwans Erfahrung.**
+
+## Aussagen prüfen
+
+Murmi macht aus der Diskussion Aussagen. Sagen Sie uns, wenn etwas falsch ist oder fehlt.
+
+## Vor der Zusammenfassung abstimmen
+
+Zeigen Sie Ihre Unterstützung für jede geprüfte Aussage auf der 5-Punkte-Skala.
+
+## Entwurf korrigieren
+
+Sagen Sie, was **bleiben, geändert, verschoben, ergänzt oder entfernt** werden soll. Die Moderation bearbeitet live.
+
+## Presenter notes
+
+Stellen Sie Murmi kurz als experimentelles Projekt vor, das KI zur Unterstützung von Deliberation einsetzt. Erklären Sie, dass es aus dem TA-SWISS-Projekt entstand und gemeinsam mit Carbon Copy entwickelt wird, unter Einbezug der Deliberationserfahrung von vTaiwan. Das Werkzeug unterstützt den Prozess; Teilnehmende und Moderation bleiben dafür verantwortlich, die Dokumentation zu prüfen, Dissens sichtbar zu machen und die endgültige Formulierung zu bestätigen.
+
+Weisen Sie auf den Link im Bild hin. Alle können **murmi.org** besuchen und direkt kostenlos eine Sitzung starten, ohne Anmeldung oder Einrichtung.
+
+Zeigen Sie diese Folie im Einstieg, damit die Teilnehmenden Murmi kennen, bevor Sie die zwei Schleifen erklären. Dies ist nur eine Einführung; der Beitritt zur Live-Sitzung erfolgt unmittelbar vor Runde 2.
+
+Erklären Sie die Reihenfolge klar: zuerst Diskussion; danach Aussagen prüfen und Fehlendes ergänzen; dann eine eigene 5-Punkte-Abstimmung; anschliessend der dreispaltige Murmi-Entwurf. Die Abstimmung findet vor der Erzeugung des gemeinsamen Ergebnisses statt.
+
+Zeigen Sie bei der Entwurfsprüfung jeweils eine Spalte. Fragen Sie, was bleiben, geändert, verschoben, ergänzt oder entfernt werden soll. Die Murmi-Moderation setzt die Änderungen live um und zeigt danach die vollständige überarbeitete Zusammenfassung zur Bestätigung.
+
+### Sources
+
+Murmi-Website, murmi.org. Swiss AI Futures Moderator Guide, Abschnitte 5, 7 und 8.
+
+## Timing
+
+2 Minuten.
+
+---
+
+# Slide 7. Regeln der Deliberation
+
+## On-screen copy
+
+# So beraten wir gemeinsam
+
+## Zuhören und verstehen
+
+* Lassen Sie andere ausreden.
+* Fragen Sie nach, bevor Sie urteilen.
+
+## Raum teilen
+
+* Fassen Sie sich kurz.
+* Laden Sie noch nicht gehörte Stimmen ein.
+
+## Ideen prüfen — nicht Personen
+
+* Begründen Sie Ihre Sicht.
+* Widersprechen Sie respektvoll und bleiben Sie offen.
+
+## Presenter notes
+
+Stellen Sie diese Punkte als praktische Gewohnheiten für eine gute Bürger:innen-Deliberation vor, nicht als Prüfung.
+
+Alle dürfen aus eigener Erfahrung sprechen. Bitten Sie die Teilnehmenden, neugierig zuzuhören, ruhigeren Stimmen Raum zu geben und ihre Gründe zu erklären. Dissens ist wertvoll, wenn er respektvoll bleibt und sich auf Ideen richtet.
+
+Die Moderation darf eingreifen, um gleichberechtigte Beteiligung und eine konstruktive Diskussion zu sichern.
+
+## Timing
+
+2 Minuten.
+
+---
+
+# Slide 8. Die zwei Schleifen im Überblick
 
 ## On-screen copy
 
@@ -273,7 +311,7 @@ Swiss AI Futures Moderator Guide, Abschnitte 3–7.
 
 ---
 
-# Slide 8. Online-Erkenntnisse zur Arbeit
+# Slide 9. Online-Erkenntnisse zur Arbeit
 
 ## On-screen copy
 
@@ -309,7 +347,7 @@ Online Insights, „Fair distribution of AI economical benefits“ und „Shared
 
 ---
 
-# Slide 9. Runde 1 · KI bei der Arbeit
+# Slide 10. Runde 1 · KI bei der Arbeit
 
 ## On-screen copy
 
@@ -344,7 +382,7 @@ Swiss AI Futures Moderator Guide, Abschnitte 3–6 und 10. Online Insights, Erke
 
 ---
 
-# Slide 10. Zusammenfassung und Fragebogen
+# Slide 11. Zusammenfassung und Fragebogen
 
 ## On-screen copy
 
@@ -376,7 +414,7 @@ Swiss AI Futures Moderator Guide, Abschnitt 10.
 
 ---
 
-# Slide 11. Online-Erkenntnisse zur Bildung
+# Slide 12. Online-Erkenntnisse zur Bildung
 
 ## On-screen copy
 
@@ -412,7 +450,7 @@ Online Insights, „Gradual AI Education: Critical Thinking Before Tool Use“ u
 
 ---
 
-# Slide 12. Runde 2 · KI in der Bildung
+# Slide 13. Runde 2 · KI in der Bildung
 
 ## On-screen copy
 
@@ -447,7 +485,7 @@ Swiss AI Futures Moderator Guide, Abschnitte 3–5, 7 und 10. Online Insights, E
 
 ---
 
-# Slide 13. KI-Entwurf und Fragebogen
+# Slide 14. KI-Entwurf und Fragebogen
 
 ## On-screen copy
 
@@ -479,7 +517,7 @@ Swiss AI Futures Moderator Guide, Abschnitt 10.
 
 ---
 
-# Slide 14. KI & Schweiz
+# Slide 15. KI & Schweiz
 
 ## On-screen copy
 
@@ -510,7 +548,7 @@ Swiss AI Futures Moderator Guide, Abschnitte 3–5 und 9. Online Insights, demok
 
 ---
 
-# Slide 15. Automatisch erstellten Bericht prüfen
+# Slide 16. Automatisch erstellten Bericht prüfen
 
 ## On-screen copy
 
@@ -546,7 +584,7 @@ Swiss AI Futures Moderator Guide, Abschnitt 9.
 
 ---
 
-# Slide 16. Letzter Fragebogen, Entschädigung und Abschluss
+# Slide 17. Letzter Fragebogen, Entschädigung und Abschluss
 
 ## On-screen copy
 
@@ -588,10 +626,10 @@ Swiss AI Futures Moderator Guide, Abschnitte 10–11.
 
 | Folien | Aktivität | Dauer |
 | --- | --- | ---: |
-| 1–7 | Willkommen, Zweck, Murmi-Einführung, Gesprächsregeln, Dokumente, Ablauf und Überblick über die zwei Schleifen | 20 Min |
-| 8–10 | Runde 1: KI bei der Arbeit + Fragebogen und Pause | 40 Min |
-| 11–13 | Runde 2: KI in der Bildung + Fragebogen und Pause | 40 Min |
-| 14 | KI & Schweiz | 10 Min |
-| 15 | Automatisch erstellten Bericht und Kernaussagen prüfen | 5 Min |
-| 16 | Letzter Fragebogen, Entschädigungsformular und Abschluss | 5 Min |
+| 1–8 | Willkommen, Dokumente, Ablauf, nächste Schritte, Datennutzung, Murmi, Gesprächsregeln und Überblick über die zwei Schleifen | 20 Min |
+| 9–11 | Runde 1: KI bei der Arbeit + Fragebogen und Pause | 40 Min |
+| 12–14 | Runde 2: KI in der Bildung + Fragebogen und Pause | 40 Min |
+| 15 | KI & Schweiz | 10 Min |
+| 16 | Automatisch erstellten Bericht und Kernaussagen prüfen | 5 Min |
+| 17 | Letzter Fragebogen, Entschädigungsformular und Abschluss | 5 Min |
 | | **Gesamt** | **120 Min** |

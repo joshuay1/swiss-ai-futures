@@ -5,7 +5,7 @@ subtitle: "Citizen Perspectives on AI at Work, AI in Education, and AI for Swiss
 date: "[Workshop date]"
 location: "[Zurich / Lausanne]"
 format: "16:9 presentation with speaker notes"
-version: "16-slide moderator-protocol deck"
+version: "17-slide moderator-protocol deck"
 -------------------------------------------
 
 # Slide 1. Swiss AI Futures
@@ -33,120 +33,7 @@ Today participants will discuss two topics, compare human and AI-supported moder
 
 ---
 
-# Slide 2. Why today matters
-
-## On-screen copy
-
-# From citizen input to the TA-SWISS report for the Swiss Parliament
-
-## Today
-
-Your discussions today will be central to informing future debates about AI integration in Switzerland.
-
-## TA-SWISS report
-
-The project turns today’s results into findings for its technology-assessment report.
-
-## Swiss Parliament
-
-The report will inform Parliament and public debate about AI.
-
-## Presenter notes
-
-Make the purpose clear before explaining the workshop mechanics.
-
-Swiss AI Futures is the citizen-deliberation phase of a wider research project about AI, skills, education, and work. Researchers from ETH Zurich, the University of Lausanne, and partner institutions work with Carbon Copy and TA-SWISS.
-
-The three-column summaries are considered citizen recommendations and records of disagreement. They are not presented as statistically representative of the entire Swiss population.
-
-### Sources
-
-Project participant brief and public project page.
-
-## Timing
-
-3 minutes.
-
----
-
-# Slide 3. Meet Murmi
-
-## On-screen copy
-
-# Meet Murmi
-
-**Murmi is an experimental project testing AI support for deliberation. It grew from the TA-SWISS project and is developed with Carbon Copy, drawing on vTaiwan’s experience.**
-
-## Check the statements
-
-Murmi turns the discussion into statements. Tell us if one is wrong or missing.
-
-## Vote before the summary
-
-Show your support for each reviewed statement on the 5-point scale.
-
-## Correct the draft
-
-Say what to **keep, change, move, add, or remove**. The moderator edits live.
-
-## Presenter notes
-
-Introduce Murmi briefly as an experimental project for using AI to support deliberation. Explain that it grew from the TA-SWISS project and is being developed with Carbon Copy while drawing on vTaiwan’s deliberation experience. It supports the process; participants and moderators remain responsible for checking the record, making disagreement visible, and confirming the final wording.
-
-Point out the link on the image. Anyone can visit **murmi.org** and start a session directly for free, with no sign-up or setup required.
-
-Show this slide in the opening section so participants understand what Murmi is before you explain the two-loop process. This is an orientation only; participants join the live session immediately before Round 2.
-
-Explain the sequence clearly: discussion first; statement review and additions; a dedicated 5-point vote; then the Murmi three-column draft. Voting happens before common ground is generated.
-
-During draft review, show one column at a time. Invite participants to say what should be kept, changed, moved, added, or removed. The Murmi moderator makes edits live, then shows the complete revised summary for room confirmation.
-
-### Sources
-
-Murmi website, murmi.org. Swiss AI Futures Moderator Guide, sections 5, 7, and 8.
-
-## Timing
-
-2 minutes.
-
----
-
-# Slide 4. Deliberation etiquette
-
-## On-screen copy
-
-# How we deliberate together
-
-## Listen to understand
-
-* Let others finish.
-* Ask questions before judging.
-
-## Share the space
-
-* Be brief.
-* Invite voices we have not heard.
-
-## Challenge ideas, not people
-
-* Explain your reasons.
-* Disagree respectfully and stay open to changing your mind.
-
-## Presenter notes
-
-Introduce these as practical habits for a good citizen deliberation, not as a test.
-
-Everyone may speak from experience. Ask participants to listen with curiosity, make room for quieter voices, and explain the reasons behind their views. Disagreement is useful when it remains respectful and focused on ideas.
-
-The moderator may step in to protect equal participation and keep the discussion constructive.
-
-## Timing
-
-3 minutes.
-
----
-
-# Slide 5. Documents on the table
+# Slide 2. Documents on the table
 
 ## On-screen copy
 
@@ -176,11 +63,11 @@ Explain that the compensation form is completed at the end and only by participa
 
 ## Timing
 
-6 minutes.
+5 minutes.
 
 ---
 
-# Slide 6. Today’s schedule
+# Slide 3. Today’s schedule
 
 ## On-screen copy
 
@@ -190,7 +77,7 @@ Explain that the compensation form is completed at the end and only by participa
 
 **Welcome and process**
 
-Purpose, documents, loops, and outputs.
+Documents, purpose, data use, Murmi, and the two-loop process.
 
 ## 17:50–18:30
 
@@ -240,7 +127,158 @@ Swiss AI Futures Moderator Guide, sections 1–2.
 
 ---
 
-# Slide 7. The two loops at a glance
+# Slide 4. What happens next
+
+## On-screen copy
+
+# From citizen input to the TA-SWISS report for the Swiss Parliament
+
+## Today
+
+Your discussions today will be central to informing future debates about AI integration in Switzerland.
+
+## TA-SWISS report
+
+The project turns today’s results into findings for its technology-assessment report.
+
+## Swiss Parliament
+
+The report will inform Parliament and public debate about AI.
+
+## Presenter notes
+
+Make the purpose clear before explaining the workshop mechanics.
+
+Swiss AI Futures is the citizen-deliberation phase of a wider research project about AI, skills, education, and work. Researchers from ETH Zurich, the University of Lausanne, and partner institutions work with Carbon Copy and TA-SWISS.
+
+The three-column summaries are considered citizen recommendations and records of disagreement. They are not presented as statistically representative of the entire Swiss population.
+
+### Sources
+
+Project participant brief and public project page.
+
+## Timing
+
+2 minutes.
+
+---
+
+# Slide 5. How today’s discussion is recorded
+
+## On-screen copy
+
+# Your words, your choices
+
+## AI transcription — no audio file
+
+At the AI-supported table, one shared microphone sends speech directly for AI transcription. No audio file is created or kept.
+
+## Anonymous by default
+
+The coded transcript uses participant codes, not names. Statements added in Murmi may carry the initials you enter.
+
+## Quotes need separate permission
+
+Full transcripts are not published. With separate written permission, a quotation may use your name or a short profile — occupation, age, and canton. Without it, the quotation remains anonymous.
+
+## Presenter notes
+
+Explain this before any discussion begins.
+
+Only AI-supported tables use the researcher-controlled microphone. Speech is sent live to OpenAI Whisper for transcription, and no audio file is created or retained. Human-moderated tables have no microphone, audio capture, automated transcription, or OpenAI processing.
+
+The retained research record is a coded transcript. Identifying information is stored separately, and full transcripts are not published. Murmi statements may display the initials participants enter; do not expand those initials into a name.
+
+The current one-page consent form authorizes anonymised or paraphrased quotations. It does not yet include an optional name or profile-attribution choice. Do not attach a name, occupation, age, canton, or other profile information to a quotation unless a separate explicit written opt-in has been added to the approved consent process.
+
+### Sources
+
+Workshop Participant Information and Consent, English, 7 August 2026.
+
+## Timing
+
+3 minutes.
+
+---
+
+# Slide 6. Meet Murmi
+
+## On-screen copy
+
+# Meet Murmi
+
+**Murmi is an experimental project testing AI support for deliberation. It grew from the TA-SWISS project and is developed with Carbon Copy, drawing on vTaiwan’s experience.**
+
+## Check the statements
+
+Murmi turns the discussion into statements. Tell us if one is wrong or missing.
+
+## Vote before the summary
+
+Show your support for each reviewed statement on the 5-point scale.
+
+## Correct the draft
+
+Say what to **keep, change, move, add, or remove**. The moderator edits live.
+
+## Presenter notes
+
+Introduce Murmi briefly as an experimental project for using AI to support deliberation. Explain that it grew from the TA-SWISS project and is being developed with Carbon Copy while drawing on vTaiwan’s deliberation experience. It supports the process; participants and moderators remain responsible for checking the record, making disagreement visible, and confirming the final wording.
+
+Point out the link on the image. Anyone can visit **murmi.org** and start a session directly for free, with no sign-up or setup required.
+
+Show this slide in the opening section so participants understand what Murmi is before you explain the two-loop process. This is an orientation only; participants join the live session immediately before Round 2.
+
+Explain the sequence clearly: discussion first; statement review and additions; a dedicated 5-point vote; then the Murmi three-column draft. Voting happens before common ground is generated.
+
+During draft review, show one column at a time. Invite participants to say what should be kept, changed, moved, added, or removed. The Murmi moderator makes edits live, then shows the complete revised summary for room confirmation.
+
+### Sources
+
+Murmi website, murmi.org. Swiss AI Futures Moderator Guide, sections 5, 7, and 8.
+
+## Timing
+
+2 minutes.
+
+---
+
+# Slide 7. Deliberation etiquette
+
+## On-screen copy
+
+# How we deliberate together
+
+## Listen to understand
+
+* Let others finish.
+* Ask questions before judging.
+
+## Share the space
+
+* Be brief.
+* Invite voices we have not heard.
+
+## Challenge ideas, not people
+
+* Explain your reasons.
+* Disagree respectfully and stay open to changing your mind.
+
+## Presenter notes
+
+Introduce these as practical habits for a good citizen deliberation, not as a test.
+
+Everyone may speak from experience. Ask participants to listen with curiosity, make room for quieter voices, and explain the reasons behind their views. Disagreement is useful when it remains respectful and focused on ideas.
+
+The moderator may step in to protect equal participation and keep the discussion constructive.
+
+## Timing
+
+2 minutes.
+
+---
+
+# Slide 8. The two loops at a glance
 
 ## On-screen copy
 
@@ -273,7 +311,7 @@ Swiss AI Futures Moderator Guide, sections 3–7.
 
 ---
 
-# Slide 8. Online insights: education
+# Slide 9. Online insights: education
 
 ## On-screen copy
 
@@ -311,7 +349,7 @@ Online Insights, “Gradual AI Education: Critical Thinking Before Tool Use” a
 
 ---
 
-# Slide 9. Round 1 · AI in Education
+# Slide 10. Round 1 · AI in Education
 
 ## On-screen copy
 
@@ -346,7 +384,7 @@ Swiss AI Futures Moderator Guide, sections 3–6 and 10. Online Insights, educat
 
 ---
 
-# Slide 10. Round 1 summary and survey
+# Slide 11. Round 1 summary and survey
 
 ## On-screen copy
 
@@ -378,7 +416,7 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ---
 
-# Slide 11. Online insights: work
+# Slide 12. Online insights: work
 
 ## On-screen copy
 
@@ -414,7 +452,7 @@ Online Insights, “Fair distribution of AI economical benefits” and “Shared
 
 ---
 
-# Slide 12. Round 2 · AI at Work
+# Slide 13. Round 2 · AI at Work
 
 ## On-screen copy
 
@@ -449,7 +487,7 @@ Swiss AI Futures Moderator Guide, sections 3–5, 7, and 10. Online Insights, wo
 
 ---
 
-# Slide 13. Round 2 summary and survey
+# Slide 14. Round 2 summary and survey
 
 ## On-screen copy
 
@@ -481,7 +519,7 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ---
 
-# Slide 14. AI & Switzerland
+# Slide 15. AI & Switzerland
 
 ## On-screen copy
 
@@ -512,7 +550,7 @@ Swiss AI Futures Moderator Guide, sections 3–5 and 9. Online Insights, democra
 
 ---
 
-# Slide 15. Review the generated report
+# Slide 16. Review the generated report
 
 ## On-screen copy
 
@@ -548,7 +586,7 @@ Swiss AI Futures Moderator Guide, section 9.
 
 ---
 
-# Slide 16. Final questionnaire, compensation, and close
+# Slide 17. Final questionnaire, compensation, and close
 
 ## On-screen copy
 
@@ -590,10 +628,10 @@ Swiss AI Futures Moderator Guide, sections 10–11.
 
 | Slides | Activity | Duration |
 | --- | --- | ---: |
-| 1–7 | Welcome, purpose, Murmi introduction, etiquette, documents, schedule, and two-loop overview | 20 min |
-| 8–10 | Round 1: AI in Education + survey and break | 40 min |
-| 11–13 | Round 2: AI at Work + survey and break | 40 min |
-| 14 | AI & Switzerland | 10 min |
-| 15 | Review the generated report and takeaways | 5 min |
-| 16 | Final questionnaire, compensation form, and close | 5 min |
+| 1–8 | Welcome, documents, plan, next steps, data use, Murmi, etiquette, and two-loop overview | 20 min |
+| 9–11 | Round 1: AI in Education + survey and break | 40 min |
+| 12–14 | Round 2: AI at Work + survey and break | 40 min |
+| 15 | AI & Switzerland | 10 min |
+| 16 | Review the generated report and takeaways | 5 min |
+| 17 | Final questionnaire, compensation form, and close | 5 min |
 | | **Total** | **120 min** |
