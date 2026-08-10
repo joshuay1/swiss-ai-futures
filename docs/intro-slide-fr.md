@@ -37,7 +37,7 @@ Aujourd’hui, les participants discuteront de deux sujets, expérimenteront une
 
 ## On-screen copy
 
-# Ce que vous dites aujourd’hui parviendra au Parlement
+# Des contributions citoyennes au rapport TA-SWISS destiné au Parlement suisse
 
 ## Aujourd’hui
 

@@ -37,7 +37,7 @@ Heute diskutieren die Teilnehmenden zwei Themen, erleben menschliche und KI-unte
 
 ## On-screen copy
 
-# Was Sie heute sagen, erreicht das Parlament
+# Von Bürger:innen-Beiträgen zum TA-SWISS-Bericht für das Schweizer Parlament
 
 ## Heute
 

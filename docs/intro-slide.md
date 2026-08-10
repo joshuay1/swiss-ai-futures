@@ -37,7 +37,7 @@ Today participants will discuss two topics, compare human and AI-supported moder
 
 ## On-screen copy
 
-# What you say today will reach Parliament
+# From citizen input to the TA-SWISS report for the Swiss Parliament
 
 ## Today
 
