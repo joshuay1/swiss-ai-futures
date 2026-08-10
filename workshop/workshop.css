@@ -521,15 +521,15 @@ html[data-phase="work"] .deck-brand img {
 }
 
 .layout-hero .slide-shell {
-  align-content: end;
-  padding-bottom: 32px;
+  grid-template-columns: minmax(0, 0.92fr) minmax(0, 1.08fr);
+  gap: clamp(48px, 5vw, 96px);
+  align-content: center;
+  align-items: center;
+  padding-bottom: 0;
 }
 
 .layout-hero .slide-heading {
-  display: grid;
-  grid-template-columns: minmax(430px, 1.35fr) minmax(300px, 0.65fr);
-  gap: clamp(36px, 7vw, 130px);
-  align-items: end;
+  display: block;
 }
 
 .layout-hero .slide-title {
@@ -540,7 +540,7 @@ html[data-phase="work"] .deck-brand img {
 
 .layout-hero .slide-body {
   max-width: 800px;
-  margin-left: auto;
+  margin-left: 0;
   font-size: clamp(28px, 2.6vw, 48px);
 }
 
