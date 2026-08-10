@@ -1075,6 +1075,10 @@ html[data-phase="work"] .deck-brand img {
   padding-left: 1em;
 }
 
+.layout-topic .slide-section ul li + li {
+  margin-top: 0;
+}
+
 .layout-topic .slide-section:last-child h2,
 .layout-topic .slide-section:last-child p,
 .layout-topic .slide-section:last-child ul {
