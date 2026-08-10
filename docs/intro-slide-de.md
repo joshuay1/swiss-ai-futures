@@ -242,9 +242,13 @@ Projektunterlagen für Teilnehmende.
 
 # Ihre Worte, Ihre Wahl
 
-## KI-Transkription — keine Audiodatei
+## Mikrofon weiterreichen
 
-Am KI-unterstützten Tisch sendet ein gemeinsames Mikrofon die Sprache direkt zur KI-Transkription. Es wird keine Audiodatei erstellt oder gespeichert.
+Am KI-unterstützten Tisch melden Sie sich, wenn Sie sprechen möchten. Wir reichen Ihnen das gemeinsame Mikrofon; sprechen Sie mit dem Mikrofon in der Hand und geben Sie es danach weiter.
+
+## Nur Transkription — keine Audiodatei
+
+Das Mikrofon leitet die Sprache direkt zur KI-Transkription weiter. Es wird keine Audiodatei erstellt oder gespeichert.
 
 ## Standardmässig anonym
 
@@ -258,7 +262,9 @@ Volltranskripte werden nicht veröffentlicht. Mit separater schriftlicher Zustim
 
 Erklären Sie dies, bevor die Diskussion beginnt.
 
-Nur KI-unterstützte Tische nutzen das vom Forschungsteam kontrollierte Mikrofon. Die Sprache wird live zur Transkription an OpenAI Whisper gesendet; es wird keine Audiodatei erstellt oder gespeichert. An menschlich moderierten Tischen gibt es kein Mikrofon, keine Audioerfassung, keine automatische Transkription und keine OpenAI-Verarbeitung.
+Zeigen Sie das gemeinsame Mikrofon. Erklären Sie, dass es nur am KI-unterstützten Tisch genutzt und von Person zu Person weitergereicht wird. Die Teilnehmenden melden sich, warten, bis sie das Mikrofon erhalten, sprechen mit dem Mikrofon in der Hand und geben es danach weiter. Das schafft klare Gesprächswechsel und hilft, jeden Beitrag im Transkript zu erfassen.
+
+Das Mikrofon dient ausschliesslich als Eingang für die Live-Transkription. Die Sprache wird live an OpenAI Whisper gesendet; es wird keine Audiodatei erstellt oder gespeichert. An menschlich moderierten Tischen gibt es kein Mikrofon, keine Audioerfassung, keine automatische Transkription und keine OpenAI-Verarbeitung.
 
 Als Forschungsdatensatz bleibt ein codiertes Transkript. Identifizierende Angaben werden getrennt gespeichert, und Volltranskripte werden nicht veröffentlicht. Murmi-Aussagen können die von den Teilnehmenden eingegebenen Initialen anzeigen; lösen Sie diese Initialen nicht zu einem Namen auf.
 

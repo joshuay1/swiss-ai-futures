@@ -242,9 +242,13 @@ Project participant brief and public project page.
 
 # Your words, your choices
 
-## AI transcription — no audio file
+## Pass the microphone
 
-At the AI-supported table, one shared microphone sends speech directly for AI transcription. No audio file is created or kept.
+At the AI-supported table, signal when you want to speak. We will pass you the shared microphone; speak while holding it, then pass it on.
+
+## Transcription only — no audio file
+
+The microphone sends speech directly for AI transcription. No audio file is created or kept.
 
 ## Anonymous by default
 
@@ -258,7 +262,9 @@ Full transcripts are not published. With separate written permission, a quotatio
 
 Explain this before any discussion begins.
 
-Only AI-supported tables use the researcher-controlled microphone. Speech is sent live to OpenAI Whisper for transcription, and no audio file is created or retained. Human-moderated tables have no microphone, audio capture, automated transcription, or OpenAI processing.
+Hold up the shared microphone. Explain that it is used only at the AI-supported table and will be passed from speaker to speaker. Ask participants to signal when they want to contribute, wait until the microphone reaches them, speak while holding it, and then pass it on. This supports clear turn-taking and helps each contribution reach the transcript.
+
+The microphone is only an input for live transcription. Speech is sent live to OpenAI Whisper, and no audio file is created or retained. Human-moderated tables have no microphone, audio capture, automated transcription, or OpenAI processing.
 
 The retained research record is a coded transcript. Identifying information is stored separately, and full transcripts are not published. Murmi statements may display the initials participants enter; do not expand those initials into a name.
 

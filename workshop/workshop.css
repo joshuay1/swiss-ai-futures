@@ -2274,6 +2274,24 @@ html[data-phase="work"] .deck-brand img {
   line-height: 1.28;
 }
 
+.layout-closing[data-slide="7"] .slide-title {
+  font-size: clamp(46px, 4vw, 72px);
+}
+
+.layout-closing[data-slide="7"] .slide-sections {
+  gap: clamp(12px, 1.6vh, 20px);
+}
+
+.layout-closing[data-slide="7"] .slide-section h2 {
+  font-size: clamp(20px, 1.55vw, 28px);
+}
+
+.layout-closing[data-slide="7"] .slide-section p {
+  margin-top: 0.32em;
+  font-size: clamp(16px, 1.1vw, 20px);
+  line-height: 1.22;
+}
+
 .layout-closing .slide-finale {
   margin-top: 0.85em;
   font-size: clamp(36px, 3.3vw, 62px);

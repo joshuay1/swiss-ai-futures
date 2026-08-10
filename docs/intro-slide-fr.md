@@ -242,9 +242,13 @@ Document d’information des participants.
 
 # Vos paroles, votre choix
 
-## Transcription par IA — aucun fichier audio
+## Faire circuler le microphone
 
-À la table assistée par l’IA, un microphone commun envoie directement la parole pour transcription par IA. Aucun fichier audio n’est créé ni conservé.
+À la table assistée par l’IA, signalez que vous souhaitez parler. Nous vous passerons le microphone commun ; parlez en le tenant, puis transmettez-le à la personne suivante.
+
+## Transcription uniquement — aucun fichier audio
+
+Le microphone transmet directement la parole pour la transcription par IA. Aucun fichier audio n’est créé ni conservé.
 
 ## Anonyme par défaut
 
@@ -258,7 +262,9 @@ Les transcriptions complètes ne sont pas publiées. Avec une autorisation écri
 
 Expliquez ceci avant toute discussion.
 
-Seules les tables assistées par l’IA utilisent le microphone contrôlé par l’équipe de recherche. La parole est envoyée en direct à OpenAI Whisper pour transcription ; aucun fichier audio n’est créé ni conservé. Aux tables avec modération humaine, il n’y a ni microphone, ni captation audio, ni transcription automatisée, ni traitement OpenAI.
+Montrez le microphone commun. Expliquez qu’il est utilisé uniquement à la table assistée par l’IA et qu’il circule d’une personne à l’autre. Les participants signalent qu’ils souhaitent contribuer, attendent de recevoir le microphone, parlent en le tenant, puis le transmettent. Cela clarifie les tours de parole et aide à intégrer chaque contribution dans la transcription.
+
+Le microphone sert uniquement d’entrée pour la transcription en direct. La parole est envoyée à OpenAI Whisper ; aucun fichier audio n’est créé ni conservé. Aux tables avec modération humaine, il n’y a ni microphone, ni captation audio, ni transcription automatisée, ni traitement OpenAI.
 
 Le dossier de recherche conservé est une transcription codée. Les informations d’identification sont stockées séparément, et les transcriptions complètes ne sont pas publiées. Les propositions Murmi peuvent afficher les initiales saisies par les participants ; ne transformez pas ces initiales en nom.
 

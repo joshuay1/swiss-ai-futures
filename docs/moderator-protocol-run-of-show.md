@@ -335,6 +335,7 @@ Completed before the workshop discussion begins.
 Explain the recording and quotation choices before participants sign:
 
 - only AI-supported tables use the researcher-controlled shared microphone;
+- pass the microphone from speaker to speaker: participants signal, wait for the microphone, speak while holding it, and then pass it on so turns are clear and each contribution reaches the transcript;
 - speech is sent live for AI transcription, and no audio file is created or retained;
 - the research record is a coded transcript, and full transcripts are not published;
 - Murmi statements may show the initials participants enter; never expand those initials into a name; and
