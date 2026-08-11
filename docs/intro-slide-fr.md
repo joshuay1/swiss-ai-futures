@@ -378,27 +378,27 @@ Swiss AI Futures Moderator Guide, sections 3 à 7.
 
 **69 %**
 
-Expriment un soutien élevé à la formation des travailleurs à l’IA. (n = 51)
+Soutiennent la formation des travailleurs à l’IA. (n = 51)
 
 ## Maintenir la responsabilité humaine
 
 **76 %**
 
-Expriment un soutien élevé à la limitation de l’embauche, du licenciement ou de l’évaluation entièrement automatisés. (n = 54)
+Soutiennent des limites à l’embauche, au licenciement ou à l’évaluation entièrement automatisés. (n = 54)
 
 ## Agir, mais comment ?
 
 **62 %**
 
-Expriment un faible soutien au maintien de la politique actuelle et à l’adaptation par le marché. Taxe et voix des travailleurs divisent. (n = 52)
+S’opposent au maintien de la politique actuelle et à l’adaptation par le seul marché. Taxe et voix des travailleurs divisent. (n = 52)
 
 ## Presenter notes
 
 Donnez uniquement le contexte nécessaire pour commencer. Ces résultats sont des points de départ, pas des conclusions imposées.
 
-Les participants en ligne soutiennent une action publique plutôt que d’attendre que le marché du travail s’adapte seul. La formation des travailleurs à l’IA recueille 69 % de soutien élevé ; la limitation de l’embauche, du licenciement ou de l’évaluation entièrement automatisés en recueille 76 %. Par ailleurs, 62 % expriment un faible soutien au maintien de la politique actuelle.
+Les participants en ligne soutiennent une action publique plutôt que d’attendre que le marché du travail s’adapte seul. 69 % soutiennent la formation des travailleurs à l’IA, 76 % soutiennent des limites aux décisions d’emploi entièrement automatisées, et 62 % s’opposent au maintien de la politique actuelle.
 
-La direction est plus claire que l’instrument. Une taxe sur l’IA ou l’automatisation obtient 20 % de soutien faible, 38 % moyen et 42 % élevé. La participation des travailleurs avant l’introduction de l’IA sur le lieu de travail obtient 17 % de soutien faible, 36 % moyen et 47 % élevé. Utilisez ces divergences pour ouvrir la discussion.
+La direction est plus claire que l’instrument. Concernant une taxe sur l’IA ou l’automatisation, 20 % s’y opposent, 38 % ont une position intermédiaire et 42 % la soutiennent. Concernant la participation des travailleurs avant l’introduction de l’IA, 17 % s’y opposent, 36 % ont une position intermédiaire et 47 % la soutiennent. Utilisez ces divergences pour ouvrir la discussion.
 
 La phase en ligne est exploratoire et non représentative. Le nombre de réponses valides varie selon les questions ; 84 % des personnes ayant indiqué leur formation possèdent au moins un bachelor. Invitez les participants à contester, préciser ou compléter ces résultats.
 
@@ -503,13 +503,13 @@ Utilisent l’IA tous les jours ou presque. Seuls 12 % lui font fortement confia
 
 **93 %**
 
-Expriment un soutien élevé à l’apprentissage de la vérification des erreurs et biais. Données : 89 % ; règles claires : 85 %. (n = 54)
+Soutiennent l’apprentissage de la vérification des erreurs et biais de l’IA. 89 % soutiennent la protection des données ; 85 % soutiennent des règles claires. (n = 54)
 
 ## Les limites restent contestées
 
 **26 / 37 / 37 %**
 
-Soutien faible / moyen / élevé à limiter l’IA pour préserver l’apprentissage traditionnel. (n = 54)
+26 % s’opposent aux limites, 37 % ont une position intermédiaire et 37 % soutiennent la limitation de l’IA pour préserver les apprentissages traditionnels. (n = 54)
 
 ## Presenter notes
 
@@ -517,7 +517,7 @@ Donnez uniquement le contexte nécessaire pour commencer. Ces résultats sont de
 
 Commencez par la tension pratique : 54 répondants sur 81 utilisent l’IA tous les jours ou presque, mais seuls 12 % font fortement confiance aux textes générés par l’IA. Parmi les 79 personnes ayant répondu à la question de vérification, 50 contrôlent souvent ou toujours une réponse avant de s’y fier.
 
-Les garde-fous scolaires réunissent le plus fort accord : 93 % expriment un soutien élevé à l’apprentissage de la vérification des erreurs et biais, 89 % à la protection des données des élèves, 85 % à des règles claires et 78 % à la formation des enseignants. La question la plus divisée est celle des limites à l’IA pour protéger l’apprentissage traditionnel : 26 % de soutien faible, 37 % moyen et 37 % élevé.
+Les répondants soutiennent plusieurs garde-fous scolaires : 93 % soutiennent l’apprentissage de la vérification des erreurs et biais de l’IA, 89 % soutiennent la protection des données des élèves, 85 % soutiennent des règles claires et 78 % la formation des enseignants. Concernant les limites destinées à protéger les apprentissages traditionnels, 26 % s’y opposent, 37 % ont une position intermédiaire et 37 % les soutiennent.
 
 La phase en ligne est exploratoire et non représentative. Le nombre de réponses valides varie selon les questions ; 84 % des personnes ayant indiqué leur formation possèdent au moins un bachelor.
 
@@ -633,7 +633,7 @@ Commencez par la question principale. Utilisez un point d’entrée général un
 
 Les pistes combinent trois tensions de l’enquête : une large acceptation de l’assistance par l’IA, mais pas des décisions lourdes de conséquences sans responsabilité humaine ; innovation utile contre précaution ; et forte inquiétude face à la manipulation, malgré le soutien à la participation publique à la régulation.
 
-Si la salle a besoin d’un point de départ concret, les répondants en ligne perçoivent davantage de risques démocratiques que de bénéfices : 86 % expriment un accord élevé sur le risque de polarisation, 78 % sur la manipulation des opinions et 74 % sur la difficulté à distinguer le vrai. Pourtant, 79 % des 72 répondants soutiendraient probablement ou certainement des votations ou consultations citoyennes sur la régulation de l’IA. Dans les services publics, la position la plus fréquente est « l’IA peut soutenir, mais les humains décident » (40 sur 71 ; 56 %). Demandez ce que cela implique pour les garde-fous, la responsabilité humaine et la voix citoyenne.
+Si la salle a besoin d’un point de départ concret, les répondants en ligne perçoivent davantage de risques démocratiques que de bénéfices : 86 % estiment que l’IA peut accroître la polarisation, 78 % qu’elle peut manipuler les opinions et 74 % qu’elle peut rendre la vérité plus difficile à établir. Pourtant, 79 % des 72 répondants soutiendraient probablement ou certainement des votations ou consultations citoyennes sur la régulation de l’IA. Dans les services publics, la position la plus fréquente est « l’IA peut soutenir, mais les humains décident » (40 sur 71 ; 56 %). Demandez ce que cela implique pour les garde-fous, la responsabilité humaine et la voix citoyenne.
 
 Utilisez 1 minute pour la question, 2 minutes pour la discussion en table, 2 minutes pour partager et corriger les propositions Murmi, 1 minute pour le vote et 2 minutes pour la synthèse en trois colonnes.
 

@@ -378,27 +378,27 @@ Swiss AI Futures Moderator Guide, Abschnitte 3–7.
 
 **69 %**
 
-Unterstützen KI-Schulungen für Beschäftigte stark. (n = 51)
+Unterstützen KI-Schulungen für Beschäftigte. (n = 51)
 
 ## Menschen verantwortlich halten
 
 **76 %**
 
-Unterstützen Grenzen für vollautomatisierte Einstellung, Entlassung oder Bewertung stark. (n = 54)
+Unterstützen Grenzen für vollautomatisierte Einstellung, Entlassung oder Bewertung. (n = 54)
 
 ## Handeln, aber wie?
 
 **62 %**
 
-Unterstützen unveränderte Politik und alleinige Marktanpassung nur gering. KI-Steuer und Mitsprache bleiben umstritten. (n = 52)
+Lehnen unveränderte Politik und alleinige Marktanpassung ab. KI-Steuer und Mitsprache bleiben umstritten. (n = 52)
 
 ## Presenter notes
 
 Geben Sie nur so viel Kontext, wie für den Einstieg nötig ist. Diese Ergebnisse sind Ausgangspunkte, keine vorgegebenen Schlussfolgerungen.
 
-Online-Teilnehmende unterstützen aktive Steuerung statt abzuwarten, bis sich der Arbeitsmarkt allein anpasst. KI-Schulungen für Beschäftigte erhalten 69 % hohe Zustimmung, die Einschränkung vollautomatisierter Einstellung, Entlassung oder Bewertung 76 %. 62 % geben geringe Zustimmung dazu, die Politik unverändert zu lassen.
+Online-Teilnehmende unterstützen aktive Steuerung statt abzuwarten, bis sich der Arbeitsmarkt allein anpasst. 69 % unterstützen KI-Schulungen für Beschäftigte, 76 % unterstützen Grenzen für vollautomatisierte Einstellung, Entlassung oder Bewertung, und 62 % lehnen unveränderte Politik ab.
 
-Die Richtung ist klarer als das Instrument. Eine KI- oder Automatisierungssteuer teilt sich in 20 % geringe, 38 % mittlere und 42 % hohe Zustimmung. Mitsprache der Beschäftigten vor der Einführung am Arbeitsplatz teilt sich in 17 % geringe, 36 % mittlere und 47 % hohe Zustimmung. Nutzen Sie diese Unterschiede als Einstieg in die Diskussion.
+Die Richtung ist klarer als das Instrument. Eine KI- oder Automatisierungssteuer lehnen 20 % ab, 38 % liegen im Mittelfeld, und 42 % unterstützen sie. Mitsprache der Beschäftigten vor der Einführung am Arbeitsplatz lehnen 17 % ab, 36 % liegen im Mittelfeld, und 47 % unterstützen sie. Nutzen Sie diese Unterschiede als Einstieg in die Diskussion.
 
 Die Online-Phase war explorativ und nicht repräsentativ. Die Zahl gültiger Antworten variiert je nach Frage; 84 % der Personen mit Bildungsangabe haben mindestens einen Bachelorabschluss. Laden Sie die Teilnehmenden ein, diese Erkenntnisse zu hinterfragen, zu präzisieren oder zu ergänzen.
 
@@ -503,13 +503,13 @@ Nutzen KI täglich oder fast täglich. Nur 12 % vertrauen stark; 63 % prüfen An
 
 **93 %**
 
-Unterstützen stark, Lernenden das Prüfen auf Fehler und Verzerrungen beizubringen. Datenschutz erreicht 89 %; klare Regeln 85 %. (n = 54)
+Unterstützen, Lernenden das Prüfen von KI auf Fehler und Verzerrungen beizubringen. 89 % unterstützen den Schutz von Schüler:innendaten; 85 % unterstützen klare Regeln. (n = 54)
 
 ## Grenzen bleiben umstritten
 
 **26 / 37 / 37 %**
 
-Geringe / mittlere / hohe Zustimmung, KI zum Schutz traditionellen Lernens zu begrenzen. (n = 54)
+26 % lehnen Begrenzungen ab, 37 % liegen im Mittelfeld, und 37 % unterstützen Begrenzungen zum Schutz bewährter Lernformen. (n = 54)
 
 ## Presenter notes
 
@@ -517,7 +517,7 @@ Geben Sie nur so viel Kontext, wie für den Einstieg nötig ist. Diese Ergebniss
 
 Beginnen Sie mit dem praktischen Spannungsfeld: 54 von 81 Befragten nutzen KI täglich oder fast täglich, aber nur 12 % vertrauen KI-generierten Texten stark. Von 79 Personen, die die Prüffrage beantworteten, kontrollieren 50 eine KI-Antwort häufig oder immer, bevor sie sich darauf verlassen.
 
-Bei Schutzplanken für Schulen besteht die stärkste Übereinstimmung: 93 % geben hohe Zustimmung dazu, Lernenden das Prüfen auf Fehler und Verzerrungen beizubringen, 89 % zum Schutz von Schüler:innendaten, 85 % zu klaren Regeln und 78 % zur Schulung von Lehrpersonen. Am stärksten geteilt ist die Frage, ob Schulen KI zum Schutz traditionellen Lernens begrenzen sollen: 26 % geringe, 37 % mittlere und 37 % hohe Zustimmung.
+Befragte unterstützen mehrere Schutzplanken für Schulen: 93 % unterstützen, Lernenden das Prüfen von KI auf Fehler und Verzerrungen beizubringen, 89 % unterstützen den Schutz von Schüler:innendaten, 85 % unterstützen klare Regeln und 78 % die Schulung von Lehrpersonen. Begrenzungen zum Schutz bewährter Lernformen lehnen 26 % ab, 37 % liegen im Mittelfeld, und 37 % unterstützen sie.
 
 Die Online-Phase war explorativ und nicht repräsentativ. Die Zahl gültiger Antworten variiert je nach Frage; 84 % der Personen mit Bildungsangabe haben mindestens einen Bachelorabschluss.
 
@@ -633,7 +633,7 @@ Beginnen Sie mit der Hauptfrage. Nutzen Sie einen allgemeinen Einstiegspunkt nur
 
 Die Impulse verbinden drei Spannungen aus der Umfrage: breite Akzeptanz von KI-Unterstützung, aber nicht von unkontrollierten folgenreichen Entscheidungen; nützliche Innovation versus Vorsorge; und starke Sorge vor Manipulation bei gleichzeitiger Unterstützung öffentlicher Beteiligung an der Regulierung.
 
-Falls der Raum einen konkreten Impuls braucht: Online-Befragte sahen stärkere demokratische Risiken als Vorteile. 86 % stimmten stark zu, dass KI-Inhalte Polarisierung verstärken können, 78 % nannten die Manipulation von Meinungen und 74 % eine erschwerte Wahrheitsfindung. Gleichzeitig würden 79 % von 72 Befragten öffentliche Abstimmungen oder Bürger:innen-Konsultationen zur KI-Regulierung wahrscheinlich oder sicher unterstützen. Für öffentliche Dienste war „KI kann unterstützen, aber Menschen entscheiden“ die häufigste Position (40 von 71; 56 %). Fragen Sie nach Schutzmassnahmen, menschlicher Verantwortung und Mitsprache.
+Falls der Raum einen konkreten Impuls braucht: Online-Befragte sahen stärkere demokratische Risiken als Vorteile. 86 % stimmen zu, dass KI-Inhalte Polarisierung verstärken können, 78 % stimmen zu, dass KI Meinungen manipulieren kann, und 74 % stimmen zu, dass die Wahrheitsfindung schwieriger werden kann. Gleichzeitig würden 79 % von 72 Befragten öffentliche Abstimmungen oder Bürger:innen-Konsultationen zur KI-Regulierung wahrscheinlich oder sicher unterstützen. Für öffentliche Dienste war „KI kann unterstützen, aber Menschen entscheiden“ die häufigste Position (40 von 71; 56 %). Fragen Sie nach Schutzmassnahmen, menschlicher Verantwortung und Mitsprache.
 
 Nutzen Sie 1 Minute für die Frage, 2 Minuten für die Tischdiskussion, 2 Minuten zum Teilen und Korrigieren der Murmi-Aussagen, 1 Minute für die Abstimmung und 2 Minuten für die dreispaltige KI-unterstützte Zusammenfassung.
 

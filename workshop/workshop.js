@@ -9,9 +9,9 @@
   document.documentElement.lang = language;
 
   const sourceUrls = {
-    en: "../docs/intro-slide.md?v=20260811-1",
-    de: "../docs/intro-slide-de.md?v=20260811-1",
-    fr: "../docs/intro-slide-fr.md?v=20260811-1"
+    en: "../docs/intro-slide.md?v=20260811-2",
+    de: "../docs/intro-slide-de.md?v=20260811-2",
+    fr: "../docs/intro-slide-fr.md?v=20260811-2"
   };
 
   const SOURCE_URL = sourceUrls[language];
@@ -600,9 +600,9 @@
   const renderBlocks = (blocks, options = {}) => blocks.map((block) => renderBlock(block, options)).join("");
 
   const surveyScaleLabels = {
-    en: ["Low", "Middle", "High"],
-    de: ["Gering", "Mittel", "Hoch"],
-    fr: ["Faible", "Moyen", "Élevé"]
+    en: ["Oppose", "Mixed", "Support"],
+    de: ["Dagegen", "Gemischt", "Dafür"],
+    fr: ["Contre", "Mitigé", "Pour"]
   }[language];
 
   const renderSurveyChart = (block) => {

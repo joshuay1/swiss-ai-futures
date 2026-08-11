@@ -384,13 +384,13 @@ Use AI daily or almost daily. Only 12% report high trust; 63% often or always ve
 
 **93%**
 
-Give high support to teaching students to check errors and bias. Data protection reaches 89%; clear rules 85%. (n = 54)
+Support teaching students to check AI for errors and bias. 89% support protecting student data; 85% support clear rules. (n = 54)
 
 ## Limits still divide people
 
 **26 / 37 / 37%**
 
-Low / middle / high support for limiting AI to protect traditional learning. (n = 54)
+26% oppose, 37% are mixed, and 37% support limiting AI to protect traditional learning. (n = 54)
 
 ## Presenter notes
 
@@ -398,7 +398,7 @@ Give participants just enough context to begin. These are starting points, not c
 
 Begin with the practical tension: 54 of 81 respondents use AI daily or almost daily, but only 12% report high trust in AI-generated text. Of the 79 who answered the checking question, 50 often or always verify an AI answer before relying on it.
 
-School safeguards draw the strongest agreement: 93% give high support to teaching students to check AI for errors and bias, 89% to protecting student data, 85% to clear rules for AI use, and 78% to teacher training. The most divided education item is whether schools should limit AI to protect traditional learning: 26% low, 37% middle, and 37% high support.
+Respondents support several school safeguards: 93% support teaching students to check AI for errors and bias, 89% support protecting student data, 85% support clear rules for AI use, and 78% support teacher training. On limiting AI to protect traditional learning, 26% oppose limits, 37% are mixed, and 37% support limits.
 
 The online phase was exploratory and not representative. Valid denominators vary by item, and 84% of respondents who specified education hold at least a bachelor’s degree.
 
@@ -499,27 +499,27 @@ Swiss AI Futures Moderator Guide, section 10.
 
 **69%**
 
-Give high support to worker AI training. (n = 51)
+Support worker AI training. (n = 51)
 
 ## Keep humans responsible
 
 **76%**
 
-Give high support to restricting fully automated hiring, firing, or evaluation. (n = 54)
+Support limits on fully automated hiring, firing, or evaluation. (n = 54)
 
 ## Act, but how?
 
 **62%**
 
-Give low support to leaving policy unchanged and letting the market adapt. Tax and worker voice remain divided. (n = 52)
+Oppose leaving policy unchanged and letting the market adapt. Tax and worker voice remain divided. (n = 52)
 
 ## Presenter notes
 
 Give participants just enough context to begin. These findings are starting points, not conclusions they must accept.
 
-Online participants support active governance rather than waiting for the labour market to adjust by itself. Worker AI training receives 69% high support, restricting fully automated hiring, firing, or evaluation receives 76% high support, and 62% give low support to leaving current policy unchanged.
+Online participants support active governance rather than waiting for the labour market to adjust by itself. 69% support worker AI training, 76% support limits on fully automated hiring, firing, or evaluation, and 62% oppose leaving current policy unchanged.
 
-The direction is clearer than the mechanism. An AI or automation tax splits 20% low, 38% middle, and 42% high support. Worker voice before workplace introduction splits 17% low, 36% middle, and 47% high support. Use these disagreements to open the room rather than settle the issue.
+The direction is clearer than the mechanism. On an AI or automation tax, 20% oppose it, 38% fall in the middle, and 42% support it. On worker voice before workplace introduction, 17% oppose it, 36% fall in the middle, and 47% support it. Use these disagreements to open the room rather than settle the issue.
 
 The online phase was exploratory and not representative. Valid denominators vary by item, and 84% of respondents who specified education hold at least a bachelor’s degree. Invite participants to challenge, qualify, or add to these insights.
 
@@ -633,7 +633,7 @@ Start with the main question. Use a generic entry point only if needed; do not t
 
 The prompts combine three survey tensions: broad acceptance of AI assistance but not unaccountable consequential decisions; useful innovation versus precaution; and strong concern about manipulation alongside support for public participation in regulation.
 
-If the room needs a concrete prompt, online respondents saw stronger democratic risks than benefits: 86% gave high agreement that AI content may increase polarisation, 78% that AI can manipulate opinions, and 74% that truth may become harder to identify. Yet 79% of 72 respondents would probably or definitely support public votes or citizen consultations on AI regulation. In public services, the most common position was “AI can support, but humans decide” (40 of 71; 56%). Ask what this implies for safeguards, human responsibility, and citizen voice.
+If the room needs a concrete prompt, online respondents saw stronger democratic risks than benefits: 86% agree that AI content may increase polarisation, 78% agree that AI can manipulate opinions, and 74% agree that truth may become harder to identify. Yet 79% of 72 respondents would probably or definitely support public votes or citizen consultations on AI regulation. In public services, the most common position was “AI can support, but humans decide” (40 of 71; 56%). Ask what this implies for safeguards, human responsibility, and citizen voice.
 
 Use 1 minute to introduce the question, 2 minutes for table discussion, 2 minutes to share and correct Murmi statements, 1 minute for voting, and 2 minutes for the AI-supported three-column synthesis.
 
