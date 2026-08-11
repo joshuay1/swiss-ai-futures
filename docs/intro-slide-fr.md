@@ -257,7 +257,7 @@ Document d’information des participants.
 
 À la table assistée par l’IA, signalez que vous souhaitez parler. Nous vous passerons le microphone commun ; parlez en le tenant, puis transmettez-le à la personne suivante.
 
-## Transcription uniquement — aucun fichier audio
+## Transcription uniquement : aucun fichier audio
 
 Le microphone transmet directement la parole pour la transcription par IA. Aucun fichier audio n’est créé ni conservé.
 
@@ -386,7 +386,7 @@ Expriment un soutien élevé à la formation des travailleurs à l’IA. (n = 51
 
 Expriment un soutien élevé à la limitation de l’embauche, du licenciement ou de l’évaluation entièrement automatisés. (n = 54)
 
-## Agir — mais comment ?
+## Agir, mais comment ?
 
 **62 %**
 

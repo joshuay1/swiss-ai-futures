@@ -9,9 +9,9 @@
   document.documentElement.lang = language;
 
   const sourceUrls = {
-    en: "../docs/intro-slide.md?v=20260810-20",
-    de: "../docs/intro-slide-de.md?v=20260810-20",
-    fr: "../docs/intro-slide-fr.md?v=20260810-20"
+    en: "../docs/intro-slide.md?v=20260811-1",
+    de: "../docs/intro-slide-de.md?v=20260811-1",
+    fr: "../docs/intro-slide-fr.md?v=20260811-1"
   };
 
   const SOURCE_URL = sourceUrls[language];
@@ -962,7 +962,7 @@
     elements.totalSlides.textContent = String(state.slides.length).padStart(2, "0");
     elements.progressFill.style.transform = `scaleX(${(state.index + 1) / state.slides.length})`;
     elements.themeColor.setAttribute("content", themeColors[slide.phase]);
-    document.title = `${String(slide.number).padStart(2, "0")} · ${slide.title} — Swiss AI Futures`;
+    document.title = `${String(slide.number).padStart(2, "0")} · ${slide.title} · Swiss AI Futures`;
     renderNotes(slide);
     resetTimerForSlide(slide);
     updateOverviewCurrent();

@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const SOURCE_URL = "../docs/moderator-protocol-run-of-show.md";
+  const SOURCE_URL = "../docs/moderator-protocol-run-of-show.md?v=20260811-1";
   const params = new URLSearchParams(window.location.search);
   const city = params.get("city")?.toLowerCase() === "lausanne" ? "lausanne" : "zurich";
   const supportedLanguages = city === "lausanne" ? ["en", "fr"] : ["en", "de"];

@@ -257,7 +257,7 @@ Project participant brief and public project page.
 
 At the AI-supported table, signal when you want to speak. We will pass you the shared microphone; speak while holding it, then pass it on.
 
-## Transcription only — no audio file
+## Transcription only: no audio file
 
 The microphone sends speech directly for AI transcription. No audio file is created or kept.
 
@@ -372,7 +372,7 @@ Swiss AI Futures Moderator Guide, sections 3–7.
 
 ## On-screen copy
 
-# AI use is routine — but respondents want strong school guardrails
+# AI use is routine, but respondents want strong school guardrails
 
 ## Use often, verify
 
@@ -507,7 +507,7 @@ Give high support to worker AI training. (n = 51)
 
 Give high support to restricting fully automated hiring, firing, or evaluation. (n = 54)
 
-## Act — but how?
+## Act, but how?
 
 **62%**
 

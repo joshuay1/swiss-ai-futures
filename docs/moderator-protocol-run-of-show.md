@@ -195,7 +195,7 @@ For the board, the moderator is responsible for clustering, naming clusters, rec
 
 The human moderator still facilitates the discussion. Murmi supports capture, cross-group sharing, voting, and synthesis.
 
-Murmi is an experimental project exploring how AI can support—not replace—deliberation. It grew from this TA-SWISS project, is being developed with Carbon Copy, and draws on vTaiwan’s experience with deliberation.
+Murmi is an experimental project exploring how AI can support deliberation rather than replace it. It grew from this TA-SWISS project, is being developed with Carbon Copy, and draws on vTaiwan’s experience with deliberation.
 
 ### Before creating the session
 

@@ -257,7 +257,7 @@ Projektunterlagen für Teilnehmende.
 
 Am KI-unterstützten Tisch melden Sie sich, wenn Sie sprechen möchten. Wir reichen Ihnen das gemeinsame Mikrofon; sprechen Sie mit dem Mikrofon in der Hand und geben Sie es danach weiter.
 
-## Nur Transkription — keine Audiodatei
+## Nur Transkription: keine Audiodatei
 
 Das Mikrofon leitet die Sprache direkt zur KI-Transkription weiter. Es wird keine Audiodatei erstellt oder gespeichert.
 
@@ -386,7 +386,7 @@ Unterstützen KI-Schulungen für Beschäftigte stark. (n = 51)
 
 Unterstützen Grenzen für vollautomatisierte Einstellung, Entlassung oder Bewertung stark. (n = 54)
 
-## Handeln — aber wie?
+## Handeln, aber wie?
 
 **62 %**
 
@@ -491,7 +491,7 @@ Swiss AI Futures Moderator Guide, Abschnitt 10.
 
 ## On-screen copy
 
-# KI-Nutzung ist Alltag — doch Befragte wollen klare Schutzplanken in Schulen
+# KI-Nutzung ist Alltag, doch Befragte wollen klare Schutzplanken in Schulen
 
 ## Häufig nutzen, kritisch prüfen
 
