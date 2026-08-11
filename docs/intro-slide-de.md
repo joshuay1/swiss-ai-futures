@@ -5,7 +5,7 @@ subtitle: "Perspektiven der Bevölkerung auf KI in Arbeit, Bildung und Schweizer
 date: "[Workshop-Datum]"
 location: "[Zürich]"
 format: "16:9-Präsentation mit Moderationsnotizen"
-version: "18-Folien-Deck gemäss Moderationsprotokoll"
+version: "19-Folien-Deck gemäss Moderationsprotokoll"
 -------------------------------------------
 
 # Slide 1. Swiss AI Futures
@@ -117,7 +117,53 @@ Die Moderation darf eingreifen, um gleichberechtigte Beteiligung und eine konstr
 
 ---
 
-# Slide 4. Dokumente auf dem Tisch
+# Slide 4. Wie die heutige Diskussion aufgezeichnet wird
+
+## On-screen copy
+
+# Ihre Worte, Ihre Wahl
+
+## Mikrofon weiterreichen
+
+Am KI-unterstützten Tisch melden Sie sich, wenn Sie sprechen möchten. Wir reichen Ihnen das gemeinsame Mikrofon; sprechen Sie mit dem Mikrofon in der Hand und geben Sie es danach weiter.
+
+## Nur Transkription: keine Audiodatei
+
+Das Mikrofon leitet die Sprache direkt zur KI-Transkription weiter. Es wird keine Audiodatei erstellt oder gespeichert.
+
+## Standardmässig anonym
+
+Das codierte Transkript verwendet Teilnehmendencodes statt Namen; Murmi-Aussagen können Initialen zeigen. Volltranskripte werden nicht veröffentlicht; identifizierende Zitate benötigen eine separate schriftliche Zustimmung.
+
+## Fotos zur Dokumentation
+
+Mit Ihrer Zustimmung können wir einige Fotos machen, um den Ablauf zu dokumentieren. Sie können ablehnen; vor jeder Online-Veröffentlichung werden alle Gesichter unkenntlich gemacht.
+
+## Presenter notes
+
+Erklären Sie dies, bevor die Diskussion beginnt.
+
+Zeigen Sie das gemeinsame Mikrofon. Erklären Sie, dass es nur am KI-unterstützten Tisch genutzt und von Person zu Person weitergereicht wird. Die Teilnehmenden melden sich, warten, bis sie das Mikrofon erhalten, sprechen mit dem Mikrofon in der Hand und geben es danach weiter. Das schafft klare Gesprächswechsel und hilft, jeden Beitrag im Transkript zu erfassen.
+
+Das Mikrofon dient ausschliesslich als Eingang für die Live-Transkription. Die Sprache wird live an OpenAI Whisper gesendet; es wird keine Audiodatei erstellt oder gespeichert. An menschlich moderierten Tischen gibt es kein Mikrofon, keine Audioerfassung, keine automatische Transkription und keine OpenAI-Verarbeitung.
+
+Als Forschungsdatensatz bleibt ein codiertes Transkript. Identifizierende Angaben werden getrennt gespeichert, und Volltranskripte werden nicht veröffentlicht. Murmi-Aussagen können die von den Teilnehmenden eingegebenen Initialen anzeigen; lösen Sie diese Initialen nicht zu einem Namen auf.
+
+Die aktuelle einseitige Einwilligung erlaubt anonymisierte oder sinngemässe Zitate. Sie enthält noch keine optionale Wahl für die Zuordnung eines Namens oder Kurzprofils. Verknüpfen Sie ein Zitat nur dann mit Name, Beruf, Alter, Kanton oder anderen Profildaten, wenn eine separate ausdrückliche schriftliche Zustimmung in den genehmigten Einwilligungsprozess aufgenommen wurde.
+
+Machen Sie keine Fotos, solange die Fotografie nicht durch die genehmigte Teilnehmendeninformation und den Einwilligungsprozess abgedeckt ist. Kündigen Sie jedes Foto vorher an und geben Sie den Teilnehmenden eine klare Möglichkeit, abzulehnen oder den Bildbereich zu verlassen. Erfassen Sie keine Namensschilder, ausgefüllten Formulare oder Bildschirme mit Teilnehmendeninformationen. Machen Sie vor jeder Online-Veröffentlichung alle Gesichter unkenntlich.
+
+### Sources
+
+Teilnehmendeninformation und Einwilligung, Deutsch, 7. August 2026.
+
+## Timing
+
+2 Minuten.
+
+---
+
+# Slide 5. Dokumente auf dem Tisch
 
 ## On-screen copy
 
@@ -151,7 +197,7 @@ Erklären Sie, dass das Entschädigungsformular erst am Ende und nur von Teilneh
 
 ---
 
-# Slide 5. Der heutige Ablauf
+# Slide 6. Der heutige Ablauf
 
 ## On-screen copy
 
@@ -211,7 +257,7 @@ Swiss AI Futures Moderator Guide, Abschnitte 1–2.
 
 ---
 
-# Slide 6. Was danach geschieht
+# Slide 7. Was danach geschieht
 
 ## On-screen copy
 
@@ -244,54 +290,6 @@ Projektunterlagen für Teilnehmende.
 ## Timing
 
 2 Minuten.
-
----
-
-# Slide 7. Wie die heutige Diskussion aufgezeichnet wird
-
-## On-screen copy
-
-# Ihre Worte, Ihre Wahl
-
-## Mikrofon weiterreichen
-
-Am KI-unterstützten Tisch melden Sie sich, wenn Sie sprechen möchten. Wir reichen Ihnen das gemeinsame Mikrofon; sprechen Sie mit dem Mikrofon in der Hand und geben Sie es danach weiter.
-
-## Nur Transkription: keine Audiodatei
-
-Das Mikrofon leitet die Sprache direkt zur KI-Transkription weiter. Es wird keine Audiodatei erstellt oder gespeichert.
-
-## Standardmässig anonym
-
-Das codierte Transkript verwendet Teilnehmendencodes statt Namen; Murmi-Aussagen können Initialen zeigen. Volltranskripte werden nicht veröffentlicht; identifizierende Zitate benötigen eine separate schriftliche Zustimmung.
-
-## Fotos zur Dokumentation
-
-Mit Ihrer Zustimmung können wir einige Fotos machen, um den Ablauf zu dokumentieren. Sie können ablehnen; vor jeder Online-Veröffentlichung werden alle Gesichter unkenntlich gemacht.
-
-## Presenter notes
-
-Erklären Sie dies, bevor die Diskussion beginnt.
-
-Zeigen Sie das gemeinsame Mikrofon. Erklären Sie, dass es nur am KI-unterstützten Tisch genutzt und von Person zu Person weitergereicht wird. Die Teilnehmenden melden sich, warten, bis sie das Mikrofon erhalten, sprechen mit dem Mikrofon in der Hand und geben es danach weiter. Das schafft klare Gesprächswechsel und hilft, jeden Beitrag im Transkript zu erfassen.
-
-Das Mikrofon dient ausschliesslich als Eingang für die Live-Transkription. Die Sprache wird live an OpenAI Whisper gesendet; es wird keine Audiodatei erstellt oder gespeichert. An menschlich moderierten Tischen gibt es kein Mikrofon, keine Audioerfassung, keine automatische Transkription und keine OpenAI-Verarbeitung.
-
-Als Forschungsdatensatz bleibt ein codiertes Transkript. Identifizierende Angaben werden getrennt gespeichert, und Volltranskripte werden nicht veröffentlicht. Murmi-Aussagen können die von den Teilnehmenden eingegebenen Initialen anzeigen; lösen Sie diese Initialen nicht zu einem Namen auf.
-
-Die aktuelle einseitige Einwilligung erlaubt anonymisierte oder sinngemässe Zitate. Sie enthält noch keine optionale Wahl für die Zuordnung eines Namens oder Kurzprofils. Verknüpfen Sie ein Zitat nur dann mit Name, Beruf, Alter, Kanton oder anderen Profildaten, wenn eine separate ausdrückliche schriftliche Zustimmung in den genehmigten Einwilligungsprozess aufgenommen wurde.
-
-Machen Sie keine Fotos, solange die Fotografie nicht durch die genehmigte Teilnehmendeninformation und den Einwilligungsprozess abgedeckt ist. Kündigen Sie jedes Foto vorher an und geben Sie den Teilnehmenden eine klare Möglichkeit, abzulehnen oder den Bildbereich zu verlassen. Erfassen Sie keine Namensschilder, ausgefüllten Formulare oder Bildschirme mit Teilnehmendeninformationen. Machen Sie vor jeder Online-Veröffentlichung alle Gesichter unkenntlich.
-
-### Sources
-
-Teilnehmendeninformation und Einwilligung, Deutsch, 7. August 2026.
-
-## Timing
-
-2 Minuten.
-
----
 
 # Slide 8. Murmi kennenlernen
 

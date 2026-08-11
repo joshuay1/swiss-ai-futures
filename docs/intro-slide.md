@@ -5,7 +5,7 @@ subtitle: "Citizen Perspectives on AI at Work, AI in Education, and AI for Swiss
 date: "[Workshop date]"
 location: "[Zurich / Lausanne]"
 format: "16:9 presentation with speaker notes"
-version: "18-slide moderator-protocol deck"
+version: "19-slide moderator-protocol deck"
 -------------------------------------------
 
 # Slide 1. Swiss AI Futures
@@ -117,7 +117,53 @@ The moderator may step in to protect equal participation and keep the discussion
 
 ---
 
-# Slide 4. Documents on the table
+# Slide 4. How today’s discussion is recorded
+
+## On-screen copy
+
+# Your words, your choices
+
+## Pass the microphone
+
+At the AI-supported table, signal when you want to speak. We will pass you the shared microphone; speak while holding it, then pass it on.
+
+## Transcription only: no audio file
+
+The microphone sends speech directly for AI transcription. No audio file is created or kept.
+
+## Anonymous by default
+
+The coded transcript uses participant codes, not names; Murmi statements may show initials. Full transcripts are not published, and identified quotes need separate written permission.
+
+## Documentation photos
+
+With your permission, we may take a few photos to document the procedure. You may opt out; every face will be blurred before any online publication.
+
+## Presenter notes
+
+Explain this before any discussion begins.
+
+Hold up the shared microphone. Explain that it is used only at the AI-supported table and will be passed from speaker to speaker. Ask participants to signal when they want to contribute, wait until the microphone reaches them, speak while holding it, and then pass it on. This supports clear turn-taking and helps each contribution reach the transcript.
+
+The microphone is only an input for live transcription. Speech is sent live to OpenAI Whisper, and no audio file is created or retained. Human-moderated tables have no microphone, audio capture, automated transcription, or OpenAI processing.
+
+The retained research record is a coded transcript. Identifying information is stored separately, and full transcripts are not published. Murmi statements may display the initials participants enter; do not expand those initials into a name.
+
+The current one-page consent form authorizes anonymised or paraphrased quotations. It does not yet include an optional name or profile-attribution choice. Do not attach a name, occupation, age, canton, or other profile information to a quotation unless a separate explicit written opt-in has been added to the approved consent process.
+
+Do not take photos unless photography is covered by the approved participant information and consent process. Before taking a photo, announce it and give participants a clear chance to opt out or move out of frame. Avoid capturing name tags, completed forms, or screens containing participant information. Blur every face before any photo is published online.
+
+### Sources
+
+Workshop Participant Information and Consent, English, 7 August 2026.
+
+## Timing
+
+2 minutes.
+
+---
+
+# Slide 5. Documents on the table
 
 ## On-screen copy
 
@@ -151,7 +197,7 @@ Explain that the compensation form is completed at the end and only by participa
 
 ---
 
-# Slide 5. Today’s schedule
+# Slide 6. Today’s schedule
 
 ## On-screen copy
 
@@ -211,7 +257,7 @@ Swiss AI Futures Moderator Guide, sections 1–2.
 
 ---
 
-# Slide 6. What happens next
+# Slide 7. What happens next
 
 ## On-screen copy
 
@@ -244,54 +290,6 @@ Project participant brief and public project page.
 ## Timing
 
 2 minutes.
-
----
-
-# Slide 7. How today’s discussion is recorded
-
-## On-screen copy
-
-# Your words, your choices
-
-## Pass the microphone
-
-At the AI-supported table, signal when you want to speak. We will pass you the shared microphone; speak while holding it, then pass it on.
-
-## Transcription only: no audio file
-
-The microphone sends speech directly for AI transcription. No audio file is created or kept.
-
-## Anonymous by default
-
-The coded transcript uses participant codes, not names; Murmi statements may show initials. Full transcripts are not published, and identified quotes need separate written permission.
-
-## Documentation photos
-
-With your permission, we may take a few photos to document the procedure. You may opt out; every face will be blurred before any online publication.
-
-## Presenter notes
-
-Explain this before any discussion begins.
-
-Hold up the shared microphone. Explain that it is used only at the AI-supported table and will be passed from speaker to speaker. Ask participants to signal when they want to contribute, wait until the microphone reaches them, speak while holding it, and then pass it on. This supports clear turn-taking and helps each contribution reach the transcript.
-
-The microphone is only an input for live transcription. Speech is sent live to OpenAI Whisper, and no audio file is created or retained. Human-moderated tables have no microphone, audio capture, automated transcription, or OpenAI processing.
-
-The retained research record is a coded transcript. Identifying information is stored separately, and full transcripts are not published. Murmi statements may display the initials participants enter; do not expand those initials into a name.
-
-The current one-page consent form authorizes anonymised or paraphrased quotations. It does not yet include an optional name or profile-attribution choice. Do not attach a name, occupation, age, canton, or other profile information to a quotation unless a separate explicit written opt-in has been added to the approved consent process.
-
-Do not take photos unless photography is covered by the approved participant information and consent process. Before taking a photo, announce it and give participants a clear chance to opt out or move out of frame. Avoid capturing name tags, completed forms, or screens containing participant information. Blur every face before any photo is published online.
-
-### Sources
-
-Workshop Participant Information and Consent, English, 7 August 2026.
-
-## Timing
-
-2 minutes.
-
----
 
 # Slide 8. Meet Murmi
 

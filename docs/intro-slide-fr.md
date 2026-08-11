@@ -5,7 +5,7 @@ subtitle: "Perspectives citoyennes sur l’IA au travail, dans l’éducation et
 date: "[Date de l’atelier]"
 location: "[Lausanne]"
 format: "Présentation 16:9 avec notes de facilitation"
-version: "Présentation en 18 diapositives selon le protocole"
+version: "Présentation en 19 diapositives selon le protocole"
 -------------------------------------------
 
 # Slide 1. Swiss AI Futures
@@ -117,7 +117,53 @@ La modération peut intervenir pour garantir une participation équitable et une
 
 ---
 
-# Slide 4. Documents sur la table
+# Slide 4. Comment la discussion est transcrite
+
+## On-screen copy
+
+# Vos paroles, votre choix
+
+## Faire circuler le microphone
+
+À la table assistée par l’IA, signalez que vous souhaitez parler. Nous vous passerons le microphone commun ; parlez en le tenant, puis transmettez-le à la personne suivante.
+
+## Transcription uniquement : aucun fichier audio
+
+Le microphone transmet directement la parole pour la transcription par IA. Aucun fichier audio n’est créé ni conservé.
+
+## Anonyme par défaut
+
+La transcription codée utilise des codes, pas des noms ; les propositions Murmi peuvent afficher des initiales. Les transcriptions complètes ne sont pas publiées ; toute citation identifiable nécessite une autorisation écrite séparée.
+
+## Photos de documentation
+
+Avec votre accord, nous pouvons prendre quelques photos pour documenter le déroulement. Vous pouvez refuser ; tous les visages seront floutés avant toute publication en ligne.
+
+## Presenter notes
+
+Expliquez ceci avant toute discussion.
+
+Montrez le microphone commun. Expliquez qu’il est utilisé uniquement à la table assistée par l’IA et qu’il circule d’une personne à l’autre. Les participants signalent qu’ils souhaitent contribuer, attendent de recevoir le microphone, parlent en le tenant, puis le transmettent. Cela clarifie les tours de parole et aide à intégrer chaque contribution dans la transcription.
+
+Le microphone sert uniquement d’entrée pour la transcription en direct. La parole est envoyée à OpenAI Whisper ; aucun fichier audio n’est créé ni conservé. Aux tables avec modération humaine, il n’y a ni microphone, ni captation audio, ni transcription automatisée, ni traitement OpenAI.
+
+Le dossier de recherche conservé est une transcription codée. Les informations d’identification sont stockées séparément, et les transcriptions complètes ne sont pas publiées. Les propositions Murmi peuvent afficher les initiales saisies par les participants ; ne transformez pas ces initiales en nom.
+
+Le formulaire de consentement actuel d’une page autorise les citations anonymisées ou reformulées. Il ne contient pas encore de choix facultatif pour attribuer un nom ou un bref profil. N’associez une citation au nom, à la profession, à l’âge, au canton ou à d’autres informations de profil que si une autorisation écrite distincte et explicite a été ajoutée au processus de consentement approuvé.
+
+Ne prenez aucune photo tant que la photographie n’est pas couverte par l’information approuvée des participants et le processus de consentement. Annoncez chaque photo à l’avance et donnez aux participants une possibilité claire de refuser ou de sortir du cadre. Évitez de photographier les badges nominatifs, les formulaires remplis ou les écrans contenant des informations sur les participants. Floutez tous les visages avant toute publication en ligne.
+
+### Sources
+
+Information et consentement des personnes participantes, français, 7 août 2026.
+
+## Timing
+
+2 minutes.
+
+---
+
+# Slide 5. Documents sur la table
 
 ## On-screen copy
 
@@ -151,7 +197,7 @@ Expliquez que le formulaire d’indemnisation est rempli à la fin, uniquement p
 
 ---
 
-# Slide 5. Programme du jour
+# Slide 6. Programme du jour
 
 ## On-screen copy
 
@@ -211,7 +257,7 @@ Swiss AI Futures Moderator Guide, sections 1 à 2.
 
 ---
 
-# Slide 6. Ce qui se passe ensuite
+# Slide 7. Ce qui se passe ensuite
 
 ## On-screen copy
 
@@ -244,54 +290,6 @@ Document d’information des participants.
 ## Timing
 
 2 minutes.
-
----
-
-# Slide 7. Comment la discussion est transcrite
-
-## On-screen copy
-
-# Vos paroles, votre choix
-
-## Faire circuler le microphone
-
-À la table assistée par l’IA, signalez que vous souhaitez parler. Nous vous passerons le microphone commun ; parlez en le tenant, puis transmettez-le à la personne suivante.
-
-## Transcription uniquement : aucun fichier audio
-
-Le microphone transmet directement la parole pour la transcription par IA. Aucun fichier audio n’est créé ni conservé.
-
-## Anonyme par défaut
-
-La transcription codée utilise des codes, pas des noms ; les propositions Murmi peuvent afficher des initiales. Les transcriptions complètes ne sont pas publiées ; toute citation identifiable nécessite une autorisation écrite séparée.
-
-## Photos de documentation
-
-Avec votre accord, nous pouvons prendre quelques photos pour documenter le déroulement. Vous pouvez refuser ; tous les visages seront floutés avant toute publication en ligne.
-
-## Presenter notes
-
-Expliquez ceci avant toute discussion.
-
-Montrez le microphone commun. Expliquez qu’il est utilisé uniquement à la table assistée par l’IA et qu’il circule d’une personne à l’autre. Les participants signalent qu’ils souhaitent contribuer, attendent de recevoir le microphone, parlent en le tenant, puis le transmettent. Cela clarifie les tours de parole et aide à intégrer chaque contribution dans la transcription.
-
-Le microphone sert uniquement d’entrée pour la transcription en direct. La parole est envoyée à OpenAI Whisper ; aucun fichier audio n’est créé ni conservé. Aux tables avec modération humaine, il n’y a ni microphone, ni captation audio, ni transcription automatisée, ni traitement OpenAI.
-
-Le dossier de recherche conservé est une transcription codée. Les informations d’identification sont stockées séparément, et les transcriptions complètes ne sont pas publiées. Les propositions Murmi peuvent afficher les initiales saisies par les participants ; ne transformez pas ces initiales en nom.
-
-Le formulaire de consentement actuel d’une page autorise les citations anonymisées ou reformulées. Il ne contient pas encore de choix facultatif pour attribuer un nom ou un bref profil. N’associez une citation au nom, à la profession, à l’âge, au canton ou à d’autres informations de profil que si une autorisation écrite distincte et explicite a été ajoutée au processus de consentement approuvé.
-
-Ne prenez aucune photo tant que la photographie n’est pas couverte par l’information approuvée des participants et le processus de consentement. Annoncez chaque photo à l’avance et donnez aux participants une possibilité claire de refuser ou de sortir du cadre. Évitez de photographier les badges nominatifs, les formulaires remplis ou les écrans contenant des informations sur les participants. Floutez tous les visages avant toute publication en ligne.
-
-### Sources
-
-Information et consentement des personnes participantes, français, 7 août 2026.
-
-## Timing
-
-2 minutes.
-
----
 
 # Slide 8. Découvrir Murmi
 
