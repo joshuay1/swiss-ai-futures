@@ -9,9 +9,9 @@
   document.documentElement.lang = language;
 
   const sourceUrls = {
-    en: "../docs/intro-slide.md?v=20260811-2",
-    de: "../docs/intro-slide-de.md?v=20260811-2",
-    fr: "../docs/intro-slide-fr.md?v=20260811-2"
+    en: "../docs/intro-slide.md?v=20260811-3",
+    de: "../docs/intro-slide-de.md?v=20260811-3",
+    fr: "../docs/intro-slide-fr.md?v=20260811-3"
   };
 
   const SOURCE_URL = sourceUrls[language];
@@ -76,9 +76,10 @@
     13: { phase: secondRoundPhase, mode: "evidence", layout: "focus", timer: 3, fragments: "sections" },
     14: { phase: secondRoundPhase, mode: "topic", layout: "topic", timer: 27, fragments: "sections", murmiLink: true },
     15: { phase: secondRoundPhase, mode: "survey", layout: "survey", timer: 10 },
-    16: { phase: "future", mode: "topic", layout: "topic", timer: 10, fragments: "sections", murmiLink: true },
-    17: { phase: "future", mode: "report", layout: "closing", timer: 5, fragments: "sections" },
-    18: { phase: "future", mode: "impact", layout: "closing", timer: 5, fragments: "sections" }
+    16: { phase: "future", mode: "evidence", layout: "focus", timer: 2, fragments: "sections" },
+    17: { phase: "future", mode: "topic", layout: "topic", timer: 8, fragments: "sections", murmiLink: true },
+    18: { phase: "future", mode: "report", layout: "closing", timer: 5, fragments: "sections" },
+    19: { phase: "future", mode: "impact", layout: "closing", timer: 5, fragments: "sections" }
   };
 
   const phaseLabelsByLanguage = {
@@ -105,7 +106,7 @@
   const modeLabelsByLanguage = {
     en: {
       context: "Project context",
-      evidence: "Previous insights",
+      evidence: "Your survey responses",
       process: "How today works",
       documents: "Before we begin",
       schedule: "Today’s plan",
@@ -118,7 +119,7 @@
     },
     de: {
       context: "Projektkontext",
-      evidence: "Bisherige Erkenntnisse",
+      evidence: "Ihre Umfrageantworten",
       process: "So läuft der Workshop",
       documents: "Vor dem Start",
       schedule: "Heutiger Ablauf",
@@ -131,7 +132,7 @@
     },
     fr: {
       context: "Contexte du projet",
-      evidence: "Résultats précédents",
+      evidence: "Vos réponses à l’enquête",
       process: "Déroulement de l’atelier",
       documents: "Avant de commencer",
       schedule: "Programme du jour",

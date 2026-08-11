@@ -372,39 +372,39 @@ Swiss AI Futures Moderator Guide, sections 3 à 7.
 
 ## On-screen copy
 
-# Les répondants veulent soutenir les travailleurs et limiter les décisions automatisées
+# Les répondants soutiennent le contrôle humain et rejettent l’adaptation par le seul marché
 
-## Former les travailleurs
+## Garder les humains responsables
 
-**69 %**
+**79 %**
 
-Soutiennent la formation des travailleurs à l’IA. (n = 51)
+Soutiennent des limites à l’embauche, au licenciement ou à l’évaluation des performances entièrement automatisés. (n = 73)
 
-## Maintenir la responsabilité humaine
+## Ne pas laisser faire le marché
 
-**76 %**
+**56 %**
 
-Soutiennent des limites à l’embauche, au licenciement ou à l’évaluation entièrement automatisés. (n = 54)
+S’opposent au maintien des politiques actuelles et à l’adaptation par le seul marché du travail. (n = 72)
 
-## Agir, mais comment ?
+## Donner une voix aux travailleurs ?
 
-**62 %**
+**16 / 36 / 48 %**
 
-S’opposent au maintien de la politique actuelle et à l’adaptation par le seul marché. Taxe et voix des travailleurs divisent. (n = 52)
+16 % s’y opposent, 36 % ont une position intermédiaire et 48 % soutiennent la participation des travailleurs avant l’introduction de l’IA. (n = 73)
 
 ## Presenter notes
 
-Donnez uniquement le contexte nécessaire pour commencer. Ces résultats sont des points de départ, pas des conclusions imposées.
+Donnez uniquement le contexte nécessaire pour commencer. Ce sont les réponses des participants à l’enquête en ligne et des points de départ pour la discussion, pas des conclusions imposées.
 
-Les participants en ligne soutiennent une action publique plutôt que d’attendre que le marché du travail s’adapte seul. 69 % soutiennent la formation des travailleurs à l’IA, 76 % soutiennent des limites aux décisions d’emploi entièrement automatisées, et 62 % s’opposent au maintien de la politique actuelle.
+79 % soutiennent des limites aux décisions d’emploi entièrement automatisées. 56 % s’opposent au maintien des politiques actuelles et à une adaptation laissée au seul marché du travail.
 
-La direction est plus claire que l’instrument. Concernant une taxe sur l’IA ou l’automatisation, 20 % s’y opposent, 38 % ont une position intermédiaire et 42 % la soutiennent. Concernant la participation des travailleurs avant l’introduction de l’IA, 17 % s’y opposent, 36 % ont une position intermédiaire et 47 % la soutiennent. Utilisez ces divergences pour ouvrir la discussion.
+Les instruments divisent davantage. Concernant la participation des travailleurs avant l’introduction de l’IA, 16 % s’y opposent, 36 % ont une position intermédiaire et 48 % la soutiennent. Concernant une taxe sur l’IA ou l’automatisation, 19 % s’y opposent, 40 % ont une position intermédiaire et 41 % la soutiennent. Utilisez ces divergences pour ouvrir la discussion.
 
-La phase en ligne est exploratoire et non représentative. Le nombre de réponses valides varie selon les questions ; 84 % des personnes ayant indiqué leur formation possèdent au moins un bachelor. Invitez les participants à contester, préciser ou compléter ces résultats.
+La phase en ligne est exploratoire et non représentative. Le nombre de réponses valides varie selon les questions ; 103 réponses ont été incluses après vérification. Invitez les participants à contester, préciser ou compléter ces résultats.
 
 ### Sources
 
-Online Survey Main Findings, échantillon élargi de 81 répondants inclus, résultats 5 et 6.
+Updated Survey Findings, 103 réponses incluses après vérification, thèmes du travail et du marché du travail.
 
 ## Timing
 
@@ -427,7 +427,7 @@ Online Survey Main Findings, échantillon élargi de 81 répondants inclus, rés
 
 Si une gouvernance active est nécessaire, qui paie, qui décide et comment partager les gains de productivité ?
 
-### Source : enquête exploratoire Swiss AI Futures · 81 répondants inclus
+### Source : enquête exploratoire Swiss AI Futures · 103 réponses incluses
 
 ## Presenter notes
 
@@ -447,7 +447,7 @@ Protégez les 9 dernières minutes pour la synthèse, les corrections et la conf
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, sections 3 à 6 et 10. Online Survey Main Findings, échantillon élargi de 81 répondants inclus, résultats 5 et 6.
+Swiss AI Futures Moderator Guide, sections 3 à 6 et 10. Updated Survey Findings, 103 réponses incluses après vérification, thème du travail et du marché du travail.
 
 ## Timing
 
@@ -491,41 +491,41 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ## On-screen copy
 
-# L’usage de l’IA est courant, mais les répondants veulent des garde-fous à l’école
+# Les répondants soutiennent la maîtrise de l’IA et la pensée autonome
 
-## Utiliser souvent, vérifier
+## Apprendre à vérifier
 
-**67 %**
+**92 %**
 
-Utilisent l’IA tous les jours ou presque. Seuls 12 % lui font fortement confiance ; 63 % vérifient souvent ou toujours. (n = 81 ; vérification n = 79)
+Soutiennent l’apprentissage de la vérification des erreurs et biais dans les informations générées par l’IA. (n = 75)
 
-## Des garde-fous clairs
+## Protéger la pensée autonome
 
-**93 %**
+**77 %**
 
-Soutiennent l’apprentissage de la vérification des erreurs et biais de l’IA. 89 % soutiennent la protection des données ; 85 % soutiennent des règles claires. (n = 54)
+Estiment qu’une dépendance excessive à l’IA peut affaiblir la pensée critique et autonome. (n = 83)
 
 ## Les limites restent contestées
 
-**26 / 37 / 37 %**
+**23 / 36 / 41 %**
 
-26 % s’opposent aux limites, 37 % ont une position intermédiaire et 37 % soutiennent la limitation de l’IA pour préserver les apprentissages traditionnels. (n = 54)
+23 % s’opposent aux limites, 36 % ont une position intermédiaire et 41 % soutiennent la limitation de l’IA pour préserver les apprentissages traditionnels. (n = 74)
 
 ## Presenter notes
 
-Donnez uniquement le contexte nécessaire pour commencer. Ces résultats sont des points de départ, pas des conclusions imposées.
+Donnez uniquement le contexte nécessaire pour commencer. Ce sont les réponses des participants à l’enquête en ligne et des points de départ pour la discussion, pas des conclusions imposées.
 
-Commencez par la tension pratique : 54 répondants sur 81 utilisent l’IA tous les jours ou presque, mais seuls 12 % font fortement confiance aux textes générés par l’IA. Parmi les 79 personnes ayant répondu à la question de vérification, 50 contrôlent souvent ou toujours une réponse avant de s’y fier.
+92 % soutiennent l’apprentissage de la vérification des erreurs et biais dans les informations générées par l’IA. D’autres garde-fous sont également soutenus : 86 % soutiennent la protection des données des élèves, 85 % des règles claires et 79 % la formation des enseignants.
 
-Les répondants soutiennent plusieurs garde-fous scolaires : 93 % soutiennent l’apprentissage de la vérification des erreurs et biais de l’IA, 89 % soutiennent la protection des données des élèves, 85 % soutiennent des règles claires et 78 % la formation des enseignants. Concernant les limites destinées à protéger les apprentissages traditionnels, 26 % s’y opposent, 37 % ont une position intermédiaire et 37 % les soutiennent.
+La tension porte sur la dépendance. 77 % estiment qu’une dépendance excessive à l’IA peut affaiblir la pensée critique et autonome. Les avis restent partagés sur les limites destinées à protéger les apprentissages traditionnels : 23 % s’y opposent, 36 % ont une position intermédiaire et 41 % les soutiennent.
 
-La phase en ligne est exploratoire et non représentative. Le nombre de réponses valides varie selon les questions ; 84 % des personnes ayant indiqué leur formation possèdent au moins un bachelor.
+La phase en ligne est exploratoire et non représentative. Le nombre de réponses valides varie selon les questions ; 103 réponses ont été incluses après vérification.
 
 Invitez les participants à contester, préciser ou compléter ces résultats.
 
 ### Sources
 
-Online Survey Main Findings, échantillon élargi de 81 répondants inclus, résultats 1, 2 et 6.
+Updated Survey Findings, 103 réponses incluses après vérification, thèmes de l’éducation et des compétences humaines.
 
 ## Timing
 
@@ -548,7 +548,7 @@ Online Survey Main Findings, échantillon élargi de 81 répondants inclus, rés
 
 Comment enseigner les compétences et garde-fous liés à l’IA sans affaiblir l’autonomie ni les apprentissages de base ?
 
-### Source : enquête exploratoire Swiss AI Futures · 81 répondants inclus
+### Source : enquête exploratoire Swiss AI Futures · 103 réponses incluses
 
 ## Presenter notes
 
@@ -568,7 +568,7 @@ Présentez la synthèse Murmi en trois colonnes comme un projet. Vérifiez chaqu
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, sections 3 à 5, 7 et 10. Online Survey Main Findings, échantillon élargi de 81 répondants inclus, résultats 2 et 6.
+Swiss AI Futures Moderator Guide, sections 3 à 5, 7 et 10. Updated Survey Findings, 103 réponses incluses après vérification, thème de l’éducation.
 
 ## Timing
 
@@ -608,7 +608,51 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ---
 
-# Slide 16. IA & Suisse
+# Slide 16. Enseignements en ligne : IA et Suisse
+
+## On-screen copy
+
+# Les répondants estiment que l’IA peut manipuler le débat et soutiennent le contrôle humain
+
+## L’IA peut manipuler les opinions
+
+**82 %**
+
+Estiment que l’IA peut manipuler les opinions et les comportements. (n = 84)
+
+## L’IA peut accroître la polarisation
+
+**81 %**
+
+Estiment que les contenus générés par l’IA peuvent accroître la polarisation politique. (n = 94)
+
+## Les humains doivent décider
+
+**54 %**
+
+Ont choisi « l’IA peut soutenir, mais les humains décident » pour les services publics. (50 sur 92)
+
+## Presenter notes
+
+Dites aux participants qu’il s’agit de leurs réponses à l’enquête en ligne et utilisez-les comme transition vers la discussion finale.
+
+82 % estiment que l’IA peut manipuler les opinions et les comportements, 81 % qu’elle peut accroître la polarisation politique et 74 % qu’elle peut rendre la vérité plus difficile à établir. 19 % soutiennent l’affirmation selon laquelle l’IA peut améliorer la participation démocratique.
+
+Le contrôle humain est également la position la plus fréquente pour les services publics : 50 répondants sur 92 ont choisi « l’IA peut soutenir, mais les humains décident ». Les autres réponses se répartissent entre des usages plus restreints ou plus larges de l’automatisation.
+
+La phase en ligne est exploratoire et non représentative. Le nombre de réponses valides varie selon les questions ; 103 réponses ont été incluses après vérification.
+
+### Sources
+
+Updated Survey Findings, 103 réponses incluses après vérification, thèmes de la démocratie et des services publics.
+
+## Timing
+
+2 minutes.
+
+---
+
+# Slide 17. IA & Suisse
 
 ## On-screen copy
 
@@ -623,33 +667,31 @@ Swiss AI Futures Moderator Guide, section 10.
 
 Comment permettre une IA utile tout en préservant la responsabilité humaine, la confiance et la voix citoyenne ?
 
-### Source : enquête exploratoire Swiss AI Futures · 81 répondants inclus
+### Source : enquête exploratoire Swiss AI Futures · 103 réponses incluses
 
 ## Presenter notes
 
 Cette discussion finale est assistée par Murmi dans les deux salles et ne fait pas partie de la comparaison entre modération humaine et assistée par l’IA.
 
-Commencez par la question principale. Utilisez un point d’entrée général uniquement si nécessaire ; ne traitez pas les deux pistes comme une liste à compléter. Présentez la tension comme un résultat de l’enquête en ligne Swiss AI Futures.
+Commencez par la question principale. Utilisez un point d’entrée général uniquement si nécessaire ; ne traitez pas les deux pistes comme une liste à compléter. Rappelez que la diapositive précédente présentait leurs réponses à l’enquête en ligne.
 
-Les pistes combinent trois tensions de l’enquête : une large acceptation de l’assistance par l’IA, mais pas des décisions lourdes de conséquences sans responsabilité humaine ; innovation utile contre précaution ; et forte inquiétude face à la manipulation, malgré le soutien à la participation publique à la régulation.
+Les pistes combinent trois tensions de l’enquête : assistance par l’IA et responsabilité humaine pour les décisions lourdes de conséquences ; innovation utile et précaution ; risques de manipulation et participation publique à la régulation.
 
-Si la salle a besoin d’un point de départ concret, les répondants en ligne perçoivent davantage de risques démocratiques que de bénéfices : 86 % estiment que l’IA peut accroître la polarisation, 78 % qu’elle peut manipuler les opinions et 74 % qu’elle peut rendre la vérité plus difficile à établir. Pourtant, 79 % des 72 répondants soutiendraient probablement ou certainement des votations ou consultations citoyennes sur la régulation de l’IA. Dans les services publics, la position la plus fréquente est « l’IA peut soutenir, mais les humains décident » (40 sur 71 ; 56 %). Demandez ce que cela implique pour les garde-fous, la responsabilité humaine et la voix citoyenne.
+Si la salle a besoin d’un point de départ concret, revenez aux résultats précédents : 82 % estiment que l’IA peut manipuler les opinions et les comportements, 81 % qu’elle peut accroître la polarisation politique, et « l’IA peut soutenir, mais les humains décident » est la position la plus fréquente pour les services publics. Demandez ce que cela implique pour les garde-fous, la responsabilité humaine et la voix citoyenne.
 
-Utilisez 1 minute pour la question, 2 minutes pour la discussion en table, 2 minutes pour partager et corriger les propositions Murmi, 1 minute pour le vote et 2 minutes pour la synthèse en trois colonnes.
-
-Utilisez les 2 dernières minutes pour contester, corriger et confirmer la synthèse. Placez tout désaccord substantiel non résolu dans la troisième colonne.
+Utilisez 1 minute pour la question, 2 minutes pour la discussion en table, 2 minutes pour partager et corriger les propositions Murmi, 1 minute pour le vote, puis 2 minutes pour rédiger, corriger et confirmer la synthèse en trois colonnes. Placez tout désaccord substantiel non résolu dans la troisième colonne.
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, sections 3 à 5 et 9. Online Survey Main Findings, échantillon élargi de 81 répondants inclus, résultats 3, 4 et 6.
+Swiss AI Futures Moderator Guide, sections 3 à 5 et 9. Updated Survey Findings, 103 réponses incluses après vérification, thèmes de la démocratie et des services publics.
 
 ## Timing
 
-10 minutes.
+8 minutes après la présentation de 2 minutes des résultats en ligne.
 
 ---
 
-# Slide 17. Examiner le rapport généré
+# Slide 18. Examiner le rapport généré
 
 ## On-screen copy
 
@@ -685,7 +727,7 @@ Swiss AI Futures Moderator Guide, section 9.
 
 ---
 
-# Slide 18. Questionnaire final, indemnisation et conclusion
+# Slide 19. Questionnaire final, indemnisation et conclusion
 
 ## On-screen copy
 
@@ -730,7 +772,7 @@ Swiss AI Futures Moderator Guide, sections 10 à 11.
 | 1–9 | Accueil, contexte de recherche, règles de participation, documents, programme, suite, utilisation des données, Murmi et vue d’ensemble des deux boucles | 20 min |
 | 10–12 | Tour 1 : IA au travail + questionnaire et pause | 40 min |
 | 13–15 | Tour 2 : IA dans l’éducation + questionnaire et pause | 40 min |
-| 16 | IA & Suisse | 10 min |
-| 17 | Examiner le rapport généré et ses messages clés | 5 min |
-| 18 | Questionnaire final, formulaire d’indemnisation et conclusion | 5 min |
+| 16–17 | Résultats en ligne + IA & Suisse | 10 min |
+| 18 | Examiner le rapport généré et ses messages clés | 5 min |
+| 19 | Questionnaire final, formulaire d’indemnisation et conclusion | 5 min |
 | | **Total** | **120 min** |

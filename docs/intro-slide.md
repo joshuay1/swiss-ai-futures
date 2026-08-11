@@ -372,41 +372,41 @@ Swiss AI Futures Moderator Guide, sections 3–7.
 
 ## On-screen copy
 
-# AI use is routine, but respondents want strong school guardrails
+# Respondents support AI literacy and protecting independent thinking
 
-## Use often, verify
+## Teach students to check
 
-**67%**
+**92%**
 
-Use AI daily or almost daily. Only 12% report high trust; 63% often or always verify answers. (n = 81; checking n = 79)
+Support teaching students to check AI-generated information for errors and bias. (n = 75)
 
-## Clear school safeguards
+## Protect independent thinking
 
-**93%**
+**77%**
 
-Support teaching students to check AI for errors and bias. 89% support protecting student data; 85% support clear rules. (n = 54)
+Agree that relying too much on AI can weaken critical and independent thinking. (n = 83)
 
 ## Limits still divide people
 
-**26 / 37 / 37%**
+**23 / 36 / 41%**
 
-26% oppose, 37% are mixed, and 37% support limiting AI to protect traditional learning. (n = 54)
+23% oppose, 36% are mixed, and 41% support limiting AI to protect traditional learning. (n = 74)
 
 ## Presenter notes
 
-Give participants just enough context to begin. These are starting points, not conclusions they must accept.
+Give participants just enough context to begin. These are their online survey responses and starting points for discussion, not conclusions they must accept.
 
-Begin with the practical tension: 54 of 81 respondents use AI daily or almost daily, but only 12% report high trust in AI-generated text. Of the 79 who answered the checking question, 50 often or always verify an AI answer before relying on it.
+92% support teaching students to check AI-generated information for errors and bias. Related safeguards also receive support: 86% support protecting student data, 85% support clear rules, and 79% support teacher training.
 
-Respondents support several school safeguards: 93% support teaching students to check AI for errors and bias, 89% support protecting student data, 85% support clear rules for AI use, and 78% support teacher training. On limiting AI to protect traditional learning, 26% oppose limits, 37% are mixed, and 37% support limits.
+The tension is dependence. 77% agree that relying too much on AI can weaken critical and independent thinking, but respondents remain divided on limiting AI to protect traditional learning: 23% oppose limits, 36% are mixed, and 41% support limits.
 
-The online phase was exploratory and not representative. Valid denominators vary by item, and 84% of respondents who specified education hold at least a bachelor’s degree.
+The online phase was exploratory and not representative. Denominators vary by item; 103 responses were included after screening.
 
 Invite participants to challenge, qualify, or add to these insights.
 
 ### Sources
 
-Online Survey Main Findings, expanded sample of 81 included respondents, findings 1, 2, and 6.
+Updated Survey Findings, 103 responses included after screening, education and human-skills themes.
 
 ## Timing
 
@@ -429,7 +429,7 @@ Online Survey Main Findings, expanded sample of 81 included respondents, finding
 
 How can schools teach AI skills and safeguards without weakening independent or traditional learning?
 
-### Source: Swiss AI Futures exploratory online survey · 81 included respondents
+### Source: Swiss AI Futures exploratory online survey · 103 included responses
 
 ## Presenter notes
 
@@ -449,7 +449,7 @@ Protect the final 9 minutes for synthesis, participant correction, and confirmat
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, sections 3–6 and 10. Online Survey Main Findings, expanded sample of 81 included respondents, findings 2 and 6.
+Swiss AI Futures Moderator Guide, sections 3–6 and 10. Updated Survey Findings, 103 responses included after screening, education theme.
 
 ## Timing
 
@@ -493,39 +493,39 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ## On-screen copy
 
-# Respondents want worker support and limits on automated decisions
-
-## Train workers
-
-**69%**
-
-Support worker AI training. (n = 51)
+# Respondents support human control and oppose market-only adaptation
 
 ## Keep humans responsible
 
-**76%**
+**79%**
 
-Support limits on fully automated hiring, firing, or evaluation. (n = 54)
+Support restricting fully automated hiring, firing, or performance evaluation. (n = 73)
 
-## Act, but how?
+## Do not leave it to the market
 
-**62%**
+**56%**
 
-Oppose leaving policy unchanged and letting the market adapt. Tax and worker voice remain divided. (n = 52)
+Oppose keeping policy unchanged and letting the job market adapt on its own. (n = 72)
+
+## Give workers a say?
+
+**16 / 36 / 48%**
+
+16% oppose, 36% are mixed, and 48% support worker input before workplace AI is introduced. (n = 73)
 
 ## Presenter notes
 
-Give participants just enough context to begin. These findings are starting points, not conclusions they must accept.
+Give participants just enough context to begin. These are their online survey responses and starting points for discussion, not conclusions they must accept.
 
-Online participants support active governance rather than waiting for the labour market to adjust by itself. 69% support worker AI training, 76% support limits on fully automated hiring, firing, or evaluation, and 62% oppose leaving current policy unchanged.
+79% support restricting fully automated hiring, firing, or performance evaluation. 56% oppose keeping current policy unchanged and leaving adaptation to the job market alone.
 
-The direction is clearer than the mechanism. On an AI or automation tax, 20% oppose it, 38% fall in the middle, and 42% support it. On worker voice before workplace introduction, 17% oppose it, 36% fall in the middle, and 47% support it. Use these disagreements to open the room rather than settle the issue.
+The mechanism remains divided. On worker input before workplace AI is introduced, 16% oppose it, 36% are mixed, and 48% support it. On an AI or automation tax, 19% oppose it, 40% are mixed, and 41% support it. Use these differences to open the room rather than settle the issue.
 
-The online phase was exploratory and not representative. Valid denominators vary by item, and 84% of respondents who specified education hold at least a bachelor’s degree. Invite participants to challenge, qualify, or add to these insights.
+The online phase was exploratory and not representative. Denominators vary by item; 103 responses were included after screening. Invite participants to challenge, qualify, or add to these insights.
 
 ### Sources
 
-Online Survey Main Findings, expanded sample of 81 included respondents, findings 5 and 6.
+Updated Survey Findings, 103 responses included after screening, work and labour-market theme.
 
 ## Timing
 
@@ -548,7 +548,7 @@ Online Survey Main Findings, expanded sample of 81 included respondents, finding
 
 If active governance is needed, who pays, who decides, and how should productivity gains be shared?
 
-### Source: Swiss AI Futures exploratory online survey · 81 included respondents
+### Source: Swiss AI Futures exploratory online survey · 103 included responses
 
 ## Presenter notes
 
@@ -568,7 +568,7 @@ Present the Murmi-generated three-column synthesis as a draft. Check each column
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, sections 3–5, 7, and 10. Online Survey Main Findings, expanded sample of 81 included respondents, findings 5 and 6.
+Swiss AI Futures Moderator Guide, sections 3–5, 7, and 10. Updated Survey Findings, 103 responses included after screening, work and labour-market theme.
 
 ## Timing
 
@@ -608,7 +608,51 @@ Swiss AI Futures Moderator Guide, section 10.
 
 ---
 
-# Slide 16. AI & Switzerland
+# Slide 16. Online insights: AI and Switzerland
+
+## On-screen copy
+
+# Respondents agree AI can manipulate public debate and support human control
+
+## AI can manipulate opinions
+
+**82%**
+
+Agree that AI can manipulate people’s opinions and behaviour. (n = 84)
+
+## AI can increase polarisation
+
+**81%**
+
+Agree that AI-generated content may increase political polarisation. (n = 94)
+
+## Humans should decide
+
+**54%**
+
+Chose “AI can support, but humans decide” for public services. (50 of 92)
+
+## Presenter notes
+
+Tell participants that these are their online survey responses and use them as a bridge into the final discussion.
+
+82% agree that AI can manipulate opinions and behaviour, 81% agree that AI-generated content may increase political polarisation, and 74% agree that it can make truth harder to identify. 19% support the statement that AI can improve democratic participation.
+
+Human control is also the most common public-service position: 50 of 92 respondents chose “AI can support, but humans decide.” The remaining responses are spread across narrower or broader uses of automation.
+
+The online phase was exploratory and not representative. Denominators vary by item; 103 responses were included after screening.
+
+### Sources
+
+Updated Survey Findings, 103 responses included after screening, democracy and public-services themes.
+
+## Timing
+
+2 minutes.
+
+---
+
+# Slide 17. AI & Switzerland
 
 ## On-screen copy
 
@@ -623,33 +667,31 @@ Swiss AI Futures Moderator Guide, section 10.
 
 How can Switzerland enable useful AI while preserving accountable human control, public trust, and citizen voice?
 
-### Source: Swiss AI Futures exploratory online survey · 81 included respondents
+### Source: Swiss AI Futures exploratory online survey · 103 included responses
 
 ## Presenter notes
 
 This closing discussion is Murmi-supported in both rooms and is not part of the human-versus-AI comparison.
 
-Start with the main question. Use a generic entry point only if needed; do not treat the two prompts as a checklist. Identify the tension as a finding from the Swiss AI Futures online survey.
+Start with the main question. Use a generic entry point only if needed; do not treat the two prompts as a checklist. Remind participants that the preceding slide showed their online survey responses.
 
-The prompts combine three survey tensions: broad acceptance of AI assistance but not unaccountable consequential decisions; useful innovation versus precaution; and strong concern about manipulation alongside support for public participation in regulation.
+The prompts combine three survey tensions: AI assistance and human responsibility for consequential decisions; useful innovation and precaution; and manipulation risks alongside public participation in regulation.
 
-If the room needs a concrete prompt, online respondents saw stronger democratic risks than benefits: 86% agree that AI content may increase polarisation, 78% agree that AI can manipulate opinions, and 74% agree that truth may become harder to identify. Yet 79% of 72 respondents would probably or definitely support public votes or citizen consultations on AI regulation. In public services, the most common position was “AI can support, but humans decide” (40 of 71; 56%). Ask what this implies for safeguards, human responsibility, and citizen voice.
+If the room needs a concrete prompt, return to the preceding findings: 82% agree AI can manipulate opinions and behaviour, 81% agree AI-generated content may increase political polarisation, and “AI can support, but humans decide” is the most common public-service position. Ask what this implies for safeguards, human responsibility, and citizen voice.
 
-Use 1 minute to introduce the question, 2 minutes for table discussion, 2 minutes to share and correct Murmi statements, 1 minute for voting, and 2 minutes for the AI-supported three-column synthesis.
-
-Use the final 2 minutes to challenge, correct, and confirm the synthesis. Move unresolved substantive disagreement into Column 3.
+Use 1 minute to introduce the question, 2 minutes for table discussion, 2 minutes to share and correct Murmi statements, 1 minute for voting, and 2 minutes to draft, correct, and confirm the three-column synthesis. Move unresolved substantive disagreement into Column 3.
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, sections 3–5 and 9. Online Survey Main Findings, expanded sample of 81 included respondents, findings 3, 4, and 6.
+Swiss AI Futures Moderator Guide, sections 3–5 and 9. Updated Survey Findings, 103 responses included after screening, democracy and public-services themes.
 
 ## Timing
 
-10 minutes.
+8 minutes, following the 2-minute online-insights introduction.
 
 ---
 
-# Slide 17. Review the generated report
+# Slide 18. Review the generated report
 
 ## On-screen copy
 
@@ -685,7 +727,7 @@ Swiss AI Futures Moderator Guide, section 9.
 
 ---
 
-# Slide 18. Final questionnaire, compensation, and close
+# Slide 19. Final questionnaire, compensation, and close
 
 ## On-screen copy
 
@@ -730,7 +772,7 @@ Swiss AI Futures Moderator Guide, sections 10–11.
 | 1–9 | Welcome, research context, participation norms, documents, plan, next steps, data use, Murmi, and two-loop overview | 20 min |
 | 10–12 | Round 1: AI in Education + survey and break | 40 min |
 | 13–15 | Round 2: AI at Work + survey and break | 40 min |
-| 16 | AI & Switzerland | 10 min |
-| 17 | Review the generated report and takeaways | 5 min |
-| 18 | Final questionnaire, compensation form, and close | 5 min |
+| 16–17 | Online insights + AI & Switzerland | 10 min |
+| 18 | Review the generated report and takeaways | 5 min |
+| 19 | Final questionnaire, compensation form, and close | 5 min |
 | | **Total** | **120 min** |

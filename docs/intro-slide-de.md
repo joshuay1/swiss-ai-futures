@@ -372,39 +372,39 @@ Swiss AI Futures Moderator Guide, Abschnitte 3–7.
 
 ## On-screen copy
 
-# Befragte wollen Beschäftigte unterstützen und automatisierte Entscheidungen begrenzen
-
-## Beschäftigte schulen
-
-**69 %**
-
-Unterstützen KI-Schulungen für Beschäftigte. (n = 51)
+# Befragte unterstützen menschliche Kontrolle und lehnen reine Marktanpassung ab
 
 ## Menschen verantwortlich halten
 
-**76 %**
+**79 %**
 
-Unterstützen Grenzen für vollautomatisierte Einstellung, Entlassung oder Bewertung. (n = 54)
+Unterstützen Grenzen für vollautomatisierte Einstellung, Entlassung oder Leistungsbewertung. (n = 73)
 
-## Handeln, aber wie?
+## Nicht dem Markt überlassen
 
-**62 %**
+**56 %**
 
-Lehnen unveränderte Politik und alleinige Marktanpassung ab. KI-Steuer und Mitsprache bleiben umstritten. (n = 52)
+Lehnen unveränderte Politik und eine alleinige Anpassung durch den Arbeitsmarkt ab. (n = 72)
+
+## Beschäftigte mitentscheiden lassen?
+
+**16 / 36 / 48 %**
+
+16 % sind dagegen, 36 % liegen im Mittelfeld, und 48 % unterstützen Mitsprache vor der Einführung von KI am Arbeitsplatz. (n = 73)
 
 ## Presenter notes
 
-Geben Sie nur so viel Kontext, wie für den Einstieg nötig ist. Diese Ergebnisse sind Ausgangspunkte, keine vorgegebenen Schlussfolgerungen.
+Geben Sie nur so viel Kontext, wie für den Einstieg nötig ist. Dies sind die Antworten der Teilnehmenden aus der Online-Umfrage und Ausgangspunkte für die Diskussion, keine vorgegebenen Schlussfolgerungen.
 
-Online-Teilnehmende unterstützen aktive Steuerung statt abzuwarten, bis sich der Arbeitsmarkt allein anpasst. 69 % unterstützen KI-Schulungen für Beschäftigte, 76 % unterstützen Grenzen für vollautomatisierte Einstellung, Entlassung oder Bewertung, und 62 % lehnen unveränderte Politik ab.
+79 % unterstützen Grenzen für vollautomatisierte Einstellung, Entlassung oder Leistungsbewertung. 56 % lehnen es ab, die Politik unverändert zu lassen und die Anpassung allein dem Arbeitsmarkt zu überlassen.
 
-Die Richtung ist klarer als das Instrument. Eine KI- oder Automatisierungssteuer lehnen 20 % ab, 38 % liegen im Mittelfeld, und 42 % unterstützen sie. Mitsprache der Beschäftigten vor der Einführung am Arbeitsplatz lehnen 17 % ab, 36 % liegen im Mittelfeld, und 47 % unterstützen sie. Nutzen Sie diese Unterschiede als Einstieg in die Diskussion.
+Bei den Instrumenten gehen die Meinungen auseinander. Bei der Mitsprache vor der Einführung von KI am Arbeitsplatz sind 16 % dagegen, 36 % liegen im Mittelfeld, und 48 % unterstützen sie. Eine KI- oder Automatisierungssteuer lehnen 19 % ab, 40 % liegen im Mittelfeld, und 41 % unterstützen sie. Nutzen Sie diese Unterschiede als Einstieg in die Diskussion.
 
-Die Online-Phase war explorativ und nicht repräsentativ. Die Zahl gültiger Antworten variiert je nach Frage; 84 % der Personen mit Bildungsangabe haben mindestens einen Bachelorabschluss. Laden Sie die Teilnehmenden ein, diese Erkenntnisse zu hinterfragen, zu präzisieren oder zu ergänzen.
+Die Online-Phase war explorativ und nicht repräsentativ. Die Zahl gültiger Antworten variiert je nach Frage; 103 Antworten wurden nach der Prüfung einbezogen. Laden Sie die Teilnehmenden ein, diese Erkenntnisse zu hinterfragen, zu präzisieren oder zu ergänzen.
 
 ### Sources
 
-Online Survey Main Findings, erweiterte Stichprobe mit 81 eingeschlossenen Befragten, Ergebnisse 5 und 6.
+Updated Survey Findings, 103 nach Prüfung einbezogene Antworten, Themen Arbeit und Arbeitsmarkt.
 
 ## Timing
 
@@ -427,7 +427,7 @@ Online Survey Main Findings, erweiterte Stichprobe mit 81 eingeschlossenen Befra
 
 Wenn aktive Steuerung nötig ist: Wer zahlt, wer entscheidet und wie werden Produktivitätsgewinne geteilt?
 
-### Quelle: Swiss AI Futures explorative Online-Umfrage · 81 eingeschlossene Befragte
+### Quelle: Swiss AI Futures explorative Online-Umfrage · 103 einbezogene Antworten
 
 ## Presenter notes
 
@@ -447,7 +447,7 @@ Schützen Sie die letzten 9 Minuten für Zusammenfassung, Korrektur und Bestäti
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, Abschnitte 3–6 und 10. Online Survey Main Findings, erweiterte Stichprobe mit 81 eingeschlossenen Befragten, Ergebnisse 5 und 6.
+Swiss AI Futures Moderator Guide, Abschnitte 3–6 und 10. Updated Survey Findings, 103 nach Prüfung einbezogene Antworten, Thema Arbeit und Arbeitsmarkt.
 
 ## Timing
 
@@ -491,41 +491,41 @@ Swiss AI Futures Moderator Guide, Abschnitt 10.
 
 ## On-screen copy
 
-# KI-Nutzung ist Alltag, doch Befragte wollen klare Schutzplanken in Schulen
+# Befragte unterstützen KI-Kompetenz und selbstständiges Denken
 
-## Häufig nutzen, kritisch prüfen
+## Prüfen lernen
 
-**67 %**
+**92 %**
 
-Nutzen KI täglich oder fast täglich. Nur 12 % vertrauen stark; 63 % prüfen Antworten häufig oder immer. (n = 81; Prüffrage n = 79)
+Unterstützen, Lernenden das Prüfen KI-generierter Informationen auf Fehler und Verzerrungen beizubringen. (n = 75)
 
-## Klare Schutzplanken
+## Selbstständiges Denken schützen
 
-**93 %**
+**77 %**
 
-Unterstützen, Lernenden das Prüfen von KI auf Fehler und Verzerrungen beizubringen. 89 % unterstützen den Schutz von Schüler:innendaten; 85 % unterstützen klare Regeln. (n = 54)
+Stimmen zu, dass eine zu starke Abhängigkeit von KI kritisches und selbstständiges Denken schwächen kann. (n = 83)
 
 ## Grenzen bleiben umstritten
 
-**26 / 37 / 37 %**
+**23 / 36 / 41 %**
 
-26 % lehnen Begrenzungen ab, 37 % liegen im Mittelfeld, und 37 % unterstützen Begrenzungen zum Schutz bewährter Lernformen. (n = 54)
+23 % lehnen Begrenzungen ab, 36 % liegen im Mittelfeld, und 41 % unterstützen Begrenzungen zum Schutz bewährter Lernformen. (n = 74)
 
 ## Presenter notes
 
-Geben Sie nur so viel Kontext, wie für den Einstieg nötig ist. Diese Ergebnisse sind Ausgangspunkte, keine vorgegebenen Schlussfolgerungen.
+Geben Sie nur so viel Kontext, wie für den Einstieg nötig ist. Dies sind die Antworten der Teilnehmenden aus der Online-Umfrage und Ausgangspunkte für die Diskussion, keine vorgegebenen Schlussfolgerungen.
 
-Beginnen Sie mit dem praktischen Spannungsfeld: 54 von 81 Befragten nutzen KI täglich oder fast täglich, aber nur 12 % vertrauen KI-generierten Texten stark. Von 79 Personen, die die Prüffrage beantworteten, kontrollieren 50 eine KI-Antwort häufig oder immer, bevor sie sich darauf verlassen.
+92 % unterstützen, Lernenden das Prüfen KI-generierter Informationen auf Fehler und Verzerrungen beizubringen. Weitere Schutzplanken erhalten ebenfalls Unterstützung: 86 % unterstützen den Schutz von Schüler:innendaten, 85 % klare Regeln und 79 % die Schulung von Lehrpersonen.
 
-Befragte unterstützen mehrere Schutzplanken für Schulen: 93 % unterstützen, Lernenden das Prüfen von KI auf Fehler und Verzerrungen beizubringen, 89 % unterstützen den Schutz von Schüler:innendaten, 85 % unterstützen klare Regeln und 78 % die Schulung von Lehrpersonen. Begrenzungen zum Schutz bewährter Lernformen lehnen 26 % ab, 37 % liegen im Mittelfeld, und 37 % unterstützen sie.
+Das Spannungsfeld ist Abhängigkeit. 77 % stimmen zu, dass eine zu starke Abhängigkeit von KI kritisches und selbstständiges Denken schwächen kann. Bei Begrenzungen zum Schutz bewährter Lernformen bleiben die Meinungen geteilt: 23 % lehnen sie ab, 36 % liegen im Mittelfeld, und 41 % unterstützen sie.
 
-Die Online-Phase war explorativ und nicht repräsentativ. Die Zahl gültiger Antworten variiert je nach Frage; 84 % der Personen mit Bildungsangabe haben mindestens einen Bachelorabschluss.
+Die Online-Phase war explorativ und nicht repräsentativ. Die Zahl gültiger Antworten variiert je nach Frage; 103 Antworten wurden nach der Prüfung einbezogen.
 
 Laden Sie die Teilnehmenden ein, diese Erkenntnisse zu hinterfragen, zu präzisieren oder zu ergänzen.
 
 ### Sources
 
-Online Survey Main Findings, erweiterte Stichprobe mit 81 eingeschlossenen Befragten, Ergebnisse 1, 2 und 6.
+Updated Survey Findings, 103 nach Prüfung einbezogene Antworten, Themen Bildung und menschliche Fähigkeiten.
 
 ## Timing
 
@@ -548,7 +548,7 @@ Online Survey Main Findings, erweiterte Stichprobe mit 81 eingeschlossenen Befra
 
 Wie vermitteln Schulen KI-Kompetenzen und Schutzmassnahmen, ohne selbstständiges oder bewährtes Lernen zu schwächen?
 
-### Quelle: Swiss AI Futures explorative Online-Umfrage · 81 eingeschlossene Befragte
+### Quelle: Swiss AI Futures explorative Online-Umfrage · 103 einbezogene Antworten
 
 ## Presenter notes
 
@@ -568,7 +568,7 @@ Präsentieren Sie die Murmi-generierte dreispaltige Zusammenfassung als Entwurf.
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, Abschnitte 3–5, 7 und 10. Online Survey Main Findings, erweiterte Stichprobe mit 81 eingeschlossenen Befragten, Ergebnisse 2 und 6.
+Swiss AI Futures Moderator Guide, Abschnitte 3–5, 7 und 10. Updated Survey Findings, 103 nach Prüfung einbezogene Antworten, Thema Bildung.
 
 ## Timing
 
@@ -608,7 +608,51 @@ Swiss AI Futures Moderator Guide, Abschnitt 10.
 
 ---
 
-# Slide 16. KI & Schweiz
+# Slide 16. Online-Erkenntnisse zu KI und Schweiz
+
+## On-screen copy
+
+# Befragte stimmen Manipulationsrisiken zu und unterstützen menschliche Kontrolle
+
+## KI kann Meinungen manipulieren
+
+**82 %**
+
+Stimmen zu, dass KI Meinungen und Verhalten von Menschen manipulieren kann. (n = 84)
+
+## KI kann Polarisierung verstärken
+
+**81 %**
+
+Stimmen zu, dass KI-generierte Inhalte politische Polarisierung verstärken können. (n = 94)
+
+## Menschen sollen entscheiden
+
+**54 %**
+
+Wählten für öffentliche Dienste: „KI kann unterstützen, aber Menschen entscheiden.“ (50 von 92)
+
+## Presenter notes
+
+Sagen Sie den Teilnehmenden, dass dies ihre Antworten aus der Online-Umfrage sind, und nutzen Sie sie als Übergang zur Abschlussdiskussion.
+
+82 % stimmen zu, dass KI Meinungen und Verhalten manipulieren kann, 81 % stimmen zu, dass KI-generierte Inhalte politische Polarisierung verstärken können, und 74 % stimmen zu, dass Wahrheit schwieriger zu erkennen werden kann. 19 % unterstützen die Aussage, dass KI demokratische Beteiligung verbessern kann.
+
+Menschliche Kontrolle ist auch die häufigste Position für öffentliche Dienste: 50 von 92 Befragten wählten „KI kann unterstützen, aber Menschen entscheiden“. Die übrigen Antworten verteilen sich auf engere oder breitere Formen der Automatisierung.
+
+Die Online-Phase war explorativ und nicht repräsentativ. Die Zahl gültiger Antworten variiert je nach Frage; 103 Antworten wurden nach der Prüfung einbezogen.
+
+### Sources
+
+Updated Survey Findings, 103 nach Prüfung einbezogene Antworten, Themen Demokratie und öffentliche Dienste.
+
+## Timing
+
+2 Minuten.
+
+---
+
+# Slide 17. KI & Schweiz
 
 ## On-screen copy
 
@@ -623,33 +667,31 @@ Swiss AI Futures Moderator Guide, Abschnitt 10.
 
 Wie ermöglicht die Schweiz nützliche KI und schützt zugleich menschliche Verantwortung, Vertrauen und Mitsprache?
 
-### Quelle: Swiss AI Futures explorative Online-Umfrage · 81 eingeschlossene Befragte
+### Quelle: Swiss AI Futures explorative Online-Umfrage · 103 einbezogene Antworten
 
 ## Presenter notes
 
 Diese Abschlussdiskussion ist in beiden Räumen Murmi-unterstützt und gehört nicht zum Vergleich von menschlicher und KI-unterstützter Moderation.
 
-Beginnen Sie mit der Hauptfrage. Nutzen Sie einen allgemeinen Einstiegspunkt nur bei Bedarf; behandeln Sie die zwei Impulse nicht als Checkliste. Kennzeichnen Sie das Spannungsfeld als Ergebnis der Swiss AI Futures Online-Umfrage.
+Beginnen Sie mit der Hauptfrage. Nutzen Sie einen allgemeinen Einstiegspunkt nur bei Bedarf; behandeln Sie die zwei Impulse nicht als Checkliste. Erinnern Sie daran, dass die vorherige Folie ihre Antworten aus der Online-Umfrage zeigte.
 
-Die Impulse verbinden drei Spannungen aus der Umfrage: breite Akzeptanz von KI-Unterstützung, aber nicht von unkontrollierten folgenreichen Entscheidungen; nützliche Innovation versus Vorsorge; und starke Sorge vor Manipulation bei gleichzeitiger Unterstützung öffentlicher Beteiligung an der Regulierung.
+Die Impulse verbinden drei Spannungen aus der Umfrage: KI-Unterstützung und menschliche Verantwortung für folgenreiche Entscheidungen; nützliche Innovation und Vorsorge; sowie Manipulationsrisiken und öffentliche Beteiligung an der Regulierung.
 
-Falls der Raum einen konkreten Impuls braucht: Online-Befragte sahen stärkere demokratische Risiken als Vorteile. 86 % stimmen zu, dass KI-Inhalte Polarisierung verstärken können, 78 % stimmen zu, dass KI Meinungen manipulieren kann, und 74 % stimmen zu, dass die Wahrheitsfindung schwieriger werden kann. Gleichzeitig würden 79 % von 72 Befragten öffentliche Abstimmungen oder Bürger:innen-Konsultationen zur KI-Regulierung wahrscheinlich oder sicher unterstützen. Für öffentliche Dienste war „KI kann unterstützen, aber Menschen entscheiden“ die häufigste Position (40 von 71; 56 %). Fragen Sie nach Schutzmassnahmen, menschlicher Verantwortung und Mitsprache.
+Falls der Raum einen konkreten Impuls braucht, greifen Sie die vorherigen Ergebnisse auf: 82 % stimmen zu, dass KI Meinungen und Verhalten manipulieren kann, 81 % stimmen zu, dass KI-generierte Inhalte politische Polarisierung verstärken können, und „KI kann unterstützen, aber Menschen entscheiden“ ist die häufigste Position für öffentliche Dienste. Fragen Sie nach Schutzmassnahmen, menschlicher Verantwortung und Mitsprache.
 
-Nutzen Sie 1 Minute für die Frage, 2 Minuten für die Tischdiskussion, 2 Minuten zum Teilen und Korrigieren der Murmi-Aussagen, 1 Minute für die Abstimmung und 2 Minuten für die dreispaltige KI-unterstützte Zusammenfassung.
-
-Nutzen Sie die letzten 2 Minuten, um die Zusammenfassung zu hinterfragen, zu korrigieren und zu bestätigen. Verschieben Sie unlösbaren substanziellen Dissens in Spalte 3.
+Nutzen Sie 1 Minute für die Frage, 2 Minuten für die Tischdiskussion, 2 Minuten zum Teilen und Korrigieren der Murmi-Aussagen, 1 Minute für die Abstimmung sowie 2 Minuten, um die dreispaltige Zusammenfassung zu entwerfen, zu korrigieren und zu bestätigen. Verschieben Sie unlösbaren substanziellen Dissens in Spalte 3.
 
 ### Sources
 
-Swiss AI Futures Moderator Guide, Abschnitte 3–5 und 9. Online Survey Main Findings, erweiterte Stichprobe mit 81 eingeschlossenen Befragten, Ergebnisse 3, 4 und 6.
+Swiss AI Futures Moderator Guide, Abschnitte 3–5 und 9. Updated Survey Findings, 103 nach Prüfung einbezogene Antworten, Themen Demokratie und öffentliche Dienste.
 
 ## Timing
 
-10 Minuten.
+8 Minuten nach der 2-minütigen Einführung in die Online-Erkenntnisse.
 
 ---
 
-# Slide 17. Automatisch erstellten Bericht prüfen
+# Slide 18. Automatisch erstellten Bericht prüfen
 
 ## On-screen copy
 
@@ -685,7 +727,7 @@ Swiss AI Futures Moderator Guide, Abschnitt 9.
 
 ---
 
-# Slide 18. Letzter Fragebogen, Entschädigung und Abschluss
+# Slide 19. Letzter Fragebogen, Entschädigung und Abschluss
 
 ## On-screen copy
 
@@ -730,7 +772,7 @@ Swiss AI Futures Moderator Guide, Abschnitte 10–11.
 | 1–9 | Willkommen, Forschungskontext, Gesprächsregeln, Dokumente, Ablauf, nächste Schritte, Datennutzung, Murmi und Überblick über die zwei Schleifen | 20 Min |
 | 10–12 | Runde 1: KI bei der Arbeit + Fragebogen und Pause | 40 Min |
 | 13–15 | Runde 2: KI in der Bildung + Fragebogen und Pause | 40 Min |
-| 16 | KI & Schweiz | 10 Min |
-| 17 | Automatisch erstellten Bericht und Kernaussagen prüfen | 5 Min |
-| 18 | Letzter Fragebogen, Entschädigungsformular und Abschluss | 5 Min |
+| 16–17 | Online-Erkenntnisse + KI & Schweiz | 10 Min |
+| 18 | Automatisch erstellten Bericht und Kernaussagen prüfen | 5 Min |
+| 19 | Letzter Fragebogen, Entschädigungsformular und Abschluss | 5 Min |
 | | **Gesamt** | **120 Min** |
