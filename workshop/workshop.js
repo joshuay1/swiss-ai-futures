@@ -81,6 +81,7 @@
     18: { phase: "future", mode: "report", layout: "closing", timer: 5, fragments: "sections" },
     19: { phase: "future", mode: "impact", layout: "closing", timer: 5, fragments: "sections" }
   };
+  const expectedSlideCount = Object.keys(slideMeta).length;
 
   const phaseLabelsByLanguage = {
     en: {
@@ -1271,7 +1272,9 @@
       if (!response.ok) throw new Error(`Source request failed: ${response.status}`);
       const source = await response.text();
       state.slides = parseSlides(source);
-      if (state.slides.length !== 18) throw new Error(`Expected 18 slides, found ${state.slides.length}`);
+      if (state.slides.length !== expectedSlideCount) {
+        throw new Error(`Expected ${expectedSlideCount} slides, found ${state.slides.length}`);
+      }
 
       elements.track.innerHTML = state.slides.map(renderSlide).join("");
       renderOverview();
