@@ -197,7 +197,40 @@ Erklären Sie, dass das Entschädigungsformular erst am Ende und nur von Teilneh
 
 ---
 
-# Slide 6. Der heutige Ablauf
+# Slide 6. Die zwei Schleifen im Überblick
+
+## On-screen copy
+
+# Die zwei Schleifen im Überblick
+
+## Von der Diskussion zur geprüften Zusammenfassung
+
+1. In Kleingruppen diskutieren.
+2. Ideen im Raum teilen.
+3. Über geprüfte Ideen abstimmen.
+4. Die dreispaltige Zusammenfassung entwerfen.
+5. Die Formulierungen gemeinsam korrigieren.
+6. Die gemeinsame Dokumentation bestätigen.
+
+## Presenter notes
+
+Stellen Sie die zwei Schleifen jetzt direkt nach den Dokumenten für die Teilnehmenden vor. Beide Schleifen finden innerhalb jedes 30-minütigen Themas statt.
+
+Schleife 1 führt von der Diskussion zu Ideen, die der ganze Raum gehört und bewertet hat. Schleife 2 überführt diese Ideen in eine dreispaltige Zusammenfassung, die die Teilnehmenden korrigieren und bestätigen.
+
+In der menschlichen Moderation werden beschriftete Haftnotiz-Bündel und Klebepunkte verwendet. Murmi nutzt geprüfte Aussagen und eine 5-Punkte-Abstimmung. In beiden Formaten zeigen die Stimmen Prioritäten; die Teilnehmenden entscheiden weiterhin, ob die endgültige Formulierung den Raum fair wiedergibt.
+
+### Sources
+
+Swiss AI Futures Moderator Guide, Abschnitte 3–7.
+
+## Timing
+
+2 Minuten.
+
+---
+
+# Slide 7. Der heutige Ablauf
 
 ## On-screen copy
 
@@ -257,7 +290,7 @@ Swiss AI Futures Moderator Guide, Abschnitte 1–2.
 
 ---
 
-# Slide 7. Was danach geschieht
+# Slide 8. Was danach geschieht
 
 ## On-screen copy
 
@@ -291,7 +324,7 @@ Projektunterlagen für Teilnehmende.
 
 2 Minuten.
 
-# Slide 8. Murmi kennenlernen
+# Slide 9. Murmi kennenlernen
 
 ## On-screen copy
 
@@ -317,7 +350,7 @@ Stellen Sie Murmi kurz als experimentelles Projekt vor, das KI zur Unterstützun
 
 Weisen Sie auf den Link im Bild hin. Alle können **murmi.org** besuchen und direkt kostenlos eine Sitzung starten, ohne Anmeldung oder Einrichtung.
 
-Zeigen Sie diese Folie im Einstieg, damit die Teilnehmenden Murmi kennen, bevor Sie die zwei Schleifen erklären. Dies ist nur eine Einführung; der Beitritt zur Live-Sitzung erfolgt unmittelbar vor Runde 2.
+Zeigen Sie diese Folie im Einstieg, nachdem Sie den gemeinsamen Prozess mit zwei Schleifen vorgestellt haben. Dies ist nur eine Einführung; der Beitritt zur Live-Sitzung erfolgt unmittelbar vor Runde 2.
 
 Erklären Sie die Reihenfolge klar: zuerst Diskussion; danach Aussagen prüfen und Fehlendes ergänzen; dann eine eigene 5-Punkte-Abstimmung; anschliessend der dreispaltige Murmi-Entwurf. Die Abstimmung findet vor der Erzeugung des gemeinsamen Ergebnisses statt.
 
@@ -326,39 +359,6 @@ Zeigen Sie bei der Entwurfsprüfung jeweils eine Spalte. Fragen Sie, was bleiben
 ### Sources
 
 Murmi-Website, murmi.org. Swiss AI Futures Moderator Guide, Abschnitte 5, 7 und 8.
-
-## Timing
-
-2 Minuten.
-
----
-
-# Slide 9. Die zwei Schleifen im Überblick
-
-## On-screen copy
-
-# Die zwei Schleifen im Überblick
-
-## Von der Diskussion zur geprüften Zusammenfassung
-
-1. In Kleingruppen diskutieren.
-2. Ideen im Raum teilen.
-3. Über geprüfte Ideen abstimmen.
-4. Die dreispaltige Zusammenfassung entwerfen.
-5. Die Formulierungen gemeinsam korrigieren.
-6. Die gemeinsame Dokumentation bestätigen.
-
-## Presenter notes
-
-Nutzen Sie diese Grafik als Rückblick auf die zwei Schleifen, bevor das erste Thema beginnt. Beide Schleifen finden innerhalb jedes 30-minütigen Themas statt.
-
-Schleife 1 führt von der Diskussion zu Ideen, die der ganze Raum gehört und bewertet hat. Schleife 2 überführt diese Ideen in eine dreispaltige Zusammenfassung, die die Teilnehmenden korrigieren und bestätigen.
-
-In der menschlichen Moderation werden beschriftete Haftnotiz-Bündel und Klebepunkte verwendet. Murmi nutzt geprüfte Aussagen und eine 5-Punkte-Abstimmung. In beiden Formaten zeigen die Stimmen Prioritäten; die Teilnehmenden entscheiden weiterhin, ob die endgültige Formulierung den Raum fair wiedergibt.
-
-### Sources
-
-Swiss AI Futures Moderator Guide, Abschnitte 3–7.
 
 ## Timing
 

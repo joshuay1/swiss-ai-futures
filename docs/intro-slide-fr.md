@@ -197,7 +197,40 @@ Expliquez que le formulaire d’indemnisation est rempli à la fin, uniquement p
 
 ---
 
-# Slide 6. Programme du jour
+# Slide 6. Les deux boucles en un coup d’œil
+
+## On-screen copy
+
+# Les deux boucles en un coup d’œil
+
+## De la discussion à une synthèse vérifiée
+
+1. Discuter en petits groupes.
+2. Partager les idées dans la salle.
+3. Voter sur les idées vérifiées.
+4. Préparer la synthèse en trois colonnes.
+5. Corriger ensemble la formulation.
+6. Confirmer la trace commune.
+
+## Presenter notes
+
+Présentez maintenant les deux boucles, juste après les documents remis aux participants. Les deux boucles ont lieu dans chaque sujet de 30 minutes.
+
+La boucle 1 va de la discussion aux idées que toute la salle a entendues et soumises au vote. La boucle 2 transforme ces idées en une synthèse à trois colonnes que les participants corrigent et confirment.
+
+La modération humaine utilise des groupes de post-it nommés et des gommettes de vote. Murmi utilise des propositions vérifiées et un vote sur une échelle à 5 points. Dans les deux formats, les votes indiquent des priorités ; les participants décident toujours si la formulation finale représente fidèlement la salle.
+
+### Sources
+
+Swiss AI Futures Moderator Guide, sections 3 à 7.
+
+## Timing
+
+2 minutes.
+
+---
+
+# Slide 7. Programme du jour
 
 ## On-screen copy
 
@@ -257,7 +290,7 @@ Swiss AI Futures Moderator Guide, sections 1 à 2.
 
 ---
 
-# Slide 7. Ce qui se passe ensuite
+# Slide 8. Ce qui se passe ensuite
 
 ## On-screen copy
 
@@ -291,7 +324,7 @@ Document d’information des participants.
 
 2 minutes.
 
-# Slide 8. Découvrir Murmi
+# Slide 9. Découvrir Murmi
 
 ## On-screen copy
 
@@ -317,7 +350,7 @@ Présentez brièvement Murmi comme un projet expérimental qui utilise l’IA po
 
 Montrez le lien sur l’image. Tout le monde peut visiter **murmi.org** et lancer directement une session gratuitement, sans inscription ni configuration.
 
-Montrez cette diapositive pendant l’introduction afin que les participants découvrent Murmi avant l’explication des deux boucles. Il s’agit seulement d’une présentation ; les participants rejoindront la session en direct juste avant le second tour.
+Montrez cette diapositive pendant l’introduction, après avoir présenté le processus commun en deux boucles. Il s’agit seulement d’une présentation ; les participants rejoindront la session en direct juste avant le second tour.
 
 Expliquez clairement la séquence : d’abord la discussion ; ensuite la vérification des propositions et l’ajout des éléments manquants ; puis un vote dédié sur l’échelle à 5 points ; enfin le projet Murmi en trois colonnes. Le vote précède la génération du terrain commun.
 
@@ -326,39 +359,6 @@ Lors de la vérification du projet, montrez une colonne à la fois. Demandez ce 
 ### Sources
 
 Site de Murmi, murmi.org. Swiss AI Futures Moderator Guide, sections 5, 7 et 8.
-
-## Timing
-
-2 minutes.
-
----
-
-# Slide 9. Les deux boucles en un coup d’œil
-
-## On-screen copy
-
-# Les deux boucles en un coup d’œil
-
-## De la discussion à une synthèse vérifiée
-
-1. Discuter en petits groupes.
-2. Partager les idées dans la salle.
-3. Voter sur les idées vérifiées.
-4. Préparer la synthèse en trois colonnes.
-5. Corriger ensemble la formulation.
-6. Confirmer la trace commune.
-
-## Presenter notes
-
-Utilisez ce visuel pour récapituler les deux boucles avant le premier sujet. Les deux boucles ont lieu dans chaque sujet de 30 minutes.
-
-La boucle 1 va de la discussion aux idées que toute la salle a entendues et soumises au vote. La boucle 2 transforme ces idées en une synthèse à trois colonnes que les participants corrigent et confirment.
-
-La modération humaine utilise des groupes de post-it nommés et des gommettes de vote. Murmi utilise des propositions vérifiées et un vote sur une échelle à 5 points. Dans les deux formats, les votes indiquent des priorités ; les participants décident toujours si la formulation finale représente fidèlement la salle.
-
-### Sources
-
-Swiss AI Futures Moderator Guide, sections 3 à 7.
 
 ## Timing
 

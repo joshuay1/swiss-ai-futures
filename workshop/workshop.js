@@ -9,9 +9,9 @@
   document.documentElement.lang = language;
 
   const sourceUrls = {
-    en: "../docs/intro-slide.md?v=20260811-4",
-    de: "../docs/intro-slide-de.md?v=20260811-4",
-    fr: "../docs/intro-slide-fr.md?v=20260811-4"
+    en: "../docs/intro-slide.md?v=20260812-1",
+    de: "../docs/intro-slide-de.md?v=20260812-1",
+    fr: "../docs/intro-slide-fr.md?v=20260812-1"
   };
 
   const SOURCE_URL = sourceUrls[language];
@@ -66,10 +66,10 @@
     3: { phase: "intro", mode: "process", layout: "closing", timer: 2, fragments: "sections" },
     4: { phase: "intro", mode: "privacy", layout: "closing", timer: 2, fragments: "sections" },
     5: { phase: "intro", mode: "documents", layout: "logistics", timer: 4, fragments: "sections" },
-    6: { phase: "intro", mode: "schedule", layout: "schedule", timer: 2, fragments: "sections" },
-    7: { phase: "intro", mode: "impact", layout: "closing", timer: 2, fragments: "sections" },
-    8: { phase: "intro", mode: "murmi", layout: "murmi-intro", timer: 2 },
-    9: { phase: "intro", mode: "process", layout: "method", timer: 2 },
+    6: { phase: "intro", mode: "process", layout: "method", timer: 2 },
+    7: { phase: "intro", mode: "schedule", layout: "schedule", timer: 2, fragments: "sections" },
+    8: { phase: "intro", mode: "impact", layout: "closing", timer: 2, fragments: "sections" },
+    9: { phase: "intro", mode: "murmi", layout: "murmi-intro", timer: 2 },
     10: { phase: firstRoundPhase, mode: "evidence", layout: "focus", timer: 3, fragments: "sections" },
     11: { phase: firstRoundPhase, mode: "topic", layout: "topic", timer: 27, fragments: "sections" },
     12: { phase: firstRoundPhase, mode: "survey", layout: "survey", timer: 10 },

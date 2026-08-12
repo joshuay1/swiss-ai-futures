@@ -197,7 +197,40 @@ Explain that the compensation form is completed at the end and only by participa
 
 ---
 
-# Slide 6. Today’s schedule
+# Slide 6. The two loops at a glance
+
+## On-screen copy
+
+# The two loops at a glance
+
+## From discussion to a checked room summary
+
+1. Discuss in small groups.
+2. Share ideas across the room.
+3. Vote on reviewed ideas.
+4. Draft the three-column summary.
+5. Correct the wording together.
+6. Confirm the shared record.
+
+## Presenter notes
+
+Introduce the two loops now, immediately after the participant documents. Both loops happen within each 30-minute topic.
+
+Loop 1 moves from discussion to ideas that the whole room has heard and voted on. Loop 2 turns those ideas into a three-column summary that participants correct and confirm.
+
+Human moderation uses labelled sticky-note clusters and dot votes. Murmi uses reviewed statements and a 5-point vote. In both formats, voting guides priorities; participants still decide whether the final wording fairly represents the room.
+
+### Sources
+
+Swiss AI Futures Moderator Guide, sections 3–7.
+
+## Timing
+
+2 minutes.
+
+---
+
+# Slide 7. Today’s schedule
 
 ## On-screen copy
 
@@ -257,7 +290,7 @@ Swiss AI Futures Moderator Guide, sections 1–2.
 
 ---
 
-# Slide 7. What happens next
+# Slide 8. What happens next
 
 ## On-screen copy
 
@@ -291,7 +324,7 @@ Project participant brief and public project page.
 
 2 minutes.
 
-# Slide 8. Meet Murmi
+# Slide 9. Meet Murmi
 
 ## On-screen copy
 
@@ -317,7 +350,7 @@ Introduce Murmi briefly as an experimental project for using AI to support delib
 
 Point out the link on the image. Anyone can visit **murmi.org** and start a session directly for free, with no sign-up or setup required.
 
-Show this slide in the opening section so participants understand what Murmi is before you explain the two-loop process. This is an orientation only; participants join the live session immediately before Round 2.
+Show this slide in the opening section after introducing the shared two-loop process. This is an orientation only; participants join the live session immediately before Round 2.
 
 Explain the sequence clearly: discussion first; statement review and additions; a dedicated 5-point vote; then the Murmi three-column draft. Voting happens before common ground is generated.
 
@@ -326,39 +359,6 @@ During draft review, show one column at a time. Invite participants to say what 
 ### Sources
 
 Murmi website, murmi.org. Swiss AI Futures Moderator Guide, sections 5, 7, and 8.
-
-## Timing
-
-2 minutes.
-
----
-
-# Slide 9. The two loops at a glance
-
-## On-screen copy
-
-# The two loops at a glance
-
-## From discussion to a checked room summary
-
-1. Discuss in small groups.
-2. Share ideas across the room.
-3. Vote on reviewed ideas.
-4. Draft the three-column summary.
-5. Correct the wording together.
-6. Confirm the shared record.
-
-## Presenter notes
-
-Use this visual to recap the two loops before the first topic begins. Both loops happen within each 30-minute topic.
-
-Loop 1 moves from discussion to ideas that the whole room has heard and voted on. Loop 2 turns those ideas into a three-column summary that participants correct and confirm.
-
-Human moderation uses labelled sticky-note clusters and dot votes. Murmi uses reviewed statements and a 5-point vote. In both formats, voting guides priorities; participants still decide whether the final wording fairly represents the room.
-
-### Sources
-
-Swiss AI Futures Moderator Guide, sections 3–7.
 
 ## Timing
 
