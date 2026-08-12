@@ -591,9 +591,7 @@ html[data-phase="work"] .deck-brand img {
 
 .layout-hero .slide-section a {
   color: var(--slide-ink);
-  text-decoration-color: var(--accent);
-  text-decoration-thickness: 2px;
-  text-underline-offset: 0.16em;
+  text-decoration: none;
 }
 
 .layout-statement .slide-title {
