@@ -14,7 +14,6 @@
       languageLabel: "Language",
       skip: "Skip to main content",
       homeLabel: "Swiss AI Futures home",
-      workshopLink: "Workshop",
       headerCta: "Sign up",
       heroEyebrow: "Citizen workshops",
       heroTitle: "Swiss AI<br>Futures<br>Citizen<br>Workshops",
@@ -136,7 +135,6 @@
       languageLabel: "Sprache",
       skip: "Zum Hauptinhalt springen",
       homeLabel: "Swiss AI Futures Startseite",
-      workshopLink: "Workshop",
       headerCta: "Anmelden",
       heroEyebrow: "Bürgerworkshops",
       heroTitle: "Swiss AI<br>Futures<br>Bürgerworkshops",
@@ -258,7 +256,6 @@
       languageLabel: "Langue",
       skip: "Aller au contenu principal",
       homeLabel: "Accueil Swiss AI Futures",
-      workshopLink: "Atelier",
       headerCta: "S'inscrire",
       heroEyebrow: "Ateliers citoyens",
       heroTitle: "Ateliers<br>citoyens<br>Swiss AI<br>Futures",
@@ -434,8 +431,6 @@
 
     setText(".skip-link", t.skip);
     setAttr(".brand", "aria-label", t.homeLabel);
-    setText(".header-workshop-link", t.workshopLink);
-    setAttr(".header-workshop-link", "href", `workshop/index.html?lang=${lang}`);
     setAttr(".language-switcher", "aria-label", t.languageLabel);
     setText(".header-cta", t.headerCta);
 
