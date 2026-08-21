@@ -1,12 +1,18 @@
 # 4. Public views on AI: opportunities, conditions, and red lines
 
+How should Switzerland respond to AI when the evidence is still developing and the technology already shapes daily life? Before asking citizens, this project built a foundation in two earlier phases.
+
+Phase 1 brought together literature reviews, analyses of public and institutional debates, and classroom experiments. This work showed what research already tells us about AI in education and work, how institutions are responding, and how access to an LLM can affect learning. Phase 2 convened expert groups to examine future skills, governance questions, and possible scenarios.
+
+Phase 3 turned to citizens. An online survey gathered a broad range of views. Two workshops in Zurich and Lausanne then gave participants time to examine the evidence, question the scenarios, and discuss the role AI should play in education and work. This chapter reports what they thought, which conditions they set, where they drew red lines, and what they expect from policy. A smaller study of AI-supported facilitation ran alongside the workshops and remains a secondary part of the analysis.
+
 ## 4.1 How we collected citizen input
 
 ### 4.1.1 The purpose: bring citizens’ priorities into the project
 
-AI policy combines technical and social choices. Decisions about AI in education, work, and public life depend on what people want to protect. They also depend on which uses people find worthwhile and where they want firm limits. This part of the project asked citizens directly about these issues.
+Research can estimate the effects of AI, and experts can explain institutional trade-offs. Citizens add experience from education, work, public services, and democratic life. They also judge which benefits seem worth pursuing and which risks require limits.
 
-Participants answered more detailed questions than whether they were “for” or “against” AI. They described what they would accept, the conditions they expected, and the uses that would cross a red line. Their reasons matter because the same application can be helpful in one setting and unacceptable in another.
+The process therefore went beyond a simple measure of support or opposition. Participants described the uses they would accept, the safeguards they expected, and the outcomes they considered unacceptable. Their reasons show why the same application can appear helpful in one setting and harmful in another.
 
 Deliberative-democratic research considers both preferences and the reasons behind them. It gives people space to review information, hear other views, and explain what guides their choices (Bächtiger, Dryzek, Mansbridge, and Warren, 2018; Fishkin, Luskin, and Jowell, 1998).
 

@@ -1,12 +1,18 @@
 # 4. Öffentliche Sichtweisen auf KI: Chancen, Bedingungen und rote Linien
 
+Wie soll die Schweiz mit KI umgehen, wenn sich die Erkenntnislage laufend verändert und die Technologie bereits den Alltag prägt? Bevor das Projekt Bürgerinnen und Bürger befragte, hatte es bereits zwei Untersuchungsphasen abgeschlossen.
+
+Phase 1 verband Literaturübersichten, Analysen öffentlicher und institutioneller Debatten sowie Experimente im Klassenzimmer. Diese Arbeiten zeigten, was über KI in Bildung und Arbeit bekannt ist, wie Institutionen reagieren und wie der Zugang zu einem LLM das Lernen beeinflussen kann. In Phase 2 untersuchten Expertengruppen künftige Kompetenzen, Governance-Fragen und mögliche Szenarien.
+
+In Phase 3 kamen die Bürgerinnen und Bürger zu Wort. Eine Online-Befragung erfasste ein breites Spektrum an Sichtweisen. Zwei Workshops in Zürich und Lausanne gaben den Teilnehmenden anschliessend Zeit, die Erkenntnisse zu prüfen, die Szenarien zu hinterfragen und darüber zu diskutieren, welche Rolle KI in Bildung und Arbeit spielen soll. Dieses Kapitel berichtet, was sie dachten, welche Bedingungen sie formulierten, wo sie rote Linien zogen und was sie von der Politik erwarten. Eine kleinere Untersuchung der KI-unterstützten Moderation begleitete die Workshops und bleibt ein ergänzender Teil der Analyse.
+
 ## 4.1 Wie wir die Sichtweisen der Bevölkerung erhoben haben
 
 ### 4.1.1 Das Ziel: gesellschaftliche Prioritäten in das Projekt einbringen
 
-KI-Politik verbindet technische und gesellschaftliche Fragen. Entscheidungen über KI in Bildung, Arbeit und öffentlichem Leben hängen davon ab, was Menschen schützen wollen. Ebenso wichtig sind sinnvolle Anwendungen und klare Grenzen. Dieser Teil des Projekts fragte Bürgerinnen und Bürger direkt nach diesen Themen.
+Forschung kann die Folgen von KI abschätzen, und Fachpersonen können institutionelle Zielkonflikte erklären. Bürgerinnen und Bürger bringen Erfahrungen aus Bildung, Arbeit, öffentlichen Diensten und demokratischem Leben ein. Sie beurteilen zudem, welche Vorteile wünschenswert sind und welche Risiken Grenzen erfordern.
 
-Die Befragung erfasste Zustimmung, Bedingungen und rote Linien. Die Begründungen sind wichtig, weil dieselbe Anwendung in einem Kontext hilfreich und in einem anderen unakzeptabel sein kann.
+Der Prozess erfasste mehr als einfache Zustimmung oder Ablehnung. Die Teilnehmenden beschrieben akzeptable Anwendungen, erwartete Schutzvorkehrungen und unakzeptable Folgen. Ihre Begründungen zeigen, warum dieselbe Anwendung in einem Kontext hilfreich und in einem anderen schädlich erscheinen kann.
 
 Die deliberative Demokratieforschung untersucht Präferenzen und die Gründe dahinter. Menschen erhalten Raum, um Informationen abzuwägen, andere Sichtweisen zu hören und ihre Entscheidungen zu erklären (Bächtiger, Dryzek, Mansbridge und Warren, 2018; Fishkin, Luskin und Jowell, 1998).
 
