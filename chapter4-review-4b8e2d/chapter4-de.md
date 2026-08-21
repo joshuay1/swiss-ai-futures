@@ -1,10 +1,10 @@
 # 4. Öffentliche Sichtweisen auf KI: Chancen, Bedingungen und rote Linien
 
-Wie soll die Schweiz mit KI umgehen, wenn sich die Erkenntnislage laufend verändert und die Technologie bereits den Alltag prägt? Bevor das Projekt Bürgerinnen und Bürger befragte, hatte es bereits zwei Untersuchungsphasen abgeschlossen.
+Wie soll die Schweiz mit KI umgehen, wenn sich die Erkenntnislage laufend verändert und die Technologie bereits den Alltag prägt? Swiss AI Futures ist Teil einer breiteren TA-SWISS-Studie zu KI, Kompetenzen, Bildung und Arbeit. Bevor das Projekt Bürgerinnen und Bürger befragte, hatte es bereits zwei Untersuchungsphasen abgeschlossen.
 
 Phase 1 verband Literaturübersichten, Analysen öffentlicher und institutioneller Debatten sowie Experimente im Klassenzimmer. Diese Arbeiten zeigten, was über KI in Bildung und Arbeit bekannt ist, wie Institutionen reagieren und wie der Zugang zu einem LLM das Lernen beeinflussen kann. In Phase 2 untersuchten Expertengruppen künftige Kompetenzen, Governance-Fragen und mögliche Szenarien.
 
-In Phase 3 kamen die Bürgerinnen und Bürger zu Wort. Eine Online-Befragung erfasste ein breites Spektrum an Sichtweisen. Zwei Workshops in Zürich und Lausanne gaben den Teilnehmenden anschliessend Zeit, die Erkenntnisse zu prüfen, die Szenarien zu hinterfragen und darüber zu diskutieren, welche Rolle KI in Bildung und Arbeit spielen soll. Dieses Kapitel berichtet, was sie dachten, welche Bedingungen sie formulierten, wo sie rote Linien zogen und was sie von der Politik erwarten. Eine kleinere Untersuchung der KI-unterstützten Moderation begleitete die Workshops und bleibt ein ergänzender Teil der Analyse.
+In Phase 3 kamen die Bürgerinnen und Bürger zu Wort. Sie begann mit einem Online-Modul in Atgora und wurde mit zwei Workshops in Zürich und Lausanne fortgesetzt. Dieses Kapitel berichtet, was die Teilnehmenden dachten, welche Bedingungen sie formulierten, wo sie rote Linien zogen und was sie von der Politik erwarten. Ihre Beiträge fliessen in den abschliessenden TA-SWISS-Bericht für das Parlament und die öffentliche Debatte ein. Der Vergleich menschlicher und KI-unterstützter Moderation bleibt ein ergänzender Teil der Analyse.
 
 ## 4.1 Wie wir die Sichtweisen der Bevölkerung erhoben haben
 
@@ -20,27 +20,25 @@ Die deliberative Demokratieforschung untersucht Präferenzen und die Gründe dah
 
 Wir erhoben die Sichtweisen der Bevölkerung in drei Schritten:
 
-1. **Online-Befragung:** ein breites erstes Bild von KI-Nutzung, Vertrauen, wahrgenommenen Risiken, politischen Präferenzen und Freitextargumenten.
-2. **Workshops in Zürich und Lausanne:** Kleingruppengespräche, die nach den Gründen fragten und daraus Bedingungen, rote Linien und politische Vorschläge entwickelten.
-3. **Nachbefragung:** wiederholte Fragen, die zeigen, ob sich ausgewählte Positionen nach der Diskussion veränderten.
+1. **Online-Modul in Atgora:** Befragungsfragen, Abstimmungen über kurze Aussagen und freiwillige schriftliche Argumente zu KI in Bildung, Arbeit, öffentlichen Diensten und Alltag.
+2. **Workshops in Zürich und Lausanne:** Kleingruppengespräche, die die Online-Ergebnisse aufgriffen und aus den Begründungen Empfehlungen, Bedingungen, rote Linien und offene Fragen entwickelten.
+3. **Nachbefragung:** wiederholte politische Fragen und Bewertungen nach den Themendiskussionen und am Ende des Workshops.
 
-Jede Quelle beantwortet eine andere Frage. Die Online-Befragung schafft Breite. Die Workshops liefern Begründungen in der Sprache der Bürgerinnen und Bürger. Die Nachbefragung zeigt Veränderungen. Wir vergleichen die Ergebnisse und halten die Stichproben getrennt.
+Jede Quelle beantwortet eine andere Frage. Das Online-Modul schafft Breite. Die Workshops liefern Begründungen in der Sprache der Bürgerinnen und Bürger. Die Nachbefragung zeigt Veränderungen. Wir vergleichen die Ergebnisse und halten die Stichproben getrennt.
 
 ### 4.1.3 Was die Workshops ergänzten
 
-Jede Workshopgruppe diskutierte KI in Bildung und Arbeit. Die Teilnehmenden benannten sinnvolle Anwendungen, praktische Bedenken und unakzeptable Folgen. Sie hielten Ideen auf Post-its fest, diskutierten Vorschläge, stimmten über ausgewählte Aussagen ab und erarbeiteten ein kurzes politisches Massnahmenpaket mit:
+Die zweistündigen Workshops fanden am 11. August 2026 an der ETH Zürich und am 12. August 2026 an der Université de Lausanne statt. In Zürich gab es einen deutsch- und einen englischsprachigen Raum. In Lausanne gab es einen französisch- und einen englischsprachigen Raum. Jeder Raum diskutierte KI in der Bildung, KI bei der Arbeit und zum Abschluss eine kurze Frage zu KI und der Schweizer Gesellschaft.
 
-* zwei oder drei Empfehlungen.
-* einer Begründung für jede Empfehlung.
-* verbleibender Uneinigkeit oder Unsicherheit.
+Jedes Hauptthema folgte demselben Ablauf: Kleingruppengespräch, Austausch im Raum, Abstimmung, Entwurf einer Zusammenfassung, gemeinsame Korrektur und Bestätigung des Ergebnisses. Die menschlich moderierte Runde nutzte gebündelte Post-its und Klebepunkte. Die Murmi-unterstützte Runde nutzte geprüfte Aussagen und eine Fünf-Punkte-Skala. Beide Formate erzeugten eine dreispaltige Zusammenfassung mit **politischen Empfehlungen**, **Bedingungen und roten Linien** sowie **Uneinigkeit und offenen Fragen**.
 
-Die Workshops ergänzten die Begründungen hinter den Positionen. Einige Teilnehmende befürworteten zum Beispiel KI-unterstütztes Lernen. Lernende sollten dabei weiterhin selbstständig recherchieren, schreiben und Informationen prüfen.
+Dieser Prozess machte die Begründungen hinter den Positionen sichtbar. Einige Teilnehmende befürworteten zum Beispiel KI-unterstütztes Lernen. Lernende sollten dabei weiterhin selbstständig recherchieren, schreiben und Informationen prüfen.
 
 ### 4.1.4 Ein ergänzender Test KI-unterstützter Deliberation
 
-Das Projekt testete zusätzlich, ob KI Gruppen beim Strukturieren einer Diskussion unterstützen kann. Jeder Raum diskutierte ein Thema mit menschlicher Moderation und das andere mit KI-Unterstützung. In den französisch- und deutschsprachigen Räumen wurde Arbeit menschlich moderiert und Bildung KI-unterstützt. In den englischsprachigen Räumen war die Reihenfolge umgekehrt.
+Das Projekt testete zusätzlich, ob KI Gruppen beim Strukturieren einer Diskussion unterstützen kann. Jeder Raum diskutierte ein Thema mit menschlicher Moderation und das andere mit Murmi-Unterstützung. In den französisch- und deutschsprachigen Räumen wurde Arbeit menschlich moderiert und Bildung von Murmi unterstützt. In den englischsprachigen Räumen waren die Themen vertauscht. Die Abschlussdiskussion zu KI und der Schweiz nutzte Murmi in allen Räumen und gehörte nicht zum Methodenvergleich.
 
-In den KI-unterstützten Sitzungen überführte das System gesprochene Argumente in kurze Aussagen und Vorschlagsentwürfe. Die Teilnehmenden konnten jedes Ergebnis annehmen, ablehnen oder überarbeiten und behielten die Kontrolle über die abschliessende Empfehlung. Dieser Methodenvergleich spielt in diesem Kapitel eine Nebenrolle. Im Mittelpunkt steht, was Bürgerinnen und Bürger sagten, unterstützten, ablehnten und vorschlugen.
+In den Murmi-unterstützten Sitzungen erfasste das System gesprochene Argumente als kurze Aussagen, unterstützte Abstimmung und Austausch zwischen Gruppen und entwarf die dreispaltige Zusammenfassung. Die Teilnehmenden prüften und korrigierten jeden Schritt und behielten die Kontrolle über das abschliessende Ergebnis. Dieser Methodenvergleich spielt in diesem Kapitel eine Nebenrolle. Im Mittelpunkt steht, was Bürgerinnen und Bürger sagten, unterstützten, ablehnten und vorschlugen.
 
 ### 4.1.5 Wie wir das Material ausgewertet haben
 
@@ -50,9 +48,9 @@ Wir werteten wiederholte Fragen auf ihrer ursprünglichen Sieben-Punkte-Skala au
 
 ### 4.1.6 Teilnehmende und Schutzmassnahmen
 
-Wir rekrutierten über zivilgesellschaftliche Organisationen, das TA-SWISS-Netzwerk und digitale Kanäle. Die Stichprobe zeigte ein überdurchschnittliches zivilgesellschaftliches Engagement, ein hohes Bildungsniveau und viel KI-Erfahrung. Die Ergebnisse beschreiben die Teilnehmenden. Die gesamte Schweizer Bevölkerung kann andere Merkmale aufweisen. Die Online-Teilnahme war unbezahlt. Workshopteilnehmende erhielten einen Gutschein im Wert von 40 CHF.
+Teilnehmen konnten Personen ab 18 Jahren mit Wohnsitz in der Schweiz. Wir rekrutierten über zivilgesellschaftliche Organisationen, das TA-SWISS-Netzwerk und digitale Kanäle. Die Stichprobe zeigte ein überdurchschnittliches zivilgesellschaftliches Engagement, ein hohes Bildungsniveau und viel KI-Erfahrung. Die Ergebnisse beschreiben die Teilnehmenden. Die gesamte Schweizer Bevölkerung kann andere Merkmale aufweisen. Die Online-Teilnahme war unbezahlt. Berechtigte Personen, die das Online-Modul abschlossen und an einem Workshop teilnahmen, erhielten einen Gutschein im Wert von 60 CHF.
 
-Alle Teilnehmenden gaben eine informierte Einwilligung. Wir speicherten Kontakt- und Zahlungsdaten getrennt von den Forschungsdaten. Wir codierten oder pseudonymisierten Antworten und entfernten bei Bedarf identifizierende Angaben aus Freitexten oder Transkripten. Ein Rückzug war ohne Nachteile möglich. In den KI-unterstützten Sitzungen prüften die Teilnehmenden jede Zusammenfassung und jeden Vorschlag, bevor diese in das Gruppenergebnis einflossen.
+Die Ethikkommission der ETH Zürich genehmigte die Studie ohne Vorbehalte (Projekt 26 ETHICS-116). Alle Teilnehmenden gaben eine informierte Einwilligung. Wir speicherten Kontakt- und Zahlungsdaten getrennt von den Forschungsdaten. Wir codierten oder pseudonymisierten Antworten und entfernten bei Bedarf identifizierende Angaben aus Freitexten oder Transkripten. Die Live-Transkription in den Murmi-unterstützten Runden nutzte Teilnehmendencodes. Vollständige Transkripte wurden nicht veröffentlicht. Ein Rückzug war ohne Nachteile möglich.
 
 ## 4.2 Was Bürgerinnen und Bürger über KI denken
 
@@ -62,8 +60,8 @@ Jede Quelle liefert eine andere Form von Evidenz.
 
 | Datenquelle | Analytische Grundlage | Was sie zeigt |
 | --- | --- | --- |
-| Online-Befragung | Export vom 11. August 2026: 135 eingegangene Datensätze; 103 Personen nach Screening einbezogen; 485 auswertbare Freitextantworten; zusätzlich eine separate Live-Abstimmung vom 29. Mai mit 23 Personen | Breite: Ausgangseinstellungen, politische Präferenzen und die Sprache der Teilnehmenden |
-| Workshops | Vier Räume; 76 Workshop-Fragebögen; 140 Post-it-Zeilen; 136 MURMI-Propositionen | Tiefe: Begründungen, Bedingungen, rote Linien, offene Entscheidungen und raumspezifische Abstimmungen |
+| Online-Modul in Atgora | Export vom 11. August 2026: 135 eingegangene Datensätze; 103 Personen nach Screening einbezogen; 485 auswertbare Freitextantworten; zusätzlich eine separate Live-Abstimmung vom 29. Mai mit 23 Personen | Breite: Ausgangseinstellungen, politische Präferenzen und die Sprache der Teilnehmenden |
+| Workshops | Zwei Workshops von jeweils zwei Stunden am 11. und 12. August 2026; vier Sprachräume; 76 Workshop-Fragebögen; 140 Post-it-Zeilen; 136 Murmi-Propositionen | Tiefe: Begründungen, Bedingungen, rote Linien, offene Entscheidungen und raumspezifische Abstimmungen |
 | Nachbefragung | 76 Fragebögen; 49 eindeutig mit der Online-Baseline verknüpfte Personen; je Item 36 bis 44 Antwortpaare | Veränderung: wiederholte politische Positionen und Bewertungen nach den Workshops |
 
 Ein Post-it hält eine Gruppenidee fest. Jede Workshopaussage gehört zu dem Raum, der darüber abstimmte. Vorher-Nachher-Ergebnisse umfassen nur Personen, die sich über beide Befragungen verknüpfen liessen. Jede Abbildung nennt ihren eigenen Nenner und ihre Skala. Alle folgenden Online-Ergebnisse nutzen den Export vom 11. August. Nach der Prüfung der Antworten blieben 103 Teilnehmende. Die vorherige Zwischenanalyse umfasste 81 Personen.
@@ -157,12 +155,12 @@ Die vier Räume unterschieden sich nach Ort, Sprache, Grösse, Themenreihenfolge
 
 **Tabelle 4.1: Workshopergebnisse**
 
-| Workshop | Sitzungsreihenfolge | Unterstützung der Workshoppropositionen | Massnahmenpaket akzeptiert |
+| Workshop | Themen- und Methodenfolge | Unterstützung der Murmi-Aussagen | Murmi-Zusammenfassung bestätigt |
 | --- | --- | ---: | ---: |
-| Lausanne, Französisch | Arbeit → KI-Bildung | 79 % | 69 % (9/13) |
-| Lausanne, Englisch | Bildung → KI-Arbeit | 68 % | 83 % (5/6) |
-| Zürich, Deutsch | Arbeit → KI-Bildung | 74 % | 82 % (14/17) |
-| Zürich, Englisch | Bildung → KI-Arbeit | 68 % | 91 % (21/23) |
+| Lausanne, Französisch | Menschlich: Arbeit; Murmi: Bildung | 79 % | 69 % (9/13) |
+| Lausanne, Englisch | Menschlich: Bildung; Murmi: Arbeit | 68 % | 83 % (5/6) |
+| Zürich, Deutsch | Menschlich: Arbeit; Murmi: Bildung | 74 % | 82 % (14/17) |
+| Zürich, Englisch | Menschlich: Bildung; Murmi: Arbeit | 68 % | 91 % (21/23) |
 
 **Tabelle 4.2: Verknüpftes Ausgangsprofil**
 

@@ -1,10 +1,10 @@
 # 4. Public views on AI: opportunities, conditions, and red lines
 
-How should Switzerland respond to AI when the evidence is still developing and the technology already shapes daily life? Before asking citizens, this project built a foundation in two earlier phases.
+How should Switzerland respond to AI when the evidence is still developing and the technology already shapes daily life? Swiss AI Futures forms part of a wider TA-SWISS study on AI, skills, education, and work. Before asking citizens, the project built a foundation in two earlier phases.
 
 Phase 1 brought together literature reviews, analyses of public and institutional debates, and classroom experiments. This work showed what research already tells us about AI in education and work, how institutions are responding, and how access to an LLM can affect learning. Phase 2 convened expert groups to examine future skills, governance questions, and possible scenarios.
 
-Phase 3 turned to citizens. An online survey gathered a broad range of views. Two workshops in Zurich and Lausanne then gave participants time to examine the evidence, question the scenarios, and discuss the role AI should play in education and work. This chapter reports what they thought, which conditions they set, where they drew red lines, and what they expect from policy. A smaller study of AI-supported facilitation ran alongside the workshops and remains a secondary part of the analysis.
+Phase 3 turned to citizens. It began with an online module in Atgora and continued with two workshops in Zurich and Lausanne. This chapter reports what participants thought, which conditions they set, where they drew red lines, and what they expect from policy. Their contributions feed into the final TA-SWISS report for Parliament and public debate. The comparison of human and AI-supported facilitation remains a secondary part of the analysis.
 
 ## 4.1 How we collected citizen input
 
@@ -20,27 +20,25 @@ Deliberative-democratic research considers both preferences and the reasons behi
 
 We collected citizen input in three steps:
 
-1. **Online survey:** a broad first picture of AI use, trust, perceived risks, policy preferences, and free-text arguments.
-2. **Workshops in Zurich and Lausanne:** small-group discussions that explored why participants held these views and turned them into conditions, red lines, and policy proposals.
-3. **Post-workshop survey:** repeated questions that showed whether selected positions changed after discussion.
+1. **Online module in Atgora:** survey questions, votes on short statements, and optional written arguments about AI in education, work, public services, and daily life.
+2. **Workshops in Zurich and Lausanne:** small-group discussions that examined the online findings and turned participants’ reasons into recommendations, conditions, red lines, and unresolved questions.
+3. **Post-workshop survey:** repeated policy questions and evaluations completed after the topic discussions and at the end of the workshop.
 
-Each source answers a different question. The online survey provides breadth. The workshops provide reasons in citizens’ own language. The post-workshop survey tracks change. We compare the findings. The samples remain separate.
+Each source answers a different question. The online module provides breadth. The workshops provide reasons in citizens’ own language. The post-workshop survey tracks change. We compare the findings. The samples remain separate.
 
 ### 4.1.3 What the workshops added
 
-Each workshop group discussed AI in education and at work. Participants identified promising uses, practical concerns, and unacceptable outcomes. They recorded ideas on Post-it notes, discussed proposals, voted on selected statements, and produced a short policy package with:
+The two-hour workshops took place on 11 August 2026 at ETH Zurich and on 12 August 2026 at the Université de Lausanne. Zurich had German- and English-speaking rooms. Lausanne had French- and English-speaking rooms. Each room discussed AI in education, AI at work, and a short closing question about AI and Swiss society.
 
-* two or three recommendations.
-* a reason for each recommendation.
-* any remaining disagreement or uncertainty.
+Each main topic followed the same path: small-group discussion, sharing across the room, voting, a draft summary, joint correction, and confirmation of the shared record. The human-moderated round used clustered Post-it notes and dot votes. The Murmi-supported round used reviewed statements and a five-point vote. Both formats produced a three-column summary of **policy recommendations**, **conditions and red lines**, and **disagreements and unresolved issues**.
 
-The workshops added the reasons behind each position. For example, some participants supported AI-assisted learning and still wanted students to research, write, and verify information themselves.
+This process exposed the reasons behind each position. For example, some participants supported AI-assisted learning and still wanted students to research, write, and verify information themselves.
 
 ### 4.1.4 A secondary test of AI-supported deliberation
 
-The project also tested whether AI could help groups organise a discussion. Each room discussed one topic with a human facilitator and the other with AI support. In the French- and German-speaking rooms, work was human-facilitated and education was AI-supported. In the English-speaking rooms, the order was reversed.
+The project also tested whether AI could help groups organise a discussion. Each room discussed one topic with human moderation and the other with Murmi support. In the French- and German-speaking rooms, work was human-moderated and education was Murmi-supported. In the English-speaking rooms, the topics were reversed. The closing discussion on AI and Switzerland used Murmi in every room and was outside the method comparison.
 
-During the AI-supported sessions, the system converted spoken arguments into short statements and draft proposals. Participants could accept, reject, or revise every output and retained control of the final recommendation. This chapter gives the method comparison a secondary role. Its main evidence comes from what citizens said, supported, opposed, and proposed.
+During the Murmi-supported sessions, the system captured spoken arguments as short statements, supported voting and cross-group sharing, and drafted the three-column summary. Participants reviewed and corrected every stage and retained control of the final record. This chapter gives the method comparison a secondary role. Its main evidence comes from what citizens said, supported, opposed, and proposed.
 
 ### 4.1.5 How we analysed the material
 
@@ -50,9 +48,9 @@ We analysed repeated survey items on their original seven-point scale. The tests
 
 ### 4.1.6 Participants and safeguards
 
-We recruited participants through civil-society organisations, the TA-SWISS network, and digital outreach. The sample had above-average civic engagement, educational attainment, and experience with AI. The results describe the people who took part. The Swiss population as a whole may differ. Online participation was unpaid. Workshop participants received a CHF 40 voucher.
+The study was open to people aged 18 or older who lived in Switzerland. We recruited participants through civil-society organisations, the TA-SWISS network, and digital outreach. The sample had above-average civic engagement, educational attainment, and experience with AI. The results describe the people who took part. The Swiss population as a whole may differ. Online participation was unpaid. Eligible participants who completed the online module and attended a workshop received a CHF 60 voucher.
 
-All participants gave informed consent. We stored contact and payment details separately from research data. We coded or pseudonymised responses and removed identifying details from free text or transcripts where needed. Participants could withdraw without disadvantage. During AI-supported sessions, participants reviewed every summary and proposal before it could become part of the group output.
+The ETH Zurich Ethics Committee approved the study without reservations (project 26 ETHICS-116). All participants gave informed consent. We stored contact and payment details separately from research data. We coded or pseudonymised responses and removed identifying details from free text or transcripts where needed. Live transcription in the Murmi-supported rounds used participant codes, and full transcripts were not published. Participants could withdraw without disadvantage.
 
 ## 4.2 What citizens think about AI
 
@@ -62,8 +60,8 @@ Each source contributes a different kind of evidence.
 
 | Data source | Analytical basis | What it tells us |
 | --- | --- | --- |
-| Online survey | Export of 11 August 2026: 135 submitted records; 103 people included after screening; 485 usable free-text responses; plus a separate live vote on 29 May with 23 people | Breadth: initial attitudes, policy preferences, and participants’ language |
-| Workshops | Four rooms; 76 workshop questionnaires; 140 Post-it rows; 136 MURMI propositions | Depth: reasons, conditions, red lines, open decisions, and room-specific votes |
+| Online module in Atgora | Export of 11 August 2026: 135 submitted records; 103 people included after screening; 485 usable free-text responses; plus a separate live vote on 29 May with 23 people | Breadth: initial attitudes, policy preferences, and participants’ language |
+| Workshops | Two workshops, each lasting two hours, on 11 and 12 August 2026; four language rooms; 76 workshop questionnaires; 140 Post-it rows; 136 Murmi propositions | Depth: reasons, conditions, red lines, open decisions, and room-specific votes |
 | Post-workshop survey | 76 questionnaires; 49 people uniquely linked to the online baseline; 36 to 44 paired responses per item | Change: repeated policy positions and evaluations after the workshops |
 
 A Post-it records a group idea. Each workshop proposition belongs to the room that voted on it. Before-and-after results include only people who could be linked across both surveys. Each figure gives its own denominator and scale. All online results below use the 11 August export. It contains 103 screened participants, compared with 81 in the previous interim analysis.
@@ -157,12 +155,12 @@ The four rooms differed in location, language, size, topic order, and participan
 
 **Table 4.1: Workshop outputs**
 
-| Workshop | Session order | Support for workshop propositions | Policy package accepted |
+| Workshop | Topic and method order | Support across Murmi statements | Murmi summary confirmed |
 | --- | --- | ---: | ---: |
-| Lausanne, French | Work → AI-supported education | 79% | 69% (9/13) |
-| Lausanne, English | Education → AI-supported work | 68% | 83% (5/6) |
-| Zurich, German | Work → AI-supported education | 74% | 82% (14/17) |
-| Zurich, English | Education → AI-supported work | 68% | 91% (21/23) |
+| Lausanne, French | Human: work; Murmi: education | 79% | 69% (9/13) |
+| Lausanne, English | Human: education; Murmi: work | 68% | 83% (5/6) |
+| Zurich, German | Human: work; Murmi: education | 74% | 82% (14/17) |
+| Zurich, English | Human: education; Murmi: work | 68% | 91% (21/23) |
 
 **Table 4.2: Linked baseline profile**
 
