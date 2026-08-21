@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en" data-font-size="comfortable">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
+    <meta name="googlebot" content="noindex, nofollow, noarchive, nosnippet">
+    <meta name="referrer" content="no-referrer">
+    <meta name="theme-color" content="#f7f6f2">
+    <title>Chapter 4 bilingual workbench · Swiss AI Futures</title>
+    <link rel="icon" type="image/png" href="../assets/images/logos/favicon.png">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#workspace">Skip to the chapter</a>
+
+    <header class="site-header">
+      <div class="brand-block">
+        <img
+          src="../assets/images/logos/logo-warm-long.png"
+          alt="Swiss AI Futures"
+          width="214"
+          height="43"
+        >
+        <span class="privacy-label">Unlisted working page</span>
+      </div>
+      <div class="header-actions">
+        <button class="quiet-button" id="smaller-text" type="button" aria-label="Make text smaller">A−</button>
+        <button class="quiet-button" id="larger-text" type="button" aria-label="Make text larger">A+</button>
+        <button class="quiet-button" id="print-page" type="button">Print / PDF</button>
+      </div>
+    </header>
+
+    <main id="workspace">
+      <section class="workspace-intro" aria-labelledby="page-title">
+        <div>
+          <p class="eyebrow">Chapter 4 · bilingual review</p>
+          <h1 id="page-title">Read, compare and edit from one place.</h1>
+          <p class="intro-copy">
+            English and German are rendered from the Markdown files stored beside this page. Draft edits update the
+            preview immediately and stay on this device until you copy them into the linked GitHub source and commit.
+          </p>
+        </div>
+        <div class="source-note" aria-label="How synchronisation works">
+          <strong>One publishing loop</strong>
+          <span>Edit live → compare → copy to GitHub → commit → refresh.</span>
+        </div>
+      </section>
+
+      <div class="workspace-toolbar" aria-label="Workspace controls">
+        <div class="segmented-control" role="group" aria-label="Language view">
+          <button type="button" data-view="compare" aria-pressed="true">English + Deutsch</button>
+          <button type="button" data-view="en" aria-pressed="false">English</button>
+          <button type="button" data-view="de" aria-pressed="false">Deutsch</button>
+        </div>
+        <div class="toolbar-actions">
+          <button class="secondary-button" id="refresh-sources" type="button">Refresh published files</button>
+          <button class="primary-button" id="compare-structure" type="button">Check consistency</button>
+        </div>
+      </div>
+
+      <section class="consistency-panel" id="consistency-panel" aria-live="polite">
+        <div>
+          <span class="metric-label">Structure</span>
+          <strong id="structure-status">Checking…</strong>
+        </div>
+        <div>
+          <span class="metric-label">Headings</span>
+          <strong id="heading-count">—</strong>
+        </div>
+        <div>
+          <span class="metric-label">Figures</span>
+          <strong id="figure-count">—</strong>
+        </div>
+        <div>
+          <span class="metric-label">Tables</span>
+          <strong id="table-count">—</strong>
+        </div>
+        <p id="consistency-detail">Loading the published Markdown files.</p>
+      </section>
+
+      <div class="workspace-grid" data-view="compare">
+        <section class="language-panel" data-language="en" aria-labelledby="english-heading">
+          <header class="language-header">
+            <div>
+              <p class="language-kicker">English source</p>
+              <h2 id="english-heading">Chapter 4</h2>
+            </div>
+            <span class="document-status" data-status="en">Loading…</span>
+          </header>
+
+          <div class="document-actions" aria-label="English document actions">
+            <button class="edit-toggle primary-button" type="button" data-language-action="en">Edit Markdown</button>
+            <button class="secondary-button" type="button" data-copy="en">Copy Markdown</button>
+            <button class="secondary-button" type="button" data-download="en">Download .md</button>
+            <a
+              class="secondary-button link-button"
+              data-github="en"
+              href="https://github.com/joshuay1/swiss-ai-futures/edit/main/chapter4-review-4b8e2d/chapter4-en.md"
+              target="_blank"
+              rel="noopener noreferrer"
+            >Edit published source ↗</a>
+          </div>
+
+          <p class="editing-help" data-help="en" hidden>
+            Your draft is saved only in this browser. When ready, copy it, open the published source, paste, and commit.
+          </p>
+
+          <div class="document-surface" data-surface="en">
+            <div class="editor-pane" data-editor-pane="en" hidden>
+              <label for="editor-en">English Markdown</label>
+              <textarea id="editor-en" spellcheck="true" aria-label="Edit English Markdown"></textarea>
+              <div class="editor-footer">
+                <span data-saved="en">Local autosave is on</span>
+                <button class="text-button" type="button" data-reset="en">Discard local draft</button>
+              </div>
+            </div>
+            <article class="markdown-body" id="preview-en" aria-label="English chapter preview">
+              <p class="loading-copy">Loading English…</p>
+            </article>
+          </div>
+        </section>
+
+        <section class="language-panel" data-language="de" aria-labelledby="german-heading">
+          <header class="language-header">
+            <div>
+              <p class="language-kicker">Deutsche Fassung</p>
+              <h2 id="german-heading">Kapitel 4</h2>
+            </div>
+            <span class="document-status" data-status="de">Wird geladen…</span>
+          </header>
+
+          <div class="document-actions" aria-label="German document actions">
+            <button class="edit-toggle primary-button" type="button" data-language-action="de">Markdown bearbeiten</button>
+            <button class="secondary-button" type="button" data-copy="de">Markdown kopieren</button>
+            <button class="secondary-button" type="button" data-download="de">.md herunterladen</button>
+            <a
+              class="secondary-button link-button"
+              data-github="de"
+              href="https://github.com/joshuay1/swiss-ai-futures/edit/main/chapter4-review-4b8e2d/chapter4-de.md"
+              target="_blank"
+              rel="noopener noreferrer"
+            >Quelle auf GitHub bearbeiten ↗</a>
+          </div>
+
+          <p class="editing-help" data-help="de" hidden>
+            Der Entwurf bleibt in diesem Browser. Danach kopieren, die veröffentlichte Quelle öffnen, einfügen und committen.
+          </p>
+
+          <div class="document-surface" data-surface="de">
+            <div class="editor-pane" data-editor-pane="de" hidden>
+              <label for="editor-de">Deutsches Markdown</label>
+              <textarea id="editor-de" spellcheck="true" aria-label="Deutsches Markdown bearbeiten"></textarea>
+              <div class="editor-footer">
+                <span data-saved="de">Lokales Speichern ist aktiv</span>
+                <button class="text-button" type="button" data-reset="de">Lokalen Entwurf verwerfen</button>
+              </div>
+            </div>
+            <article class="markdown-body" id="preview-de" lang="de" aria-label="Vorschau des deutschen Kapitels">
+              <p class="loading-copy">Deutsch wird geladen…</p>
+            </article>
+          </div>
+        </section>
+      </div>
+    </main>
+
+    <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+    <script src="vendor/marked.umd.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
