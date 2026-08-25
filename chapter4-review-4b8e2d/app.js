@@ -11,7 +11,7 @@
         draft: "Local draft",
         edit: "Edit Markdown",
         close: "Close editor",
-        richCopied: "English chapter copied for Google Docs. Paste it, then add each downloaded image at its named placeholder.",
+        richCopied: "English chapter copied with formatting. Add each downloaded image at its named placeholder.",
         copied: "English Markdown copied.",
         downloaded: "English Markdown downloaded.",
         reset: "Discard the English draft saved in this browser?"
@@ -26,7 +26,7 @@
         draft: "Lokaler Entwurf",
         edit: "Markdown bearbeiten",
         close: "Editor schliessen",
-        richCopied: "Das deutsche Kapitel wurde für Google Docs kopiert. Danach jedes heruntergeladene Bild am benannten Platzhalter einfügen.",
+        richCopied: "Das deutsche Kapitel wurde formatiert kopiert. Danach jedes heruntergeladene Bild am benannten Platzhalter einfügen.",
         copied: "Deutsches Markdown kopiert.",
         downloaded: "Deutsches Markdown heruntergeladen.",
         reset: "Den in diesem Browser gespeicherten deutschen Entwurf verwerfen?"
@@ -35,7 +35,7 @@
   };
 
   const state = {
-    view: "compare",
+    view: "en",
     editing: { en: false, de: false },
     published: { en: "", de: "" },
     current: { en: "", de: "" },
@@ -179,6 +179,9 @@
   function updateConsistency() {
     if (!state.current.en || !state.current.de) return;
 
+    const panel = document.getElementById("consistency-panel");
+    if (!panel) return;
+
     const en = analyse(state.current.en);
     const de = analyse(state.current.de);
     const enStructure = en.headings.map((item) => `${item.level}:${item.number}`).join("|");
@@ -192,7 +195,7 @@
     document.getElementById("consistency-detail").textContent = aligned
       ? `Section numbers, heading levels, figures and tables match. Approx. ${en.words.toLocaleString()} English words and ${de.words.toLocaleString()} German words.`
       : "The two versions differ in section numbering, heading levels, figure count or table count. Compare the highlighted totals before publishing.";
-    document.getElementById("consistency-panel").style.borderLeftColor = aligned ? "var(--green)" : "var(--accent)";
+    panel.style.borderLeftColor = aligned ? "var(--green)" : "var(--accent)";
   }
 
   async function loadDocument(language, forcePublished = false) {
@@ -262,7 +265,7 @@
     }
   }
 
-  async function copyForGoogleDocs(language) {
+  async function copyFormattedChapter(language) {
     const preview = document.getElementById(`preview-${language}`);
     const copy = preview.cloneNode(true);
 
@@ -300,8 +303,8 @@
       selection.removeAllRanges();
       selection.addRange(range);
       showToast(language === "de"
-        ? "Das Kapitel ist markiert. Kopieren Sie es und fügen Sie es in Google Docs ein."
-        : "The chapter is selected. Copy it and paste it into Google Docs.");
+        ? "Das Kapitel ist markiert. Kopieren Sie es und fügen Sie es in das gewünschte Dokument ein."
+        : "The chapter is selected. Copy it and paste it into the document where you need it.");
     }
   }
 
@@ -352,7 +355,7 @@
   });
 
   document.querySelectorAll("[data-copy-rich]").forEach((button) => {
-    button.addEventListener("click", () => copyForGoogleDocs(button.dataset.copyRich));
+    button.addEventListener("click", () => copyFormattedChapter(button.dataset.copyRich));
   });
 
   document.querySelectorAll("[data-download]").forEach((button) => {
@@ -372,19 +375,6 @@
         showToast(language === "de" ? "Entwurf lokal gespeichert." : "Draft saved locally.");
       }
     });
-  });
-
-  document.getElementById("refresh-sources").addEventListener("click", async () => {
-    const hasDrafts = ["en", "de"].some((language) => state.current[language] !== state.published[language]);
-    if (hasDrafts && !window.confirm("Refresh the published files and discard both local drafts?")) return;
-    ["en", "de"].forEach((language) => safeLocalRemove(documents[language].storageKey));
-    await Promise.all([loadDocument("en", true), loadDocument("de", true)]);
-    showToast("Published English and German files refreshed.");
-  });
-
-  document.getElementById("compare-structure").addEventListener("click", () => {
-    updateConsistency();
-    document.getElementById("consistency-panel").scrollIntoView({ behavior: "smooth", block: "center" });
   });
 
   document.getElementById("smaller-text").addEventListener("click", () => changeFontSize(-1));
