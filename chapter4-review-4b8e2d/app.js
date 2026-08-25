@@ -5,7 +5,7 @@
     en: {
       source: "chapter4-en.md",
       filename: "chapter4-en.md",
-      storageKey: "swiss-ai-futures-chapter4-en-draft-v1",
+      storageKey: "swiss-ai-futures-chapter4-en-draft-v2",
       labels: {
         published: "Published source",
         draft: "Local draft",
@@ -20,7 +20,7 @@
     de: {
       source: "chapter4-de.md",
       filename: "chapter4-de.md",
-      storageKey: "swiss-ai-futures-chapter4-de-draft-v1",
+      storageKey: "swiss-ai-futures-chapter4-de-draft-v2",
       labels: {
         published: "Veröffentlichte Quelle",
         draft: "Lokaler Entwurf",
