@@ -285,6 +285,24 @@
     const plainText = copy.innerText;
 
     try {
+      copy.className = "clipboard-copy-surface";
+      copy.setAttribute("aria-hidden", "true");
+      document.body.appendChild(copy);
+
+      const selection = window.getSelection();
+      const range = document.createRange();
+      range.selectNodeContents(copy);
+      selection.removeAllRanges();
+      selection.addRange(range);
+      const copiedWithSelection = document.execCommand("copy");
+      selection.removeAllRanges();
+      copy.remove();
+
+      if (copiedWithSelection) {
+        showToast(documents[language].labels.richCopied);
+        return;
+      }
+
       if (navigator.clipboard.write && window.ClipboardItem) {
         await navigator.clipboard.write([
           new ClipboardItem({
@@ -297,6 +315,7 @@
       }
       showToast(documents[language].labels.richCopied);
     } catch (_) {
+      copy.remove();
       const selection = window.getSelection();
       const range = document.createRange();
       range.selectNodeContents(preview);

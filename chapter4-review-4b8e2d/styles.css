@@ -630,6 +630,16 @@ h1 {
   color: var(--muted);
 }
 
+.clipboard-copy-surface {
+  position: fixed;
+  top: 0;
+  left: -10000px;
+  width: 800px;
+  background: white;
+  color: black;
+  pointer-events: none;
+}
+
 .toast {
   position: fixed;
   right: 18px;

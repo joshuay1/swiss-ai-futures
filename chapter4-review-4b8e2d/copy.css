@@ -1,0 +1,106 @@
+@font-face {
+  font-family: "Basis Grotesque";
+  src: url("../assets/fonts/BasisGrotesque-Medium.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 500;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 48px 28px 90px;
+  color: #1b1b1b;
+  font-family: Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.16;
+}
+
+h1 {
+  margin: 0 0 1.2em;
+  font-size: 42px;
+}
+
+h2 {
+  margin-top: 2.2em;
+  padding-top: 0.45em;
+  border-top: 3px solid #1b1b1b;
+  font-size: 31px;
+}
+
+h3 {
+  margin-top: 1.8em;
+  font-size: 24px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1.5em auto 0.5em;
+}
+
+table {
+  width: 100%;
+  margin: 1.4em 0 2em;
+  border-collapse: collapse;
+  font-size: 14px;
+  line-height: 1.45;
+}
+
+th,
+td {
+  padding: 9px;
+  border: 1px solid #bdbdbd;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  background: #1b1b1b;
+  color: white;
+}
+
+blockquote {
+  margin: 1.5em 0;
+  padding: 0.8em 1em;
+  background: #fff4cb;
+  border-left: 6px solid #f5c84b;
+}
+
+@media (max-width: 640px) {
+  body {
+    padding: 24px 16px 60px;
+    font-size: 16px;
+  }
+
+  h1 {
+    font-size: 34px;
+  }
+
+  h2 {
+    font-size: 27px;
+  }
+
+  table {
+    display: block;
+    overflow-x: auto;
+  }
+}
+
+@media print {
+  body {
+    max-width: none;
+    padding: 0;
+    font-size: 11pt;
+  }
+}
