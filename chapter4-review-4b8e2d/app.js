@@ -11,6 +11,7 @@
         draft: "Local draft",
         edit: "Edit Markdown",
         close: "Close editor",
+        richCopied: "English chapter copied for Google Docs. Paste it, then add each downloaded image at its named placeholder.",
         copied: "English Markdown copied.",
         downloaded: "English Markdown downloaded.",
         reset: "Discard the English draft saved in this browser?"
@@ -25,6 +26,7 @@
         draft: "Lokaler Entwurf",
         edit: "Markdown bearbeiten",
         close: "Editor schliessen",
+        richCopied: "Das deutsche Kapitel wurde für Google Docs kopiert. Danach jedes heruntergeladene Bild am benannten Platzhalter einfügen.",
         copied: "Deutsches Markdown kopiert.",
         downloaded: "Deutsches Markdown heruntergeladen.",
         reset: "Den in diesem Browser gespeicherten deutschen Entwurf verwerfen?"
@@ -118,6 +120,32 @@
     preview.querySelectorAll("img").forEach((image) => {
       image.loading = "lazy";
       image.decoding = "async";
+
+      const source = image.getAttribute("src");
+      if (!source || image.closest(".image-handoff")) return;
+
+      const filename = decodeURIComponent(source.split("/").pop() || `chapter4-image-${language}`);
+      const wrapper = document.createElement("span");
+      wrapper.className = "image-handoff";
+      image.replaceWith(wrapper);
+      wrapper.appendChild(image);
+
+      const download = document.createElement("a");
+      download.className = "figure-download";
+      download.href = source;
+      download.download = filename;
+      download.target = "_blank";
+      download.rel = "noopener noreferrer";
+      download.textContent = language === "de"
+        ? `Bild in voller Auflösung herunterladen · ${filename}`
+        : `Download full-size image · ${filename}`;
+      download.setAttribute(
+        "aria-label",
+        language === "de"
+          ? `${filename} in voller Auflösung herunterladen und direkt über der folgenden Bildlegende einfügen`
+          : `Download ${filename} at full resolution and insert it directly above the caption that follows`
+      );
+      wrapper.appendChild(download);
     });
 
     updateStatus(language);
@@ -234,6 +262,49 @@
     }
   }
 
+  async function copyForGoogleDocs(language) {
+    const preview = document.getElementById(`preview-${language}`);
+    const copy = preview.cloneNode(true);
+
+    copy.querySelectorAll("style, .figure-download").forEach((element) => element.remove());
+    copy.querySelectorAll(".image-handoff").forEach((wrapper) => {
+      const image = wrapper.querySelector("img");
+      const source = image ? image.getAttribute("src") : "";
+      const filename = decodeURIComponent((source || "chapter4-image").split("/").pop());
+      const placeholder = document.createElement("p");
+      placeholder.innerHTML = language === "de"
+        ? `<strong>[Bild hier einfügen: ${filename}]</strong>`
+        : `<strong>[Insert image here: ${filename}]</strong>`;
+      wrapper.replaceWith(placeholder);
+    });
+
+    const html = `<meta charset="utf-8">${copy.innerHTML}`;
+    const plainText = copy.innerText;
+
+    try {
+      if (navigator.clipboard.write && window.ClipboardItem) {
+        await navigator.clipboard.write([
+          new ClipboardItem({
+            "text/html": new Blob([html], { type: "text/html" }),
+            "text/plain": new Blob([plainText], { type: "text/plain" })
+          })
+        ]);
+      } else {
+        await navigator.clipboard.writeText(plainText);
+      }
+      showToast(documents[language].labels.richCopied);
+    } catch (_) {
+      const selection = window.getSelection();
+      const range = document.createRange();
+      range.selectNodeContents(preview);
+      selection.removeAllRanges();
+      selection.addRange(range);
+      showToast(language === "de"
+        ? "Das Kapitel ist markiert. Kopieren Sie es und fügen Sie es in Google Docs ein."
+        : "The chapter is selected. Copy it and paste it into Google Docs.");
+    }
+  }
+
   function downloadMarkdown(language) {
     const blob = new Blob([state.current[language]], { type: "text/markdown;charset=utf-8" });
     const url = URL.createObjectURL(blob);
@@ -278,6 +349,10 @@
 
   document.querySelectorAll("[data-copy]").forEach((button) => {
     button.addEventListener("click", () => copyMarkdown(button.dataset.copy));
+  });
+
+  document.querySelectorAll("[data-copy-rich]").forEach((button) => {
+    button.addEventListener("click", () => copyForGoogleDocs(button.dataset.copyRich));
   });
 
   document.querySelectorAll("[data-download]").forEach((button) => {
