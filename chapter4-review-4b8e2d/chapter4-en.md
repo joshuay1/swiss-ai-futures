@@ -218,14 +218,14 @@ Read together, the online responses, workshop discussions and post-workshop ques
 
 **Table 4.3: Policy priorities with a strong basis in the citizen input**
 
-| Priority | Immediate action | Main actors |
+| Priority | What can be done now | Main actors |
 | --- | --- | --- |
-| **Teach verification with tool use** | Set learning goals for source checking, error detection, data protection, and responsible use. | Cantons, schools, vocational education, universities |
-| **Prepare teachers and workers** | Tailor training to subjects, occupations, and actual decisions; update it regularly. | Cantons, training providers, employers, social partners |
-| **Set rules before deployment** | Document purpose, permitted use, data handling, quality control, and responsibility before adoption. | Schools, employers, public bodies |
-| **Keep consequential decisions under human responsibility** | Require human review and a clear route for appeal in employment, performance, and educational decisions. | Confederation, cantons, employers, educational institutions |
-| **Protect information integrity** | Make the origin and limits of AI content visible and provide independent scrutiny of manipulation. | Confederation, cantons, media, platform providers |
-| **Distribute access and benefits fairly** | Support under-resourced schools and small firms, and protect workers during transitions. | Confederation, cantons, employers, social partners |
+| **Teach verification with tool use** | Schools and training providers should teach people how to check sources, recognise errors, protect personal data and use AI responsibly. | Cantons, schools, vocational education, universities |
+| **Prepare teachers and workers** | Training should reflect specific subjects, occupations and decisions and be updated regularly. Retraining must also reach people facing job loss or already unemployed. | Cantons, training providers, employers, social partners |
+| **Set rules before deployment** | Before AI is introduced, its purpose, permitted uses, data practices, quality checks and lines of responsibility should be clear and documented. | Schools, employers, public bodies |
+| **Keep consequential decisions under human responsibility** | Employment, performance and education decisions should remain subject to human review, with a clear route for appeal. | Confederation, cantons, employers, educational institutions |
+| **Protect information integrity** | People should be able to see where AI-generated content comes from and where its limits lie. Risks of manipulation require independent scrutiny. | Confederation, cantons, media, platform providers |
+| **Distribute access and benefits fairly** | Schools and small firms with fewer resources need targeted support. Workers need protection during occupational transitions. | Confederation, cantons, employers, social partners |
 
 ### 4.4.2 Test the choices that remain open
 

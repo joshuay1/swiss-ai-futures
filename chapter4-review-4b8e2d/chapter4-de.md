@@ -218,14 +218,14 @@ Zusammengelesen weisen die Online-Antworten, Workshopgespräche und die Nachbefr
 
 **Tabelle 4.3: Politische Prioritäten mit einer starken Grundlage in den Bürgerbeiträgen**
 
-| Priorität | Sofortiger Schritt | Wichtige Akteure |
+| Priorität | Was jetzt getan werden kann | Wichtige Akteure |
 | --- | --- | --- |
-| **Prüfen und Werkzeuge bedienen lehren** | Lernziele für Quellenprüfung, Fehlererkennung, Datenschutz und verantwortliche Nutzung festlegen. | Kantone, Schulen, Berufsbildung, Hochschulen |
-| **Lehrpersonen und Beschäftigte vorbereiten** | Weiterbildung an Fächer, Berufe und konkrete Entscheide anpassen und regelmässig aktualisieren. | Kantone, Ausbildungsinstitutionen, Arbeitgeber, Sozialpartner |
-| **Regeln vor dem Einsatz festlegen** | Zweck, zulässige Nutzung, Datennutzung, Qualitätskontrolle und Zuständigkeit vor einer Einführung dokumentieren. | Schulen, Arbeitgeber, öffentliche Stellen |
-| **Folgenreiche Entscheide menschlich verantworten** | Menschliche Prüfung und einen klaren Beschwerdeweg für Personal-, Leistungs- und Bildungsentscheide verlangen. | Bund, Kantone, Arbeitgeber, Bildungsinstitutionen |
-| **Informationsintegrität schützen** | Herkunft und Grenzen von KI-Inhalten sichtbar machen und Manipulation unabhängig prüfen lassen. | Bund, Kantone, Medien, Plattformanbieter |
-| **Zugang und Vorteile fair verteilen** | Schulen und kleine Unternehmen mit knappen Ressourcen unterstützen und Beschäftigte bei Übergängen absichern. | Bund, Kantone, Arbeitgeber, Sozialpartner |
+| **Prüfen und Werkzeuge bedienen lehren** | Schulen und Ausbildungsinstitutionen sollten vermitteln, wie sich Quellen prüfen, Fehler erkennen, persönliche Daten schützen und KI verantwortungsvoll nutzen lassen. | Kantone, Schulen, Berufsbildung, Hochschulen |
+| **Lehrpersonen und Beschäftigte vorbereiten** | Weiterbildung sollte auf konkrete Fächer, Berufe und Entscheidungen zugeschnitten und regelmässig aktualisiert werden. Umschulungen müssen auch Menschen erreichen, denen ein Stellenverlust droht oder die bereits arbeitslos sind. | Kantone, Ausbildungsinstitutionen, Arbeitgeber, Sozialpartner |
+| **Regeln vor dem Einsatz festlegen** | Vor der Einführung von KI sollten Zweck, zulässige Nutzung, Umgang mit Daten, Qualitätskontrolle und Verantwortung geklärt und dokumentiert sein. | Schulen, Arbeitgeber, öffentliche Stellen |
+| **Folgenreiche Entscheide menschlich verantworten** | Bei Personal-, Leistungs- und Bildungsentscheiden braucht es eine menschliche Prüfung und einen klaren Beschwerdeweg für Betroffene. | Bund, Kantone, Arbeitgeber, Bildungsinstitutionen |
+| **Informationsintegrität schützen** | Bei KI-generierten Inhalten sollten Herkunft und Grenzen erkennbar sein. Manipulationsrisiken müssen unabhängig geprüft werden. | Bund, Kantone, Medien, Plattformanbieter |
+| **Zugang und Vorteile fair verteilen** | Schulen und kleine Unternehmen mit knappen Ressourcen brauchen gezielte Unterstützung. Beschäftigte müssen bei beruflichen Übergängen abgesichert sein. | Bund, Kantone, Arbeitgeber, Sozialpartner |
 
 ### 4.4.2 Offene Fragen gezielt erproben
 
