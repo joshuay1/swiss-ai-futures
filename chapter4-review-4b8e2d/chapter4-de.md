@@ -16,7 +16,7 @@ In diesen Gesprächen war die Akzeptanz von KI fast immer an Bedingungen geknüp
 Knapp 200 Personen begannen das Online-Modul, und bis zum 11. August enthielt der Datenexport 135 eindeutig zuordenbare Einträge. Für die Auswertung entfernten wir Fälle, bei denen Einwilligung oder Teilnahmeberechtigung fehlten, die zu wenig Antworten enthielten, doppelt vorkamen oder aus Tests stammten. Nach dieser Bereinigung bildeten 103 vollständige oder ausreichend auswertbare Fälle den Datensatz für dieses Kapitel; bei Fragen, die einzelne Personen ausliessen, liegt die Zahl tiefer. Die Gruppe umfasste verschiedene Altersgruppen, Sprachregionen und Kantone, enthielt aber zugleich viele Personen mit Hochschulabschluss und häufiger KI-Nutzung.
 
 <p align="center">
-  <img src="figures/figure-19-online-survey-profile-de.png" alt="Sechs Ringdiagramme zum Profil der Online-Teilnehmenden" width="88%">
+  <img src="figures/figure-19-online-survey-profile-de.png" alt="Sechs Ringdiagramme zum Profil der Online-Teilnehmenden" width="100%">
 </p>
 
 <p align="center"><em>Abb. 19: Profil der Online-Teilnehmenden. Die Diagramme verwenden Prozentanteile, damit sich Alter, Geschlecht, Bildung, Sprachregion, Wohnkanton und Häufigkeit der KI-Nutzung direkt vergleichen lassen. Für die Sprachregion gilt n = 102, für alle anderen Darstellungen n = 103.</em></p>
@@ -75,26 +75,44 @@ Beim Lesen der Freitexte bekamen diese Kategorien eine vertraute, konkrete Form.
 
 Auch häufige Nutzerinnen und Nutzer zogen eine klare Grenze bei der Entscheidungsbefugnis. Von 102 Befragten vertrauten 78 Prozent Hochschulen oder Forschenden bei Informationen über KI, während 14 Prozent Technologieunternehmen nannten. Bei öffentlichen Diensten wählten 54 Prozent von 92 Befragten eine Lösung, bei der KI unterstützen darf und der letzte Entscheid bei einem Menschen bleibt. Die Freitexte hatten denselben praktischen und erfahrenen Ton: Menschen begrüssten schnellere Recherchen, verständlichere Erklärungen und bessere Arbeitsabläufe und fragten danach, wer ein Ergebnis prüfen kann, wer profitiert und wer verantwortlich bleibt.
 
-Die folgenden Beispiele bringen diese Überlegungen in der Sprache der Teilnehmenden zum Ausdruck. Sie veranschaulichen die wichtigsten Perspektiven, ohne deren Häufigkeit zu messen; wenn über eine Workshopproposition abgestimmt wurde, steht das Ergebnis in der Quellenangabe.
+Die folgenden Beispiele bringen diese Überlegungen in der Sprache der Teilnehmenden zum Ausdruck. Sie veranschaulichen die wichtigsten Perspektiven, ohne deren Häufigkeit zu messen; wenn über eine Workshopproposition abgestimmt wurde, steht das Ergebnis in Klammern.
 
 **Beispiele aus den Beiträgen der Bürgerinnen und Bürger**
 
-| Perspektive | Beispielaussage | Quelle und Kontext |
-| --- | --- | --- |
-| Chance in der Bildung | «KI soll Lernende zum Denken anregen. Bei schwierigeren Aufgaben kann sie dann das Niveau der Übung erhöhen.» | Post-it, Workshop Zürich, Englisch; übersetzt |
-| Chance in der Bildung | «KI soll beim Finden einer Antwort mit schrittweisen Hinweisen helfen, ohne die Antwort direkt zu geben.» | Post-it, Workshop Lausanne, Englisch; übersetzt |
-| Bedingung in der Bildung | «Quellen prüfen, Ergebnisse hinterfragen und klären, was wir am Ende erreichen wollen: So lassen sich Chancen und Risiken der KI-Nutzung unterscheiden.» | Online-Modul, aus dem Französischen übersetzt |
-| Bedingung in der Bildung | «Fakten von Meinungen unterscheiden und Quellen prüfen lernen.» | Proposition, Workshop Zürich, Deutsch; von 25 von 25 Abstimmenden unterstützt |
-| Rote Linie in der Bildung | «Wir verlieren die Möglichkeit, durch eigenes Tun zu lernen. Wir haben noch keine Lösung dafür gefunden, wie wir junge Menschen weiterbilden können.» | Online-Modul, Deutsch |
-| Rote Linie in der Bildung | «Grundlagen sollen zuerst weiterhin von Hand gelernt werden, so wie Kopfrechnen vor dem Taschenrechner.» | Proposition, Workshop Zürich, Deutsch; von 24 von 26 Abstimmenden unterstützt |
-| Chance bei der Arbeit | «Mein Softwareentwicklungsteam wurde ungefähr viermal produktiver. Der Arbeitsablauf konzentriert sich nun stärker auf Ergebnisse und Tests.» | Online-Modul, Englisch; übersetzt |
-| Chance bei der Arbeit | «KI soll menschliche Fähigkeiten ergänzen und nicht ersetzen.» | Proposition, Workshop Zürich, Englisch; von 28 von 32 Abstimmenden unterstützt |
-| Bedingung bei der Arbeit | «Auch die breitere Belegschaft sollte mitreden können, denn sie wird von den Folgen betroffen sein.» | Online-Modul, Englisch; übersetzt |
-| Bedingung bei der Arbeit | «Beschäftigte sollen nicht von ihren Arbeitgebern überwacht werden.» | Proposition, Workshop Lausanne, Englisch; von 7 von 7 Abstimmenden unterstützt |
-| Rote Linie bei der Arbeit | «Automatisierte Entscheidungen, etwa eine Kündigung, sind nicht ethisch.» | Post-it, Workshop Zürich, Deutsch |
-| Rote Linie bei der Arbeit | «Bei sensiblen Fällen sollen Menschen die Entscheidungsgewalt behalten.» | Proposition, Workshop Zürich, Englisch; von 27 von 30 Abstimmenden unterstützt |
-| Bedingung für demokratische Kontrolle | «Bürgerinnen und Bürger sollen ihre Sorgen über KI äussern können, damit Grenzen und Folgen gemeinsam vereinbart werden.» | Proposition, Workshop Lausanne, Englisch; von 7 von 7 Abstimmenden unterstützt |
-| Bedingung für demokratische Kontrolle | «Gesetze sollen betrügerische Anwendungen von KI wie Deepfakes erfassen.» | Proposition, Workshop Lausanne, Englisch; von 7 von 7 Abstimmenden unterstützt |
+**Chance in der Bildung**
+
+> «KI soll Lernende zum Denken anregen. Bei schwierigeren Aufgaben kann sie dann das Niveau der Übung erhöhen.» *(Post-it, Workshop Zürich, Englisch; übersetzt)*  
+> «KI soll beim Finden einer Antwort mit schrittweisen Hinweisen helfen, ohne die Antwort direkt zu geben.» *(Post-it, Workshop Lausanne, Englisch; übersetzt)*
+
+**Bedingungen in der Bildung**
+
+> «Quellen prüfen, Ergebnisse hinterfragen und klären, was wir am Ende erreichen wollen: So lassen sich Chancen und Risiken der KI-Nutzung unterscheiden.» *(Online-Modul, aus dem Französischen übersetzt)*  
+> «Fakten von Meinungen unterscheiden und Quellen prüfen lernen.» *(Proposition, Workshop Zürich, Deutsch; von 25 von 25 Abstimmenden unterstützt)*
+
+**Rote Linien in der Bildung**
+
+> «Wir verlieren die Möglichkeit, durch eigenes Tun zu lernen. Wir haben noch keine Lösung dafür gefunden, wie wir junge Menschen weiterbilden können.» *(Online-Modul, Deutsch)*  
+> «Grundlagen sollen zuerst weiterhin von Hand gelernt werden, so wie Kopfrechnen vor dem Taschenrechner.» *(Proposition, Workshop Zürich, Deutsch; von 24 von 26 Abstimmenden unterstützt)*
+
+**Chance bei der Arbeit**
+
+> «Mein Softwareentwicklungsteam wurde ungefähr viermal produktiver. Der Arbeitsablauf konzentriert sich nun stärker auf Ergebnisse und Tests.» *(Online-Modul, Englisch; übersetzt)*  
+> «KI soll menschliche Fähigkeiten ergänzen und nicht ersetzen.» *(Proposition, Workshop Zürich, Englisch; von 28 von 32 Abstimmenden unterstützt)*
+
+**Bedingungen bei der Arbeit**
+
+> «Auch die breitere Belegschaft sollte mitreden können, denn sie wird von den Folgen betroffen sein.» *(Online-Modul, Englisch; übersetzt)*  
+> «Beschäftigte sollen nicht von ihren Arbeitgebern überwacht werden.» *(Proposition, Workshop Lausanne, Englisch; von 7 von 7 Abstimmenden unterstützt)*
+
+**Rote Linien bei der Arbeit**
+
+> «Automatisierte Entscheidungen, etwa eine Kündigung, sind nicht ethisch.» *(Post-it, Workshop Zürich, Deutsch)*  
+> «Bei sensiblen Fällen sollen Menschen die Entscheidungsgewalt behalten.» *(Proposition, Workshop Zürich, Englisch; von 27 von 30 Abstimmenden unterstützt)*
+
+**Bedingungen für demokratische Kontrolle**
+
+> «Bürgerinnen und Bürger sollen ihre Sorgen über KI äussern können, damit Grenzen und Folgen gemeinsam vereinbart werden.» *(Proposition, Workshop Lausanne, Englisch; von 7 von 7 Abstimmenden unterstützt)*  
+> «Gesetze sollen betrügerische Anwendungen von KI wie Deepfakes erfassen.» *(Proposition, Workshop Lausanne, Englisch; von 7 von 7 Abstimmenden unterstützt)*
 
 Online-Zitate und Post-its wurden für Länge und Grammatik leicht bearbeitet. Übersetzungen bewahren den Sinn des Ausgangstextes. Workshoppropositionen sind von der Moderation geprüfte Gruppenzusammenfassungen und keine wörtlichen Zitate einer einzelnen Person.
 
@@ -103,20 +121,20 @@ Online-Zitate und Post-its wurden für Länge und Grammatik leicht bearbeitet. �
 Als sich das Gespräch der Bildung zuwandte, entstand die deutlichste Übereinstimmung bei der kritischen Prüfung. Im Online-Modul unterstützten 95 Prozent, dass Lernende Fehler und Verzerrungen in KI-Ausgaben erkennen lernen, und 3 Prozent waren dagegen (n = 77). Die Vorbereitung der Lehrpersonen, klare Schulregeln und der Schutz von Schülerdaten erhielten jeweils rund 88 bis 90 Prozent Zustimmung.
 
 <p align="center">
-  <img src="figures/figure-20-education-with-guardrails-de.png" alt="Gestapelte Balken zu Einstellungen gegenüber KI in der Bildung" width="92%">
+  <img src="figures/figure-20-education-with-guardrails-de.png" alt="Gestapelte Balken zu Einstellungen gegenüber KI in der Bildung" width="100%">
 </p>
 
-<p align="center"><em>Abb. 20: Bildung mit Leitplanken. Der obere Teil zeigt ausgewählte Fragen aus dem Online-Export vom 11. August 2026. Die Sieben-Punkte-Skala ist in fünf Kategorien gruppiert. Der untere Teil zeigt Propositionen aus dem deutschsprachigen Zürcher Workshop auf ihrer ursprünglichen Fünf-Punkte-Skala. Rechts stehen Zustimmung, Ablehnung und der jeweilige Nenner.</em></p>
+<p align="center"><em>Abb. 20: Bildung mit Leitplanken. Links stehen ausgewählte Fragen aus dem Online-Export vom 11. August 2026; die Sieben-Punkte-Skala ist in fünf Kategorien gruppiert. Rechts stehen Propositionen aus dem deutschsprachigen Zürcher Workshop auf ihrer ursprünglichen Fünf-Punkte-Skala. Zustimmung, Ablehnung und der jeweilige Nenner erscheinen neben jedem Balken.</em></p>
 
 Sobald es von den Grundsätzen in den Unterricht ging, wurden die Ansichten vielfältiger. 70 Prozent unterstützten die Nutzung von KI in mehreren Schulfächern, 62 Prozent wollten Grenzen zum Schutz des eigenständigen Lernens, und 72 Prozent befürworteten eine Neugestaltung von Prüfungen und Aufgaben, obwohl fast ein Viertel dagegen war. Immer wieder kehrten zwei praktische Fragen zurück: Wann soll die direkte Nutzung beginnen, und wie kann eine Schule weiterhin erkennen, was Lernende selbst verstehen?
 
 Eine verwandte Frage hatten wir bereits am 29. Mai einer separat rekrutierten Gruppe von 23 Personen in einer Live-Abstimmung gestellt: Wie viel KI-gestützte benotete Arbeit würden sie auf den einzelnen Bildungsstufen zulassen? Die kleine, anders zusammengesetzte Gruppe liefert einen zusätzlichen Hinweis, der getrennt von der August-Befragung zu lesen ist.
 
 <p align="center">
-  <img src="figures/figure-21-graded-assignments-de.png" alt="Gestapelte Balken zum erlaubten Anteil KI-gestützter benoteter Aufgaben nach Bildungsstufe" width="90%">
+  <img src="figures/figure-21-graded-assignments-de.png" alt="Gestapelte Balken zum erlaubten Anteil KI-gestützter benoteter Aufgaben nach Bildungsstufe" width="100%">
 </p>
 
-<p align="center"><em>Abb. 21: Erlaubter Anteil benoteter Aufgaben mit KI. Die Farben zeigen die gewählten Anteile; die Zahlen in den Balken sind Stimmen. Diese separate Live-Abstimmung fand am 29. Mai 2026 mit n = 23 je Bildungsstufe statt.</em></p>
+<p align="center"><em>Abb. 21: Erlaubter Anteil benoteter Aufgaben mit KI. Die Farben zeigen die gewählten Anteile, die Zahlen in den Balken sind Stimmen, und rechts ist der mittlere erlaubte Anteil hervorgehoben. Diese separate Live-Abstimmung fand am 29. Mai 2026 mit n = 23 je Bildungsstufe statt.</em></p>
 
 Mit der Bildungsstufe verschoben sich die Antworten deutlich: In der Primarschule erlaubten 17 von 23 Personen KI bei höchstens 10 Prozent der benoteten Arbeit, während an Hochschulen 11 von 23 Personen einen Anteil von mindestens 50 Prozent zuliessen. Der Mittelwert stieg von 13,5 Prozent in der Primarschule auf 39,3 Prozent an Hochschulen.
 
@@ -129,10 +147,10 @@ Beim Zuhören kehrte das Gespräch immer wieder zum Zweck des Lernens zurück. D
 Bei der Arbeit verlagerte sich der Schwerpunkt, und die stärkste Zustimmung sammelte sich um Fairness und menschliche Verantwortung. 90 Prozent wollten Beschäftigte an Produktivitätsgewinnen beteiligen, 84 Prozent befürworteten Einschränkungen für vollständig automatisierte Entscheide über Einstellung, Kündigung und Leistung, 83 Prozent unterstützten eine Überwachung auf Diskriminierung und 82 Prozent eine Weiterbildung für die aktuelle Tätigkeit (je n = 77).
 
 <p align="center">
-  <img src="figures/figure-22-work-adaptation-fairness-de.png" alt="Gestapelte Balken zu Einstellungen gegenüber KI und Arbeit" width="92%">
+  <img src="figures/figure-22-work-adaptation-fairness-de.png" alt="Gestapelte Balken zu Einstellungen gegenüber KI und Arbeit" width="100%">
 </p>
 
-<p align="center"><em>Abb. 22: Arbeit, Anpassung und Fairness. Der obere Teil zeigt Präferenzen aus dem Online-Export vom 11. August 2026. Der untere Teil zeigt ausgewählte Propositionen aus dem englischsprachigen Zürcher Workshop. Beide Quellen verwenden dieselben fünf Farben; Skalen und Nenner bleiben separat gekennzeichnet.</em></p>
+<p align="center"><em>Abb. 22: Arbeit, Anpassung und Fairness. Links stehen Präferenzen aus dem Online-Export vom 11. August 2026, rechts ausgewählte Propositionen aus dem englischsprachigen Zürcher Workshop. Beide Quellen verwenden dieselben fünf Farben; Skalen und Nenner bleiben separat gekennzeichnet.</em></p>
 
 Bei den Instrumenten nahm die Übereinstimmung ab: Eine Beteiligung der Beschäftigten vor der Einführung von KI erhielt 61 Prozent Zustimmung und 34 Prozent Ablehnung, während eine Besteuerung von KI oder Automatisierung zugunsten betroffener Beschäftigter auf 53 Prozent Zustimmung und 38 Prozent Ablehnung kam. Nur 27 Prozent wollten den Arbeitsmarkt weitgehend selbst reagieren lassen, während 66 Prozent diesen Weg ablehnten.
 

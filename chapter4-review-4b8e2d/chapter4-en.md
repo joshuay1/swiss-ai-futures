@@ -16,7 +16,7 @@ Across these conversations, acceptance of AI nearly always came with conditions.
 Close to 200 people entered the online module, and by 11 August the data export contained 135 identifiable records. Preparing them for analysis meant removing entries that lacked consent or eligibility and those that were too sparse, duplicated another response or came from testing. After this tidying, 103 complete or sufficiently usable records formed the cleaned dataset used throughout the chapter; the number is lower for questions that some people left unanswered. The resulting group covered several ages, linguistic regions and cantons, while also including many highly educated people and frequent AI users.
 
 <p align="center">
-  <img src="figures/figure-19-online-survey-profile-en.png" alt="Six donut charts showing the profile of online survey participants" width="88%">
+  <img src="figures/figure-19-online-survey-profile-en.png" alt="Six donut charts showing the profile of online survey participants" width="100%">
 </p>
 
 <p align="center"><em>Figure 19: Profile of the online survey participants. The charts use percentages so that age, gender, education, linguistic region, canton, and frequency of AI use can be compared at a glance. Linguistic region has n = 102; all other panels have n = 103.</em></p>
@@ -75,26 +75,44 @@ Reading the free-text accounts gave these categories a much more recognisable sh
 
 Even frequent users drew a clear boundary around authority. Of 102 respondents, 78% trusted universities or researchers for guidance about AI, while 14% selected technology companies. When asked about public services, 54% of 92 respondents chose an arrangement in which AI could assist and a person retained the final decision. The free-text answers had the same practical, experienced tone: people welcomed faster research, clearer explanations and better workflows, then asked who could check the result, who benefited and who would remain responsible.
 
-The examples below bring that reasoning into the participants' own language. They illustrate the main perspectives rather than measuring their frequency; where a workshop proposition was voted on, the source column gives the result.
+The examples below bring that reasoning into the participants' own language. They illustrate the main perspectives rather than measuring their frequency; where a workshop proposition was voted on, the result appears in brackets.
 
 **Illustrative examples of citizens’ language**
 
-| Perspective | Example statement | Source and context |
-| --- | --- | --- |
-| Opportunity in education | “AI should lead students to think. Harder tasks can then use it to raise the level of the exercise.” | Post-it, Zurich workshop, English |
-| Opportunity in education | “AI should help you find the answer by giving progressive cues, without giving the answer directly.” | Post-it, Lausanne workshop, English |
-| Condition in education | “Checking sources, questioning results, and asking what we ultimately want to produce help us distinguish the opportunities from the risks of using AI.” | Online module, translated from French |
-| Condition in education | “Learn to distinguish facts from opinions and check sources.” | Proposition, Zurich workshop, German; supported by 25 of 25 voters |
-| Red line in education | “We lose the opportunity to learn by doing things ourselves. We have not yet found a solution for continuing to educate young people.” | Online module, translated from German |
-| Red line in education | “Basic skills should first be learned by hand, as mental arithmetic comes before the calculator.” | Proposition, Zurich workshop, German; supported by 24 of 26 voters |
-| Opportunity at work | “My software-engineering team became about four times more productive. The workflow also became more focused on outcomes and testing.” | Online module, English |
-| Opportunity at work | “AI should augment human skills rather than replace them.” | Proposition, Zurich workshop, English; supported by 28 of 32 voters |
-| Condition at work | “The wider workforce should also have a say, because they will be affected by the consequences.” | Online module, English |
-| Condition at work | “Workers should not be subjected to tracking by their employers.” | Proposition, Lausanne workshop, English; supported by 7 of 7 voters |
-| Red line at work | “Automated decisions, such as dismissal, are not ethical.” | Post-it, Zurich workshop, German; translated |
-| Red line at work | “People should retain decision-making authority in sensitive cases.” | Proposition, Zurich workshop, English; supported by 27 of 30 voters |
-| Condition for democratic control | “Citizens should be able to express their concerns about AI so that its limits and implications can be agreed collectively.” | Proposition, Lausanne workshop, English; supported by 7 of 7 voters |
-| Condition for democratic control | “Legislation should address fraudulent uses of AI, such as deepfakes.” | Proposition, Lausanne workshop, English; supported by 7 of 7 voters |
+**Opportunity in education**
+
+> “AI should lead students to think. Harder tasks can then use it to raise the level of the exercise.” *(Post-it, Zurich workshop, English)*  
+> “AI should help you find the answer by giving progressive cues, without giving the answer directly.” *(Post-it, Lausanne workshop, English)*
+
+**Conditions in education**
+
+> “Checking sources, questioning results, and asking what we ultimately want to produce help us distinguish the opportunities from the risks of using AI.” *(Online module, translated from French)*  
+> “Learn to distinguish facts from opinions and check sources.” *(Proposition, Zurich workshop, German; supported by 25 of 25 voters)*
+
+**Red lines in education**
+
+> “We lose the opportunity to learn by doing things ourselves. We have not yet found a solution for continuing to educate young people.” *(Online module, translated from German)*  
+> “Basic skills should first be learned by hand, as mental arithmetic comes before the calculator.” *(Proposition, Zurich workshop, German; supported by 24 of 26 voters)*
+
+**Opportunity at work**
+
+> “My software-engineering team became about four times more productive. The workflow also became more focused on outcomes and testing.” *(Online module, English)*  
+> “AI should augment human skills rather than replace them.” *(Proposition, Zurich workshop, English; supported by 28 of 32 voters)*
+
+**Conditions at work**
+
+> “The wider workforce should also have a say, because they will be affected by the consequences.” *(Online module, English)*  
+> “Workers should not be subjected to tracking by their employers.” *(Proposition, Lausanne workshop, English; supported by 7 of 7 voters)*
+
+**Red lines at work**
+
+> “Automated decisions, such as dismissal, are not ethical.” *(Post-it, Zurich workshop, German; translated)*  
+> “People should retain decision-making authority in sensitive cases.” *(Proposition, Zurich workshop, English; supported by 27 of 30 voters)*
+
+**Conditions for democratic control**
+
+> “Citizens should be able to express their concerns about AI so that its limits and implications can be agreed collectively.” *(Proposition, Lausanne workshop, English; supported by 7 of 7 voters)*  
+> “Legislation should address fraudulent uses of AI, such as deepfakes.” *(Proposition, Lausanne workshop, English; supported by 7 of 7 voters)*
 
 Online quotations and Post-its were lightly edited for length and grammar. Translations preserve the meaning of the source text. Workshop propositions are facilitator-reviewed group summaries rather than verbatim quotations from one speaker.
 
@@ -103,20 +121,20 @@ Online quotations and Post-its were lightly edited for length and grammar. Trans
 When the conversation turned to education, the clearest common ground formed around critical evaluation. In the online module, 95% supported teaching students to identify errors and bias and 3% opposed it (n = 77), while teacher preparation, clear school rules and protection of student data each received about 88% to 90% support.
 
 <p align="center">
-  <img src="figures/figure-20-education-with-guardrails-en.png" alt="Stacked bars showing attitudes toward AI in education" width="92%">
+  <img src="figures/figure-20-education-with-guardrails-en.png" alt="Stacked bars showing attitudes toward AI in education" width="100%">
 </p>
 
-<p align="center"><em>Figure 20: Education with guardrails. The upper panel shows selected items from the online export of 11 August 2026 on a seven-point scale grouped into five categories. The lower panel shows propositions from the German-speaking Zurich workshop on their original five-point scale. Support, opposition, and the relevant denominator appear on the right.</em></p>
+<p align="center"><em>Figure 20: Education with guardrails. The left panel shows selected items from the online export of 11 August 2026 on a seven-point scale grouped into five categories. The right panel shows propositions from the German-speaking Zurich workshop on their original five-point scale. Support, opposition, and the relevant denominator appear beside each bar.</em></p>
 
 Once the discussion moved from principles to classroom practice, views became more varied. Seventy per cent supported using AI across several school subjects, 62% wanted limits that protect independent learning, and 72% supported redesigning examinations and assignments even though almost one quarter opposed that change. Again and again, participants returned to two practical questions: when direct use should begin and how a school can still see what a student understands independently.
 
 We had also put a related question to a separate group of 23 people in a live vote on 29 May, asking how much AI-supported graded work they would allow at each educational stage. The small, separately recruited group offers an additional indication that should be read separately from the August survey.
 
 <p align="center">
-  <img src="figures/figure-21-graded-assignments-en.png" alt="Stacked bars showing the allowed share of AI-supported graded assignments by education level" width="90%">
+  <img src="figures/figure-21-graded-assignments-en.png" alt="Stacked bars showing the allowed share of AI-supported graded assignments by education level" width="100%">
 </p>
 
-<p align="center"><em>Figure 21: Allowed share of graded assignments using AI. Colours show the selected shares; the numbers in the bars are votes. This separate live vote took place on 29 May 2026 with n = 23 at each educational stage.</em></p>
+<p align="center"><em>Figure 21: Allowed share of graded assignments using AI. Colours show the selected shares, the numbers in the bars are votes, and the mean allowed share is highlighted on the right. This separate live vote took place on 29 May 2026 with n = 23 at each educational stage.</em></p>
 
 Answers shifted steadily with the educational stage: in primary school, 17 of 23 people would allow AI in no more than 10% of graded work, while in higher education, 11 of 23 would allow it in at least half. The mean permitted share rose from 13.5% in primary school to 39.3% in higher education.
 
@@ -129,10 +147,10 @@ As the moderators listened to these exchanges, the conversation kept returning t
 Work brought a different centre of gravity to the discussion, with the strongest support gathering around fairness and human responsibility. Ninety per cent wanted workers to share in productivity gains, 84% favoured restrictions on fully automated hiring, dismissal and performance decisions, 83% supported monitoring for discrimination, and 82% supported training for workers' current jobs (n = 77 for each item).
 
 <p align="center">
-  <img src="figures/figure-22-work-adaptation-fairness-en.png" alt="Stacked bars showing attitudes toward AI and work" width="92%">
+  <img src="figures/figure-22-work-adaptation-fairness-en.png" alt="Stacked bars showing attitudes toward AI and work" width="100%">
 </p>
 
-<p align="center"><em>Figure 22: Work, adaptation, and fairness. The upper panel shows preferences from the online export of 11 August 2026. The lower panel shows selected propositions from the English-speaking Zurich workshop. Both sources use the same five colours; their scales and denominators remain separately labelled.</em></p>
+<p align="center"><em>Figure 22: Work, adaptation, and fairness. The left panel shows preferences from the online export of 11 August 2026. The right panel shows selected propositions from the English-speaking Zurich workshop. Both sources use the same five colours; their scales and denominators remain separately labelled.</em></p>
 
 Agreement weakened when people considered the instruments: worker participation before workplace deployment received 61% support and 34% opposition, while a tax on AI or automation to support affected workers received 53% support and 38% opposition. Only 27% wanted to leave the labour market largely to adjust on its own, an approach rejected by 66%.
 
