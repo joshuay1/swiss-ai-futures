@@ -79,40 +79,26 @@ The examples below bring that reasoning into the participants' own language. The
 
 **Illustrative examples of citizens’ language**
 
-**Opportunity in education**
+**Opportunity in education.** “AI should lead students to think. Harder tasks can then use it to raise the level of the exercise.” *(Post-it, Zurich workshop, English)*  
+“AI should help you find the answer by giving progressive cues, without giving the answer directly.” *(Post-it, Lausanne workshop, English)*
 
-> “AI should lead students to think. Harder tasks can then use it to raise the level of the exercise.” *(Post-it, Zurich workshop, English)*  
-> “AI should help you find the answer by giving progressive cues, without giving the answer directly.” *(Post-it, Lausanne workshop, English)*
+**Conditions in education.** “Checking sources, questioning results, and asking what we ultimately want to produce help us distinguish the opportunities from the risks of using AI.” *(Online module, translated from French)*  
+“Learn to distinguish facts from opinions and check sources.” *(Proposition, Zurich workshop, German; supported by 25 of 25 voters)*
 
-**Conditions in education**
+**Red lines in education.** “We lose the opportunity to learn by doing things ourselves. We have not yet found a solution for continuing to educate young people.” *(Online module, translated from German)*  
+“Basic skills should first be learned by hand, as mental arithmetic comes before the calculator.” *(Proposition, Zurich workshop, German; supported by 24 of 26 voters)*
 
-> “Checking sources, questioning results, and asking what we ultimately want to produce help us distinguish the opportunities from the risks of using AI.” *(Online module, translated from French)*  
-> “Learn to distinguish facts from opinions and check sources.” *(Proposition, Zurich workshop, German; supported by 25 of 25 voters)*
+**Opportunity at work.** “My software-engineering team became about four times more productive. The workflow also became more focused on outcomes and testing.” *(Online module, English)*  
+“AI should augment human skills rather than replace them.” *(Proposition, Zurich workshop, English; supported by 28 of 32 voters)*
 
-**Red lines in education**
+**Conditions at work.** “The wider workforce should also have a say, because they will be affected by the consequences.” *(Online module, English)*  
+“Workers should not be subjected to tracking by their employers.” *(Proposition, Lausanne workshop, English; supported by 7 of 7 voters)*
 
-> “We lose the opportunity to learn by doing things ourselves. We have not yet found a solution for continuing to educate young people.” *(Online module, translated from German)*  
-> “Basic skills should first be learned by hand, as mental arithmetic comes before the calculator.” *(Proposition, Zurich workshop, German; supported by 24 of 26 voters)*
+**Red lines at work.** “Automated decisions, such as dismissal, are not ethical.” *(Post-it, Zurich workshop, German; translated)*  
+“People should retain decision-making authority in sensitive cases.” *(Proposition, Zurich workshop, English; supported by 27 of 30 voters)*
 
-**Opportunity at work**
-
-> “My software-engineering team became about four times more productive. The workflow also became more focused on outcomes and testing.” *(Online module, English)*  
-> “AI should augment human skills rather than replace them.” *(Proposition, Zurich workshop, English; supported by 28 of 32 voters)*
-
-**Conditions at work**
-
-> “The wider workforce should also have a say, because they will be affected by the consequences.” *(Online module, English)*  
-> “Workers should not be subjected to tracking by their employers.” *(Proposition, Lausanne workshop, English; supported by 7 of 7 voters)*
-
-**Red lines at work**
-
-> “Automated decisions, such as dismissal, are not ethical.” *(Post-it, Zurich workshop, German; translated)*  
-> “People should retain decision-making authority in sensitive cases.” *(Proposition, Zurich workshop, English; supported by 27 of 30 voters)*
-
-**Conditions for democratic control**
-
-> “Citizens should be able to express their concerns about AI so that its limits and implications can be agreed collectively.” *(Proposition, Lausanne workshop, English; supported by 7 of 7 voters)*  
-> “Legislation should address fraudulent uses of AI, such as deepfakes.” *(Proposition, Lausanne workshop, English; supported by 7 of 7 voters)*
+**Conditions for democratic control.** “Citizens should be able to express their concerns about AI so that its limits and implications can be agreed collectively.” *(Proposition, Lausanne workshop, English; supported by 7 of 7 voters)*  
+“Legislation should address fraudulent uses of AI, such as deepfakes.” *(Proposition, Lausanne workshop, English; supported by 7 of 7 voters)*
 
 Online quotations and Post-its were lightly edited for length and grammar. Translations preserve the meaning of the source text. Workshop propositions are facilitator-reviewed group summaries rather than verbatim quotations from one speaker.
 

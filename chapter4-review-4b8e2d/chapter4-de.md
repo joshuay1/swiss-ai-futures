@@ -79,40 +79,26 @@ Die folgenden Beispiele bringen diese Überlegungen in der Sprache der Teilnehme
 
 **Beispiele aus den Beiträgen der Bürgerinnen und Bürger**
 
-**Chance in der Bildung**
+**Chance in der Bildung.** «KI soll Lernende zum Denken anregen. Bei schwierigeren Aufgaben kann sie dann das Niveau der Übung erhöhen.» *(Post-it, Workshop Zürich, Englisch; übersetzt)*  
+«KI soll beim Finden einer Antwort mit schrittweisen Hinweisen helfen, ohne die Antwort direkt zu geben.» *(Post-it, Workshop Lausanne, Englisch; übersetzt)*
 
-> «KI soll Lernende zum Denken anregen. Bei schwierigeren Aufgaben kann sie dann das Niveau der Übung erhöhen.» *(Post-it, Workshop Zürich, Englisch; übersetzt)*  
-> «KI soll beim Finden einer Antwort mit schrittweisen Hinweisen helfen, ohne die Antwort direkt zu geben.» *(Post-it, Workshop Lausanne, Englisch; übersetzt)*
+**Bedingungen in der Bildung.** «Quellen prüfen, Ergebnisse hinterfragen und klären, was wir am Ende erreichen wollen: So lassen sich Chancen und Risiken der KI-Nutzung unterscheiden.» *(Online-Modul, aus dem Französischen übersetzt)*  
+«Fakten von Meinungen unterscheiden und Quellen prüfen lernen.» *(Proposition, Workshop Zürich, Deutsch; von 25 von 25 Abstimmenden unterstützt)*
 
-**Bedingungen in der Bildung**
+**Rote Linien in der Bildung.** «Wir verlieren die Möglichkeit, durch eigenes Tun zu lernen. Wir haben noch keine Lösung dafür gefunden, wie wir junge Menschen weiterbilden können.» *(Online-Modul, Deutsch)*  
+«Grundlagen sollen zuerst weiterhin von Hand gelernt werden, so wie Kopfrechnen vor dem Taschenrechner.» *(Proposition, Workshop Zürich, Deutsch; von 24 von 26 Abstimmenden unterstützt)*
 
-> «Quellen prüfen, Ergebnisse hinterfragen und klären, was wir am Ende erreichen wollen: So lassen sich Chancen und Risiken der KI-Nutzung unterscheiden.» *(Online-Modul, aus dem Französischen übersetzt)*  
-> «Fakten von Meinungen unterscheiden und Quellen prüfen lernen.» *(Proposition, Workshop Zürich, Deutsch; von 25 von 25 Abstimmenden unterstützt)*
+**Chance bei der Arbeit.** «Mein Softwareentwicklungsteam wurde ungefähr viermal produktiver. Der Arbeitsablauf konzentriert sich nun stärker auf Ergebnisse und Tests.» *(Online-Modul, Englisch; übersetzt)*  
+«KI soll menschliche Fähigkeiten ergänzen und nicht ersetzen.» *(Proposition, Workshop Zürich, Englisch; von 28 von 32 Abstimmenden unterstützt)*
 
-**Rote Linien in der Bildung**
+**Bedingungen bei der Arbeit.** «Auch die breitere Belegschaft sollte mitreden können, denn sie wird von den Folgen betroffen sein.» *(Online-Modul, Englisch; übersetzt)*  
+«Beschäftigte sollen nicht von ihren Arbeitgebern überwacht werden.» *(Proposition, Workshop Lausanne, Englisch; von 7 von 7 Abstimmenden unterstützt)*
 
-> «Wir verlieren die Möglichkeit, durch eigenes Tun zu lernen. Wir haben noch keine Lösung dafür gefunden, wie wir junge Menschen weiterbilden können.» *(Online-Modul, Deutsch)*  
-> «Grundlagen sollen zuerst weiterhin von Hand gelernt werden, so wie Kopfrechnen vor dem Taschenrechner.» *(Proposition, Workshop Zürich, Deutsch; von 24 von 26 Abstimmenden unterstützt)*
+**Rote Linien bei der Arbeit.** «Automatisierte Entscheidungen, etwa eine Kündigung, sind nicht ethisch.» *(Post-it, Workshop Zürich, Deutsch)*  
+«Bei sensiblen Fällen sollen Menschen die Entscheidungsgewalt behalten.» *(Proposition, Workshop Zürich, Englisch; von 27 von 30 Abstimmenden unterstützt)*
 
-**Chance bei der Arbeit**
-
-> «Mein Softwareentwicklungsteam wurde ungefähr viermal produktiver. Der Arbeitsablauf konzentriert sich nun stärker auf Ergebnisse und Tests.» *(Online-Modul, Englisch; übersetzt)*  
-> «KI soll menschliche Fähigkeiten ergänzen und nicht ersetzen.» *(Proposition, Workshop Zürich, Englisch; von 28 von 32 Abstimmenden unterstützt)*
-
-**Bedingungen bei der Arbeit**
-
-> «Auch die breitere Belegschaft sollte mitreden können, denn sie wird von den Folgen betroffen sein.» *(Online-Modul, Englisch; übersetzt)*  
-> «Beschäftigte sollen nicht von ihren Arbeitgebern überwacht werden.» *(Proposition, Workshop Lausanne, Englisch; von 7 von 7 Abstimmenden unterstützt)*
-
-**Rote Linien bei der Arbeit**
-
-> «Automatisierte Entscheidungen, etwa eine Kündigung, sind nicht ethisch.» *(Post-it, Workshop Zürich, Deutsch)*  
-> «Bei sensiblen Fällen sollen Menschen die Entscheidungsgewalt behalten.» *(Proposition, Workshop Zürich, Englisch; von 27 von 30 Abstimmenden unterstützt)*
-
-**Bedingungen für demokratische Kontrolle**
-
-> «Bürgerinnen und Bürger sollen ihre Sorgen über KI äussern können, damit Grenzen und Folgen gemeinsam vereinbart werden.» *(Proposition, Workshop Lausanne, Englisch; von 7 von 7 Abstimmenden unterstützt)*  
-> «Gesetze sollen betrügerische Anwendungen von KI wie Deepfakes erfassen.» *(Proposition, Workshop Lausanne, Englisch; von 7 von 7 Abstimmenden unterstützt)*
+**Bedingungen für demokratische Kontrolle.** «Bürgerinnen und Bürger sollen ihre Sorgen über KI äussern können, damit Grenzen und Folgen gemeinsam vereinbart werden.» *(Proposition, Workshop Lausanne, Englisch; von 7 von 7 Abstimmenden unterstützt)*  
+«Gesetze sollen betrügerische Anwendungen von KI wie Deepfakes erfassen.» *(Proposition, Workshop Lausanne, Englisch; von 7 von 7 Abstimmenden unterstützt)*
 
 Online-Zitate und Post-its wurden für Länge und Grammatik leicht bearbeitet. Übersetzungen bewahren den Sinn des Ausgangstextes. Workshoppropositionen sind von der Moderation geprüfte Gruppenzusammenfassungen und keine wörtlichen Zitate einer einzelnen Person.
 
