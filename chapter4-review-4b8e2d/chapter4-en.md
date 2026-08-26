@@ -149,10 +149,10 @@ People had little difficulty imagining faster work; the harder part was deciding
 Questions about democracy and trust brought out a more cautious side of the same participants. In the online module, 94% agreed that AI can manipulate opinions and behaviour, 92% saw a risk that it reproduces bias, and 91% associated it with both increased polarisation and greater difficulty identifying what is true. The threat to digital privacy received 87% agreement.
 
 <p align="center">
-  <img src="figures/figure-23-democracy-trust-en.png" alt="Stacked bars showing democracy, trust, and selected AI risks" width="92%">
+  <img src="figures/figure-23-democracy-trust-en.png" alt="Two-column stacked bars showing AI risks and possibilities for democracy and trust" width="100%">
 </p>
 
-<p align="center"><em>Figure 23: Democracy and trust. The figure shows the full distribution on the seven-point scale grouped into five categories. Agreement, disagreement, and the relevant denominator appear on the right.</em></p>
+<p align="center"><em>Figure 23: Democracy and trust. Eight online-survey items are arranged in two thematic columns. Each bar shows the full distribution on the seven-point scale grouped into five categories; agreement, disagreement, and the relevant denominator appear beside it.</em></p>
 
 That concern also appeared in the broader judgement of democratic effects: 80% agreed at least somewhat that AI poses a risk to democracy. Possible benefits drew less support, with 48% saying AI could improve participation and 51% disagreeing; 41% considered AI tools helpful for understanding public issues, while 58% disagreed. At the same time, 78% of 93 respondents supported public votes or citizen consultations on AI regulation.
 

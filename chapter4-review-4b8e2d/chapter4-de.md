@@ -149,10 +149,10 @@ Dass KI Arbeit beschleunigen kann, konnten sich die Teilnehmenden leicht vorstel
 Bei Demokratie und Vertrauen zeigte sich eine vorsichtigere Seite derselben Teilnehmenden. Im Online-Modul stimmten 94 Prozent zu, dass KI Meinungen und Verhalten manipulieren kann, 92 Prozent sahen das Risiko reproduzierter Verzerrungen, und jeweils 91 Prozent verbanden KI mit stärkerer Polarisierung und grösseren Schwierigkeiten beim Erkennen der Wahrheit. Die Bedrohung der digitalen Privatsphäre erhielt 87 Prozent Zustimmung.
 
 <p align="center">
-  <img src="figures/figure-23-democracy-trust-de.png" alt="Gestapelte Balken zu Demokratie, Vertrauen und zentralen KI-Risiken" width="92%">
+  <img src="figures/figure-23-democracy-trust-de.png" alt="Zweispaltige gestapelte Balken zu Risiken und Möglichkeiten von KI für Demokratie und Vertrauen" width="100%">
 </p>
 
-<p align="center"><em>Abb. 23: Demokratie und Vertrauen. Die Abbildung zeigt die vollständige Verteilung auf der in fünf Kategorien gruppierten Sieben-Punkte-Skala. Rechts stehen Zustimmung, Ablehnung und der jeweilige Nenner.</em></p>
+<p align="center"><em>Abb. 23: Demokratie und Vertrauen. Acht Fragen aus der Online-Befragung sind in zwei thematischen Spalten angeordnet. Jeder Balken zeigt die vollständige Verteilung auf der in fünf Kategorien gruppierten Sieben-Punkte-Skala; daneben stehen Zustimmung, Ablehnung und der jeweilige Nenner.</em></p>
 
 Diese Sorge prägte auch das breitere Urteil über demokratische Folgen: 80 Prozent stimmten mindestens eher zu, dass KI ein Risiko für die Demokratie darstellt. Mögliche Vorteile erhielten weniger Unterstützung. 48 Prozent glaubten, dass KI die Beteiligung verbessern könnte, während 51 Prozent widersprachen; 41 Prozent betrachteten KI-Werkzeuge als Hilfe beim Verständnis öffentlicher Fragen, 58 Prozent waren anderer Meinung. Gleichzeitig unterstützten 78 Prozent der 93 Antwortenden öffentliche Abstimmungen oder Bürgerkonsultationen zur KI-Regulierung.
 
